@@ -1,0 +1,1628 @@
+{
+  "Norway": {
+    "Agder": [
+      16000,
+      17000
+    ],
+    "Akershus": [
+      5800,
+      5900
+    ],
+    "Buskerud": [
+      15000,
+      16000
+    ],
+    "Finnmark": [
+      74000,
+      75000
+    ],
+    "Innlandet": [
+      52000,
+      53000
+    ],
+    "Jan Mayen": [
+      370,
+      380
+    ],
+    "Møre og Romsdal": [
+      14000,
+      15000
+    ],
+    "Nordland": [
+      38000,
+      39000
+    ],
+    "Rogaland": [
+      9300,
+      9400
+    ],
+    "Svalbard": [
+      61000,
+      62000
+    ],
+    "Telemark": [
+      16000,
+      17000
+    ],
+    "Troms": [
+      41000,
+      42000
+    ],
+    "Trøndelag": [
+      42000,
+      43000
+    ],
+    "Vestfold": [
+      4100,
+      4200
+    ],
+    "Vestland": [
+      33000,
+      34000
+    ],
+    "Østfold": [
+      5000,
+      5100
+    ]
+  },
+  "Greece": {
+    "Attica Region": [
+      3800,
+      3900
+    ],
+    "Central Greece Region": [
+      15000,
+      16000
+    ],
+    "Central Macedonia Region": [
+      18000,
+      19000
+    ],
+    "Crete Region": [
+      8300,
+      8400
+    ],
+    "Eastern Macedonia and Thrace Region": [
+      14000,
+      15000
+    ],
+    "Epirus Region": [
+      9200,
+      9300
+    ],
+    "Ionian Islands Region": [
+      2300,
+      2400
+    ],
+    "North Aegean Region": [
+      3800,
+      3900
+    ],
+    "Peloponnese Region": [
+      15000,
+      16000
+    ],
+    "South Aegean Region": [
+      5200,
+      5300
+    ],
+    "Thessaly Region": [
+      14000,
+      15000
+    ],
+    "West Greece Region": [
+      11000,
+      12000
+    ],
+    "Western Macedonia Region": [
+      9400,
+      9500
+    ]
+  },
+  "Belgium": {
+    "Brussels-Capital Region": [
+      160,
+      170
+    ],
+    "Flemish Community of Belgium": [
+      13000,
+      14000
+    ],
+    "Flemish Region": [
+      13000,
+      14000
+    ],
+    "French Community of Belgium": [
+      16000,
+      17000
+    ],
+    "German-speaking Community of Belgium": [
+      850,
+      860
+    ],
+    "Wallonia": [
+      16000,
+      17000
+    ]
+  },
+  "Denmark": {
+    "Capital Region of Denmark": [
+      2500,
+      2600
+    ],
+    "Central Denmark": [
+      13000,
+      14000
+    ],
+    "North Jutland Region": [
+      7800,
+      7900
+    ],
+    "Region Zealand": [
+      7200,
+      7300
+    ],
+    "Southern Denmark": [
+      12000,
+      13000
+    ]
+  },
+  "Poland": {
+    "Greater Poland Voivodeship": [
+      29000,
+      30000
+    ],
+    "Kuyavian-Pomeranian Voivodeship": [
+      17000,
+      18000
+    ],
+    "Lesser Poland Voivodeship": [
+      15000,
+      16000
+    ],
+    "Lower Silesian Voivodeship": [
+      19000,
+      20000
+    ],
+    "Lublin Voivodeship": [
+      25000,
+      26000
+    ],
+    "Lubusz Voivodeship": [
+      13000,
+      14000
+    ],
+    "Masovian Voivodeship": [
+      35000,
+      36000
+    ],
+    "Opole Voivodeship": [
+      9400,
+      9500
+    ],
+    "Podkarpackie Voivodeship": [
+      17000,
+      18000
+    ],
+    "Podlaskie Voivodeship": [
+      20000,
+      21000
+    ],
+    "Pomeranian Voivodeship": [
+      18000,
+      19000
+    ],
+    "Silesian Voivodeship": [
+      12000,
+      13000
+    ],
+    "Warmian-Masurian Voivodeship": [
+      24000,
+      25000
+    ],
+    "West Pomeranian Voivodeship": [
+      22000,
+      23000
+    ],
+    "Łódź Voivodeship": [
+      18000,
+      19000
+    ],
+    "Świętokrzyskie Voivodeship": [
+      11000,
+      12000
+    ]
+  },
+  "Finland": {
+    "Central Finland": [
+      19000,
+      20000
+    ],
+    "Central Ostrobothnia": [
+      5200,
+      5300
+    ],
+    "Kainuu": [
+      22000,
+      23000
+    ],
+    "Kanta-Häme": [
+      5700,
+      5800
+    ],
+    "Kymenlaakso": [
+      4900,
+      5000
+    ],
+    "Lapland": [
+      92000,
+      93000
+    ],
+    "North Karelia": [
+      22000,
+      23000
+    ],
+    "North Ostrobothnia": [
+      39000,
+      40000
+    ],
+    "North Savo": [
+      21000,
+      22000
+    ],
+    "Ostrobothnia": [
+      7900,
+      8000
+    ],
+    "Pirkanmaa": [
+      15000,
+      16000
+    ],
+    "Päijät-Häme": [
+      6900,
+      7000
+    ],
+    "Satakunta": [
+      8200,
+      8300
+    ],
+    "South Karelia": [
+      6800,
+      6900
+    ],
+    "South Ostrobothnia": [
+      13000,
+      14000
+    ],
+    "South Savo": [
+      17000,
+      18000
+    ],
+    "Southwest Finland": [
+      10000,
+      11000
+    ],
+    "Uusimaa": [
+      9500,
+      9600
+    ],
+    "Åland": [
+      1500,
+      1600
+    ]
+  },
+  "Canada": {
+    "Alberta": [
+      660000,
+      670000
+    ],
+    "British Columbia": [
+      940000,
+      950000
+    ],
+    "Manitoba": [
+      640000,
+      650000
+    ],
+    "New Brunswick": [
+      72000,
+      73000
+    ],
+    "Newfoundland and Labrador": [
+      400000,
+      410000
+    ],
+    "Northwest Territories": [
+      1300000,
+      1400000
+    ],
+    "Nova Scotia": [
+      55000,
+      56000
+    ],
+    "Nunavut": [
+      2000000,
+      2100000
+    ],
+    "Ontario": [
+      1000000,
+      1100000
+    ],
+    "Prince Edward Island": [
+      5600,
+      5700
+    ],
+    "Quebec": [
+      1500000,
+      1600000
+    ],
+    "Saskatchewan": [
+      650000,
+      660000
+    ],
+    "Yukon": [
+      480000,
+      490000
+    ]
+  },
+  "Sweden": {
+    "Blekinge County": [
+      6900,
+      7000
+    ],
+    "Dalarna County": [
+      28000,
+      29000
+    ],
+    "Gotland County": [
+      15000,
+      16000
+    ],
+    "Gävleborg County": [
+      25000,
+      26000
+    ],
+    "Halland County": [
+      8700,
+      8800
+    ],
+    "Jämtland County": [
+      53000,
+      54000
+    ],
+    "Jönköping County": [
+      11000,
+      12000
+    ],
+    "Kalmar County": [
+      20000,
+      21000
+    ],
+    "Kronoberg County": [
+      9300,
+      9400
+    ],
+    "Norrbotten County": [
+      110000,
+      120000
+    ],
+    "Skåne County": [
+      17000,
+      18000
+    ],
+    "Stockholm County": [
+      16000,
+      17000
+    ],
+    "Södermanland County": [
+      8600,
+      8700
+    ],
+    "Uppsala County": [
+      11000,
+      12000
+    ],
+    "Värmland County": [
+      21000,
+      22000
+    ],
+    "Västerbotten County": [
+      66000,
+      67000
+    ],
+    "Västernorrland County": [
+      27000,
+      28000
+    ],
+    "Västmanland County": [
+      5600,
+      5700
+    ],
+    "Västra Götaland County": [
+      34000,
+      35000
+    ],
+    "Örebro County": [
+      9600,
+      9700
+    ],
+    "Östergötland County": [
+      14000,
+      15000
+    ]
+  },
+  "Hungary": {
+    "Baranya County": [
+      4400,
+      4500
+    ],
+    "Borsod-Abaúj-Zemplén County": [
+      7200,
+      7300
+    ],
+    "Bács-Kiskun County": [
+      8400,
+      8500
+    ],
+    "Békés County": [
+      5600,
+      5700
+    ],
+    "Csongrád-Csanád County": [
+      420000,
+      430000
+    ],
+    "Fejér County": [
+      4300,
+      4400
+    ],
+    "Győr-Moson-Sopron County": [
+      4200,
+      4300
+    ],
+    "Hajdú-Bihar County": [
+      6200,
+      6300
+    ],
+    "Heves County": [
+      3600,
+      3700
+    ],
+    "Jász-Nagykun-Szolnok County": [
+      5500,
+      5600
+    ],
+    "Komárom-Esztergom County": [
+      2200,
+      2300
+    ],
+    "Nógrád County": [
+      2500,
+      2600
+    ],
+    "Pest County": [
+      6300,
+      6400
+    ],
+    "Somogy County": [
+      6000,
+      6100
+    ],
+    "Szabolcs-Szatmár-Bereg County": [
+      5900,
+      6000
+    ],
+    "Tolna County": [
+      3700,
+      3800
+    ],
+    "Vas County": [
+      3300,
+      3400
+    ],
+    "Veszprém County": [
+      4400,
+      4500
+    ],
+    "Zala County": [
+      3700,
+      3800
+    ]
+  },
+  "Austria": {
+    "Burgenland": [
+      3900,
+      4000
+    ],
+    "Carinthia": [
+      9500,
+      9600
+    ],
+    "Lower Austria": [
+      19000,
+      20000
+    ],
+    "Salzburg": [
+      7100,
+      7200
+    ],
+    "Styria": [
+      16000,
+      17000
+    ],
+    "Tyrol": [
+      12000,
+      13000
+    ],
+    "Upper Austria": [
+      11000,
+      12000
+    ],
+    "Vienna": [
+      410,
+      420
+    ],
+    "Vorarlberg": [
+      2600,
+      2700
+    ]
+  },
+  "Switzerland": {
+    "Canton of Aargau": [
+      1400,
+      1500
+    ],
+    "Canton of Appenzell Ausserrhoden": [
+      240,
+      250
+    ],
+    "Canton of Appenzell Innerrhoden": [
+      170,
+      180
+    ],
+    "Canton of Basel-Landschaft": [
+      510,
+      520
+    ],
+    "Canton of Basel-Stadt": [
+      30,
+      40
+    ],
+    "Canton of Berne": [
+      5900,
+      6000
+    ],
+    "Canton of Fribourg": [
+      1600,
+      1700
+    ],
+    "Canton of Geneva": [
+      280,
+      290
+    ],
+    "Canton of Glarus": [
+      680,
+      690
+    ],
+    "Canton of Jura": [
+      830,
+      840
+    ],
+    "Canton of Lucerne": [
+      1400,
+      1500
+    ],
+    "Canton of Neuchâtel": [
+      800,
+      810
+    ],
+    "Canton of Nidwalden": [
+      270,
+      280
+    ],
+    "Canton of Obwalden": [
+      490,
+      500
+    ],
+    "Canton of Schaffhausen": [
+      290,
+      300
+    ],
+    "Canton of Schwyz": [
+      900,
+      910
+    ],
+    "Canton of Solothurn": [
+      790,
+      800
+    ],
+    "Canton of St. Gallen": [
+      2000,
+      2100
+    ],
+    "Canton of the Grisons": [
+      7100,
+      7200
+    ],
+    "Canton of Thurgau": [
+      990,
+      1000
+    ],
+    "Canton of Ticino": [
+      2800,
+      2900
+    ],
+    "Canton of Uri": [
+      1000,
+      1100
+    ],
+    "Canton of Valais": [
+      5200,
+      5300
+    ],
+    "Canton of Vaud": [
+      3200,
+      3300
+    ],
+    "Canton of Zug": [
+      230,
+      240
+    ],
+    "Canton of Zürich": [
+      1700,
+      1800
+    ]
+  },
+  "Luxembourg": {
+    "Canton of Capellen": [
+      190,
+      200
+    ],
+    "Canton of Clervaux": [
+      340,
+      350
+    ],
+    "Canton of Diekirch": [
+      200,
+      210
+    ],
+    "Canton of Echternach": [
+      180,
+      190
+    ],
+    "Canton of Esch-sur-Alzette": [
+      240,
+      250
+    ],
+    "Canton of Grevenmacher": [
+      210,
+      220
+    ],
+    "Canton of Luxembourg": [
+      230,
+      240
+    ],
+    "Canton of Mersch": [
+      220,
+      230
+    ],
+    "Canton of Redange": [
+      260,
+      270
+    ],
+    "Canton of Remich": [
+      120,
+      130
+    ],
+    "Canton of Vianden": [
+      70,
+      80
+    ],
+    "Canton of Wiltz": [
+      260,
+      270
+    ]
+  },
+  "Spain": {
+    "Andalusia": [
+      87000,
+      88000
+    ],
+    "Aragon": [
+      47000,
+      48000
+    ],
+    "Asturias": [
+      10000,
+      11000
+    ],
+    "Balearic Islands": [
+      4900,
+      5000
+    ],
+    "Basque Autonomous Community": [
+      7200,
+      7300
+    ],
+    "Canary Islands": [
+      7400,
+      7500
+    ],
+    "Cantabria": [
+      5300,
+      5400
+    ],
+    "Castile and León": [
+      94000,
+      95000
+    ],
+    "Castilla–La Mancha": [
+      79000,
+      80000
+    ],
+    "Catalonia": [
+      31000,
+      32000
+    ],
+    "Ceuta": [
+      10,
+      20
+    ],
+    "Community of Madrid": [
+      8000,
+      8100
+    ],
+    "Extremadura": [
+      41000,
+      42000
+    ],
+    "Galicia": [
+      29000,
+      30000
+    ],
+    "La Rioja": [
+      5000,
+      5100
+    ],
+    "Melilla": [
+      10,
+      20
+    ],
+    "Navarre": [
+      10000,
+      11000
+    ],
+    "Region of Murcia": [
+      11000,
+      12000
+    ],
+    "Valencian Community": [
+      23000,
+      24000
+    ]
+  },
+  "Turkey": {
+    "Adana Province": [
+      14000,
+      15000
+    ],
+    "Adıyaman Province": [
+      7600,
+      7700
+    ],
+    "Afyonkarahisar Province": [
+      14000,
+      15000
+    ],
+    "Aksaray Province": [
+      7600,
+      7700
+    ],
+    "Amasya Province": [
+      5600,
+      5700
+    ],
+    "Ankara Province": [
+      25000,
+      26000
+    ],
+    "Antalya Province": [
+      20000,
+      21000
+    ],
+    "Ardahan Province": [
+      5500,
+      5600
+    ],
+    "Artvin Province": [
+      7300,
+      7400
+    ],
+    "Aydın Province": [
+      8100,
+      8200
+    ],
+    "Ağrı Province": [
+      11000,
+      12000
+    ],
+    "Balıkesir Province": [
+      14000,
+      15000
+    ],
+    "Bartın Province": [
+      2300,
+      2400
+    ],
+    "Batman Province": [
+      4600,
+      4700
+    ],
+    "Bayburt Province": [
+      3700,
+      3800
+    ],
+    "Bilecik Province": [
+      4300,
+      4400
+    ],
+    "Bingöl Province": [
+      8200,
+      8300
+    ],
+    "Bitlis Province": [
+      10000,
+      11000
+    ],
+    "Bolu Province": [
+      8300,
+      8400
+    ],
+    "Burdur Province": [
+      7100,
+      7200
+    ],
+    "Bursa Province": [
+      11000,
+      12000
+    ],
+    "Denizli Province": [
+      12000,
+      13000
+    ],
+    "Diyarbakır Province": [
+      15000,
+      16000
+    ],
+    "Düzce Province": [
+      3600,
+      3700
+    ],
+    "Edirne Province": [
+      6200,
+      6300
+    ],
+    "Elazığ Province": [
+      9800,
+      9900
+    ],
+    "Erzincan Province": [
+      11000,
+      12000
+    ],
+    "Erzurum Province": [
+      25000,
+      26000
+    ],
+    "Eskişehir Province": [
+      13000,
+      14000
+    ],
+    "Gaziantep Province": [
+      6800,
+      6900
+    ],
+    "Giresun Province": [
+      6900,
+      7000
+    ],
+    "Gümüşhane Province": [
+      6600,
+      6700
+    ],
+    "Hakkâri Province": [
+      9500,
+      9600
+    ],
+    "Hatay Province": [
+      5500,
+      5600
+    ],
+    "Isparta Province": [
+      8900,
+      9000
+    ],
+    "Istanbul Province": [
+      5400,
+      5500
+    ],
+    "Iğdır Province": [
+      3600,
+      3700
+    ],
+    "İzmir Province": [
+      11000,
+      12000
+    ],
+    "Kahramanmaraş Province": [
+      14000,
+      15000
+    ],
+    "Karabük Province": [
+      4100,
+      4200
+    ],
+    "Karaman Province": [
+      9100,
+      9200
+    ],
+    "Kars Province": [
+      10000,
+      11000
+    ],
+    "Kastamonu Province": [
+      13000,
+      14000
+    ],
+    "Kayseri Province": [
+      16000,
+      17000
+    ],
+    "Kilis Province": [
+      1400,
+      1500
+    ],
+    "Kocaeli Province": [
+      3300,
+      3400
+    ],
+    "Konya Province": [
+      40000,
+      41000
+    ],
+    "Kütahya Province": [
+      11000,
+      12000
+    ],
+    "Kırklareli Province": [
+      6500,
+      6600
+    ],
+    "Kırıkkale Province": [
+      4700,
+      4800
+    ],
+    "Kırşehir Province": [
+      6500,
+      6600
+    ],
+    "Malatya Province": [
+      12000,
+      13000
+    ],
+    "Manisa Province": [
+      13000,
+      14000
+    ],
+    "Mardin Province": [
+      9000,
+      9100
+    ],
+    "Mersin Province": [
+      16000,
+      17000
+    ],
+    "Muğla Province": [
+      13000,
+      14000
+    ],
+    "Muş Province": [
+      8700,
+      8800
+    ],
+    "Nevşehir Province": [
+      5400,
+      5500
+    ],
+    "Niğde Province": [
+      7300,
+      7400
+    ],
+    "Ordu Province": [
+      5900,
+      6000
+    ],
+    "Osmaniye Province": [
+      3700,
+      3800
+    ],
+    "Rize Province": [
+      3900,
+      4000
+    ],
+    "Sakarya Province": [
+      4800,
+      4900
+    ],
+    "Samsun Province": [
+      9700,
+      9800
+    ],
+    "Siirt Province": [
+      6100,
+      6200
+    ],
+    "Sinop Province": [
+      5800,
+      5900
+    ],
+    "Sivas Province": [
+      28000,
+      29000
+    ],
+    "Tekirdağ Province": [
+      6100,
+      6200
+    ],
+    "Tokat Province": [
+      10000,
+      11000
+    ],
+    "Trabzon Province": [
+      4600,
+      4700
+    ],
+    "Tunceli Province": [
+      7700,
+      7800
+    ],
+    "Uşak Province": [
+      5500,
+      5600
+    ],
+    "Van Province": [
+      21000,
+      22000
+    ],
+    "Yalova Province": [
+      840,
+      850
+    ],
+    "Yozgat Province": [
+      14000,
+      15000
+    ],
+    "Zonguldak Province": [
+      3400,
+      3500
+    ],
+    "Çanakkale Province": [
+      9800,
+      9900
+    ],
+    "Çankırı Province": [
+      7500,
+      7600
+    ],
+    "Çorum Province": [
+      12000,
+      13000
+    ],
+    "Şanlıurfa Province": [
+      19000,
+      20000
+    ],
+    "Şırnak Province": [
+      7100,
+      7200
+    ]
+  },
+  "Japan": {
+    "Aichi Prefecture": [
+      5100,
+      5200
+    ],
+    "Akita Prefecture": [
+      11000,
+      12000
+    ],
+    "Aomori Prefecture": [
+      9600,
+      9700
+    ],
+    "Chiba Prefecture": [
+      5100,
+      5200
+    ],
+    "Ehime Prefecture": [
+      5600,
+      5700
+    ],
+    "Fukui Prefecture": [
+      4100,
+      4200
+    ],
+    "Fukuoka Prefecture": [
+      4900,
+      5000
+    ],
+    "Fukushima Prefecture": [
+      13000,
+      14000
+    ],
+    "Gifu Prefecture": [
+      10000,
+      11000
+    ],
+    "Gunma Prefecture": [
+      6300,
+      6400
+    ],
+    "Hiroshima Prefecture": [
+      8400,
+      8500
+    ],
+    "Hokkaido": [
+      83000,
+      84000
+    ],
+    "Hyōgo Prefecture": [
+      8400,
+      8500
+    ],
+    "Ibaraki Prefecture": [
+      6000,
+      6100
+    ],
+    "Ishikawa Prefecture": [
+      4100,
+      4200
+    ],
+    "Iwate Prefecture": [
+      15000,
+      16000
+    ],
+    "Kagawa Prefecture": [
+      1800,
+      1900
+    ],
+    "Kagoshima Prefecture": [
+      9100,
+      9200
+    ],
+    "Kanagawa Prefecture": [
+      2400,
+      2500
+    ],
+    "Kumamoto Prefecture": [
+      7400,
+      7500
+    ],
+    "Kyoto Prefecture": [
+      4600,
+      4700
+    ],
+    "Kōchi Prefecture": [
+      7100,
+      7200
+    ],
+    "Mie Prefecture": [
+      5700,
+      5800
+    ],
+    "Miyagi Prefecture": [
+      7200,
+      7300
+    ],
+    "Miyazaki Prefecture": [
+      7700,
+      7800
+    ],
+    "Nagano Prefecture": [
+      13000,
+      14000
+    ],
+    "Nagasaki Prefecture": [
+      4100,
+      4200
+    ],
+    "Nara Prefecture": [
+      3600,
+      3700
+    ],
+    "Niigata Prefecture": [
+      12000,
+      13000
+    ],
+    "Oita Prefecture": [
+      6300,
+      6400
+    ],
+    "Okayama Prefecture": [
+      7100,
+      7200
+    ],
+    "Okinawa Prefecture": [
+      2200,
+      2300
+    ],
+    "Osaka Prefecture": [
+      1900,
+      2000
+    ],
+    "Saga Prefecture": [
+      2400,
+      2500
+    ],
+    "Saitama Prefecture": [
+      3700,
+      3800
+    ],
+    "Shiga Prefecture": [
+      4000,
+      4100
+    ],
+    "Shimane Prefecture": [
+      6700,
+      6800
+    ],
+    "Shizuoka Prefecture": [
+      7700,
+      7800
+    ],
+    "Tochigi Prefecture": [
+      6400,
+      6500
+    ],
+    "Tokushima Prefecture": [
+      4100,
+      4200
+    ],
+    "Tokyo": [
+      2100,
+      2200
+    ],
+    "Tottori Prefecture": [
+      3500,
+      3600
+    ],
+    "Toyama Prefecture": [
+      4200,
+      4300
+    ],
+    "Wakayama Prefecture": [
+      4700,
+      4800
+    ],
+    "Yamagata Prefecture": [
+      9300,
+      9400
+    ],
+    "Yamaguchi Prefecture": [
+      6100,
+      6200
+    ],
+    "Yamanashi Prefecture": [
+      4400,
+      4500
+    ]
+  },
+  "Italy": {
+    "Abruzzo": [
+      10000,
+      11000
+    ],
+    "Aosta Valley": [
+      3200,
+      3300
+    ],
+    "Apulia": [
+      19000,
+      20000
+    ],
+    "Basilicata": [
+      9900,
+      10000
+    ],
+    "Calabria": [
+      15000,
+      16000
+    ],
+    "Campania": [
+      13000,
+      14000
+    ],
+    "Emilia-Romagna": [
+      22000,
+      23000
+    ],
+    "Friuli Venezia Giulia": [
+      7800,
+      7900
+    ],
+    "Lazio": [
+      17000,
+      18000
+    ],
+    "Liguria": [
+      5400,
+      5500
+    ],
+    "Lombardy": [
+      23000,
+      24000
+    ],
+    "Marche": [
+      9600,
+      9700
+    ],
+    "Molise": [
+      4400,
+      4500
+    ],
+    "Piedmont": [
+      25000,
+      26000
+    ],
+    "Sardinia": [
+      23000,
+      24000
+    ],
+    "Sicily": [
+      25000,
+      26000
+    ],
+    "Trentino-South Tyrol": [
+      13000,
+      14000
+    ],
+    "Tuscany": [
+      22000,
+      23000
+    ],
+    "Umbria": [
+      8400,
+      8500
+    ],
+    "Veneto": [
+      18000,
+      19000
+    ]
+  },
+  "United States": {
+    "Alabama": [
+      130000,
+      140000
+    ],
+    "Alaska": [
+      1700000,
+      1800000
+    ],
+    "American Samoa": [
+      190,
+      200
+    ],
+    "Arizona": [
+      290000,
+      300000
+    ],
+    "Arkansas": [
+      130000,
+      140000
+    ],
+    "California": [
+      420000,
+      430000
+    ],
+    "Colorado": [
+      260000,
+      270000
+    ],
+    "Connecticut": [
+      14000,
+      15000
+    ],
+    "Delaware": [
+      6400,
+      6500
+    ],
+    "District of Columbia": [
+      170,
+      180
+    ],
+    "Florida": [
+      170000,
+      180000
+    ],
+    "Georgia": [
+      150000,
+      160000
+    ],
+    "Guam": [
+      540,
+      550
+    ],
+    "Hawaii": [
+      28000,
+      29000
+    ],
+    "Idaho": [
+      210000,
+      220000
+    ],
+    "Illinois": [
+      140000,
+      150000
+    ],
+    "Indiana": [
+      94000,
+      95000
+    ],
+    "Iowa": [
+      140000,
+      150000
+    ],
+    "Kansas": [
+      210000,
+      220000
+    ],
+    "Kentucky": [
+      100000,
+      110000
+    ],
+    "Louisiana": [
+      130000,
+      140000
+    ],
+    "Maine": [
+      91000,
+      92000
+    ],
+    "Maryland": [
+      32000,
+      33000
+    ],
+    "Massachusetts": [
+      27000,
+      28000
+    ],
+    "Michigan": [
+      250000,
+      260000
+    ],
+    "Minnesota": [
+      220000,
+      230000
+    ],
+    "Mississippi": [
+      120000,
+      130000
+    ],
+    "Missouri": [
+      180000,
+      190000
+    ],
+    "Montana": [
+      380000,
+      390000
+    ],
+    "Nebraska": [
+      200000,
+      210000
+    ],
+    "Nevada": [
+      280000,
+      290000
+    ],
+    "New Hampshire": [
+      24000,
+      25000
+    ],
+    "New Jersey": [
+      22000,
+      23000
+    ],
+    "New Mexico": [
+      310000,
+      320000
+    ],
+    "New York": [
+      140000,
+      150000
+    ],
+    "North Carolina": [
+      130000,
+      140000
+    ],
+    "North Dakota": [
+      180000,
+      190000
+    ],
+    "Northern Mariana Islands": [
+      460,
+      470
+    ],
+    "Ohio": [
+      110000,
+      120000
+    ],
+    "Oklahoma": [
+      180000,
+      190000
+    ],
+    "Oregon": [
+      250000,
+      260000
+    ],
+    "Pennsylvania": [
+      110000,
+      120000
+    ],
+    "Puerto Rico": [
+      9100,
+      9200
+    ],
+    "Rhode Island": [
+      3100,
+      3200
+    ],
+    "South Carolina": [
+      82000,
+      83000
+    ],
+    "South Dakota": [
+      190000,
+      200000
+    ],
+    "Tennessee": [
+      100000,
+      110000
+    ],
+    "Texas": [
+      690000,
+      700000
+    ],
+    "United States Virgin Islands": [
+      340,
+      350
+    ],
+    "Utah": [
+      210000,
+      220000
+    ],
+    "Vermont": [
+      24000,
+      25000
+    ],
+    "Virginia": [
+      110000,
+      120000
+    ],
+    "Washington": [
+      180000,
+      190000
+    ],
+    "West Virginia": [
+      62000,
+      63000
+    ],
+    "Wisconsin": [
+      160000,
+      170000
+    ],
+    "Wyoming": [
+      250000,
+      260000
+    ]
+  }
+}

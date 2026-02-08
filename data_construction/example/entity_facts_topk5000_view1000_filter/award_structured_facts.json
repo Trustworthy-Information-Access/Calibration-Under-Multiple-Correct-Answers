@@ -1,0 +1,86 @@
+{
+  "AP NFL Offensive Player of the Year Award": {
+    "qid": "Q119677",
+    "parent_qid": "Q119677",
+    "years": {
+      "1981": [
+        [
+          "Ken Anderson",
+          "Q3195010",
+          "human",
+          "United States",
+          "Q30"
+        ]
+      ],
+      "1982": [
+        [
+          "Dan Fouts",
+          "Q1159065",
+          "human",
+          "United States",
+          "Q30"
+        ]
+      ],
+      "1983": [
+        [
+          "Joe Theismann",
+          "Q175963",
+          "human",
+          "United States",
+          "Q30"
+        ]
+      ],
+      "1984": [
+        [
+          "Dan Marino",
+          "Q195367",
+          "human",
+          "United States",
+          "Q30"
+        ]
+      ]
+    },
+    "views_12m": 54215
+  },
+  "Honorary Officer of the Order of the British Empire": {
+    "qid": "Q104783477",
+    "parent_qid": "Q14420",
+    "years": {
+      "1945": [
+        [
+          "Christiaan Tonnet",
+          "Q5109230",
+          "human",
+          "Belgium",
+          "Q31"
+        ],
+        [
+          "Christiaan Tonnet",
+          "Q5109230",
+          "human",
+          "Kingdom of the Netherlands",
+          "Q29999"
+        ]
+      ],
+      "1946": [
+        [
+          "Otto de Booy",
+          "Q2734553",
+          "human",
+          "Kingdom of the Netherlands",
+          "Q29999"
+        ]
+      ],
+      "1947": [
+        [
+          "António de Medeiros e Almeida",
+          "Q16492067",
+          "human",
+          "Portugal",
+          "Q45"
+        ]
+      ]
+    },
+    "views_12m": 1736074
+  }
+}

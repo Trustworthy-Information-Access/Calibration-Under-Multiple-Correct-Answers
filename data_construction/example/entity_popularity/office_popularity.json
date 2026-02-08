@@ -1,0 +1,101 @@
+{
+  "as_of": "2026-02",
+  "office": [
+    {
+      "qid": "Q29282",
+      "label": "Archbishop of Canterbury",
+      "title": "Archbishop_of_Canterbury",
+      "views_12m": 612111
+    },
+    {
+      "qid": "Q27656",
+      "label": "Director of the Central Intelligence Agency",
+      "title": "Director_of_the_Central_Intelligence_Agency",
+      "views_12m": 402779
+    },
+    {
+      "qid": "Q19643",
+      "label": "queen regnant",
+      "title": "Queen_regnant",
+      "views_12m": 226720
+    },
+    {
+      "qid": "Q29182",
+      "label": "bishop",
+      "title": "Bishop",
+      "views_12m": 214549
+    },
+    {
+      "qid": "Q12097",
+      "label": "king",
+      "title": "King",
+      "views_12m": 195460
+    },
+    {
+      "qid": "Q26409",
+      "label": "centurion",
+      "title": "Centurion",
+      "views_12m": 174942
+    },
+    {
+      "qid": "Q116",
+      "label": "monarch",
+      "title": "Monarch",
+      "views_12m": 161586
+    },
+    {
+      "qid": "Q901",
+      "label": "scientist",
+      "title": "Scientist",
+      "views_12m": 128905
+    },
+    {
+      "qid": "Q19641",
+      "label": "marji'",
+      "title": "Marja'",
+      "views_12m": 106304
+    },
+    {
+      "qid": "Q11271",
+      "label": "Benevolent Dictator for Life",
+      "title": "Benevolent_dictator_for_life",
+      "views_12m": 88819
+    },
+    {
+      "qid": "Q18811",
+      "label": "grand vizier",
+      "title": "Grand_vizier",
+      "views_12m": 59324
+    },
+    {
+      "qid": "Q18805",
+      "label": "naturalist",
+      "title": "Naturalist",
+      "views_12m": 37800
+    },
+    {
+      "qid": "Q22932",
+      "label": "count palatine",
+      "title": "Count_palatine",
+      "views_12m": 37791
+    },
+    {
+      "qid": "Q17221",
+      "label": "spokesperson",
+      "title": "Spokesperson",
+      "views_12m": 30432
+    },
+    {
+      "qid": "Q13968",
+      "label": "probation officer",
+      "title": "Probation_and_parole_officer",
+      "views_12m": 25310
+    },
+    {
+      "qid": "Q26353",
+      "label": "Vice President of Paraguay",
+      "title": "Vice_President_of_Paraguay",
+      "views_12m": 3333
+    }
+  ]
+}

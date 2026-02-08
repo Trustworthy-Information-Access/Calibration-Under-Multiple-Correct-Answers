@@ -1,0 +1,125 @@
+{
+  "as_of": "2026-02",
+  "language": [
+    {
+      "qid": "Q1860",
+      "label": "English",
+      "title": "English_language",
+      "views_12m": 3791179
+    },
+    {
+      "qid": "Q1321",
+      "label": "Spanish",
+      "title": "Spanish_language",
+      "views_12m": 1308897
+    },
+    {
+      "qid": "Q150",
+      "label": "French",
+      "title": "French_language",
+      "views_12m": 1200790
+    },
+    {
+      "qid": "Q7737",
+      "label": "Russian",
+      "title": "Russian_language",
+      "views_12m": 1073738
+    },
+    {
+      "qid": "Q397",
+      "label": "Latin",
+      "title": "Latin",
+      "views_12m": 995748
+    },
+    {
+      "qid": "Q7026",
+      "label": "Catalan",
+      "title": "Catalan_language",
+      "views_12m": 523113
+    },
+    {
+      "qid": "Q9067",
+      "label": "Hungarian",
+      "title": "Hungarian_language",
+      "views_12m": 458992
+    },
+    {
+      "qid": "Q9027",
+      "label": "Swedish",
+      "title": "Swedish_language",
+      "views_12m": 335764
+    },
+    {
+      "qid": "Q7918",
+      "label": "Bulgarian",
+      "title": "Bulgarian_language",
+      "views_12m": 272349
+    },
+    {
+      "qid": "Q9043",
+      "label": "Norwegian",
+      "title": "Norwegian_language",
+      "views_12m": 259446
+    },
+    {
+      "qid": "Q9078",
+      "label": "Latvian",
+      "title": "Latvian_language",
+      "views_12m": 231157
+    },
+    {
+      "qid": "Q8141",
+      "label": "Modern Hebrew",
+      "title": "Modern_Hebrew",
+      "views_12m": 207163
+    },
+    {
+      "qid": "Q9051",
+      "label": "Luxembourgish",
+      "title": "Luxembourgish",
+      "views_12m": 204881
+    },
+    {
+      "qid": "Q9058",
+      "label": "Slovak",
+      "title": "Slovak_language",
+      "views_12m": 165500
+    },
+    {
+      "qid": "Q8821",
+      "label": "Montenegrin",
+      "title": "Montenegrin_language",
+      "views_12m": 129000
+    },
+    {
+      "qid": "Q8786",
+      "label": "Alsatian",
+      "title": "Alsatian_dialect",
+      "views_12m": 74372
+    },
+    {
+      "qid": "Q2268",
+      "label": "Old Nubian",
+      "title": "Old_Nubian",
+      "views_12m": 20309
+    },
+    {
+      "qid": "Q5646",
+      "label": "A'Tong",
+      "title": "Atong_language_(Sino-Tibetan)",
+      "views_12m": 3107
+    },
+    {
+      "qid": "Q7502",
+      "label": "Abanyom",
+      "title": "Abanyom_language",
+      "views_12m": 1385
+    },
+    {
+      "qid": "Q5166",
+      "label": "'Auhelawa",
+      "title": "ʼAuhelawa_language",
+      "views_12m": 944
+    }
+  ]
+}
