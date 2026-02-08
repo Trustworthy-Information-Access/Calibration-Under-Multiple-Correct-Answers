@@ -1,0 +1,327 @@
+{
+  "Luxembourgish": {
+    "qid": "Q9051",
+    "parent_qid": "Q9051",
+    "countries": [
+      [
+        "Belgium",
+        "Q31",
+        "",
+        ""
+      ],
+      [
+        "Germany",
+        "Q183",
+        "",
+        ""
+      ],
+      [
+        "Luxembourg",
+        "Q32",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 204881
+  },
+  "Catalan": {
+    "qid": "Q7026",
+    "parent_qid": "Q7026",
+    "countries": [
+      [
+        "Spain",
+        "Q29",
+        "",
+        ""
+      ],
+      [
+        "Finland",
+        "Q33",
+        "",
+        ""
+      ],
+      [
+        "France",
+        "Q142",
+        "",
+        ""
+      ],
+      [
+        "Andorra",
+        "Q228",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 523113
+  },
+  "A'Tong": {
+    "qid": "Q5646",
+    "parent_qid": "Q5646",
+    "countries": [
+      [
+        "India",
+        "Q668",
+        "",
+        ""
+      ],
+      [
+        "Bangladesh",
+        "Q902",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 3107
+  },
+  "Latvian": {
+    "qid": "Q9078",
+    "parent_qid": "Q9078",
+    "countries": [
+      [
+        "Finland",
+        "Q33",
+        "",
+        ""
+      ],
+      [
+        "Latvia",
+        "Q211",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 231157
+  },
+  "Swedish": {
+    "qid": "Q9027",
+    "parent_qid": "Q9027",
+    "countries": [
+      [
+        "Finland",
+        "Q33",
+        "",
+        ""
+      ],
+      [
+        "Sweden",
+        "Q34",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 335764
+  },
+  "Bulgarian": {
+    "qid": "Q7918",
+    "parent_qid": "Q7918",
+    "countries": [
+      [
+        "Serbia",
+        "Q403",
+        "",
+        ""
+      ],
+      [
+        "Turkey",
+        "Q43",
+        "",
+        ""
+      ],
+      [
+        "Finland",
+        "Q33",
+        "",
+        ""
+      ],
+      [
+        "Bulgaria",
+        "Q219",
+        "",
+        ""
+      ],
+      [
+        "Greece",
+        "Q41",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 272349
+  },
+  "Norwegian": {
+    "qid": "Q9043",
+    "parent_qid": "Q9043",
+    "countries": [
+      [
+        "Finland",
+        "Q33",
+        "",
+        ""
+      ],
+      [
+        "Norway",
+        "Q20",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 259446
+  },
+  "Montenegrin": {
+    "qid": "Q8821",
+    "parent_qid": "Q8821",
+    "countries": [
+      [
+        "Montenegro",
+        "Q236",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 129000
+  },
+  "Abanyom": {
+    "qid": "Q7502",
+    "parent_qid": "Q7502",
+    "countries": [
+      [
+        "Nigeria",
+        "Q1033",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 1385
+  },
+  "Judaeo-Spanish": {
+    "qid": "Q36196",
+    "parent_qid": "Q1321",
+    "countries": [
+      [
+        "Turkey",
+        "Q43",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 1308897
+  },
+  "Picard": {
+    "qid": "Q34024",
+    "parent_qid": "Q150",
+    "countries": [
+      [
+        "Belgium",
+        "Q31",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 1200790
+  },
+  "Nynorsk": {
+    "qid": "Q25164",
+    "parent_qid": "Q9043",
+    "countries": [
+      [
+        "Norway",
+        "Q20",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 259446
+  },
+  "Bokmål": {
+    "qid": "Q25167",
+    "parent_qid": "Q9043",
+    "countries": [
+      [
+        "Norway",
+        "Q20",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 259446
+  },
+  "Ghanaian Pidgin English": {
+    "qid": "Q5555465",
+    "parent_qid": "Q1860",
+    "countries": [
+      [
+        "Ghana",
+        "Q117",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 3791179
+  },
+  "Jamaican English": {
+    "qid": "Q603200",
+    "parent_qid": "Q1860",
+    "countries": [
+      [
+        "Jamaica",
+        "Q766",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 3791179
+  },
+  "Hiberno-English": {
+    "qid": "Q665624",
+    "parent_qid": "Q1860",
+    "countries": [
+      [
+        "Ireland",
+        "Q27",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 3791179
+  },
+  "Singlish": {
+    "qid": "Q939451",
+    "parent_qid": "Q1860",
+    "countries": [
+      [
+        "Singapore",
+        "Q334",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 3791179
+  },
+  "Pijin": {
+    "qid": "Q36699",
+    "parent_qid": "Q1860",
+    "countries": [
+      [
+        "Solomon Islands",
+        "Q685",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 3791179
+  },
+  "British English": {
+    "qid": "Q7979",
+    "parent_qid": "Q1860",
+    "countries": [
+      [
+        "Brunei",
+        "Q921",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 3791179
+  }
+}

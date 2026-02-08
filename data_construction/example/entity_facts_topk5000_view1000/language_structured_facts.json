@@ -1,0 +1,4363 @@
+{
+  "Modern Hebrew": {
+    "qid": "Q8141",
+    "parent_qid": "Q8141",
+    "countries": [],
+    "views_12m": 207163
+  },
+  "Montenegrin": {
+    "qid": "Q8821",
+    "parent_qid": "Q8821",
+    "countries": [
+      [
+        "Montenegro",
+        "Q236",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 129000
+  },
+  "Q24004921": {
+    "qid": "Q24004921",
+    "parent_qid": "Q9067",
+    "countries": [],
+    "views_12m": 458992
+  },
+  "Adalárd": {
+    "qid": "Q482184",
+    "parent_qid": "Q9067",
+    "countries": [],
+    "views_12m": 458992
+  },
+  "Q24038619": {
+    "qid": "Q24038619",
+    "parent_qid": "Q9067",
+    "countries": [],
+    "views_12m": 458992
+  },
+  "Q24016421": {
+    "qid": "Q24016421",
+    "parent_qid": "Q9067",
+    "countries": [],
+    "views_12m": 458992
+  },
+  "Hungarian dialects": {
+    "qid": "Q837646",
+    "parent_qid": "Q9067",
+    "countries": [],
+    "views_12m": 458992
+  },
+  "Hungarian": {
+    "qid": "Q9067",
+    "parent_qid": "Q9067",
+    "countries": [
+      [
+        "Serbia",
+        "Q403",
+        "",
+        ""
+      ],
+      [
+        "Slovakia",
+        "Q214",
+        "",
+        ""
+      ],
+      [
+        "Hungary",
+        "Q28",
+        "",
+        ""
+      ],
+      [
+        "Ukraine",
+        "Q212",
+        "",
+        ""
+      ],
+      [
+        "Finland",
+        "Q33",
+        "",
+        ""
+      ],
+      [
+        "Slovenia",
+        "Q215",
+        "",
+        ""
+      ],
+      [
+        "Romania",
+        "Q218",
+        "",
+        ""
+      ],
+      [
+        "Austria",
+        "Q40",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 458992
+  },
+  "formal Hungarian": {
+    "qid": "Q64427347",
+    "parent_qid": "Q9067",
+    "countries": [],
+    "views_12m": 458992
+  },
+  "Q3140116": {
+    "qid": "Q3140116",
+    "parent_qid": "Q9067",
+    "countries": [],
+    "views_12m": 458992
+  },
+  "Hungarian verb": {
+    "qid": "Q3324368",
+    "parent_qid": "Q9067",
+    "countries": [],
+    "views_12m": 458992
+  },
+  "Q3140113": {
+    "qid": "Q3140113",
+    "parent_qid": "Q9067",
+    "countries": [],
+    "views_12m": 458992
+  },
+  "Q3140107": {
+    "countries": {},
+    "qid": "Q3140107",
+    "parent_qid": "Q9067",
+    "views_12m": 458992
+  },
+  "Csángó": {
+    "countries": {},
+    "qid": "Q1178505",
+    "parent_qid": "Q9067",
+    "views_12m": 458992
+  },
+  "Q1228721": {
+    "countries": {},
+    "qid": "Q1228721",
+    "parent_qid": "Q9067",
+    "views_12m": 458992
+  },
+  "Hungarian language in Ukraine": {
+    "qid": "Q9632915",
+    "parent_qid": "Q9067",
+    "countries": [],
+    "views_12m": 458992
+  },
+  "Újmagyar": {
+    "countries": {},
+    "qid": "Q1472802",
+    "parent_qid": "Q9067",
+    "views_12m": 458992
+  },
+  "Q3140109": {
+    "countries": {},
+    "qid": "Q3140109",
+    "parent_qid": "Q9067",
+    "views_12m": 458992
+  },
+  "Q3140114": {
+    "countries": {},
+    "qid": "Q3140114",
+    "parent_qid": "Q9067",
+    "views_12m": 458992
+  },
+  "Q1321649": {
+    "countries": {},
+    "qid": "Q1321649",
+    "parent_qid": "Q9067",
+    "views_12m": 458992
+  },
+  "Unterelsässisch": {
+    "qid": "Q85148153",
+    "parent_qid": "Q8786",
+    "countries": [],
+    "views_12m": 74372
+  },
+  "Oberelsässisch": {
+    "qid": "Q85148077",
+    "parent_qid": "Q8786",
+    "countries": [],
+    "views_12m": 74372
+  },
+  "Emmes": {
+    "qid": "Q1338704",
+    "parent_qid": "Q8786",
+    "countries": [],
+    "views_12m": 74372
+  },
+  "Alsatian": {
+    "countries": {},
+    "qid": "Q8786",
+    "parent_qid": "Q8786",
+    "views_12m": 74372
+  },
+  "Hiberno-Latin": {
+    "qid": "Q1215876",
+    "parent_qid": "Q397",
+    "countries": [],
+    "views_12m": 995748
+  },
+  "Latin or Greek word": {
+    "qid": "Q29448469",
+    "parent_qid": "Q397",
+    "countries": [],
+    "views_12m": 995748
+  },
+  "Law Latin": {
+    "qid": "Q17078078",
+    "parent_qid": "Q397",
+    "countries": [],
+    "views_12m": 995748
+  },
+  "macaronic Latin": {
+    "qid": "Q14189121",
+    "parent_qid": "Q397",
+    "countries": [],
+    "views_12m": 995748
+  },
+  "Late Latin": {
+    "qid": "Q1503113",
+    "parent_qid": "Q397",
+    "countries": [],
+    "views_12m": 995748
+  },
+  "renaissance Latin": {
+    "qid": "Q499083",
+    "parent_qid": "Q397",
+    "countries": [],
+    "views_12m": 995748
+  },
+  "Q1288899": {
+    "qid": "Q1288899",
+    "parent_qid": "Q397",
+    "countries": [],
+    "views_12m": 995748
+  },
+  "Vulgar Latin": {
+    "qid": "Q37560",
+    "parent_qid": "Q397",
+    "countries": [],
+    "views_12m": 995748
+  },
+  "Neo-Latin": {
+    "qid": "Q1248221",
+    "parent_qid": "Q397",
+    "countries": [],
+    "views_12m": 995748
+  },
+  "Old Latin": {
+    "countries": {},
+    "qid": "Q12289",
+    "parent_qid": "Q397",
+    "views_12m": 995748
+  },
+  "Latin preposition": {
+    "qid": "Q62592998",
+    "parent_qid": "Q397",
+    "countries": [],
+    "views_12m": 995748
+  },
+  "medieval Latin": {
+    "countries": {},
+    "qid": "Q1163234",
+    "parent_qid": "Q397",
+    "views_12m": 995748
+  },
+  "Latin word": {
+    "countries": {},
+    "qid": "Q78612407",
+    "parent_qid": "Q397",
+    "views_12m": 995748
+  },
+  "Ecclesiastical Latin": {
+    "countries": {},
+    "qid": "Q1247932",
+    "parent_qid": "Q397",
+    "views_12m": 995748
+  },
+  "Latin": {
+    "countries": {},
+    "qid": "Q397",
+    "parent_qid": "Q397",
+    "views_12m": 995748
+  },
+  "Classical Latin": {
+    "countries": {},
+    "qid": "Q253854",
+    "parent_qid": "Q397",
+    "views_12m": 995748
+  },
+  "Contemporary Latin": {
+    "countries": {},
+    "qid": "Q1246397",
+    "parent_qid": "Q397",
+    "views_12m": 995748
+  },
+  "Adnati": {
+    "countries": {},
+    "qid": "Q5642843",
+    "parent_qid": "Q397",
+    "views_12m": 995748
+  },
+  "Q19606466": {
+    "qid": "Q19606466",
+    "parent_qid": "Q9051",
+    "countries": [],
+    "views_12m": 204881
+  },
+  "Luxembourgish": {
+    "qid": "Q9051",
+    "parent_qid": "Q9051",
+    "countries": [
+      [
+        "Belgium",
+        "Q31",
+        "",
+        ""
+      ],
+      [
+        "Germany",
+        "Q183",
+        "",
+        ""
+      ],
+      [
+        "Luxembourg",
+        "Q32",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 204881
+  },
+  "Judaeo-Catalan": {
+    "qid": "Q1711179",
+    "parent_qid": "Q7026",
+    "countries": [],
+    "views_12m": 523113
+  },
+  "Catalan": {
+    "qid": "Q7026",
+    "parent_qid": "Q7026",
+    "countries": [
+      [
+        "Spain",
+        "Q29",
+        "",
+        ""
+      ],
+      [
+        "Finland",
+        "Q33",
+        "",
+        ""
+      ],
+      [
+        "France",
+        "Q142",
+        "",
+        ""
+      ],
+      [
+        "Andorra",
+        "Q228",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 523113
+  },
+  "Catalan dialect": {
+    "qid": "Q3025977",
+    "parent_qid": "Q7026",
+    "countries": [],
+    "views_12m": 523113
+  },
+  "Old Catalan": {
+    "qid": "Q15478520",
+    "parent_qid": "Q7026",
+    "countries": [],
+    "views_12m": 523113
+  },
+  "Catalan preposition": {
+    "qid": "Q20617194",
+    "parent_qid": "Q7026",
+    "countries": [],
+    "views_12m": 523113
+  },
+  "Q28710715": {
+    "qid": "Q28710715",
+    "parent_qid": "Q7026",
+    "countries": [],
+    "views_12m": 523113
+  },
+  "Q21730705": {
+    "qid": "Q21730705",
+    "parent_qid": "Q7026",
+    "countries": [],
+    "views_12m": 523113
+  },
+  "Valencian": {
+    "qid": "Q32641",
+    "parent_qid": "Q7026",
+    "countries": [],
+    "views_12m": 523113
+  },
+  "Q101584205": {
+    "qid": "Q101584205",
+    "parent_qid": "Q7026",
+    "countries": [],
+    "views_12m": 523113
+  },
+  "Q65211245": {
+    "qid": "Q65211245",
+    "parent_qid": "Q7026",
+    "countries": [],
+    "views_12m": 523113
+  },
+  "Western Catalan": {
+    "qid": "Q2941598",
+    "parent_qid": "Q7026",
+    "countries": [],
+    "views_12m": 523113
+  },
+  "Q5361137": {
+    "qid": "Q5361137",
+    "parent_qid": "Q7026",
+    "countries": [],
+    "views_12m": 523113
+  },
+  "Eastern Catalan": {
+    "qid": "Q1805453",
+    "parent_qid": "Q7026",
+    "countries": [],
+    "views_12m": 523113
+  },
+  "Catanyol": {
+    "qid": "Q11913259",
+    "parent_qid": "Q7026",
+    "countries": [],
+    "views_12m": 523113
+  },
+  "Catalan verbs": {
+    "qid": "Q5051224",
+    "parent_qid": "Q7026",
+    "countries": [],
+    "views_12m": 523113
+  },
+  "Patuet": {
+    "qid": "Q9056953",
+    "parent_qid": "Q7026",
+    "countries": [],
+    "views_12m": 523113
+  },
+  "Q115287402": {
+    "qid": "Q115287402",
+    "parent_qid": "Q7026",
+    "countries": [],
+    "views_12m": 523113
+  },
+  "Q21730704": {
+    "countries": {},
+    "qid": "Q21730704",
+    "parent_qid": "Q7026",
+    "views_12m": 523113
+  },
+  "Catalan Caló": {
+    "countries": {},
+    "qid": "Q117455974",
+    "parent_qid": "Q7026",
+    "views_12m": 523113
+  },
+  "dialect of Slovak": {
+    "qid": "Q4161025",
+    "parent_qid": "Q9058",
+    "countries": [],
+    "views_12m": 165500
+  },
+  "Kamaldul Slovak": {
+    "qid": "Q12768814",
+    "parent_qid": "Q9058",
+    "countries": [],
+    "views_12m": 165500
+  },
+  "Central Slovak": {
+    "qid": "Q12214679",
+    "parent_qid": "Q9058",
+    "countries": [],
+    "views_12m": 165500
+  },
+  "Western Slovak": {
+    "qid": "Q12151325",
+    "parent_qid": "Q9058",
+    "countries": [],
+    "views_12m": 165500
+  },
+  "Eastern Slovak": {
+    "qid": "Q4250591",
+    "parent_qid": "Q9058",
+    "countries": [],
+    "views_12m": 165500
+  },
+  "Q18407838": {
+    "qid": "Q18407838",
+    "parent_qid": "Q9058",
+    "countries": [],
+    "views_12m": 165500
+  },
+  "Bernolák": {
+    "countries": {},
+    "qid": "Q13395612",
+    "parent_qid": "Q9058",
+    "views_12m": 165500
+  },
+  "Q24459813": {
+    "countries": {},
+    "qid": "Q24459813",
+    "parent_qid": "Q9058",
+    "views_12m": 165500
+  },
+  "Standard Slovak": {
+    "countries": {},
+    "qid": "Q112632551",
+    "parent_qid": "Q9058",
+    "views_12m": 165500
+  },
+  "Slovak": {
+    "countries": {},
+    "qid": "Q9058",
+    "parent_qid": "Q9058",
+    "views_12m": 165500
+  },
+  "A'Tong": {
+    "qid": "Q5646",
+    "parent_qid": "Q5646",
+    "countries": [
+      [
+        "India",
+        "Q668",
+        "",
+        ""
+      ],
+      [
+        "Bangladesh",
+        "Q902",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 3107
+  },
+  "Latvian preposition": {
+    "qid": "Q6497482",
+    "parent_qid": "Q9078",
+    "countries": [],
+    "views_12m": 231157
+  },
+  "Latvian alphabet": {
+    "qid": "Q1193493",
+    "parent_qid": "Q9078",
+    "countries": [],
+    "views_12m": 231157
+  },
+  "Kursenieki": {
+    "qid": "Q36223",
+    "parent_qid": "Q9078",
+    "countries": [],
+    "views_12m": 231157
+  },
+  "Q16349849": {
+    "qid": "Q16349849",
+    "parent_qid": "Q9078",
+    "countries": [],
+    "views_12m": 231157
+  },
+  "Ꞥ": {
+    "qid": "Q3595046",
+    "parent_qid": "Q9078",
+    "countries": [],
+    "views_12m": 231157
+  },
+  "High Latvian dialect": {
+    "qid": "Q16352165",
+    "parent_qid": "Q9078",
+    "countries": [],
+    "views_12m": 231157
+  },
+  "Standard Latvian": {
+    "countries": {},
+    "qid": "Q127164458",
+    "parent_qid": "Q9078",
+    "views_12m": 231157
+  },
+  "Latgalian": {
+    "countries": {},
+    "qid": "Q36212",
+    "parent_qid": "Q9078",
+    "views_12m": 231157
+  },
+  "Latvian": {
+    "qid": "Q9078",
+    "parent_qid": "Q9078",
+    "countries": [
+      [
+        "Finland",
+        "Q33",
+        "",
+        ""
+      ],
+      [
+        "Latvia",
+        "Q211",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 231157
+  },
+  "Abanyom": {
+    "qid": "Q7502",
+    "parent_qid": "Q7502",
+    "countries": [
+      [
+        "Nigeria",
+        "Q1033",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 1385
+  },
+  "Old Nubian": {
+    "qid": "Q2268",
+    "parent_qid": "Q2268",
+    "countries": [],
+    "views_12m": 20309
+  },
+  "Gammalsvenska": {
+    "qid": "Q10502540",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Q10682325": {
+    "qid": "Q10682325",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Göteborgska": {
+    "qid": "Q10512929",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Halländska": {
+    "qid": "Q10516456",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Swedish": {
+    "qid": "Q9027",
+    "parent_qid": "Q9027",
+    "countries": [
+      [
+        "Finland",
+        "Q33",
+        "",
+        ""
+      ],
+      [
+        "Sweden",
+        "Q34",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 335764
+  },
+  "Högsvenska": {
+    "qid": "Q10532427",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Eastern Swedish": {
+    "qid": "Q10728516",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Q10727328": {
+    "qid": "Q10727328",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "South Swedish": {
+    "qid": "Q10686773",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Q10512764": {
+    "qid": "Q10512764",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Q19977593": {
+    "qid": "Q19977593",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Gutnish": {
+    "qid": "Q1256646",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Q20968917": {
+    "qid": "Q20968917",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Standard Swedish": {
+    "qid": "Q1546521",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Q10430486": {
+    "qid": "Q10430486",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Swedish as a second or foreign language": {
+    "qid": "Q4893405",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Q10542885": {
+    "qid": "Q10542885",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Västgötska": {
+    "qid": "Q10718143",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Swedish language in Sweden": {
+    "countries": {},
+    "qid": "Q131616169",
+    "parent_qid": "Q9027",
+    "views_12m": 335764
+  },
+  "O word": {
+    "countries": {},
+    "qid": "Q10605624",
+    "parent_qid": "Q9027",
+    "views_12m": 335764
+  },
+  "Q10531653": {
+    "countries": {},
+    "qid": "Q10531653",
+    "parent_qid": "Q9027",
+    "views_12m": 335764
+  },
+  "Kiruna dialect": {
+    "qid": "Q6416283",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Q10714965": {
+    "countries": {},
+    "qid": "Q10714965",
+    "parent_qid": "Q9027",
+    "views_12m": 335764
+  },
+  "Götamål dialect": {
+    "qid": "Q1805472",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Q10571253": {
+    "countries": {},
+    "qid": "Q10571253",
+    "parent_qid": "Q9027",
+    "views_12m": 335764
+  },
+  "Svealand Swedish": {
+    "countries": {},
+    "qid": "Q10684616",
+    "parent_qid": "Q9027",
+    "views_12m": 335764
+  },
+  "Q56300972": {
+    "qid": "Q56300972",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "e-mål": {
+    "qid": "Q136526054",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Q18589722": {
+    "qid": "Q18589722",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Q116450234": {
+    "qid": "Q116450234",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Westrobothnian": {
+    "qid": "Q7989641",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Q119019885": {
+    "qid": "Q119019885",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Rinkeby Swedish": {
+    "qid": "Q2166499",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Q18589760": {
+    "countries": {},
+    "qid": "Q18589760",
+    "parent_qid": "Q9027",
+    "views_12m": 335764
+  },
+  "Stockholmska dialect": {
+    "qid": "Q3540859",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Gotlandic": {
+    "qid": "Q109774805",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Q19978884": {
+    "countries": {},
+    "qid": "Q19978884",
+    "parent_qid": "Q9027",
+    "views_12m": 335764
+  },
+  "Värmländska": {
+    "countries": {},
+    "qid": "Q162529",
+    "parent_qid": "Q9027",
+    "views_12m": 335764
+  },
+  "Småländska": {
+    "qid": "Q7546810",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Q56300177": {
+    "qid": "Q56300177",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Q118129601": {
+    "qid": "Q118129601",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Q117748658": {
+    "qid": "Q117748658",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Gnällbältet": {
+    "countries": {},
+    "qid": "Q5574506",
+    "parent_qid": "Q9027",
+    "views_12m": 335764
+  },
+  "Norrland Swedish": {
+    "countries": {},
+    "qid": "Q7056905",
+    "parent_qid": "Q9027",
+    "views_12m": 335764
+  },
+  "Swedish language in the United States": {
+    "qid": "Q116874780",
+    "parent_qid": "Q9027",
+    "countries": [],
+    "views_12m": 335764
+  },
+  "Q13219769": {
+    "qid": "Q13219769",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian dialects": {
+    "qid": "Q2121919",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian language in Turkmenistan": {
+    "qid": "Q86676650",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian verb": {
+    "qid": "Q10887443",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Pomor dialects": {
+    "qid": "Q2371178",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Southern Russian": {
+    "qid": "Q2388676",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian noun": {
+    "qid": "Q4200458",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian language in Ukraine": {
+    "qid": "Q2348037",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian language in Belarus": {
+    "qid": "Q3920813",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Northern Russian": {
+    "qid": "Q2379372",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian language in Kyrgyzstan": {
+    "qid": "Q4400876",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian language in Poland": {
+    "qid": "Q4400883",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian language in Mongolia": {
+    "qid": "Q4400882",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Doukhobor Russian": {
+    "qid": "Q4161005",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian language in Laos": {
+    "qid": "Q4400879",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian language in Latvia": {
+    "qid": "Q393144",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian language in Romania": {
+    "qid": "Q4400886",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Moscow dialect": {
+    "qid": "Q4304412",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian language in the United States": {
+    "qid": "Q1278786",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian language in Transnistria": {
+    "qid": "Q4400885",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian language in Tajikistan": {
+    "qid": "Q4400888",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian language in Finland": {
+    "qid": "Q4400887",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russenorsk": {
+    "qid": "Q505125",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q16640291": {
+    "qid": "Q16640291",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Siberian Russian dialects": {
+    "qid": "Q4418262",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian language in Azerbaijan": {
+    "qid": "Q7382222",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Central Russian": {
+    "countries": {},
+    "qid": "Q608923",
+    "parent_qid": "Q7737",
+    "views_12m": 1073738
+  },
+  "Russian orthography before 1918": {
+    "countries": {},
+    "qid": "Q2442696",
+    "parent_qid": "Q7737",
+    "views_12m": 1073738
+  },
+  "Russian": {
+    "countries": {},
+    "qid": "Q7737",
+    "parent_qid": "Q7737",
+    "views_12m": 1073738
+  },
+  "Russian language in Japan": {
+    "qid": "Q27161619",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Sladkoyazychiye": {
+    "qid": "Q104737002",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian language in Estonia": {
+    "qid": "Q4400889",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian language in Israel": {
+    "qid": "Q626422",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Astrakhan Russian": {
+    "qid": "Q65083191",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian pronoun": {
+    "qid": "Q30892575",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Lake Peipus dialect": {
+    "qid": "Q40064494",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian language in Bulgaria": {
+    "qid": "Q113410733",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Dagestani Russian": {
+    "qid": "Q63859006",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian language in Canada": {
+    "countries": {},
+    "qid": "Q4400875",
+    "parent_qid": "Q7737",
+    "views_12m": 1073738
+  },
+  "Russian language in China": {
+    "qid": "Q27252861",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian language in Georgia": {
+    "countries": {},
+    "qid": "Q4400871",
+    "parent_qid": "Q7737",
+    "views_12m": 1073738
+  },
+  "Cheboksary regional dialect of the Russian language": {
+    "qid": "Q117476029",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian language in Armenia": {
+    "qid": "Q113410931",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian langiage in Moldova": {
+    "countries": {},
+    "qid": "Q4400881",
+    "parent_qid": "Q7737",
+    "views_12m": 1073738
+  },
+  "Russian language in Lithuania": {
+    "countries": {},
+    "qid": "Q4400880",
+    "parent_qid": "Q7737",
+    "views_12m": 1073738
+  },
+  "loanwords in Russian language": {
+    "qid": "Q4184226",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian language in Russia": {
+    "qid": "Q60797856",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian language in Uzbekistan": {
+    "countries": {},
+    "qid": "Q18399422",
+    "parent_qid": "Q7737",
+    "views_12m": 1073738
+  },
+  "Belgorod Dialect": {
+    "qid": "Q115632936",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Alaskan Russian": {
+    "countries": {},
+    "qid": "Q27807497",
+    "parent_qid": "Q7737",
+    "views_12m": 1073738
+  },
+  "Russian word": {
+    "qid": "Q115765307",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Russian language in Serbia": {
+    "qid": "Q113410378",
+    "parent_qid": "Q7737",
+    "countries": [],
+    "views_12m": 1073738
+  },
+  "Bulgarian language in Moldova": {
+    "qid": "Q12274278",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Belogradchik dialect": {
+    "qid": "Q4884488",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Ohrid dialect": {
+    "qid": "Q1627941",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Bulgarian": {
+    "qid": "Q7918",
+    "parent_qid": "Q7918",
+    "countries": [
+      [
+        "Serbia",
+        "Q403",
+        "",
+        ""
+      ],
+      [
+        "Turkey",
+        "Q43",
+        "",
+        ""
+      ],
+      [
+        "Finland",
+        "Q33",
+        "",
+        ""
+      ],
+      [
+        "Bulgaria",
+        "Q219",
+        "",
+        ""
+      ],
+      [
+        "Greece",
+        "Q41",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 272349
+  },
+  "Rup dialects": {
+    "qid": "Q3656608",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Western Bulgarian": {
+    "qid": "Q12280336",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Pomak": {
+    "qid": "Q2666760",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Chepino dialect": {
+    "qid": "Q5091716",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Byala Slatina-Pleven dialect": {
+    "qid": "Q5003919",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Q20497540": {
+    "qid": "Q20497540",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Struga dialect": {
+    "qid": "Q3404783",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Banat Bulgarian": {
+    "qid": "Q785474",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Babyak dialect": {
+    "qid": "Q4838466",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Erkech dialect": {
+    "qid": "Q5389649",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Breznik dialect": {
+    "qid": "Q16985225",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Thracian dialect": {
+    "qid": "Q3656991",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Q12283971": {
+    "qid": "Q12283971",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Hvoyna dialect": {
+    "qid": "Q5951766",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Moesian": {
+    "qid": "Q6890295",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Ihtiman dialect": {
+    "qid": "Q5994844",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Dupnitsa dialect": {
+    "qid": "Q5316028",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Shumen dialect": {
+    "qid": "Q7504980",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Kyustendil dialect": {
+    "qid": "Q6452876",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Sofia dialect": {
+    "qid": "Q7553689",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Razlog dialect": {
+    "qid": "Q7299589",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Central Balkan dialect": {
+    "qid": "Q5060409",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Samokov dialect": {
+    "qid": "Q7410018",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Eastern Bulgarian": {
+    "qid": "Q25383090",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Strandzha dialect": {
+    "qid": "Q7621306",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Subbalkan dialect": {
+    "qid": "Q7630857",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Q12272993": {
+    "countries": {},
+    "qid": "Q12272993",
+    "parent_qid": "Q7918",
+    "views_12m": 272349
+  },
+  "Bulgarian language in Turkey": {
+    "countries": {},
+    "qid": "Q12274280",
+    "parent_qid": "Q7918",
+    "views_12m": 272349
+  },
+  "Bulgarian language in Ukraine": {
+    "countries": {},
+    "qid": "Q10304377",
+    "parent_qid": "Q7918",
+    "views_12m": 272349
+  },
+  "Transitional Bulgarian": {
+    "qid": "Q7834442",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Botevgrad dialect": {
+    "countries": {},
+    "qid": "Q4948584",
+    "parent_qid": "Q7918",
+    "views_12m": 272349
+  },
+  "Teteven dialect": {
+    "qid": "Q7706092",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Balkan Bulgarian": {
+    "countries": {},
+    "qid": "Q4851094",
+    "parent_qid": "Q7918",
+    "views_12m": 272349
+  },
+  "Smolyan dialect": {
+    "qid": "Q7546353",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Southwestern Bulgarian": {
+    "qid": "Q7571398",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Northwestern Bulgarian": {
+    "qid": "Q7060289",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Vratsa dialect": {
+    "qid": "Q7942648",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Tran dialect": {
+    "qid": "Q7833348",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Vidin-Lom dialect": {
+    "qid": "Q7928089",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Elin Pelin dialect": {
+    "countries": {},
+    "qid": "Q5361091",
+    "parent_qid": "Q7918",
+    "views_12m": 272349
+  },
+  "Q123655793": {
+    "qid": "Q123655793",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Bulgarian language in Bulgaria": {
+    "qid": "Q61117077",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Zlatograd dialect": {
+    "qid": "Q8073034",
+    "parent_qid": "Q7918",
+    "countries": [],
+    "views_12m": 272349
+  },
+  "Panagyurishte dialect": {
+    "countries": {},
+    "qid": "Q7129882",
+    "parent_qid": "Q7918",
+    "views_12m": 272349
+  },
+  "Paulician dialect": {
+    "countries": {},
+    "qid": "Q7154892",
+    "parent_qid": "Q7918",
+    "views_12m": 272349
+  },
+  "Guay": {
+    "qid": "Q130101408",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Blue Cruise": {
+    "qid": "Q1921499",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Lunfardo": {
+    "qid": "Q1401612",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Portuñol": {
+    "qid": "Q1057284",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Spanish language in Italy": {
+    "qid": "Q12176405",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Adaeseño Spanish": {
+    "qid": "Q99527013",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Q26877957": {
+    "qid": "Q26877957",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Peruanismo": {
+    "qid": "Q10624767",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Arabic language influence on the Spanish language": {
+    "qid": "Q2976605",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Spanish language in New Zealand": {
+    "qid": "Q2836983",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "grammatical number in Spanish": {
+    "qid": "Q13049706",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Spanish language in the United States": {
+    "qid": "Q2301077",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Spanish adjective": {
+    "qid": "Q3606524",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "usted": {
+    "qid": "Q2888448",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Spanish language in the Americas": {
+    "qid": "Q3058369",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Spanish noun": {
+    "qid": "Q3877957",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Spanish preposition": {
+    "qid": "Q3910834",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Q1475654": {
+    "qid": "Q1475654",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Early Modern Spanish": {
+    "qid": "Q5364419",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Spanish language in the Philippines": {
+    "countries": {},
+    "qid": "Q1572128",
+    "parent_qid": "Q1321",
+    "views_12m": 1308897
+  },
+  "Q17996871": {
+    "countries": {},
+    "qid": "Q17996871",
+    "parent_qid": "Q1321",
+    "views_12m": 1308897
+  },
+  "Spanish language in Morocco": {
+    "qid": "Q5489704",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Spanish pronoun": {
+    "qid": "Q519787",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Q13048655": {
+    "countries": {},
+    "qid": "Q13048655",
+    "parent_qid": "Q1321",
+    "views_12m": 1308897
+  },
+  "Spanish-based creole languages": {
+    "qid": "Q2655227",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Q20829058": {
+    "countries": {},
+    "qid": "Q20829058",
+    "parent_qid": "Q1321",
+    "views_12m": 1308897
+  },
+  "Q20827234": {
+    "countries": {},
+    "qid": "Q20827234",
+    "parent_qid": "Q1321",
+    "views_12m": 1308897
+  },
+  "colloquial Spanish": {
+    "qid": "Q5840038",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Spanish grammar": {
+    "countries": {},
+    "qid": "Q1064399",
+    "parent_qid": "Q1321",
+    "views_12m": 1308897
+  },
+  "Spanish as a second or foreign language": {
+    "qid": "Q5840041",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Spanish language in Gibraltar": {
+    "qid": "Q5649386",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Spanish language in India": {
+    "qid": "Q17994951",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Saharan Spanish": {
+    "qid": "Q5840069",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Spanish language in Algeria": {
+    "countries": {},
+    "qid": "Q2842108",
+    "parent_qid": "Q1321",
+    "views_12m": 1308897
+  },
+  "Spanish language in Aruba": {
+    "qid": "Q5908557",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "direct object in Spanish": {
+    "qid": "Q5777175",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Spanish language in Brazil": {
+    "qid": "Q5908564",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "grammatical gender in Spanish": {
+    "countries": {},
+    "qid": "Q3573030",
+    "parent_qid": "Q1321",
+    "views_12m": 1308897
+  },
+  "Spanish language in Taiwan": {
+    "qid": "Q5908587",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Spanish language in the Netherlands Antilles": {
+    "qid": "Q5908592",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Spanish determiner": {
+    "qid": "Q3706139",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Spanish language in Trinidad and Tobago": {
+    "qid": "Q5908589",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Standard Spanish": {
+    "qid": "Q97228250",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Spanish language in China": {
+    "countries": {},
+    "qid": "Q17993700",
+    "parent_qid": "Q1321",
+    "views_12m": 1308897
+  },
+  "Spanish language in Israel": {
+    "qid": "Q5908578",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Spanish language in Japan": {
+    "qid": "Q5908581",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Spanish verb": {
+    "qid": "Q717681",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Spanish (formal address)": {
+    "qid": "Q64427343",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Equatoguinean Spanish": {
+    "qid": "Q820569",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Spanish language in Africa, Asia and Oceania": {
+    "qid": "Q5908595",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Spanish language in Belize": {
+    "countries": {},
+    "qid": "Q5908561",
+    "parent_qid": "Q1321",
+    "views_12m": 1308897
+  },
+  "Spanish language in Andorra": {
+    "countries": {},
+    "qid": "Q21004178",
+    "parent_qid": "Q1321",
+    "views_12m": 1308897
+  },
+  "Spanish": {
+    "qid": "Q1321",
+    "parent_qid": "Q1321",
+    "countries": [
+      [
+        "Spain",
+        "Q29",
+        "",
+        ""
+      ],
+      [
+        "Finland",
+        "Q33",
+        "",
+        ""
+      ],
+      [
+        "Australia",
+        "Q408",
+        "",
+        ""
+      ],
+      [
+        "Cuba",
+        "Q241",
+        "",
+        ""
+      ],
+      [
+        "Mexico",
+        "Q96",
+        "",
+        ""
+      ],
+      [
+        "Morocco",
+        "Q1028",
+        "",
+        ""
+      ],
+      [
+        "Paraguay",
+        "Q733",
+        "",
+        ""
+      ],
+      [
+        "Equatorial Guinea",
+        "Q983",
+        "",
+        ""
+      ],
+      [
+        "Bolivia",
+        "Q750",
+        "",
+        ""
+      ],
+      [
+        "Argentina",
+        "Q414",
+        "",
+        ""
+      ],
+      [
+        "Ecuador",
+        "Q736",
+        "",
+        ""
+      ],
+      [
+        "Venezuela",
+        "Q717",
+        "",
+        ""
+      ],
+      [
+        "Uruguay",
+        "Q77",
+        "",
+        ""
+      ],
+      [
+        "Gibraltar",
+        "Q1410",
+        "",
+        ""
+      ],
+      [
+        "Costa Rica",
+        "Q800",
+        "",
+        ""
+      ],
+      [
+        "Colombia",
+        "Q739",
+        "",
+        ""
+      ],
+      [
+        "Chile",
+        "Q298",
+        "",
+        ""
+      ],
+      [
+        "Peru",
+        "Q419",
+        "",
+        ""
+      ],
+      [
+        "Guatemala",
+        "Q774",
+        "",
+        ""
+      ],
+      [
+        "Dominican Republic",
+        "Q786",
+        "",
+        ""
+      ],
+      [
+        "Honduras",
+        "Q783",
+        "",
+        ""
+      ],
+      [
+        "El Salvador",
+        "Q792",
+        "",
+        ""
+      ],
+      [
+        "Nicaragua",
+        "Q811",
+        "",
+        ""
+      ],
+      [
+        "Panama",
+        "Q804",
+        "",
+        ""
+      ],
+      [
+        "Belize",
+        "Q242",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 1308897
+  },
+  "Spanish language in Canada": {
+    "countries": {},
+    "qid": "Q5908567",
+    "parent_qid": "Q1321",
+    "views_12m": 1308897
+  },
+  "Spanish irregular verb": {
+    "qid": "Q7573408",
+    "parent_qid": "Q1321",
+    "countries": [],
+    "views_12m": 1308897
+  },
+  "Spanish language in Haiti": {
+    "countries": {},
+    "qid": "Q5908576",
+    "parent_qid": "Q1321",
+    "views_12m": 1308897
+  },
+  "Judaeo-Spanish": {
+    "qid": "Q36196",
+    "parent_qid": "Q1321",
+    "countries": [
+      [
+        "Turkey",
+        "Q43",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 1308897
+  },
+  "Spanish language in France": {
+    "countries": {},
+    "qid": "Q9006737",
+    "parent_qid": "Q1321",
+    "views_12m": 1308897
+  },
+  "Iberian Spanish": {
+    "countries": {},
+    "qid": "Q7162990",
+    "parent_qid": "Q1321",
+    "views_12m": 1308897
+  },
+  "Saint Pierre French": {
+    "qid": "Q133980120",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "French language in Australia": {
+    "qid": "Q122938532",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "French": {
+    "qid": "Q150",
+    "parent_qid": "Q150",
+    "countries": [
+      [
+        "Madagascar",
+        "Q1019",
+        "",
+        ""
+      ],
+      [
+        "Finland",
+        "Q33",
+        "",
+        ""
+      ],
+      [
+        "Switzerland",
+        "Q39",
+        "",
+        ""
+      ],
+      [
+        "Australia",
+        "Q408",
+        "",
+        ""
+      ],
+      [
+        "Democratic Republic of the Congo",
+        "Q974",
+        "",
+        ""
+      ],
+      [
+        "Mali",
+        "Q912",
+        "",
+        ""
+      ],
+      [
+        "Belgium",
+        "Q31",
+        "",
+        ""
+      ],
+      [
+        "Italy",
+        "Q38",
+        "",
+        ""
+      ],
+      [
+        "France",
+        "Q142",
+        "",
+        ""
+      ],
+      [
+        "Morocco",
+        "Q1028",
+        "",
+        ""
+      ],
+      [
+        "Canada",
+        "Q16",
+        "",
+        ""
+      ],
+      [
+        "Monaco",
+        "Q235",
+        "",
+        ""
+      ],
+      [
+        "Luxembourg",
+        "Q32",
+        "",
+        ""
+      ],
+      [
+        "Equatorial Guinea",
+        "Q983",
+        "",
+        ""
+      ],
+      [
+        "Togo",
+        "Q945",
+        "",
+        ""
+      ],
+      [
+        "Benin",
+        "Q962",
+        "",
+        ""
+      ],
+      [
+        "India",
+        "Q668",
+        "",
+        ""
+      ],
+      [
+        "Cameroon",
+        "Q1009",
+        "",
+        ""
+      ],
+      [
+        "Gabon",
+        "Q1000",
+        "",
+        ""
+      ],
+      [
+        "Senegal",
+        "Q1041",
+        "",
+        ""
+      ],
+      [
+        "Tunisia",
+        "Q948",
+        "",
+        ""
+      ],
+      [
+        "Central African Republic",
+        "Q929",
+        "",
+        ""
+      ],
+      [
+        "Syria",
+        "Q858",
+        "",
+        ""
+      ],
+      [
+        "Chad",
+        "Q657",
+        "",
+        ""
+      ],
+      [
+        "Algeria",
+        "Q262",
+        "",
+        ""
+      ],
+      [
+        "Cambodia",
+        "Q424",
+        "",
+        ""
+      ],
+      [
+        "Vanuatu",
+        "Q686",
+        "",
+        ""
+      ],
+      [
+        "Haiti",
+        "Q790",
+        "",
+        ""
+      ],
+      [
+        "Burundi",
+        "Q967",
+        "",
+        ""
+      ],
+      [
+        "Comoros",
+        "Q970",
+        "",
+        ""
+      ],
+      [
+        "Djibouti",
+        "Q977",
+        "",
+        ""
+      ],
+      [
+        "Guinea",
+        "Q1006",
+        "",
+        ""
+      ],
+      [
+        "Republic of the Congo",
+        "Q971",
+        "",
+        ""
+      ],
+      [
+        "Ivory Coast",
+        "Q1008",
+        "",
+        ""
+      ],
+      [
+        "Mauritius",
+        "Q1027",
+        "",
+        ""
+      ],
+      [
+        "Mauritania",
+        "Q1025",
+        "",
+        ""
+      ],
+      [
+        "Niger",
+        "Q1032",
+        "",
+        ""
+      ],
+      [
+        "Rwanda",
+        "Q1037",
+        "",
+        ""
+      ],
+      [
+        "Seychelles",
+        "Q1042",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 1200790
+  },
+  "present participe in French": {
+    "qid": "Q1763348",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "European French": {
+    "qid": "Q3083218",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "French verb": {
+    "qid": "Q1218391",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "Manitoban French": {
+    "qid": "Q15974879",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "North American French": {
+    "qid": "Q3083193",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "Middle French": {
+    "qid": "Q1473289",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "rital": {
+    "qid": "Q3433266",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "Q31761877": {
+    "qid": "Q31761877",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "Français Tirailleur": {
+    "qid": "Q18356225",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "Q2423700": {
+    "qid": "Q2423700",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "Haitian French": {
+    "qid": "Q17004144",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "French preposition": {
+    "qid": "Q19758942",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "French language in Vietnam": {
+    "qid": "Q5492617",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "French language in Cambodia": {
+    "qid": "Q5025153",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "Réunion French": {
+    "qid": "Q3083199",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "French pronoun": {
+    "qid": "Q29343602",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "French language in the United States": {
+    "qid": "Q68456",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "français fondamental": {
+    "qid": "Q83503",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "Taafien": {
+    "qid": "Q3512668",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "French language in Laos": {
+    "qid": "Q6487768",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "French adjective": {
+    "qid": "Q18456601",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "French language in Canada": {
+    "qid": "Q2075394",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "Q55967034": {
+    "qid": "Q55967034",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "French language in Lebanon": {
+    "qid": "Q21296634",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "Guadeloupean French": {
+    "qid": "Q21427314",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "French language in the Netherlands": {
+    "qid": "Q13637673",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "French partitive article": {
+    "qid": "Q31761644",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "Frenchville French": {
+    "qid": "Q30590120",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "Q55967109": {
+    "qid": "Q55967109",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "Meridional French": {
+    "qid": "Q28818299",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "Indian French": {
+    "qid": "Q17056078",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "Franponais": {
+    "countries": {},
+    "qid": "Q1040190",
+    "parent_qid": "Q150",
+    "views_12m": 1200790
+  },
+  "Classical French": {
+    "countries": {},
+    "qid": "Q3100376",
+    "parent_qid": "Q150",
+    "views_12m": 1200790
+  },
+  "French language in French Guiana": {
+    "qid": "Q48746093",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "New Caledonian French": {
+    "countries": {},
+    "qid": "Q3083202",
+    "parent_qid": "Q150",
+    "views_12m": 1200790
+  },
+  "Standard French": {
+    "countries": {},
+    "qid": "Q1400216",
+    "parent_qid": "Q150",
+    "views_12m": 1200790
+  },
+  "Mississippi Gulf Coast French": {
+    "countries": {},
+    "qid": "Q123475280",
+    "parent_qid": "Q150",
+    "views_12m": 1200790
+  },
+  "determiners and articles in French": {
+    "qid": "Q55838608",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "Proto-French": {
+    "qid": "Q136913444",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "Q105359336": {
+    "qid": "Q105359336",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "Q81846138": {
+    "qid": "Q81846138",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "French indefinite article": {
+    "qid": "Q31761643",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "Burundian French": {
+    "qid": "Q102156535",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "French grammar": {
+    "qid": "Q11923",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "Oceanian French": {
+    "qid": "Q56317836",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "Cameroonian French": {
+    "qid": "Q102183245",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "Rwandan French": {
+    "qid": "Q105376562",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "Q102098874": {
+    "qid": "Q102098874",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "French language in Sweden": {
+    "qid": "Q117821389",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "twiddle one's thumbs": {
+    "qid": "Q74516167",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "modern French": {
+    "qid": "Q136913366",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "Honfleurais": {
+    "qid": "Q123847273",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "French language in Chile": {
+    "qid": "Q65165183",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "French language in Oman": {
+    "qid": "Q54871141",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "Martinique French": {
+    "qid": "Q102098497",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "French of Congo-Brazzaville": {
+    "qid": "Q102230040",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "Picard": {
+    "qid": "Q34024",
+    "parent_qid": "Q150",
+    "countries": [
+      [
+        "Belgium",
+        "Q31",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 1200790
+  },
+  "grammatical number in French": {
+    "qid": "Q31761872",
+    "parent_qid": "Q150",
+    "countries": [],
+    "views_12m": 1200790
+  },
+  "African French": {
+    "countries": {},
+    "qid": "Q33670660",
+    "parent_qid": "Q150",
+    "views_12m": 1200790
+  },
+  "French adverb": {
+    "countries": {},
+    "qid": "Q29306",
+    "parent_qid": "Q150",
+    "views_12m": 1200790
+  },
+  "Q105396464": {
+    "countries": {},
+    "qid": "Q105396464",
+    "parent_qid": "Q150",
+    "views_12m": 1200790
+  },
+  "Mauritian French": {
+    "countries": {},
+    "qid": "Q105365338",
+    "parent_qid": "Q150",
+    "views_12m": 1200790
+  },
+  "Q12004025": {
+    "qid": "Q12004025",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q11989342": {
+    "qid": "Q11989342",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q11972562": {
+    "qid": "Q11972562",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q12001885": {
+    "qid": "Q12001885",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q11999202": {
+    "qid": "Q11999202",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q11974468": {
+    "qid": "Q11974468",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q12713407": {
+    "qid": "Q12713407",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q11194916": {
+    "qid": "Q11194916",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q12718874": {
+    "qid": "Q12718874",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q11980314": {
+    "qid": "Q11980314",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q12718768": {
+    "qid": "Q12718768",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q12717570": {
+    "qid": "Q12717570",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q6516963": {
+    "qid": "Q6516963",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q6514355": {
+    "qid": "Q6514355",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q12716927": {
+    "qid": "Q12716927",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q12004891": {
+    "qid": "Q12004891",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Norwegian": {
+    "qid": "Q9043",
+    "parent_qid": "Q9043",
+    "countries": [
+      [
+        "Finland",
+        "Q33",
+        "",
+        ""
+      ],
+      [
+        "Norway",
+        "Q20",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 259446
+  },
+  "Q12717256": {
+    "qid": "Q12717256",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q17772735": {
+    "qid": "Q17772735",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q19375211": {
+    "qid": "Q19375211",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q12717893": {
+    "qid": "Q12717893",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q19388278": {
+    "qid": "Q19388278",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q19399363": {
+    "qid": "Q19399363",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q17779689": {
+    "qid": "Q17779689",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q20553297": {
+    "qid": "Q20553297",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Norwegian word": {
+    "qid": "Q91829884",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q19399061": {
+    "qid": "Q19399061",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q20553480": {
+    "qid": "Q20553480",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q12719354": {
+    "qid": "Q12719354",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q17750683": {
+    "qid": "Q17750683",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q20552801": {
+    "qid": "Q20552801",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q20553571": {
+    "qid": "Q20553571",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q20553664": {
+    "qid": "Q20553664",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q25511848": {
+    "qid": "Q25511848",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q12716358": {
+    "qid": "Q12716358",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Stavangersk": {
+    "qid": "Q11075076",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q13683382": {
+    "qid": "Q13683382",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Vestfoldsk": {
+    "qid": "Q97204172",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Arendalsk": {
+    "qid": "Q11958647",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Kebabnorsk": {
+    "qid": "Q1243284",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Nordmøring": {
+    "qid": "Q11991893",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Høgnorsk": {
+    "qid": "Q1420587",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Smoi": {
+    "qid": "Q12001572",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q19393615": {
+    "qid": "Q19393615",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q25439139": {
+    "qid": "Q25439139",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Norwegian dialects": {
+    "qid": "Q1509562",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Vestlandsk": {
+    "qid": "Q15059514",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Valdris": {
+    "qid": "Q12008848",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Opplandsmål": {
+    "qid": "Q18646167",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q11969747": {
+    "qid": "Q11969747",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q20553304": {
+    "qid": "Q20553304",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Oslo dialect": {
+    "qid": "Q3437126",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Samnorsk": {
+    "qid": "Q1633647",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Bergensk": {
+    "qid": "Q4577794",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q19381498": {
+    "qid": "Q19381498",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q97219172": {
+    "qid": "Q97219172",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "East Norwegian": {
+    "qid": "Q19399436",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Sognamål dialect": {
+    "qid": "Q7554535",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Vikværsk": {
+    "qid": "Q1785069",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Old Norwegian": {
+    "qid": "Q34996",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "strilamål": {
+    "qid": "Q12718725",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Riksmål": {
+    "qid": "Q37015",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Nynorsk": {
+    "qid": "Q25164",
+    "parent_qid": "Q9043",
+    "countries": [
+      [
+        "Norway",
+        "Q20",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 259446
+  },
+  "Q130418708": {
+    "qid": "Q130418708",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "American Norwegian": {
+    "qid": "Q113456590",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q97210980": {
+    "qid": "Q97210980",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q130418713": {
+    "qid": "Q130418713",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "vestnorsk": {
+    "qid": "Q3366968",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Bokmål": {
+    "qid": "Q25167",
+    "parent_qid": "Q9043",
+    "countries": [
+      [
+        "Norway",
+        "Q20",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 259446
+  },
+  "Brønnøy dialect": {
+    "qid": "Q12713931",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q12717250": {
+    "qid": "Q12717250",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Q20553704": {
+    "qid": "Q20553704",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "Norwegian as a second or foreign language": {
+    "qid": "Q118565523",
+    "parent_qid": "Q9043",
+    "countries": [],
+    "views_12m": 259446
+  },
+  "English grammar": {
+    "qid": "Q560583",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "English adverb": {
+    "qid": "Q30916567",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "go": {
+    "qid": "Q5574688",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Hong Kong English": {
+    "qid": "Q1068863",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Q3511588": {
+    "qid": "Q3511588",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "English verb": {
+    "qid": "Q561029",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "English plural": {
+    "qid": "Q5378621",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "English": {
+    "qid": "Q1860",
+    "parent_qid": "Q1860",
+    "countries": [
+      [
+        "New Zealand",
+        "Q664",
+        "",
+        ""
+      ],
+      [
+        "Singapore",
+        "Q334",
+        "",
+        ""
+      ],
+      [
+        "United States",
+        "Q30",
+        "",
+        ""
+      ],
+      [
+        "United Kingdom",
+        "Q145",
+        "",
+        ""
+      ],
+      [
+        "Lesotho",
+        "Q1013",
+        "",
+        ""
+      ],
+      [
+        "Liberia",
+        "Q1014",
+        "",
+        ""
+      ],
+      [
+        "Pakistan",
+        "Q843",
+        "",
+        ""
+      ],
+      [
+        "Palau",
+        "Q695",
+        "",
+        ""
+      ],
+      [
+        "Botswana",
+        "Q963",
+        "",
+        ""
+      ],
+      [
+        "Philippines",
+        "Q928",
+        "",
+        ""
+      ],
+      [
+        "South Africa",
+        "Q258",
+        "",
+        ""
+      ],
+      [
+        "Ireland",
+        "Q27",
+        "",
+        ""
+      ],
+      [
+        "Canada",
+        "Q16",
+        "",
+        ""
+      ],
+      [
+        "South Sudan",
+        "Q958",
+        "",
+        ""
+      ],
+      [
+        "Nigeria",
+        "Q1033",
+        "",
+        ""
+      ],
+      [
+        "Nauru",
+        "Q697",
+        "",
+        ""
+      ],
+      [
+        "India",
+        "Q668",
+        "",
+        ""
+      ],
+      [
+        "Jamaica",
+        "Q766",
+        "",
+        ""
+      ],
+      [
+        "Tanzania",
+        "Q924",
+        "",
+        ""
+      ],
+      [
+        "Cameroon",
+        "Q1009",
+        "",
+        ""
+      ],
+      [
+        "Dominica",
+        "Q784",
+        "",
+        ""
+      ],
+      [
+        "Sudan",
+        "Q1049",
+        "",
+        ""
+      ],
+      [
+        "Gibraltar",
+        "Q1410",
+        "",
+        ""
+      ],
+      [
+        "Marshall Islands",
+        "Q709",
+        "",
+        ""
+      ],
+      [
+        "Ghana",
+        "Q117",
+        "",
+        ""
+      ],
+      [
+        "Sierra Leone",
+        "Q1044",
+        "",
+        ""
+      ],
+      [
+        "Malawi",
+        "Q1020",
+        "",
+        ""
+      ],
+      [
+        "Federated States of Micronesia",
+        "Q702",
+        "",
+        ""
+      ],
+      [
+        "Fiji",
+        "Q712",
+        "",
+        ""
+      ],
+      [
+        "Papua New Guinea",
+        "Q691",
+        "",
+        ""
+      ],
+      [
+        "Kiribati",
+        "Q710",
+        "",
+        ""
+      ],
+      [
+        "Samoa",
+        "Q683",
+        "",
+        ""
+      ],
+      [
+        "Guyana",
+        "Q734",
+        "",
+        ""
+      ],
+      [
+        "Tuvalu",
+        "Q672",
+        "",
+        ""
+      ],
+      [
+        "Tonga",
+        "Q678",
+        "",
+        ""
+      ],
+      [
+        "Solomon Islands",
+        "Q685",
+        "",
+        ""
+      ],
+      [
+        "Vanuatu",
+        "Q686",
+        "",
+        ""
+      ],
+      [
+        "Antigua and Barbuda",
+        "Q781",
+        "",
+        ""
+      ],
+      [
+        "Grenada",
+        "Q769",
+        "",
+        ""
+      ],
+      [
+        "Saint Vincent and the Grenadines",
+        "Q757",
+        "",
+        ""
+      ],
+      [
+        "Saint Kitts and Nevis",
+        "Q763",
+        "",
+        ""
+      ],
+      [
+        "Saint Lucia",
+        "Q760",
+        "",
+        ""
+      ],
+      [
+        "Trinidad and Tobago",
+        "Q754",
+        "",
+        ""
+      ],
+      [
+        "Burundi",
+        "Q967",
+        "",
+        ""
+      ],
+      [
+        "Eritrea",
+        "Q986",
+        "",
+        ""
+      ],
+      [
+        "Zimbabwe",
+        "Q954",
+        "",
+        ""
+      ],
+      [
+        "Zambia",
+        "Q953",
+        "",
+        ""
+      ],
+      [
+        "Mauritius",
+        "Q1027",
+        "",
+        ""
+      ],
+      [
+        "Eswatini",
+        "Q1050",
+        "",
+        ""
+      ],
+      [
+        "Namibia",
+        "Q1030",
+        "",
+        ""
+      ],
+      [
+        "Rwanda",
+        "Q1037",
+        "",
+        ""
+      ],
+      [
+        "Seychelles",
+        "Q1042",
+        "",
+        ""
+      ],
+      [
+        "Uganda",
+        "Q1036",
+        "",
+        ""
+      ],
+      [
+        "Kenya",
+        "Q114",
+        "",
+        ""
+      ],
+      [
+        "Belize",
+        "Q242",
+        "",
+        ""
+      ],
+      [
+        "Barbados",
+        "Q244",
+        "",
+        ""
+      ],
+      [
+        "Malta",
+        "Q233",
+        "",
+        ""
+      ],
+      [
+        "The Gambia",
+        "Q1005",
+        "",
+        ""
+      ],
+      [
+        "The Bahamas",
+        "Q778",
+        "",
+        ""
+      ],
+      [
+        "Finland",
+        "Q33",
+        "",
+        ""
+      ],
+      [
+        "Indonesia",
+        "Q252",
+        "",
+        ""
+      ],
+      [
+        "Australia",
+        "Q408",
+        "",
+        ""
+      ],
+      [
+        "Israel",
+        "Q801",
+        "",
+        ""
+      ],
+      [
+        "Egypt",
+        "Q79",
+        "",
+        ""
+      ],
+      [
+        "Mexico",
+        "Q96",
+        "",
+        ""
+      ],
+      [
+        "Morocco",
+        "Q1028",
+        "",
+        ""
+      ],
+      [
+        "Bahrain",
+        "Q398",
+        "",
+        ""
+      ],
+      [
+        "Oman",
+        "Q842",
+        "",
+        ""
+      ],
+      [
+        "Sri Lanka",
+        "Q854",
+        "",
+        ""
+      ],
+      [
+        "Bhutan",
+        "Q917",
+        "",
+        ""
+      ],
+      [
+        "Tunisia",
+        "Q948",
+        "",
+        ""
+      ],
+      [
+        "United Arab Emirates",
+        "Q878",
+        "",
+        ""
+      ],
+      [
+        "Ethiopia",
+        "Q115",
+        "",
+        ""
+      ],
+      [
+        "Syria",
+        "Q858",
+        "",
+        ""
+      ],
+      [
+        "Jordan",
+        "Q810",
+        "",
+        ""
+      ],
+      [
+        "Cambodia",
+        "Q424",
+        "",
+        ""
+      ],
+      [
+        "Suriname",
+        "Q730",
+        "",
+        ""
+      ],
+      [
+        "Maldives",
+        "Q826",
+        "",
+        ""
+      ],
+      [
+        "Malaysia",
+        "Q833",
+        "",
+        ""
+      ],
+      [
+        "Nepal",
+        "Q837",
+        "",
+        ""
+      ],
+      [
+        "Bangladesh",
+        "Q902",
+        "",
+        ""
+      ],
+      [
+        "Burkina Faso",
+        "Q965",
+        "",
+        ""
+      ],
+      [
+        "Mauritania",
+        "Q1025",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 3791179
+  },
+  "Legal English": {
+    "qid": "Q1374908",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "English prepositions": {
+    "qid": "Q29596885",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "linguistic purism in English": {
+    "qid": "Q1191063",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "South African English": {
+    "qid": "Q1156228",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Philippine English": {
+    "qid": "Q1413694",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Modern English": {
+    "qid": "Q1649537",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Zambian English": {
+    "qid": "Q131447992",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Globish (Nerrière)": {
+    "qid": "Q1232847",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "International English": {
+    "qid": "Q1342549",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Simplified Technical English": {
+    "qid": "Q1454599",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Ghanaian Pidgin English": {
+    "qid": "Q5555465",
+    "parent_qid": "Q1860",
+    "countries": [
+      [
+        "Ghana",
+        "Q117",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 3791179
+  },
+  "English adjective": {
+    "countries": {},
+    "qid": "Q12048164",
+    "parent_qid": "Q1860",
+    "views_12m": 3791179
+  },
+  "dialects of English": {
+    "qid": "Q12858101",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "foreign language influences in English": {
+    "countries": {},
+    "qid": "Q4184222",
+    "parent_qid": "Q1860",
+    "views_12m": 3791179
+  },
+  "English language education in Japan": {
+    "countries": {},
+    "qid": "Q115562",
+    "parent_qid": "Q1860",
+    "views_12m": 3791179
+  },
+  "eh": {
+    "countries": {},
+    "qid": "Q5348553",
+    "parent_qid": "Q1860",
+    "views_12m": 3791179
+  },
+  "Pig Latin": {
+    "qid": "Q751065",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Maltese English": {
+    "countries": {},
+    "qid": "Q131745798",
+    "parent_qid": "Q1860",
+    "views_12m": 3791179
+  },
+  "Tinglish": {
+    "qid": "Q1546608",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "English language in Switzerland": {
+    "qid": "Q2849612",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Tristan da Cunha English": {
+    "qid": "Q15714762",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Singapore English": {
+    "qid": "Q3610939",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "English language in Ukraine": {
+    "qid": "Q96163608",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "English in the Netherlands": {
+    "qid": "Q1875673",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "English language in Europe": {
+    "qid": "Q2849614",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Denglisch": {
+    "countries": {},
+    "qid": "Q1187121",
+    "parent_qid": "Q1860",
+    "views_12m": 3791179
+  },
+  "Scottish English": {
+    "qid": "Q1553250",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "English as a second or foreign language": {
+    "countries": {},
+    "qid": "Q130192",
+    "parent_qid": "Q1860",
+    "views_12m": 3791179
+  },
+  "Northern American English": {
+    "qid": "Q7058121",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Saint Helena English": {
+    "qid": "Q15714765",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Falkland Islands English": {
+    "qid": "Q1394359",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Newfoundland English": {
+    "qid": "Q2849615",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Caribbean English": {
+    "qid": "Q4567134",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Jamaican English": {
+    "qid": "Q603200",
+    "parent_qid": "Q1860",
+    "countries": [
+      [
+        "Jamaica",
+        "Q766",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 3791179
+  },
+  "Brittonicisms in English": {
+    "qid": "Q4971694",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Channel Island English": {
+    "qid": "Q4327433",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Cameroonian English": {
+    "qid": "Q5026440",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "rhyming slang": {
+    "qid": "Q429083",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Kenyan English": {
+    "qid": "Q18393011",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Hawaiian English": {
+    "countries": {},
+    "qid": "Q1531433",
+    "parent_qid": "Q1860",
+    "views_12m": 3791179
+  },
+  "Gibraltarian English": {
+    "qid": "Q5559233",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Standard English": {
+    "qid": "Q14437894",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "world Englishes": {
+    "qid": "Q3545554",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "English language in Spain": {
+    "qid": "Q5908630",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Butler English": {
+    "qid": "Q17050176",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Bajan English": {
+    "qid": "Q5378584",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Hiberno-English": {
+    "qid": "Q665624",
+    "parent_qid": "Q1860",
+    "countries": [
+      [
+        "Ireland",
+        "Q27",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 3791179
+  },
+  "Simple English": {
+    "qid": "Q21480034",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Manx English": {
+    "qid": "Q6753295",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Malawian English": {
+    "qid": "Q6741487",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "European English": {
+    "qid": "Q23580217",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "broken English": {
+    "qid": "Q20504733",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "English language in Puerto Rico": {
+    "qid": "Q5378585",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Ghanaian English": {
+    "qid": "Q25105912",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Hebronics": {
+    "countries": {},
+    "qid": "Q2919292",
+    "parent_qid": "Q1860",
+    "views_12m": 3791179
+  },
+  "Iyaric": {
+    "countries": {},
+    "qid": "Q3368839",
+    "parent_qid": "Q1860",
+    "views_12m": 3791179
+  },
+  "Ulster English": {
+    "qid": "Q6840826",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Palauan English": {
+    "qid": "Q7126883",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Chancery Standard": {
+    "qid": "Q5849911",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "U and non-U English": {
+    "qid": "Q7876257",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Bahamian English": {
+    "qid": "Q4842384",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Ozark English": {
+    "qid": "Q7116484",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Nigerian English": {
+    "qid": "Q7033019",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Solomon Islands English": {
+    "qid": "Q7558643",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Ugandan English": {
+    "qid": "Q7877674",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Sierra Leonean English": {
+    "countries": {},
+    "qid": "Q17081997",
+    "parent_qid": "Q1860",
+    "views_12m": 3791179
+  },
+  "Brunei English": {
+    "countries": {},
+    "qid": "Q17027001",
+    "parent_qid": "Q1860",
+    "views_12m": 3791179
+  },
+  "Pennsylvania Dutch English": {
+    "qid": "Q7163723",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "plain English": {
+    "qid": "Q2920188",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "South Asian English": {
+    "qid": "Q7566032",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Torres Strait English": {
+    "qid": "Q7827064",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Buddhist Hybrid English": {
+    "qid": "Q47496142",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "American Indian English": {
+    "qid": "Q55603810",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Rwandan English": {
+    "qid": "Q137482449",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Singlish": {
+    "qid": "Q939451",
+    "parent_qid": "Q1860",
+    "countries": [
+      [
+        "Singapore",
+        "Q334",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 3791179
+  },
+  "Namlish": {
+    "qid": "Q953412",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Trinidadian and Tobagonian English": {
+    "qid": "Q7842492",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "South Atlantic English": {
+    "qid": "Q7566064",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Southeast Asian English": {
+    "qid": "Q25104285",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Basic English": {
+    "qid": "Q26746",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "New Zealand English": {
+    "qid": "Q44661",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Zimbabwean English": {
+    "qid": "Q104876826",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Ebonics": {
+    "qid": "Q8013",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Middle English": {
+    "qid": "Q36395",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Standard English (from the BBC)": {
+    "qid": "Q7053766",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Utah Mormon English": {
+    "qid": "Q65082803",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "English language in Lebanon": {
+    "qid": "Q107472554",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Pijin": {
+    "qid": "Q36699",
+    "parent_qid": "Q1860",
+    "countries": [
+      [
+        "Solomon Islands",
+        "Q685",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 3791179
+  },
+  "Bay Islands English": {
+    "countries": {},
+    "qid": "Q4874023",
+    "parent_qid": "Q1860",
+    "views_12m": 3791179
+  },
+  "Luminar English": {
+    "qid": "Q114591062",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "English language in Algeria": {
+    "qid": "Q105562482",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Degawa English": {
+    "qid": "Q121342167",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Gambian English": {
+    "qid": "Q65069060",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "English language in Sweden": {
+    "qid": "Q117822893",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Pirate English": {
+    "qid": "Q115363881",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Zulu English": {
+    "qid": "Q8075191",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "Cyrillic English": {
+    "qid": "Q120794107",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "African Nova Scotian English": {
+    "qid": "Q65083969",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  },
+  "British English": {
+    "qid": "Q7979",
+    "parent_qid": "Q1860",
+    "countries": [
+      [
+        "Brunei",
+        "Q921",
+        "",
+        ""
+      ]
+    ],
+    "views_12m": 3791179
+  },
+  "Jewish English varieties": {
+    "qid": "Q6189822",
+    "parent_qid": "Q1860",
+    "countries": [],
+    "views_12m": 3791179
+  }
+}

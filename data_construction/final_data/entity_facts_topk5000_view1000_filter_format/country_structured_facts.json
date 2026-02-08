@@ -1,0 +1,9304 @@
+{
+  "Pakistan": [
+    [
+      "Azad Kashmir",
+      13297.0
+    ],
+    [
+      "Balochistan",
+      347190.0
+    ],
+    [
+      "Gilgit-Baltistan",
+      72971.0
+    ],
+    [
+      "Islamabad Capital Territory",
+      1165.5
+    ],
+    [
+      "Khyber Pakhtunkhwa",
+      74521.0
+    ],
+    [
+      "Punjab",
+      205344.0
+    ],
+    [
+      "Sindh",
+      140914.0
+    ]
+  ],
+  "United Kingdom": [
+    [
+      "England",
+      130278.0
+    ],
+    [
+      "Northern Ireland",
+      14130.0
+    ],
+    [
+      "Scotland",
+      78782.0
+    ],
+    [
+      "Wales",
+      21218.0
+    ]
+  ],
+  "Bangladesh": [
+    [
+      "Barisal Division",
+      13225.2
+    ],
+    [
+      "Chattogram Division",
+      33771.18
+    ],
+    [
+      "Dhaka Division",
+      20593.74
+    ],
+    [
+      "Khulna Division",
+      22284.22
+    ],
+    [
+      "Mymensingh Division",
+      10584.06
+    ],
+    [
+      "Rajshahi Division",
+      18174.4
+    ],
+    [
+      "Rangpur Division",
+      16184.99
+    ],
+    [
+      "Sylhet Division",
+      12298.4
+    ]
+  ],
+  "Canada": [
+    [
+      "Alberta",
+      661848.0
+    ],
+    [
+      "British Columbia",
+      944735.0
+    ],
+    [
+      "Manitoba",
+      647797.0
+    ],
+    [
+      "New Brunswick",
+      72908.0
+    ],
+    [
+      "Newfoundland and Labrador",
+      405212.0
+    ],
+    [
+      "Northwest Territories",
+      1346106.0
+    ],
+    [
+      "Nova Scotia",
+      55283.0
+    ],
+    [
+      "Nunavut",
+      2038722.0
+    ],
+    [
+      "Ontario",
+      1076395.0
+    ],
+    [
+      "Prince Edward Island",
+      5620.0
+    ],
+    [
+      "Quebec",
+      1542056.0
+    ],
+    [
+      "Saskatchewan",
+      651900.0
+    ],
+    [
+      "Yukon",
+      482443.0
+    ]
+  ],
+  "Israel": [
+    [
+      "Central District",
+      1293.0
+    ],
+    [
+      "Haifa District",
+      864.0
+    ],
+    [
+      "Jerusalem District",
+      652.0
+    ],
+    [
+      "Northern District",
+      4473.0
+    ],
+    [
+      "Southern District",
+      14185.0
+    ],
+    [
+      "Tel Aviv District",
+      186.0
+    ]
+  ],
+  "Iran": [
+    [
+      "Alborz Province",
+      5833.0
+    ],
+    [
+      "Ardabil Province",
+      17800.0
+    ],
+    [
+      "Bushehr Province",
+      22743.0
+    ],
+    [
+      "Chaharmahal and Bakhtiari Province",
+      16332.0
+    ],
+    [
+      "East Azarbaijan Province",
+      45650.0
+    ],
+    [
+      "Fars Province",
+      122608.0
+    ],
+    [
+      "Gilan Province",
+      14042.0
+    ],
+    [
+      "Golestan Province",
+      20367.0
+    ],
+    [
+      "Hamadan Province",
+      19368.0
+    ],
+    [
+      "Hormozgan Province",
+      70697.0
+    ],
+    [
+      "Ilam Province",
+      20133.0
+    ],
+    [
+      "Isfahan Province",
+      107029.0
+    ],
+    [
+      "Kerman Province",
+      180726.0
+    ],
+    [
+      "Kermanshah Province",
+      25009.0
+    ],
+    [
+      "Khuzestan Province",
+      64055.0
+    ],
+    [
+      "Kohgiluyeh and Boyer-Ahmad Province",
+      15504.0
+    ],
+    [
+      "Kurdistan Province",
+      29137.0
+    ],
+    [
+      "Lorestan Province",
+      28294.0
+    ],
+    [
+      "Markazi Province",
+      29127.0
+    ],
+    [
+      "Mazandaran Province",
+      23842.0
+    ],
+    [
+      "North Khorasan Province",
+      28434.0
+    ],
+    [
+      "Qazvin Province",
+      15567.0
+    ],
+    [
+      "Qom Province",
+      11526.0
+    ],
+    [
+      "Razavi Khorasan Province",
+      118884.0
+    ],
+    [
+      "Semnan Province",
+      97491.0
+    ],
+    [
+      "Sistan and Baluchestan Province",
+      181785.0
+    ],
+    [
+      "South Khorasan Province",
+      151193.0
+    ],
+    [
+      "Tehran Province",
+      18814.0
+    ],
+    [
+      "West Azarbaijan Province",
+      37437.0
+    ],
+    [
+      "Yazd Province",
+      76469.0
+    ],
+    [
+      "Zanjan Province",
+      21773.0
+    ]
+  ],
+  "India": [
+    [
+      "Andaman and Nicobar Islands",
+      8249.0
+    ],
+    [
+      "Andhra Pradesh",
+      162970.0
+    ],
+    [
+      "Arunachal Pradesh",
+      83743.0
+    ],
+    [
+      "Assam",
+      78438.0
+    ],
+    [
+      "Bihar",
+      94163.0
+    ],
+    [
+      "Chhattisgarh",
+      135194.0
+    ],
+    [
+      "Dadra and Nagar Haveli and Daman and Diu",
+      603.0
+    ],
+    [
+      "Goa",
+      3702.0
+    ],
+    [
+      "Gujarat",
+      196024.0
+    ],
+    [
+      "Haryana",
+      44212.0
+    ],
+    [
+      "Himachal Pradesh",
+      55780.0
+    ],
+    [
+      "Jammu and Kashmir",
+      42241.0
+    ],
+    [
+      "Jharkhand",
+      79714.0
+    ],
+    [
+      "Karnataka",
+      191791.0
+    ],
+    [
+      "Kerala",
+      38863.0
+    ],
+    [
+      "Ladakh",
+      59196.0
+    ],
+    [
+      "Lakshadweep",
+      32.0
+    ],
+    [
+      "Madhya Pradesh",
+      308245.0
+    ],
+    [
+      "Maharashtra",
+      307713.0
+    ],
+    [
+      "Manipur",
+      22327.0
+    ],
+    [
+      "Meghalaya",
+      22429.0
+    ],
+    [
+      "Mizoram",
+      21081.0
+    ],
+    [
+      "Nagaland",
+      16579.0
+    ],
+    [
+      "Odisha",
+      155707.0
+    ],
+    [
+      "Puducherry",
+      492.0
+    ],
+    [
+      "Punjab",
+      50362.0
+    ],
+    [
+      "Rajasthan",
+      342269.0
+    ],
+    [
+      "Sikkim",
+      7096.0
+    ],
+    [
+      "Tamil Nadu",
+      130058.0
+    ],
+    [
+      "Telangana",
+      112077.0
+    ],
+    [
+      "Tripura",
+      10486.0
+    ],
+    [
+      "Uttar Pradesh",
+      243290.0
+    ],
+    [
+      "Uttarakhand",
+      53566.0
+    ],
+    [
+      "West Bengal",
+      88752.0
+    ]
+  ],
+  "New Zealand": [
+    [
+      "Auckland Region",
+      4894.0
+    ],
+    [
+      "Bay of Plenty Region",
+      12231.0
+    ],
+    [
+      "Canterbury Region",
+      44504.3
+    ],
+    [
+      "Gisborne District",
+      8385.33
+    ],
+    [
+      "Hawke's Bay Region",
+      14111.0
+    ],
+    [
+      "Manawatū-Whanganui Region",
+      22215.0
+    ],
+    [
+      "Marlborough District",
+      12484.59
+    ],
+    [
+      "Nelson Region",
+      422.19
+    ],
+    [
+      "Northland Region",
+      13789.0
+    ],
+    [
+      "Otago Region",
+      31241.0
+    ],
+    [
+      "Southland Region",
+      34347.0
+    ],
+    [
+      "Taranaki Region",
+      7257.0
+    ],
+    [
+      "Tasman District",
+      9771.0
+    ],
+    [
+      "Waikato Region",
+      25598.0
+    ],
+    [
+      "Wellington Region",
+      8140.0
+    ],
+    [
+      "West Coast Region",
+      23276.0
+    ]
+  ],
+  "Mexico": [
+    [
+      "Aguascalientes",
+      5617.8
+    ],
+    [
+      "Baja California",
+      71450.0
+    ],
+    [
+      "Baja California Sur",
+      73909.0
+    ],
+    [
+      "Campeche",
+      57484.9
+    ],
+    [
+      "Chiapas",
+      73311.0
+    ],
+    [
+      "Chihuahua",
+      247455.0
+    ],
+    [
+      "Coahuila",
+      151595.0
+    ],
+    [
+      "Colima",
+      5626.9
+    ],
+    [
+      "Durango",
+      123317.0
+    ],
+    [
+      "Guanajuato",
+      30607.0
+    ],
+    [
+      "Guerrero",
+      63596.0
+    ],
+    [
+      "Hidalgo",
+      20821.4
+    ],
+    [
+      "Jalisco",
+      78588.0
+    ],
+    [
+      "Mexico City",
+      1485.0
+    ],
+    [
+      "Michoacán",
+      58599.0
+    ],
+    [
+      "Morelos",
+      4879.0
+    ],
+    [
+      "Nayarit",
+      27857.0
+    ],
+    [
+      "Nuevo León",
+      64156.0
+    ],
+    [
+      "Oaxaca",
+      93793.0
+    ],
+    [
+      "Puebla",
+      34306.0
+    ],
+    [
+      "Querétaro",
+      11699.0
+    ],
+    [
+      "Quintana Roo",
+      44705.0
+    ],
+    [
+      "San Luis Potosí",
+      60983.0
+    ],
+    [
+      "Sinaloa",
+      57377.0
+    ],
+    [
+      "Sonora",
+      179503.0
+    ],
+    [
+      "State of Mexico",
+      22351.0
+    ],
+    [
+      "Tabasco",
+      24738.0
+    ],
+    [
+      "Tamaulipas",
+      80175.0
+    ],
+    [
+      "Tlaxcala",
+      3991.0
+    ],
+    [
+      "Veracruz",
+      71820.0
+    ],
+    [
+      "Yucatán",
+      39612.0
+    ],
+    [
+      "Zacatecas",
+      75539.0
+    ]
+  ],
+  "Lebanon": [
+    [
+      "Beirut Governorate",
+      19.8
+    ],
+    [
+      "Beqaa Governorate",
+      1433.0
+    ],
+    [
+      "Mount Lebanon Governorate",
+      1238.0
+    ],
+    [
+      "Nabatieh Governorate",
+      1058.0
+    ],
+    [
+      "North Governorate",
+      2024.8
+    ],
+    [
+      "South Governorate",
+      929.6
+    ]
+  ],
+  "Saudi Arabia": [
+    [
+      "Al-Baha Province",
+      9921.0
+    ],
+    [
+      "Al-Jowf Province",
+      100212.0
+    ],
+    [
+      "Al-Qassim",
+      58046.0
+    ],
+    [
+      "Asir Province",
+      81000.0
+    ],
+    [
+      "Eastern Province",
+      672522.0
+    ],
+    [
+      "Jazan Province",
+      13457.0
+    ],
+    [
+      "Mecca Province",
+      153148.0
+    ],
+    [
+      "Medina Province",
+      151990.0
+    ],
+    [
+      "Najran Province",
+      119000.0
+    ],
+    [
+      "Northern Borders Province",
+      111797.0
+    ],
+    [
+      "Riyadh Province",
+      412000.0
+    ],
+    [
+      "Tabuk Province",
+      108000.0
+    ],
+    [
+      "Ḥaʼil Province",
+      103887.0
+    ]
+  ],
+  "Cyprus": [
+    [
+      "Famagusta District",
+      1985.341
+    ],
+    [
+      "Kyrenia District",
+      643.922
+    ],
+    [
+      "Larnaca District",
+      1120.052
+    ],
+    [
+      "Limassol District",
+      1393.314
+    ],
+    [
+      "Nicosia District",
+      2710.002
+    ],
+    [
+      "Paphos District",
+      1389.819
+    ]
+  ],
+  "South Africa": [
+    [
+      "Eastern Cape",
+      168966.0
+    ],
+    [
+      "Free State",
+      129825.0
+    ],
+    [
+      "Gauteng",
+      18178.0
+    ],
+    [
+      "KwaZulu-Natal",
+      94361.0
+    ],
+    [
+      "Limpopo",
+      125754.0
+    ],
+    [
+      "Mpumalanga",
+      76495.0
+    ],
+    [
+      "North West",
+      104882.0
+    ],
+    [
+      "Northern Cape",
+      372889.0
+    ],
+    [
+      "Western Cape",
+      129462.0
+    ]
+  ],
+  "South Korea": [
+    [
+      "Busan",
+      769.83
+    ],
+    [
+      "Daegu",
+      1499.53
+    ],
+    [
+      "Daejeon",
+      539.96
+    ],
+    [
+      "Gangwon Province",
+      16873.51
+    ],
+    [
+      "Gwangju",
+      501.18
+    ],
+    [
+      "Gyeonggi Province",
+      10172.07
+    ],
+    [
+      "Incheon",
+      1046.807
+    ],
+    [
+      "Jeju Province",
+      1848.0
+    ],
+    [
+      "North Chungcheong",
+      7407.22
+    ],
+    [
+      "North Gyeongsang",
+      19029.0
+    ],
+    [
+      "North Jeolla",
+      8067.0
+    ],
+    [
+      "Sejong",
+      465.0
+    ],
+    [
+      "South Chungcheong",
+      8204.0
+    ],
+    [
+      "South Gyeongsang",
+      10538.0
+    ],
+    [
+      "South Jeolla",
+      12309.03
+    ],
+    [
+      "Ulsan",
+      1060.19
+    ]
+  ],
+  "Afghanistan": [
+    [
+      "Badakhshan Province",
+      44059.0
+    ],
+    [
+      "Badghis Province",
+      20591.0
+    ],
+    [
+      "Baghlan Province",
+      21118.0
+    ],
+    [
+      "Balkh Province",
+      16186.3
+    ],
+    [
+      "Bamyan Province",
+      14175.0
+    ],
+    [
+      "Daykundi Province",
+      18088.0
+    ],
+    [
+      "Farah Province",
+      48470.9
+    ],
+    [
+      "Faryab Province",
+      20293.0
+    ],
+    [
+      "Ghazni Province",
+      22915.0
+    ],
+    [
+      "Ghor Province",
+      3657.0
+    ],
+    [
+      "Helmand Province",
+      58584.0
+    ],
+    [
+      "Herat Province",
+      54778.0
+    ],
+    [
+      "Jowzjan Province",
+      11798.3
+    ],
+    [
+      "Kabul Province",
+      4461.6
+    ],
+    [
+      "Kandahar Province",
+      54022.0
+    ],
+    [
+      "Kapisa Province",
+      1842.0
+    ],
+    [
+      "Khost Province",
+      4151.5
+    ],
+    [
+      "Kunar Province",
+      4339.0
+    ],
+    [
+      "Kunduz Province",
+      8040.0
+    ],
+    [
+      "Laghman Province",
+      3843.0
+    ],
+    [
+      "Logar Province",
+      3879.8
+    ],
+    [
+      "Maidan Wardak Province",
+      9934.0
+    ],
+    [
+      "Nangarhar Province",
+      7727.0
+    ],
+    [
+      "Nimruz Province",
+      41356.0
+    ],
+    [
+      "Nuristan Province",
+      9225.0
+    ],
+    [
+      "Paktia Province",
+      6432.0
+    ],
+    [
+      "Paktika Province",
+      19482.0
+    ],
+    [
+      "Panjshir Province",
+      3610.0
+    ],
+    [
+      "Parwan Province",
+      5974.0
+    ],
+    [
+      "Samangan Province",
+      11262.0
+    ],
+    [
+      "Sar-e Pol Province",
+      16360.0
+    ],
+    [
+      "Takhar Province",
+      12333.0
+    ],
+    [
+      "Uruzgan Province",
+      12640.0
+    ],
+    [
+      "Zabul Province",
+      17343.0
+    ]
+  ],
+  "Netherlands": [
+    [
+      "Drenthe",
+      2680.37
+    ],
+    [
+      "Flevoland",
+      1419.0
+    ],
+    [
+      "Friesland",
+      5748.74
+    ],
+    [
+      "Gelderland",
+      5136.51
+    ],
+    [
+      "Groningen",
+      2960.0
+    ],
+    [
+      "Limburg",
+      2153.0
+    ],
+    [
+      "North Brabant",
+      4919.0
+    ],
+    [
+      "North Holland",
+      4091.76
+    ],
+    [
+      "Overijssel",
+      3327.0
+    ],
+    [
+      "South Holland",
+      3418.5
+    ],
+    [
+      "Utrecht",
+      1386.0
+    ],
+    [
+      "Zeeland",
+      1787.0
+    ]
+  ],
+  "Myanmar": [
+    [
+      "Ayeyarwady Region",
+      35031.88
+    ],
+    [
+      "Bago Region",
+      39404.43
+    ],
+    [
+      "Chin State",
+      36019.0
+    ],
+    [
+      "Kachin State",
+      89041.0
+    ],
+    [
+      "Kayah State",
+      11731.5
+    ],
+    [
+      "Kayin State",
+      30382.8
+    ],
+    [
+      "Magway Region",
+      44820.58
+    ],
+    [
+      "Mandalay Region",
+      30888.09
+    ],
+    [
+      "Mon State",
+      12296.6
+    ],
+    [
+      "Rakhine State",
+      36778.0
+    ],
+    [
+      "Sagaing Region",
+      93702.48
+    ],
+    [
+      "Shan State",
+      155801.0
+    ],
+    [
+      "Tanintharyi Region",
+      43344.91
+    ],
+    [
+      "Yangon Region",
+      10276.71
+    ]
+  ],
+  "Italy": [
+    [
+      "Abruzzo",
+      10831.84
+    ],
+    [
+      "Aosta Valley",
+      3263.22
+    ],
+    [
+      "Apulia",
+      19365.8
+    ],
+    [
+      "Basilicata",
+      9994.61
+    ],
+    [
+      "Calabria",
+      15221.9
+    ],
+    [
+      "Campania",
+      13670.95
+    ],
+    [
+      "Emilia-Romagna",
+      22123.09
+    ],
+    [
+      "Friuli Venezia Giulia",
+      7862.3
+    ],
+    [
+      "Lazio",
+      17236.0
+    ],
+    [
+      "Liguria",
+      5422.0
+    ],
+    [
+      "Lombardy",
+      23863.65
+    ],
+    [
+      "Marche",
+      9694.0
+    ],
+    [
+      "Molise",
+      4438.0
+    ],
+    [
+      "Piedmont",
+      25387.0
+    ],
+    [
+      "Sardinia",
+      23949.0
+    ],
+    [
+      "Sicily",
+      25711.0
+    ],
+    [
+      "Trentino-South Tyrol",
+      13606.87
+    ],
+    [
+      "Tuscany",
+      22987.04
+    ],
+    [
+      "Umbria",
+      8456.0
+    ],
+    [
+      "Veneto",
+      18345.35
+    ]
+  ],
+  "Thailand": [
+    [
+      "Amnat Charoen",
+      3161.248
+    ],
+    [
+      "Ang Thong",
+      968.372
+    ],
+    [
+      "Bangkok",
+      1568.737
+    ],
+    [
+      "Bueng Kan",
+      4305.0
+    ],
+    [
+      "Buri Ram",
+      10322.885
+    ],
+    [
+      "Chachoengsao",
+      5351.0
+    ],
+    [
+      "Chai Nat",
+      2496.746
+    ],
+    [
+      "Chaiyaphum",
+      12778.287
+    ],
+    [
+      "Chanthaburi",
+      6338.0
+    ],
+    [
+      "Chiang Mai",
+      22311.0743
+    ],
+    [
+      "Chiang Rai",
+      11678.369
+    ],
+    [
+      "Chon Buri",
+      4363.0
+    ],
+    [
+      "Chumphon",
+      6009.008
+    ],
+    [
+      "Kalasin",
+      6946.746
+    ],
+    [
+      "Kamphaeng Phet",
+      8607.49
+    ],
+    [
+      "Kanchanaburi",
+      19483.148
+    ],
+    [
+      "Khon Kaen",
+      10885.991
+    ],
+    [
+      "Krabi",
+      4708.512
+    ],
+    [
+      "Lampang",
+      12533.961
+    ],
+    [
+      "Lamphun",
+      4505.882
+    ],
+    [
+      "Loei province",
+      11424.612
+    ],
+    [
+      "Lopburi",
+      6199.753
+    ],
+    [
+      "Mae Hong Son",
+      12681.25
+    ],
+    [
+      "Maha Sarakham",
+      5291.683
+    ],
+    [
+      "Mukdahan",
+      4339.83
+    ],
+    [
+      "Nakhon Nayok",
+      2122.0
+    ],
+    [
+      "Nakhon Pathom",
+      2168.327
+    ],
+    [
+      "Nakhon Phanom",
+      5512.668
+    ],
+    [
+      "Nakhon Ratchasima",
+      20493.964
+    ],
+    [
+      "Nakhon Sawan",
+      9597.677
+    ],
+    [
+      "Nakhon Si Thammarat",
+      9942.502
+    ],
+    [
+      "Nan",
+      11472.072
+    ],
+    [
+      "Narathiwat",
+      4475.43
+    ],
+    [
+      "Nong Bua Lamphu",
+      3859.086
+    ],
+    [
+      "Nong Khai",
+      3027.0
+    ],
+    [
+      "Nonthaburi",
+      622.303
+    ],
+    [
+      "Pathum Thani",
+      1525.856
+    ],
+    [
+      "Pattani",
+      1940.356
+    ],
+    [
+      "Phang Nga",
+      4170.895
+    ],
+    [
+      "Phatthalung",
+      3424.473
+    ],
+    [
+      "Phayao",
+      6335.06
+    ],
+    [
+      "Phetchabun",
+      12668.416
+    ],
+    [
+      "Phetchaburi",
+      6225.138
+    ],
+    [
+      "Phichit",
+      4531.013
+    ],
+    [
+      "Phitsanulok",
+      10815.854
+    ],
+    [
+      "Phra Nakhon Si Ayutthaya",
+      2556.64
+    ],
+    [
+      "Phrae",
+      6538.598
+    ],
+    [
+      "Phuket",
+      543.034
+    ],
+    [
+      "Prachin Buri",
+      4762.362
+    ],
+    [
+      "Prachuap Khiri Khan",
+      6367.62
+    ],
+    [
+      "Ranong province",
+      3298.045
+    ],
+    [
+      "Ratchaburi",
+      5196.462
+    ],
+    [
+      "Rayong",
+      3551.9
+    ],
+    [
+      "Roi Et",
+      8299.449
+    ],
+    [
+      "Sa Kaeo",
+      7195.138
+    ],
+    [
+      "Sakon Nakhon",
+      9605.764
+    ],
+    [
+      "Samut Prakan",
+      1004.092
+    ],
+    [
+      "Samut Sakhon",
+      872.347
+    ],
+    [
+      "Samut Songkhram",
+      416.707
+    ],
+    [
+      "Saraburi",
+      3576.486
+    ],
+    [
+      "Satun",
+      2478.977
+    ],
+    [
+      "Si Sa Ket",
+      8839.976
+    ],
+    [
+      "Sing Buri",
+      822.478
+    ],
+    [
+      "Songkhla",
+      7393.889
+    ],
+    [
+      "Sukhothai",
+      6596.092
+    ],
+    [
+      "Suphan Buri",
+      5358.008
+    ],
+    [
+      "Surat Thani",
+      12891.469
+    ],
+    [
+      "Surin",
+      8124.056
+    ],
+    [
+      "Tak",
+      16406.65
+    ],
+    [
+      "Trang",
+      4917.519
+    ],
+    [
+      "Trat",
+      2819.0
+    ],
+    [
+      "Ubon Ratchathani",
+      15744.85
+    ],
+    [
+      "Udon Thani",
+      11730.302
+    ],
+    [
+      "Uthai Thani",
+      6730.246
+    ],
+    [
+      "Uttaradit",
+      7838.592
+    ],
+    [
+      "Yala",
+      4521.078
+    ],
+    [
+      "Yasothon",
+      4161.664
+    ]
+  ],
+  "United Arab Emirates": [
+    [
+      "Emirate of Abu Dhabi",
+      73060.0
+    ],
+    [
+      "Emirate of Ajman",
+      259.0
+    ],
+    [
+      "Emirate of Dubai",
+      4114.0
+    ],
+    [
+      "Emirate of Fujairah",
+      1165.0
+    ],
+    [
+      "Emirate of Ras Al Khaimah",
+      2486.0
+    ],
+    [
+      "Emirate of Sharjah",
+      2590.0
+    ],
+    [
+      "Emirate of Umm Al Quwain",
+      777.0
+    ]
+  ],
+  "Vietnam": [
+    [
+      "An Giang",
+      3536.82
+    ],
+    [
+      "Bắc Ninh",
+      822.71
+    ],
+    [
+      "Cao Bằng",
+      6700.39
+    ],
+    [
+      "Cà Mau",
+      5274.51
+    ],
+    [
+      "Cần Thơ",
+      1440.4
+    ],
+    [
+      "Gia Lai",
+      15510.13
+    ],
+    [
+      "Haiphong",
+      1526.52
+    ],
+    [
+      "Hanoi",
+      3359.84
+    ],
+    [
+      "Ho Chi Minh City",
+      2095.39
+    ],
+    [
+      "Huế",
+      4947.11
+    ],
+    [
+      "Hà Tĩnh",
+      5994.45
+    ],
+    [
+      "Hưng Yên",
+      930.2
+    ],
+    [
+      "Khánh Hòa",
+      5199.62
+    ],
+    [
+      "Lai Châu",
+      9068.73
+    ],
+    [
+      "Lào Cai",
+      6364.25
+    ],
+    [
+      "Lâm Đồng",
+      9781.2
+    ],
+    [
+      "Lạng Sơn",
+      8310.18
+    ],
+    [
+      "Nghệ An",
+      16486.49
+    ],
+    [
+      "Ninh Bình",
+      1411.78
+    ],
+    [
+      "Phú Thọ",
+      3534.56
+    ],
+    [
+      "Quảng Ngãi",
+      5155.25
+    ],
+    [
+      "Quảng Ninh",
+      6207.93
+    ],
+    [
+      "Quảng Trị",
+      4701.23
+    ],
+    [
+      "Sơn La",
+      14109.83
+    ],
+    [
+      "Thanh Hóa",
+      11114.71
+    ],
+    [
+      "Thái Nguyên",
+      3521.97
+    ],
+    [
+      "Tuyên Quang",
+      5867.95
+    ],
+    [
+      "Tây Ninh",
+      4041.65
+    ],
+    [
+      "Vĩnh Long",
+      1525.73
+    ],
+    [
+      "Điện Biên",
+      9539.93
+    ],
+    [
+      "Đắk Lắk",
+      13070.41
+    ],
+    [
+      "Đồng Nai",
+      5863.62
+    ],
+    [
+      "Đồng Tháp",
+      3382.28
+    ],
+    [
+      "岘港市",
+      1284.73
+    ]
+  ],
+  "Mauritius": [
+    [
+      "Flacq District",
+      297.9
+    ],
+    [
+      "Grand Port District",
+      260.3
+    ],
+    [
+      "Moka District",
+      230.5
+    ],
+    [
+      "Pamplemousses District",
+      178.7
+    ],
+    [
+      "Plaines Wilhems District",
+      203.3
+    ],
+    [
+      "Port Louis District",
+      44.0
+    ],
+    [
+      "Rivière du Rempart District",
+      147.6
+    ],
+    [
+      "Rivière Noire District",
+      259.0
+    ],
+    [
+      "Savanne District",
+      244.8
+    ]
+  ],
+  "Poland": [
+    [
+      "Greater Poland Voivodeship",
+      29826.0
+    ],
+    [
+      "Kuyavian-Pomeranian Voivodeship",
+      17969.0
+    ],
+    [
+      "Lesser Poland Voivodeship",
+      15108.0
+    ],
+    [
+      "Lower Silesian Voivodeship",
+      19948.0
+    ],
+    [
+      "Lublin Voivodeship",
+      25114.0
+    ],
+    [
+      "Lubusz Voivodeship",
+      13988.0
+    ],
+    [
+      "Masovian Voivodeship",
+      35566.0
+    ],
+    [
+      "Opole Voivodeship",
+      9412.5
+    ],
+    [
+      "Podlaskie Voivodeship",
+      20180.0
+    ],
+    [
+      "Pomeranian Voivodeship",
+      18293.0
+    ],
+    [
+      "Silesian Voivodeship",
+      12333.09
+    ],
+    [
+      "Subcarpathian Voivodeship",
+      17844.0
+    ],
+    [
+      "Warmian-Masurian Voivodeship",
+      24191.0
+    ],
+    [
+      "West Pomeranian Voivodeship",
+      22896.0
+    ],
+    [
+      "Łódź Voivodeship",
+      18219.0
+    ],
+    [
+      "Świętokrzyskie Voivodeship",
+      11672.0
+    ]
+  ],
+  "Australia": [
+    [
+      "Ashmore and Cartier Islands",
+      199.0
+    ],
+    [
+      "Australian Antarctic Territory",
+      5896500.0
+    ],
+    [
+      "Australian Capital Territory",
+      2358.0
+    ],
+    [
+      "Christmas Island",
+      135.0
+    ],
+    [
+      "Cocos (Keeling) Islands",
+      14.0
+    ],
+    [
+      "Coral Sea Islands",
+      10.0
+    ],
+    [
+      "Heard Island and McDonald Islands",
+      368.0
+    ],
+    [
+      "Jervis Bay Territory",
+      67.0
+    ],
+    [
+      "New South Wales",
+      801150.0
+    ],
+    [
+      "Norfolk Island",
+      34.6
+    ],
+    [
+      "Northern Territory",
+      1347791.0
+    ],
+    [
+      "Queensland",
+      1729742.0
+    ],
+    [
+      "South Australia",
+      984321.0
+    ],
+    [
+      "Tasmania",
+      68401.0
+    ],
+    [
+      "Victoria",
+      10213.0
+    ],
+    [
+      "Western Australia",
+      2527013.0
+    ]
+  ],
+  "Japan": [
+    [
+      "Aichi Prefecture",
+      5165.04
+    ],
+    [
+      "Akita Prefecture",
+      11637.52
+    ],
+    [
+      "Aomori Prefecture",
+      9645.64
+    ],
+    [
+      "Chiba Prefecture",
+      5157.5
+    ],
+    [
+      "Ehime Prefecture",
+      5676.44
+    ],
+    [
+      "Fukui Prefecture",
+      4188.99
+    ],
+    [
+      "Fukuoka Prefecture",
+      4971.01
+    ],
+    [
+      "Fukushima Prefecture",
+      13784.14
+    ],
+    [
+      "Gifu Prefecture",
+      10621.17
+    ],
+    [
+      "Gunma Prefecture",
+      6362.28
+    ],
+    [
+      "Hiroshima Prefecture",
+      8476.95
+    ],
+    [
+      "Hokkaido",
+      83424.34
+    ],
+    [
+      "Hyōgo Prefecture",
+      8400.96
+    ],
+    [
+      "Ibaraki Prefecture",
+      6097.39
+    ],
+    [
+      "Ishikawa Prefecture",
+      4185.22
+    ],
+    [
+      "Iwate Prefecture",
+      15275.01
+    ],
+    [
+      "Kagawa Prefecture",
+      1861.7
+    ],
+    [
+      "Kagoshima Prefecture",
+      9132.42
+    ],
+    [
+      "Kanagawa Prefecture",
+      2416.1
+    ],
+    [
+      "Kumamoto Prefecture",
+      7404.14
+    ],
+    [
+      "Kyoto Prefecture",
+      4612.2
+    ],
+    [
+      "Kōchi Prefecture",
+      7103.93
+    ],
+    [
+      "Mie Prefecture",
+      5777.22
+    ],
+    [
+      "Miyagi Prefecture",
+      7282.29
+    ],
+    [
+      "Miyazaki Prefecture",
+      7735.99
+    ],
+    [
+      "Nagano Prefecture",
+      13585.22
+    ],
+    [
+      "Nagasaki Prefecture",
+      4105.47
+    ],
+    [
+      "Nara Prefecture",
+      3691.09
+    ],
+    [
+      "Niigata Prefecture",
+      12582.47
+    ],
+    [
+      "Oita Prefecture",
+      6340.71
+    ],
+    [
+      "Okayama Prefecture",
+      7113.21
+    ],
+    [
+      "Okinawa Prefecture",
+      2280.98
+    ],
+    [
+      "Osaka Prefecture",
+      1905.34
+    ],
+    [
+      "Saga Prefecture",
+      2439.58
+    ],
+    [
+      "Saitama Prefecture",
+      3797.75
+    ],
+    [
+      "Shiga Prefecture",
+      4017.36
+    ],
+    [
+      "Shimane Prefecture",
+      6707.95
+    ],
+    [
+      "Shizuoka Prefecture",
+      7779.63
+    ],
+    [
+      "Tochigi Prefecture",
+      6408.09
+    ],
+    [
+      "Tokushima Prefecture",
+      4144.95
+    ],
+    [
+      "Tokyo",
+      2194.05
+    ],
+    [
+      "Tottori Prefecture",
+      3507.05
+    ],
+    [
+      "Toyama Prefecture",
+      4247.22
+    ],
+    [
+      "Wakayama Prefecture",
+      4725.67
+    ],
+    [
+      "Yamagata Prefecture",
+      9323.15
+    ],
+    [
+      "Yamaguchi Prefecture",
+      6110.94
+    ],
+    [
+      "Yamanashi Prefecture",
+      4465.38
+    ]
+  ],
+  "Sri Lanka": [
+    [
+      "Central Province",
+      5674.0
+    ],
+    [
+      "Eastern Province",
+      9996.0
+    ],
+    [
+      "North Central Province",
+      10472.0
+    ],
+    [
+      "North Western Province",
+      7888.0
+    ],
+    [
+      "Northern Province",
+      8884.0
+    ],
+    [
+      "Sabaragamuwa Province",
+      4902.0
+    ],
+    [
+      "Southern Province",
+      5444.0
+    ],
+    [
+      "Uva Province",
+      8488.0
+    ],
+    [
+      "Western Province",
+      3684.0
+    ]
+  ],
+  "Malaysia": [
+    [
+      "Johor",
+      19210.0
+    ],
+    [
+      "Kedah",
+      9427.0
+    ],
+    [
+      "Kelantan",
+      15099.0
+    ],
+    [
+      "Malacca",
+      1720.0
+    ],
+    [
+      "Negeri Sembilan",
+      6686.0
+    ],
+    [
+      "Pahang",
+      35964.0
+    ],
+    [
+      "Penang",
+      1031.0
+    ],
+    [
+      "Perak",
+      21035.0
+    ],
+    [
+      "Perlis",
+      821.0
+    ],
+    [
+      "Sabah",
+      76115.0
+    ],
+    [
+      "Sarawak",
+      124450.0
+    ],
+    [
+      "Selangor",
+      8104.0
+    ],
+    [
+      "Terengganu",
+      12955.0
+    ]
+  ],
+  "Germany": [
+    [
+      "Baden-Württemberg",
+      35751.65
+    ],
+    [
+      "Bavaria",
+      70551.0
+    ],
+    [
+      "Berlin",
+      891.12
+    ],
+    [
+      "Brandenburg",
+      29478.63
+    ],
+    [
+      "Bremen",
+      419.38
+    ],
+    [
+      "Hamburg",
+      755.09
+    ],
+    [
+      "Hesse",
+      21100.0
+    ],
+    [
+      "Lower Saxony",
+      47614.07
+    ],
+    [
+      "Mecklenburg-Vorpommern",
+      23174.0
+    ],
+    [
+      "North Rhine-Westphalia",
+      34112.52
+    ],
+    [
+      "Rhineland-Palatinate",
+      19853.36
+    ],
+    [
+      "Saarland",
+      2570.0
+    ],
+    [
+      "Saxony",
+      18415.66
+    ],
+    [
+      "Saxony-Anhalt",
+      20454.0
+    ],
+    [
+      "Schleswig-Holstein",
+      15804.28
+    ],
+    [
+      "Thuringia",
+      16171.0
+    ]
+  ],
+  "Czech Republic": [
+    [
+      "Central Bohemian Region",
+      10928.44
+    ],
+    [
+      "Hradec Králové Region",
+      4759.06
+    ],
+    [
+      "Karlovy Vary Region",
+      3310.36
+    ],
+    [
+      "Liberec Region",
+      3163.4
+    ],
+    [
+      "Moravian-Silesian Region",
+      5430.54
+    ],
+    [
+      "Olomouc Region",
+      5271.54
+    ],
+    [
+      "Pardubice Region",
+      4519.2
+    ],
+    [
+      "Plzeň Region",
+      7648.96
+    ],
+    [
+      "Prague",
+      496.21
+    ],
+    [
+      "South Bohemian Region",
+      10057.98
+    ],
+    [
+      "South Moravian Region",
+      7187.83
+    ],
+    [
+      "Vysočina Region",
+      6795.75
+    ],
+    [
+      "Zlín Region",
+      3963.06
+    ],
+    [
+      "Ústí nad Labem Region",
+      5338.67
+    ]
+  ],
+  "Azerbaijan": [
+    [
+      "Absheron District",
+      1360.0
+    ],
+    [
+      "Aghdam District",
+      1154.0
+    ],
+    [
+      "Aghdash District",
+      1050.0
+    ],
+    [
+      "Aghjabadi District",
+      1760.0
+    ],
+    [
+      "Aghstafa District",
+      1504.0
+    ],
+    [
+      "Agsu District",
+      1020.0
+    ],
+    [
+      "Astara District",
+      616.0
+    ],
+    [
+      "Baku",
+      2140.0
+    ],
+    [
+      "Balakan District",
+      923.0
+    ],
+    [
+      "Barda District",
+      957.0
+    ],
+    [
+      "Beylagan District",
+      1131.0
+    ],
+    [
+      "Bilasuvar District",
+      1358.0
+    ],
+    [
+      "Dashkasan District",
+      1047.0
+    ],
+    [
+      "Fuzuli District",
+      1386.0
+    ],
+    [
+      "Gadabay District",
+      1290.0
+    ],
+    [
+      "Ganja",
+      298.0
+    ],
+    [
+      "Gazakh District",
+      701.0
+    ],
+    [
+      "Gobustan District",
+      1369.4
+    ],
+    [
+      "Goranboy District",
+      1790.0
+    ],
+    [
+      "Goychay District",
+      736.0
+    ],
+    [
+      "Goygol District",
+      1183.0
+    ],
+    [
+      "Guba District",
+      2574.0
+    ],
+    [
+      "Gubadly District",
+      802.0
+    ],
+    [
+      "Hajigabul District",
+      1640.0
+    ],
+    [
+      "Imishli District",
+      1820.0
+    ],
+    [
+      "Ismayilli District",
+      2074.0
+    ],
+    [
+      "Jabrayil District",
+      1050.0
+    ],
+    [
+      "Jalilabad District",
+      1440.0
+    ],
+    [
+      "Kalbajar District",
+      3050.0
+    ],
+    [
+      "Khachmaz District",
+      1045.0
+    ],
+    [
+      "Khizi District",
+      1850.0
+    ],
+    [
+      "Khojaly District",
+      970.0
+    ],
+    [
+      "Khojavend District",
+      1458.0
+    ],
+    [
+      "Kurdamir District",
+      1631.0
+    ],
+    [
+      "Lachin District",
+      1835.0
+    ],
+    [
+      "Lankaran",
+      70.0
+    ],
+    [
+      "Lankaran District",
+      1539.0
+    ],
+    [
+      "Lerik District",
+      1084.0
+    ],
+    [
+      "Masally District",
+      721.0
+    ],
+    [
+      "Mingachevir",
+      47.0
+    ],
+    [
+      "Naftalan",
+      40.0
+    ],
+    [
+      "Neftchala District",
+      1451.0
+    ],
+    [
+      "Oghuz District",
+      1216.0
+    ],
+    [
+      "Qabala District",
+      1548.0
+    ],
+    [
+      "Qakh District",
+      603.0
+    ],
+    [
+      "Qusar District",
+      1542.0
+    ],
+    [
+      "Saatly District",
+      1180.4
+    ],
+    [
+      "Sabirabad District",
+      1469.6
+    ],
+    [
+      "Salyan District",
+      1799.0
+    ],
+    [
+      "Samukh District",
+      1450.0
+    ],
+    [
+      "Shabran District",
+      1739.0
+    ],
+    [
+      "Shaki",
+      9.0
+    ],
+    [
+      "Shaki District",
+      2432.75
+    ],
+    [
+      "Shamakhi District",
+      1611.0
+    ],
+    [
+      "Shamkir District",
+      1956.7
+    ],
+    [
+      "Shirvan",
+      727.0
+    ],
+    [
+      "Shusha District",
+      290.0
+    ],
+    [
+      "Siyazan District",
+      700.0
+    ],
+    [
+      "Stepanakert",
+      29.12
+    ],
+    [
+      "Sumgait",
+      143.0
+    ],
+    [
+      "Tartar District",
+      957.0
+    ],
+    [
+      "Tovuz District",
+      1942.0
+    ],
+    [
+      "Ujar District",
+      867.0
+    ],
+    [
+      "Yardimli District",
+      667.2
+    ],
+    [
+      "Yevlakh",
+      95.0
+    ],
+    [
+      "Yevlakh District",
+      1537.0
+    ],
+    [
+      "Zangilan District",
+      707.0
+    ],
+    [
+      "Zaqatala District",
+      1350.0
+    ],
+    [
+      "Zardab District",
+      856.0
+    ]
+  ],
+  "Argentina": [
+    [
+      "Buenos Aires Province",
+      307571.0
+    ],
+    [
+      "Catamarca Province",
+      102602.0
+    ],
+    [
+      "Chaco Province",
+      99633.0
+    ],
+    [
+      "Chubut Province",
+      224686.0
+    ],
+    [
+      "Corrientes Province",
+      88199.0
+    ],
+    [
+      "Córdoba Province",
+      165321.0
+    ],
+    [
+      "Entre Ríos Province",
+      78781.0
+    ],
+    [
+      "Formosa Province",
+      72066.0
+    ],
+    [
+      "Jujuy Province",
+      53219.0
+    ],
+    [
+      "La Pampa",
+      143440.0
+    ],
+    [
+      "La Rioja Province",
+      89680.0
+    ],
+    [
+      "Mendoza Province",
+      148827.0
+    ],
+    [
+      "Misiones Province",
+      29801.0
+    ],
+    [
+      "Neuquén Province",
+      94078.0
+    ],
+    [
+      "Río Negro Province",
+      203013.0
+    ],
+    [
+      "Salta Province",
+      155488.0
+    ],
+    [
+      "San Juan Province",
+      89651.0
+    ],
+    [
+      "San Luis Province",
+      76748.0
+    ],
+    [
+      "Santa Cruz Province",
+      243943.0
+    ],
+    [
+      "Santa Fe Province",
+      133007.0
+    ],
+    [
+      "Santiago del Estero Province",
+      136351.0
+    ],
+    [
+      "Tierra del Fuego, Antarctica and South Atlantic Islands Province",
+      987168.0
+    ],
+    [
+      "Tucumán Province",
+      22524.0
+    ]
+  ],
+  "North Korea": [
+    [
+      "Chagang Province",
+      16613.0
+    ],
+    [
+      "Kangwon Province",
+      11255.0
+    ],
+    [
+      "North Hamgyong Province",
+      20345.0
+    ],
+    [
+      "North Hwanghae Province",
+      8154.0
+    ],
+    [
+      "North Pyongan Province",
+      12191.0
+    ],
+    [
+      "Pyongyang",
+      3194.0
+    ],
+    [
+      "Rason",
+      746.0
+    ],
+    [
+      "Ryanggang Province",
+      14317.0
+    ],
+    [
+      "South Hamgyong Province",
+      18970.0
+    ],
+    [
+      "South Hwanghae Province",
+      8450.0
+    ],
+    [
+      "South Pyongan Province",
+      12330.0
+    ]
+  ],
+  "Albania": [
+    [
+      "Berat County",
+      1798.0
+    ],
+    [
+      "Dibër County",
+      2586.0
+    ],
+    [
+      "Durrës County",
+      766.0
+    ],
+    [
+      "Elbasan County",
+      3199.0
+    ],
+    [
+      "Fier County",
+      1890.0
+    ],
+    [
+      "Gjirokastër County",
+      2884.0
+    ],
+    [
+      "Korçë County",
+      3711.0
+    ],
+    [
+      "Kukës County",
+      2374.0
+    ],
+    [
+      "Lezhë County",
+      1620.0
+    ],
+    [
+      "Shkodër County",
+      3562.0
+    ],
+    [
+      "Tirana County",
+      1652.0
+    ],
+    [
+      "Vlorë County",
+      2706.0
+    ]
+  ],
+  "Nigeria": [
+    [
+      "Abia State",
+      6320.0
+    ],
+    [
+      "Adamawa State",
+      36917.0
+    ],
+    [
+      "Akwa Ibom State",
+      7081.0
+    ],
+    [
+      "Anambra State",
+      4844.0
+    ],
+    [
+      "Bauchi State",
+      45837.0
+    ],
+    [
+      "Bayelsa State",
+      21110.0
+    ],
+    [
+      "Benue State",
+      34059.0
+    ],
+    [
+      "Borno State",
+      70898.0
+    ],
+    [
+      "Cross River State",
+      20156.0
+    ],
+    [
+      "Delta State",
+      17698.0
+    ],
+    [
+      "Ebonyi State",
+      5533.0
+    ],
+    [
+      "Edo State",
+      17802.0
+    ],
+    [
+      "Ekiti State",
+      6353.0
+    ],
+    [
+      "Enugu State",
+      7161.0
+    ],
+    [
+      "Federal Capital Territory",
+      7315.0
+    ],
+    [
+      "Gombe State",
+      18768.0
+    ],
+    [
+      "Imo State",
+      5530.0
+    ],
+    [
+      "Jigawa State",
+      23154.0
+    ],
+    [
+      "Kaduna State",
+      46053.0
+    ],
+    [
+      "Kano State",
+      20131.0
+    ],
+    [
+      "Katsina State",
+      24192.0
+    ],
+    [
+      "Kebbi State",
+      36800.0
+    ],
+    [
+      "Kogi State",
+      29833.0
+    ],
+    [
+      "Kwara State",
+      36825.0
+    ],
+    [
+      "Lagos State",
+      3577.0
+    ],
+    [
+      "Nasarawa State",
+      27117.0
+    ],
+    [
+      "Niger State",
+      76363.0
+    ],
+    [
+      "Ogun State",
+      16980.55
+    ],
+    [
+      "Ondo State",
+      15500.0
+    ],
+    [
+      "Osun State",
+      9251.0
+    ],
+    [
+      "Oyo State",
+      28454.0
+    ],
+    [
+      "Plateau State",
+      30913.0
+    ],
+    [
+      "Rivers State",
+      11077.0
+    ],
+    [
+      "Sokoto State",
+      25973.0
+    ],
+    [
+      "Taraba State",
+      54473.0
+    ],
+    [
+      "Yobe State",
+      45502.0
+    ],
+    [
+      "Zamfara State",
+      39762.0
+    ]
+  ],
+  "Armenia": [
+    [
+      "Aragatsotn Province",
+      2756.0
+    ],
+    [
+      "Ararat Province",
+      2090.0
+    ],
+    [
+      "Armavir Province",
+      1242.0
+    ],
+    [
+      "Gegharkunik Province",
+      5349.0
+    ],
+    [
+      "Kotayk Province",
+      2086.0
+    ],
+    [
+      "Lori Province",
+      3799.0
+    ],
+    [
+      "Shirak Province",
+      2681.0
+    ],
+    [
+      "Syunik Province",
+      4506.0
+    ],
+    [
+      "Tavush Province",
+      2704.0
+    ],
+    [
+      "Vayots Dzor Province",
+      2308.0
+    ],
+    [
+      "Yerevan",
+      227.0
+    ]
+  ],
+  "Russia": [
+    [
+      "Adygea",
+      7600.0
+    ],
+    [
+      "Altai Krai",
+      169100.0
+    ],
+    [
+      "Altai Republic",
+      92903.0
+    ],
+    [
+      "Amur Oblast",
+      361913.0
+    ],
+    [
+      "Arkhangelsk Oblast",
+      587400.0
+    ],
+    [
+      "Astrakhan Oblast",
+      44100.0
+    ],
+    [
+      "Bashkortostan",
+      143600.0
+    ],
+    [
+      "Belgorod Oblast",
+      27134.0
+    ],
+    [
+      "Bryansk Oblast",
+      34900.0
+    ],
+    [
+      "Buryatia",
+      351300.0
+    ],
+    [
+      "Chechnya",
+      16165.0
+    ],
+    [
+      "Chelyabinsk Oblast",
+      87900.0
+    ],
+    [
+      "Chukotka Autonomous Okrug",
+      721481.0
+    ],
+    [
+      "Chuvashia",
+      18300.0
+    ],
+    [
+      "Dagestan",
+      50300.0
+    ],
+    [
+      "Ingushetia",
+      3128.0
+    ],
+    [
+      "Irkutsk Oblast",
+      774846.0
+    ],
+    [
+      "Ivanovo Oblast",
+      23900.0
+    ],
+    [
+      "Jewish Autonomous Oblast",
+      36271.0
+    ],
+    [
+      "Kabardino-Balkaria",
+      12500.0
+    ],
+    [
+      "Kaliningrad Oblast",
+      15100.0
+    ],
+    [
+      "Kalmykia",
+      75000.0
+    ],
+    [
+      "Kaluga Oblast",
+      29800.0
+    ],
+    [
+      "Kamchatka Krai",
+      472300.0
+    ],
+    [
+      "Karachay-Cherkessia",
+      14100.0
+    ],
+    [
+      "Karelia",
+      180520.0
+    ],
+    [
+      "Kemerovo Oblast",
+      95500.0
+    ],
+    [
+      "Khabarovsk Krai",
+      787633.0
+    ],
+    [
+      "Khakassia",
+      61569.0
+    ],
+    [
+      "Khanty-Mansi Autonomous Okrug",
+      534500.0
+    ],
+    [
+      "Kirov Oblast",
+      120800.0
+    ],
+    [
+      "Komi Republic",
+      416800.0
+    ],
+    [
+      "Kostroma Oblast",
+      60200.0
+    ],
+    [
+      "Krasnodar Krai",
+      75485.0
+    ],
+    [
+      "Krasnoyarsk Krai",
+      2339700.0
+    ],
+    [
+      "Kurgan Oblast",
+      71488.0
+    ],
+    [
+      "Kursk Oblast",
+      29800.0
+    ],
+    [
+      "Leningrad Oblast",
+      83908.0
+    ],
+    [
+      "Lipetsk Oblast",
+      24100.0
+    ],
+    [
+      "Magadan Oblast",
+      465464.0
+    ],
+    [
+      "Mari El",
+      23200.0
+    ],
+    [
+      "Mordovia",
+      26200.0
+    ],
+    [
+      "Moscow",
+      2562.0
+    ],
+    [
+      "Moscow Oblast",
+      45800.0
+    ],
+    [
+      "Murmansk Oblast",
+      144902.0
+    ],
+    [
+      "Nenets Autonomous Okrug",
+      176700.0
+    ],
+    [
+      "Nizhny Novgorod Oblast",
+      76900.0
+    ],
+    [
+      "North Ossetia–Alania",
+      7987.0
+    ],
+    [
+      "Novgorod Oblast",
+      54501.0
+    ],
+    [
+      "Novosibirsk Oblast",
+      178200.0
+    ],
+    [
+      "Omsk Oblast",
+      139700.0
+    ],
+    [
+      "Orenburg Oblast",
+      123702.0
+    ],
+    [
+      "Oryol Oblast",
+      24652.0
+    ],
+    [
+      "Penza Oblast",
+      43200.0
+    ],
+    [
+      "Perm Krai",
+      160236.0
+    ],
+    [
+      "Primorsky Krai",
+      164673.0
+    ],
+    [
+      "Pskov Oblast",
+      55300.0
+    ],
+    [
+      "Republic of Crimea",
+      26081.0
+    ],
+    [
+      "Rostov Oblast",
+      101800.0
+    ],
+    [
+      "Ryazan Oblast",
+      39600.0
+    ],
+    [
+      "Saint Petersburg",
+      1439.0
+    ],
+    [
+      "Sakha",
+      3083523.0
+    ],
+    [
+      "Sakhalin Oblast",
+      87101.0
+    ],
+    [
+      "Samara Oblast",
+      53600.0
+    ],
+    [
+      "Saratov Oblast",
+      100830.0
+    ],
+    [
+      "Smolensk Oblast",
+      49779.0
+    ],
+    [
+      "Stavropol Krai",
+      66160.0
+    ],
+    [
+      "Sverdlovsk Oblast",
+      194307.0
+    ],
+    [
+      "Tambov Oblast",
+      34300.0
+    ],
+    [
+      "Tatarstan",
+      67847.0
+    ],
+    [
+      "Tomsk Oblast",
+      316900.0
+    ],
+    [
+      "Tula Oblast",
+      25700.0
+    ],
+    [
+      "Tuva",
+      170500.0
+    ],
+    [
+      "Tver Oblast",
+      84100.0
+    ],
+    [
+      "Tyumen Oblast",
+      1464200.0
+    ],
+    [
+      "Udmurtia",
+      42100.0
+    ],
+    [
+      "Ulyanovsk Oblast",
+      37300.0
+    ],
+    [
+      "Vladimir Oblast",
+      29000.0
+    ],
+    [
+      "Volgograd Oblast",
+      113900.0
+    ],
+    [
+      "Vologda Oblast",
+      145700.0
+    ],
+    [
+      "Voronezh Oblast",
+      52400.0
+    ],
+    [
+      "Yamalo-Nenets Autonomous Okrug",
+      683976.0
+    ],
+    [
+      "Yaroslavl Oblast",
+      36400.0
+    ],
+    [
+      "Zabaykalsky Krai",
+      431500.0
+    ]
+  ],
+  "Romania": [
+    [
+      "Alba County",
+      6242.0
+    ],
+    [
+      "Arad County",
+      7754.0
+    ],
+    [
+      "Argeș County",
+      6862.0
+    ],
+    [
+      "Bacău County",
+      6621.0
+    ],
+    [
+      "Bihor County",
+      7544.0
+    ],
+    [
+      "Bistrița-Năsăud County",
+      5355.0
+    ],
+    [
+      "Botoșani County",
+      4986.0
+    ],
+    [
+      "Brașov County",
+      5363.0
+    ],
+    [
+      "Brăila County",
+      4766.0
+    ],
+    [
+      "Bucharest",
+      226.0
+    ],
+    [
+      "Buzău County",
+      6103.0
+    ],
+    [
+      "Caraș-Severin County",
+      8514.0
+    ],
+    [
+      "Cluj County",
+      6674.0
+    ],
+    [
+      "Constanța County",
+      7071.0
+    ],
+    [
+      "Covasna County",
+      3710.0
+    ],
+    [
+      "Călărași County",
+      5088.0
+    ],
+    [
+      "Dolj County",
+      5562.0
+    ],
+    [
+      "Dâmbovița County",
+      4054.0
+    ],
+    [
+      "Galați County",
+      4466.0
+    ],
+    [
+      "Giurgiu County",
+      3526.0
+    ],
+    [
+      "Gorj County",
+      5602.0
+    ],
+    [
+      "Harghita County",
+      6639.0
+    ],
+    [
+      "Hunedoara County",
+      7063.0
+    ],
+    [
+      "Ialomița County",
+      4453.0
+    ],
+    [
+      "Iași County",
+      5476.0
+    ],
+    [
+      "Ilfov County",
+      1583.0
+    ],
+    [
+      "Maramureș County",
+      6304.0
+    ],
+    [
+      "Mehedinți County",
+      4942.0
+    ],
+    [
+      "Mureș County",
+      6714.0
+    ],
+    [
+      "Neamț County",
+      5896.0
+    ],
+    [
+      "Olt County",
+      5498.0
+    ],
+    [
+      "Prahova County",
+      4716.0
+    ],
+    [
+      "Satu Mare County",
+      4418.0
+    ],
+    [
+      "Sibiu County",
+      5432.0
+    ],
+    [
+      "Suceava County",
+      8553.0
+    ],
+    [
+      "Sălaj County",
+      3864.0
+    ],
+    [
+      "Teleorman County",
+      5790.0
+    ],
+    [
+      "Timiș County",
+      8696.7
+    ],
+    [
+      "Tulcea County",
+      8499.0
+    ],
+    [
+      "Vaslui County",
+      5318.0
+    ],
+    [
+      "Vrancea County",
+      4857.0
+    ],
+    [
+      "Vâlcea County",
+      5765.0
+    ]
+  ],
+  "Sweden": [
+    [
+      "Blekinge County",
+      2931.25
+    ],
+    [
+      "Dalarna County",
+      28188.8
+    ],
+    [
+      "Gotland County",
+      3134.44
+    ],
+    [
+      "Gävleborg County",
+      6895.87
+    ],
+    [
+      "Halland County",
+      3285.07
+    ],
+    [
+      "Jämtland County",
+      4817.38
+    ],
+    [
+      "Jönköping County",
+      1256.21
+    ],
+    [
+      "Kalmar County",
+      9335.55
+    ],
+    [
+      "Kronoberg County",
+      961.83
+    ],
+    [
+      "Norrbotten County",
+      6966.52
+    ],
+    [
+      "Skåne County",
+      6066.5
+    ],
+    [
+      "Stockholm County",
+      16540.52
+    ],
+    [
+      "Södermanland County",
+      2624.0
+    ],
+    [
+      "Uppsala County",
+      11940.28
+    ],
+    [
+      "Värmland County",
+      4269.81
+    ],
+    [
+      "Västerbotten County",
+      12158.61
+    ],
+    [
+      "Västernorrland County",
+      6445.81
+    ],
+    [
+      "Västmanland County",
+      541.53
+    ],
+    [
+      "Västra Götaland County",
+      10530.31
+    ],
+    [
+      "Örebro County",
+      1128.85
+    ],
+    [
+      "Östergötland County",
+      4021.11
+    ]
+  ],
+  "Croatia": [
+    [
+      "Bjelovar-Bilogora County",
+      2640.0
+    ],
+    [
+      "Brod-Posavina County",
+      2028.3
+    ],
+    [
+      "Dubrovnik-Neretva County",
+      1781.0
+    ],
+    [
+      "Istria County",
+      2813.0
+    ],
+    [
+      "Karlovac County",
+      3626.0
+    ],
+    [
+      "Koprivnica-Križevci County",
+      1746.0
+    ],
+    [
+      "Krapina-Zagorje County",
+      1229.0
+    ],
+    [
+      "Lika-Senj County",
+      5353.0
+    ],
+    [
+      "Međimurje County",
+      730.0
+    ],
+    [
+      "Osijek-Baranja County",
+      4155.0
+    ],
+    [
+      "Požega-Slavonia County",
+      1823.0
+    ],
+    [
+      "Primorje-Gorski Kotar County",
+      3588.0
+    ],
+    [
+      "Sisak-Moslavina County",
+      4468.0
+    ],
+    [
+      "Split-Dalmatia County",
+      4534.0
+    ],
+    [
+      "Varaždin County",
+      1261.0
+    ],
+    [
+      "Virovitica-Podravina County",
+      2024.0
+    ],
+    [
+      "Vukovar-Srijem County",
+      2448.0
+    ],
+    [
+      "Zadar County",
+      3646.0
+    ],
+    [
+      "Zagreb County",
+      3078.0
+    ],
+    [
+      "Šibenik-Knin County",
+      2994.0
+    ]
+  ],
+  "Qatar": [
+    [
+      "Ad-Dawhah",
+      234.0
+    ],
+    [
+      "Al Khor",
+      996.0
+    ],
+    [
+      "Al Rayyan Municipality",
+      23281.0
+    ],
+    [
+      "Al Shamal",
+      859.8
+    ],
+    [
+      "Umm Salal Municipality",
+      317.9
+    ]
+  ],
+  "Belarus": [
+    [
+      "Brest Region",
+      32300.0
+    ],
+    [
+      "Gomel Region",
+      40400.0
+    ],
+    [
+      "Grodno Region",
+      25000.0
+    ],
+    [
+      "Minsk",
+      409.5
+    ],
+    [
+      "Minsk Region",
+      40800.0
+    ],
+    [
+      "Mogilev region",
+      29000.0
+    ],
+    [
+      "Vitebsk Region",
+      40049.99
+    ]
+  ],
+  "Morocco": [
+    [
+      "Béni Mellal-Khénifra",
+      41033.0
+    ],
+    [
+      "Casablanca-Settat",
+      19448.0
+    ],
+    [
+      "Dakhla-Oued Ed-Dahab",
+      130898.0
+    ],
+    [
+      "Drâa-Tafilalet",
+      132167.0
+    ],
+    [
+      "Fès-Meknès",
+      40075.0
+    ],
+    [
+      "Guelmim-Oued Noun",
+      46108.0
+    ],
+    [
+      "Laâyoune-Sakia El Hamra",
+      140018.0
+    ],
+    [
+      "Marrakesh-Safi",
+      39167.0
+    ],
+    [
+      "Oriental",
+      36241.0
+    ],
+    [
+      "Rabat-Salé-Kénitra",
+      18194.0
+    ],
+    [
+      "Souss-Massa",
+      53789.0
+    ],
+    [
+      "Tangier-Tetouan-Al Hoceima",
+      13712.0
+    ]
+  ],
+  "Austria": [
+    [
+      "Burgenland",
+      3961.8
+    ],
+    [
+      "Carinthia",
+      9535.97
+    ],
+    [
+      "Lower Austria",
+      19186.0
+    ],
+    [
+      "Salzburg",
+      7156.03
+    ],
+    [
+      "Styria",
+      16400.75
+    ],
+    [
+      "Tyrol",
+      12647.71
+    ],
+    [
+      "Upper Austria",
+      11981.92
+    ],
+    [
+      "Vienna",
+      414.78
+    ],
+    [
+      "Vorarlberg",
+      2601.48
+    ]
+  ],
+  "Switzerland": [
+    [
+      "Canton of Aargau",
+      1403.77
+    ],
+    [
+      "Canton of Appenzell Ausserrhoden",
+      242.84
+    ],
+    [
+      "Canton of Appenzell Innerrhoden",
+      172.48
+    ],
+    [
+      "Canton of Basel-Landschaft",
+      517.67
+    ],
+    [
+      "Canton of Basel-Stadt",
+      36.95
+    ],
+    [
+      "Canton of Berne",
+      5959.0
+    ],
+    [
+      "Canton of Fribourg",
+      1671.36
+    ],
+    [
+      "Canton of Geneva",
+      282.49
+    ],
+    [
+      "Canton of Glarus",
+      685.3
+    ],
+    [
+      "canton of Jura",
+      838.51
+    ],
+    [
+      "canton of Lucerne",
+      1493.51
+    ],
+    [
+      "canton of Neuchâtel",
+      802.24
+    ],
+    [
+      "Canton of Nidwalden",
+      275.85
+    ],
+    [
+      "Canton of Obwalden",
+      490.58
+    ],
+    [
+      "Canton of Schaffhausen",
+      298.42
+    ],
+    [
+      "Canton of Schwyz",
+      907.88
+    ],
+    [
+      "Canton of Solothurn",
+      790.45
+    ],
+    [
+      "Canton of St. Gallen",
+      2030.75
+    ],
+    [
+      "Canton of the Grisons",
+      7105.39
+    ],
+    [
+      "Canton of Thurgau",
+      991.77
+    ],
+    [
+      "canton of Ticino",
+      2812.15
+    ],
+    [
+      "Canton of Uri",
+      1076.57
+    ],
+    [
+      "canton of Valais",
+      5224.5
+    ],
+    [
+      "canton of Vaud",
+      3211.94
+    ],
+    [
+      "Canton of Zug",
+      238.73
+    ],
+    [
+      "canton of Zürich",
+      1729.0
+    ]
+  ],
+  "Denmark": [
+    [
+      "Capital Region of Denmark",
+      2559.4
+    ],
+    [
+      "Central Denmark",
+      13007.3
+    ],
+    [
+      "North Denmark Region",
+      7885.4
+    ],
+    [
+      "Region Zealand",
+      7225.3
+    ],
+    [
+      "Southern Denmark",
+      12260.4
+    ]
+  ],
+  "Greece": [
+    [
+      "Attica Region",
+      3808.1
+    ],
+    [
+      "Central Greece Region",
+      15549.31
+    ],
+    [
+      "Central Macedonia Region",
+      18810.52
+    ],
+    [
+      "Crete Region",
+      8336.0
+    ],
+    [
+      "Eastern Macedonia and Thrace Region",
+      14157.76
+    ],
+    [
+      "Epirus Region",
+      9203.22
+    ],
+    [
+      "Ionian Islands Region",
+      2306.94
+    ],
+    [
+      "North Aegean Region",
+      3835.91
+    ],
+    [
+      "Peloponnese Region",
+      15489.96
+    ],
+    [
+      "South Aegean Region",
+      5285.99
+    ],
+    [
+      "Thessaly Region",
+      14036.646
+    ],
+    [
+      "West Greece Region",
+      11350.0
+    ],
+    [
+      "Western Macedonia Region",
+      9451.0
+    ]
+  ],
+  "Iraq": [
+    [
+      "Al Anbar Governorate",
+      135000.0
+    ],
+    [
+      "Al Muthanna Governorate",
+      51740.0
+    ],
+    [
+      "Al-Qādisiyyah Governorate",
+      8150.0
+    ],
+    [
+      "Babylon Governorate",
+      5800.0
+    ],
+    [
+      "Baghdad Governorate",
+      204.2
+    ],
+    [
+      "Basra Governorate",
+      19070.0
+    ],
+    [
+      "Dhi Qar Governorate",
+      12900.0
+    ],
+    [
+      "Diyala Governorate",
+      26000.0
+    ],
+    [
+      "Duhok Governorate",
+      10000.0
+    ],
+    [
+      "Erbil Governorate",
+      12000.0
+    ],
+    [
+      "Karbala Governorate",
+      5030.0
+    ],
+    [
+      "Kirkuk Governorate",
+      10500.0
+    ],
+    [
+      "Maysan Governorate",
+      16070.0
+    ],
+    [
+      "Najaf Governorate",
+      28820.0
+    ],
+    [
+      "Nineveh Governorate",
+      36700.0
+    ],
+    [
+      "Sulaymaniyah Governorate",
+      20000.0
+    ],
+    [
+      "Wasit Governorate",
+      17150.0
+    ]
+  ],
+  "Finland": [
+    [
+      "Central Finland",
+      19011.98
+    ],
+    [
+      "Central Ostrobothnia",
+      5219.58
+    ],
+    [
+      "Kainuu",
+      22687.86
+    ],
+    [
+      "Kanta-Häme",
+      5707.63
+    ],
+    [
+      "Kymenlaakso",
+      4947.65
+    ],
+    [
+      "Lapland",
+      92683.24
+    ],
+    [
+      "North Karelia",
+      22903.22
+    ],
+    [
+      "North Ostrobothnia",
+      39192.65
+    ],
+    [
+      "North Savo",
+      21077.95
+    ],
+    [
+      "Ostrobothnia",
+      7935.79
+    ],
+    [
+      "Pirkanmaa",
+      15549.56
+    ],
+    [
+      "Päijät-Häme",
+      6941.71
+    ],
+    [
+      "Satakunta",
+      8269.35
+    ],
+    [
+      "South Karelia",
+      6872.13
+    ],
+    [
+      "South Ostrobothnia",
+      13998.72
+    ],
+    [
+      "South Savo",
+      17099.02
+    ],
+    [
+      "Southwest Finland",
+      10912.22
+    ],
+    [
+      "Uusimaa",
+      9568.85
+    ],
+    [
+      "Åland",
+      1582.93
+    ]
+  ],
+  "State of Palestine": [
+    [
+      "Bethlehem Governorate",
+      660.0
+    ],
+    [
+      "Deir al-Balah Governorate",
+      56.0
+    ],
+    [
+      "Gaza Governorate",
+      70.0
+    ],
+    [
+      "Hebron Governorate",
+      997.0
+    ],
+    [
+      "Jenin Governorate",
+      583.0
+    ],
+    [
+      "Jericho Governorate",
+      593.0
+    ],
+    [
+      "Khan Yunis Governorate",
+      108.0
+    ],
+    [
+      "Nablus Governorate",
+      605.0
+    ],
+    [
+      "North Gaza Governorate",
+      61.0
+    ],
+    [
+      "Qalqilya Governorate",
+      166.0
+    ],
+    [
+      "Quds Governorate",
+      331.6
+    ],
+    [
+      "Rafah Governorate",
+      64.0
+    ],
+    [
+      "Ramallah and al-Bireh Governorate",
+      844.0
+    ],
+    [
+      "Salfit Governorate",
+      204.0
+    ],
+    [
+      "Tubas Governorate",
+      402.0
+    ],
+    [
+      "Tulkarm Governorate",
+      268.0
+    ]
+  ],
+  "Brazil": [
+    [
+      "Acre",
+      152581.0
+    ],
+    [
+      "Alagoas",
+      27767.0
+    ],
+    [
+      "Amapá",
+      142814.6
+    ],
+    [
+      "Amazonas",
+      1559167.9
+    ],
+    [
+      "Bahia",
+      564692.0
+    ],
+    [
+      "Ceará",
+      146348.3
+    ],
+    [
+      "Espírito Santo",
+      46077.5
+    ],
+    [
+      "Federal District",
+      5760.8
+    ],
+    [
+      "Goiás",
+      340086.0
+    ],
+    [
+      "Maranhão",
+      331983.2
+    ],
+    [
+      "Mato Grosso",
+      903357.0
+    ],
+    [
+      "Mato Grosso do Sul",
+      357145.532
+    ],
+    [
+      "Minas Gerais",
+      586514.0
+    ],
+    [
+      "Paraná",
+      199314.9
+    ],
+    [
+      "Paraíba",
+      56584.6
+    ],
+    [
+      "Pará",
+      1245870.7
+    ],
+    [
+      "Pernambuco",
+      98937.8
+    ],
+    [
+      "Piauí",
+      251755.5
+    ],
+    [
+      "Rio de Janeiro",
+      43696.1
+    ],
+    [
+      "Rio Grande do Norte",
+      53306.8
+    ],
+    [
+      "Rio Grande do Sul",
+      281707.1
+    ],
+    [
+      "Rondônia",
+      237765.3
+    ],
+    [
+      "Roraima",
+      223644.5
+    ],
+    [
+      "Santa Catarina",
+      95730.7
+    ],
+    [
+      "Sergipe",
+      22050.3
+    ],
+    [
+      "São Paulo",
+      248209.4
+    ],
+    [
+      "Tocantins",
+      278420.7
+    ]
+  ],
+  "Norway": [
+    [
+      "Agder",
+      16434.12
+    ],
+    [
+      "Akershus",
+      5891.73
+    ],
+    [
+      "Buskerud",
+      15053.831165887814
+    ],
+    [
+      "Finnmark",
+      74293.69492205983
+    ],
+    [
+      "Innlandet",
+      52072.4
+    ],
+    [
+      "Jan Mayen",
+      377.0
+    ],
+    [
+      "Møre og Romsdal",
+      14355.62
+    ],
+    [
+      "Nordland",
+      38154.6
+    ],
+    [
+      "Rogaland",
+      9377.1
+    ],
+    [
+      "Svalbard",
+      61022.0
+    ],
+    [
+      "Telemark",
+      16157.785412111314
+    ],
+    [
+      "Troms",
+      41132.811135285185
+    ],
+    [
+      "Trøndelag",
+      42201.6
+    ],
+    [
+      "Vestfold",
+      2225.3787640733967
+    ],
+    [
+      "Vestland",
+      33870.98
+    ],
+    [
+      "Østfold",
+      5077.256069849866
+    ]
+  ],
+  "Belgium": [
+    [
+      "Brussels-Capital Region",
+      161.38
+    ],
+    [
+      "Flemish Community",
+      13522.0
+    ],
+    [
+      "Flemish Region",
+      13522.0
+    ],
+    [
+      "French Community of Belgium",
+      16151.0
+    ],
+    [
+      "German-speaking Community of Belgium",
+      853.65
+    ],
+    [
+      "Wallonia",
+      16844.0
+    ]
+  ],
+  "Spain": [
+    [
+      "Andalusia",
+      87268.0
+    ],
+    [
+      "Aragon",
+      47719.0
+    ],
+    [
+      "Asturias",
+      10603.57
+    ],
+    [
+      "Balearic Islands",
+      4991.66
+    ],
+    [
+      "Basque Autonomous Community",
+      7234.0
+    ],
+    [
+      "Canary Islands",
+      7447.0
+    ],
+    [
+      "Cantabria",
+      5321.0
+    ],
+    [
+      "Castile and León",
+      94223.0
+    ],
+    [
+      "Castilla–La Mancha",
+      79463.0
+    ],
+    [
+      "Catalonia",
+      31895.0
+    ],
+    [
+      "Ceuta",
+      18.5
+    ],
+    [
+      "Community of Madrid",
+      8028.0
+    ],
+    [
+      "Extremadura",
+      41634.0
+    ],
+    [
+      "Galicia",
+      29574.0
+    ],
+    [
+      "La Rioja",
+      5045.0
+    ],
+    [
+      "Melilla",
+      12.338
+    ],
+    [
+      "Navarre",
+      10391.0
+    ],
+    [
+      "Region of Murcia",
+      11313.0
+    ],
+    [
+      "Valencian Community",
+      23255.0
+    ]
+  ],
+  "Nepal": [
+    [
+      "Bagmati Province",
+      20300.0
+    ],
+    [
+      "Gandaki Province",
+      21733.0
+    ],
+    [
+      "Karnali Province",
+      24453.0
+    ],
+    [
+      "Koshi Province",
+      25905.0
+    ],
+    [
+      "Lumbini Province",
+      22288.0
+    ],
+    [
+      "Madhesh Province",
+      9661.0
+    ],
+    [
+      "Sudurpashchim Province",
+      19539.0
+    ]
+  ],
+  "Democratic Republic of the Congo": [
+    [
+      "Bas-Uele",
+      148331.0
+    ],
+    [
+      "Haut-Katanga Province",
+      132425.0
+    ],
+    [
+      "Haut-Lomami Province",
+      108204.0
+    ],
+    [
+      "Haut-Uele",
+      89683.0
+    ],
+    [
+      "Ituri Province",
+      65658.0
+    ],
+    [
+      "Kasai Province",
+      95631.0
+    ],
+    [
+      "Kasai-Oriental",
+      9481.0
+    ],
+    [
+      "Kasaï-Central",
+      61336.0
+    ],
+    [
+      "Kinshasa",
+      9965.0
+    ],
+    [
+      "Kongo Central",
+      53920.0
+    ],
+    [
+      "Kwango Province",
+      89974.0
+    ],
+    [
+      "Kwilu",
+      78219.0
+    ],
+    [
+      "Lomami Province",
+      56426.0
+    ],
+    [
+      "Lualaba Province",
+      121308.0
+    ],
+    [
+      "Mai-Ndombe Province",
+      127465.0
+    ],
+    [
+      "Maniema",
+      132520.0
+    ],
+    [
+      "Mongala",
+      58141.0
+    ],
+    [
+      "Nord-Ubangi",
+      56644.0
+    ],
+    [
+      "North Kivu",
+      59483.0
+    ],
+    [
+      "Sankuru",
+      105000.0
+    ],
+    [
+      "South Kivu",
+      64791.0
+    ],
+    [
+      "Sud-Ubangi",
+      51648.0
+    ],
+    [
+      "Tanganyika Province",
+      134940.0
+    ],
+    [
+      "Tshopo",
+      199567.0
+    ],
+    [
+      "Tshuapa",
+      132940.0
+    ],
+    [
+      "Équateur",
+      103902.0
+    ]
+  ],
+  "United States": [
+    [
+      "Alabama",
+      135765.0
+    ],
+    [
+      "Alaska",
+      1717856.0
+    ],
+    [
+      "American Samoa",
+      199.0
+    ],
+    [
+      "Arizona",
+      295234.0
+    ],
+    [
+      "Arkansas",
+      137733.0
+    ],
+    [
+      "California",
+      423970.0
+    ],
+    [
+      "Colorado",
+      269837.0
+    ],
+    [
+      "Connecticut",
+      14357.0
+    ],
+    [
+      "Delaware",
+      6452.0
+    ],
+    [
+      "District of Columbia",
+      177.0
+    ],
+    [
+      "Florida",
+      170304.0
+    ],
+    [
+      "Georgia",
+      153909.0
+    ],
+    [
+      "Guam",
+      544.0
+    ],
+    [
+      "Hawaii",
+      28311.0
+    ],
+    [
+      "Idaho",
+      216699.0
+    ],
+    [
+      "Illinois",
+      149998.0
+    ],
+    [
+      "Indiana",
+      94321.0
+    ],
+    [
+      "Iowa",
+      145746.0
+    ],
+    [
+      "Kansas",
+      213100.0
+    ],
+    [
+      "Kentucky",
+      104659.0
+    ],
+    [
+      "Louisiana",
+      135382.0
+    ],
+    [
+      "Maine",
+      91646.0
+    ],
+    [
+      "Maryland",
+      32131.0
+    ],
+    [
+      "Massachusetts",
+      27336.0
+    ],
+    [
+      "Michigan",
+      250493.0
+    ],
+    [
+      "Minnesota",
+      225163.0
+    ],
+    [
+      "Mississippi",
+      125443.0
+    ],
+    [
+      "Missouri",
+      181533.0
+    ],
+    [
+      "Montana",
+      381154.0
+    ],
+    [
+      "Nebraska",
+      200520.0
+    ],
+    [
+      "Nevada",
+      286380.0
+    ],
+    [
+      "New Hampshire",
+      24214.0
+    ],
+    [
+      "New Jersey",
+      22591.4
+    ],
+    [
+      "New Mexico",
+      315194.0
+    ],
+    [
+      "New York",
+      141300.0
+    ],
+    [
+      "North Carolina",
+      139390.0
+    ],
+    [
+      "North Dakota",
+      183108.0
+    ],
+    [
+      "Northern Mariana Islands",
+      464.0
+    ],
+    [
+      "Ohio",
+      116096.0
+    ],
+    [
+      "Oklahoma",
+      181195.0
+    ],
+    [
+      "Oregon",
+      255026.0
+    ],
+    [
+      "Pennsylvania",
+      119283.0
+    ],
+    [
+      "Puerto Rico",
+      9104.0
+    ],
+    [
+      "Rhode Island",
+      3144.245565
+    ],
+    [
+      "South Carolina",
+      82931.0
+    ],
+    [
+      "South Dakota",
+      199729.0
+    ],
+    [
+      "Tennessee",
+      109247.0
+    ],
+    [
+      "Texas",
+      696241.0
+    ],
+    [
+      "United States Virgin Islands",
+      346.36
+    ],
+    [
+      "Utah",
+      219653.0
+    ],
+    [
+      "Vermont",
+      24923.0
+    ],
+    [
+      "Virginia",
+      110862.0
+    ],
+    [
+      "Washington",
+      184827.0
+    ],
+    [
+      "West Virginia",
+      62755.0
+    ],
+    [
+      "Wisconsin",
+      169640.0
+    ],
+    [
+      "Wyoming",
+      253348.0
+    ]
+  ],
+  "Burkina Faso": [
+    [
+      "Bankui",
+      34333.0
+    ],
+    [
+      "Djôrô",
+      16153.0
+    ],
+    [
+      "Goulmou",
+      36256.0
+    ],
+    [
+      "Guiriko",
+      25344.0
+    ],
+    [
+      "Kadiogo",
+      2805.0
+    ],
+    [
+      "Kuilsé",
+      19829.0
+    ],
+    [
+      "Liptako",
+      35360.0
+    ],
+    [
+      "Nakambé (région)",
+      11811.0
+    ],
+    [
+      "Nando",
+      21722.0
+    ],
+    [
+      "Nazinon",
+      11321.0
+    ],
+    [
+      "Oubri",
+      8545.0
+    ],
+    [
+      "Tannounyan",
+      18406.0
+    ],
+    [
+      "Yaadga",
+      16207.0
+    ]
+  ],
+  "Cambodia": [
+    [
+      "Banteay Meanchey Province",
+      6679.0
+    ],
+    [
+      "Battambang Province",
+      11702.0
+    ],
+    [
+      "Kampong Cham Province",
+      4549.0
+    ],
+    [
+      "Kampong Chhnang Province",
+      5521.0
+    ],
+    [
+      "Kampong Speu Province",
+      7017.0
+    ],
+    [
+      "Kampong Thom Province",
+      13814.0
+    ],
+    [
+      "Kampot Province",
+      4873.0
+    ],
+    [
+      "Kandal Province",
+      3568.0
+    ],
+    [
+      "Kep Province",
+      336.0
+    ],
+    [
+      "Koh Kong Province",
+      11160.0
+    ],
+    [
+      "Kratié Province",
+      11094.0
+    ],
+    [
+      "Mondulkiri Province",
+      14288.0
+    ],
+    [
+      "Oddar Meanchey Province",
+      6158.0
+    ],
+    [
+      "Pailin Province",
+      803.0
+    ],
+    [
+      "Phnom Penh",
+      678.46
+    ],
+    [
+      "Preah Vihear Province",
+      13788.0
+    ],
+    [
+      "Prey Veng Province",
+      4883.0
+    ],
+    [
+      "Pursat Province",
+      12692.0
+    ],
+    [
+      "Ratanakiri Province",
+      10782.0
+    ],
+    [
+      "Siem Reap Province",
+      10299.0
+    ],
+    [
+      "Sihanoukville Province",
+      2585.0
+    ],
+    [
+      "Stung Treng Province",
+      11092.0
+    ],
+    [
+      "Svay Rieng Province",
+      2966.0
+    ],
+    [
+      "Takéo Province",
+      3563.0
+    ]
+  ],
+  "Jordan": [
+    [
+      "Ajloun Governorate",
+      419.6
+    ],
+    [
+      "Amman Governorate",
+      7579.2
+    ],
+    [
+      "Aqaba Governorate",
+      6900.0
+    ],
+    [
+      "Balqa Governorate",
+      1120.4
+    ],
+    [
+      "Irbid Governorate",
+      1571.8
+    ],
+    [
+      "Jerash Governorate",
+      409.8
+    ],
+    [
+      "Karak Governorate",
+      3217.0
+    ],
+    [
+      "Ma'an Governorate",
+      33832.3
+    ],
+    [
+      "Madaba Governorate",
+      939.7
+    ],
+    [
+      "Mafraq Governorate",
+      26550.6
+    ],
+    [
+      "Tafilah Governorate",
+      2114.0
+    ],
+    [
+      "Zarqa Governorate",
+      4761.3
+    ]
+  ],
+  "Guyana": [
+    [
+      "Barima-Waini",
+      20339.0
+    ],
+    [
+      "Cuyuni-Mazaruni",
+      47213.0
+    ],
+    [
+      "Demerara-Mahaica",
+      2232.0
+    ],
+    [
+      "East Berbice-Corentyne",
+      36234.0
+    ],
+    [
+      "Essequibo Islands-West Demerara",
+      3755.0
+    ],
+    [
+      "Mahaica-Berbice",
+      4190.0
+    ],
+    [
+      "Pomeroon-Supenaam",
+      6195.0
+    ],
+    [
+      "Potaro-Siparuni",
+      20051.0
+    ],
+    [
+      "Upper Demerara-Berbice",
+      17040.0
+    ],
+    [
+      "Upper Takutu-Upper Essequibo",
+      57750.0
+    ]
+  ],
+  "Cuba": [
+    [
+      "Artemisa Province",
+      4004.27
+    ],
+    [
+      "Camagüey Province",
+      15413.82
+    ],
+    [
+      "Ciego de Ávila Province",
+      6946.9
+    ],
+    [
+      "Cienfuegos Province",
+      4186.6
+    ],
+    [
+      "Granma Province",
+      8376.79
+    ],
+    [
+      "Guantánamo Province",
+      6164.47
+    ],
+    [
+      "Havana Province",
+      7743.3
+    ],
+    [
+      "Holguín Province",
+      9209.71
+    ],
+    [
+      "Isla de la Juventud",
+      2419.0
+    ],
+    [
+      "Las Tunas Province",
+      6595.25
+    ],
+    [
+      "Matanzas Province",
+      11798.02
+    ],
+    [
+      "Mayabeque Province",
+      3732.73
+    ],
+    [
+      "Pinar del Río Province",
+      8884.51
+    ],
+    [
+      "Sancti Spíritus Province",
+      6779.81
+    ],
+    [
+      "Santiago de Cuba Province",
+      6234.16
+    ],
+    [
+      "Villa Clara Province",
+      8413.13
+    ]
+  ],
+  "Luxembourg": [
+    [
+      "Canton of Capellen",
+      199.21
+    ],
+    [
+      "Canton of Clervaux",
+      342.17
+    ],
+    [
+      "Canton of Diekirch",
+      204.51
+    ],
+    [
+      "Canton of Echternach",
+      185.54
+    ],
+    [
+      "Canton of Esch-sur-Alzette",
+      242.77
+    ],
+    [
+      "Canton of Grevenmacher",
+      211.37
+    ],
+    [
+      "Canton of Luxembourg",
+      238.46
+    ],
+    [
+      "Canton of Mersch",
+      223.9
+    ],
+    [
+      "Canton of Redange",
+      267.49
+    ],
+    [
+      "Canton of Remich",
+      127.87
+    ],
+    [
+      "Canton of Vianden",
+      78.52
+    ],
+    [
+      "Canton of Wiltz",
+      264.55
+    ]
+  ],
+  "Hungary": [
+    [
+      "Baranya County",
+      4429.59
+    ],
+    [
+      "Borsod-Abaúj-Zemplén County",
+      7249.67
+    ],
+    [
+      "Bács-Kiskun County",
+      8444.81
+    ],
+    [
+      "Békés County",
+      5629.71
+    ],
+    [
+      "Csongrád-Csanád County",
+      426174.0
+    ],
+    [
+      "Fejér County",
+      4358.45
+    ],
+    [
+      "Győr-Moson-Sopron County",
+      4208.1
+    ],
+    [
+      "Hajdú-Bihar County",
+      6210.51
+    ],
+    [
+      "Heves County",
+      3637.21
+    ],
+    [
+      "Jász-Nagykun-Szolnok County",
+      5581.61
+    ],
+    [
+      "Komárom-Esztergom County",
+      2264.52
+    ],
+    [
+      "Nógrád County",
+      2545.48
+    ],
+    [
+      "Pest County",
+      6393.14
+    ],
+    [
+      "Somogy County",
+      6065.07
+    ],
+    [
+      "Szabolcs-Szatmár-Bereg County",
+      5935.83
+    ],
+    [
+      "Tolna County",
+      3703.16
+    ],
+    [
+      "Vas County",
+      3336.14
+    ],
+    [
+      "Veszprém County",
+      4463.65
+    ],
+    [
+      "Zala County",
+      3783.89
+    ]
+  ],
+  "Bahrain": [
+    [
+      "Capital Governorate",
+      68.0
+    ],
+    [
+      "Muharraq Governorate",
+      57.0
+    ],
+    [
+      "Northern Governorate",
+      175.0
+    ],
+    [
+      "Southern Governorate",
+      438.0
+    ]
+  ],
+  "El Salvador": [
+    [
+      "Ahuachapán Department",
+      1240.0
+    ],
+    [
+      "Cabañas Department",
+      1104.0
+    ],
+    [
+      "Chalatenango Department",
+      2017.0
+    ],
+    [
+      "Cuscatlán Department",
+      756.2
+    ],
+    [
+      "La Libertad Department",
+      1653.0
+    ],
+    [
+      "La Paz Department",
+      1224.0
+    ],
+    [
+      "La Unión Department",
+      2074.0
+    ],
+    [
+      "Morazán Department",
+      1447.0
+    ],
+    [
+      "San Miguel Department",
+      2077.0
+    ],
+    [
+      "San Salvador Department",
+      886.1
+    ],
+    [
+      "San Vicente Department",
+      1184.0
+    ],
+    [
+      "Santa Ana Department",
+      2023.0
+    ],
+    [
+      "Sonsonate Department",
+      1226.0
+    ],
+    [
+      "Usulután Department",
+      2130.0
+    ]
+  ],
+  "Kazakhstan": [
+    [
+      "Akmola Region",
+      146219.0
+    ],
+    [
+      "Aktobe Region",
+      300629.0
+    ],
+    [
+      "Almaty",
+      682.0
+    ],
+    [
+      "Almaty Region",
+      223911.0
+    ],
+    [
+      "Astana",
+      797.33
+    ],
+    [
+      "Atyrau Region",
+      118631.0
+    ],
+    [
+      "Baikonur",
+      54975.0
+    ],
+    [
+      "East Kazakhstan Region",
+      283226.0
+    ],
+    [
+      "Jambyl Region",
+      144264.0
+    ],
+    [
+      "Karaganda Region",
+      427982.0
+    ],
+    [
+      "Kostanay Region",
+      196001.0
+    ],
+    [
+      "Kyzylorda Region",
+      226019.0
+    ],
+    [
+      "Mangystau Region",
+      165642.0
+    ],
+    [
+      "North Kazakhstan Region",
+      97993.0
+    ],
+    [
+      "Pavlodar Region",
+      124800.0
+    ],
+    [
+      "Shymkent",
+      347.0
+    ],
+    [
+      "Turkistan Region",
+      116902.0
+    ],
+    [
+      "West Kazakhstan Region",
+      151339.0
+    ]
+  ],
+  "Oman": [
+    [
+      "Ad Dakhiliyah Governorate",
+      31900.0
+    ],
+    [
+      "Ad Dhahirah Governorate",
+      37000.0
+    ],
+    [
+      "Al Batinah North Governorate",
+      7900.0
+    ],
+    [
+      "Al Batinah South Governorate",
+      5320.0
+    ],
+    [
+      "Al Buraimi Governorate",
+      7460.0
+    ],
+    [
+      "Al Wusta Governorate",
+      79700.0
+    ],
+    [
+      "Ash Sharqiyah North Governorate",
+      21100.0
+    ],
+    [
+      "Ash Sharqiyah South Governorate",
+      12000.0
+    ],
+    [
+      "Dhofar Governorate",
+      99300.0
+    ],
+    [
+      "Musandam Governorate",
+      1800.0
+    ],
+    [
+      "Muscat Governorate",
+      3500.0
+    ]
+  ],
+  "Uzbekistan": [
+    [
+      "Andijan Region",
+      4200.0
+    ],
+    [
+      "Bukhara Region",
+      39400.0
+    ],
+    [
+      "Fergana Region",
+      6760.0
+    ],
+    [
+      "Jizzakh Region",
+      20500.0
+    ],
+    [
+      "Karakalpakstan",
+      160000.0
+    ],
+    [
+      "Namangan Region",
+      7900.0
+    ],
+    [
+      "Navoiy Region",
+      110990.0
+    ],
+    [
+      "Qashqadaryo Region",
+      28400.0
+    ],
+    [
+      "Samarqand Region",
+      16400.0
+    ],
+    [
+      "Sirdaryo Region",
+      4300.0
+    ],
+    [
+      "Surxondaryo Region",
+      20800.0
+    ],
+    [
+      "Tashkent",
+      334.8
+    ],
+    [
+      "Tashkent Region",
+      15300.0
+    ],
+    [
+      "Xorazm Region",
+      6300.0
+    ]
+  ],
+  "Estonia": [
+    [
+      "Harju County",
+      4326.7
+    ],
+    [
+      "Hiiu County",
+      1032.44
+    ],
+    [
+      "Ida-Viru County",
+      2971.55
+    ],
+    [
+      "Järva County",
+      2674.14
+    ],
+    [
+      "Jõgeva County",
+      2544.86
+    ],
+    [
+      "Lääne County",
+      1815.57
+    ],
+    [
+      "Lääne-Viru County",
+      3695.72
+    ],
+    [
+      "Pärnu County",
+      5418.73
+    ],
+    [
+      "Põlva County",
+      1823.34
+    ],
+    [
+      "Rapla County",
+      2765.06
+    ],
+    [
+      "Saare County",
+      2937.64
+    ],
+    [
+      "Tartu County",
+      3349.3
+    ],
+    [
+      "Valga County",
+      1917.09
+    ],
+    [
+      "Viljandi County",
+      3420.04
+    ],
+    [
+      "Võru County",
+      2773.14
+    ]
+  ],
+  "North Macedonia": [
+    [
+      "Aerodrom Municipality",
+      21.85
+    ],
+    [
+      "Aračinovo Municipality",
+      31.3
+    ],
+    [
+      "Berovo Municipality",
+      598.7
+    ],
+    [
+      "Bitola Municipality",
+      422.39
+    ],
+    [
+      "Bogdanci Municipality",
+      114.54
+    ],
+    [
+      "Bogovinje Municipality",
+      141.65
+    ],
+    [
+      "Bosilovo Municipality",
+      161.99
+    ],
+    [
+      "Brvenica Municipality",
+      164.3
+    ],
+    [
+      "Butel Municipality",
+      60.79
+    ],
+    [
+      "Centar Municipality",
+      7.52
+    ],
+    [
+      "Centar Župa Municipality",
+      107.21
+    ],
+    [
+      "Debar Municipality",
+      145.67
+    ],
+    [
+      "Debarca Municipality",
+      425.39
+    ],
+    [
+      "Delčevo Municipality",
+      422.39
+    ],
+    [
+      "Demir Hisar Municipality",
+      780.13
+    ],
+    [
+      "Demir Kapija Municipality",
+      311.06
+    ],
+    [
+      "Dojran Municipality",
+      129.16
+    ],
+    [
+      "Dolneni Municipality",
+      412.43
+    ],
+    [
+      "Gazi Baba Municipality",
+      110.86
+    ],
+    [
+      "Gevgelija Municipality",
+      317.0
+    ],
+    [
+      "Gostivar Municipality",
+      513.39
+    ],
+    [
+      "Gradsko Municipality",
+      236.19
+    ],
+    [
+      "Ilinden Municipality",
+      97.02
+    ],
+    [
+      "Jegunovce Municipality",
+      176.93
+    ],
+    [
+      "Karbinci Municipality",
+      229.7
+    ],
+    [
+      "Karpoš Municipality",
+      35.0
+    ],
+    [
+      "Kavadarci Municipality",
+      992.44
+    ],
+    [
+      "Kisela Voda Municipality",
+      34.0
+    ],
+    [
+      "Kičevo Municipality",
+      48.0
+    ],
+    [
+      "Konče Municipality",
+      233.05
+    ],
+    [
+      "Kočani Municipality",
+      375.44
+    ],
+    [
+      "Kratovo Municipality",
+      375.44
+    ],
+    [
+      "Kriva Palanka Municipality",
+      480.81
+    ],
+    [
+      "Krivogaštani Municipality",
+      93.57
+    ],
+    [
+      "Kruševo Municipality",
+      190.68
+    ],
+    [
+      "Kumanovo Municipality",
+      509.48
+    ],
+    [
+      "Lipkovo Municipality",
+      267.82
+    ],
+    [
+      "Lozovo Municipality",
+      166.32
+    ],
+    [
+      "Makedonska Kamenica Municipality",
+      190.37
+    ],
+    [
+      "Makedonski Brod Municipality",
+      888.97
+    ],
+    [
+      "Mavrovo i Rostuše Municipality",
+      663.19
+    ],
+    [
+      "Mogila Municipality",
+      255.62
+    ],
+    [
+      "Negotino Municipality",
+      132.9
+    ],
+    [
+      "Novaci Municipality",
+      753.53
+    ],
+    [
+      "Novo Selo Municipality",
+      237.83
+    ],
+    [
+      "Ohrid Municipality",
+      389.93
+    ],
+    [
+      "Pehčevo Municipality",
+      207.0
+    ],
+    [
+      "Petrovec Municipality",
+      201.93
+    ],
+    [
+      "Plasnica Municipality",
+      54.44
+    ],
+    [
+      "Prilep Municipality",
+      1194.44
+    ],
+    [
+      "Probištip Municipality",
+      325.57
+    ],
+    [
+      "Radoviš Municipality",
+      497.48
+    ],
+    [
+      "Rankovce Municipality",
+      240.71
+    ],
+    [
+      "Resen Municipality",
+      739.0
+    ],
+    [
+      "Rosoman Municipality",
+      132.9
+    ],
+    [
+      "Saraj Municipality",
+      229.06
+    ],
+    [
+      "Sopište Municipality",
+      222.1
+    ],
+    [
+      "Staro Nagoričane Municipality",
+      433.41
+    ],
+    [
+      "Struga Municipality",
+      483.0
+    ],
+    [
+      "Strumica Municipality",
+      321.49
+    ],
+    [
+      "Studeničani Municipality",
+      276.16
+    ],
+    [
+      "Sveti Nikole Municipality",
+      482.89
+    ],
+    [
+      "Tearce Municipality",
+      136.54
+    ],
+    [
+      "Tetovo Municipality",
+      261.89
+    ],
+    [
+      "Valandovo Municipality",
+      331.4
+    ],
+    [
+      "Vasilevo Municipality",
+      230.4
+    ],
+    [
+      "Veles Municipality",
+      427.45
+    ],
+    [
+      "Vevčani Municipality",
+      22.8
+    ],
+    [
+      "Vinica Municipality",
+      432.67
+    ],
+    [
+      "Vrapčište Municipality",
+      157.0
+    ],
+    [
+      "Zelenikovo Municipality",
+      176.95
+    ],
+    [
+      "Zrnovci Municipality",
+      55.82
+    ],
+    [
+      "Čair Municipality",
+      3.52
+    ],
+    [
+      "Čaška Municipality",
+      819.45
+    ],
+    [
+      "Češinovo-Obleševo Municipality",
+      132.2
+    ],
+    [
+      "Čučer-Sandevo Municipality",
+      240.78
+    ],
+    [
+      "Štip Municipality",
+      583.24
+    ],
+    [
+      "Šuto Orizari Municipality",
+      7.48
+    ],
+    [
+      "Želino Municipality",
+      201.04
+    ],
+    [
+      "Ǵorče Petrov municipality",
+      66.93
+    ]
+  ],
+  "Bosnia and Herzegovina": [
+    [
+      "Brčko District",
+      493.0
+    ],
+    [
+      "Federation of Bosnia and Herzegovina",
+      26110.5
+    ]
+  ],
+  "Mongolia": [
+    [
+      "Arkhangai Province",
+      55314.0
+    ],
+    [
+      "Bayan-Ölgii Province",
+      45704.89
+    ],
+    [
+      "Bayankhongor Province",
+      115977.8
+    ],
+    [
+      "Bulgan Province",
+      48733.0
+    ],
+    [
+      "Darkhan-Uul Province",
+      3275.0
+    ],
+    [
+      "Dornod Province",
+      123597.43
+    ],
+    [
+      "Dornogovi Province",
+      109472.3
+    ],
+    [
+      "Dundgovi Province",
+      74690.32
+    ],
+    [
+      "Govi-Altai Province",
+      141448.0
+    ],
+    [
+      "Govisümber Province",
+      5542.0
+    ],
+    [
+      "Khentii Province",
+      80325.08
+    ],
+    [
+      "Khovd Province",
+      76133.38
+    ],
+    [
+      "Khövsgöl Province",
+      100628.82
+    ],
+    [
+      "Orkhon Province",
+      844.0
+    ],
+    [
+      "Selenge Province",
+      41152.63
+    ],
+    [
+      "Sükhbaatar Province",
+      82287.15
+    ],
+    [
+      "Töv Province",
+      74042.37
+    ],
+    [
+      "Ulaanbaatar",
+      4704.4
+    ],
+    [
+      "Uvs Province",
+      69585.39
+    ],
+    [
+      "Zavkhan Province",
+      82456.0
+    ],
+    [
+      "Ömnögovi Province",
+      165380.47
+    ],
+    [
+      "Övörkhangai Province",
+      62895.33
+    ]
+  ],
+  "Brunei": [
+    [
+      "Belait District",
+      2727.0
+    ],
+    [
+      "Brunei-Muara District",
+      570.0
+    ],
+    [
+      "Temburong District",
+      1304.0
+    ],
+    [
+      "Tutong District",
+      1166.0
+    ]
+  ],
+  "Kyrgyzstan": [
+    [
+      "Batken Region",
+      16995.0
+    ],
+    [
+      "Bishkek",
+      127.0
+    ],
+    [
+      "Chuy Region",
+      20200.0
+    ],
+    [
+      "Issyk-Kul Region",
+      43100.0
+    ],
+    [
+      "Jalal-Abad Region",
+      33700.0
+    ],
+    [
+      "Naryn Region",
+      45200.0
+    ],
+    [
+      "Osh",
+      182.5
+    ],
+    [
+      "Osh Region",
+      29200.0
+    ],
+    [
+      "Talas Region",
+      11400.0
+    ]
+  ],
+  "Slovakia": [
+    [
+      "Banská Bystrica Region",
+      9453.974158
+    ],
+    [
+      "Bratislava Region",
+      2052.608361
+    ],
+    [
+      "Košice Region",
+      6754.326549
+    ],
+    [
+      "Nitra Region",
+      6343.73121
+    ],
+    [
+      "Prešov Region",
+      8972.799374
+    ],
+    [
+      "Trenčín Region",
+      4501.810602
+    ],
+    [
+      "Trnava Region",
+      4146.286139
+    ],
+    [
+      "Žilina region",
+      6808.447168
+    ]
+  ],
+  "Dominican Republic": [
+    [
+      "Azua Province",
+      2531.77
+    ],
+    [
+      "Baoruco Province",
+      1284.9
+    ],
+    [
+      "Barahona Province",
+      1666.19
+    ],
+    [
+      "Dajabón Province",
+      1021.25
+    ],
+    [
+      "Distrito Nacional",
+      91.95
+    ],
+    [
+      "Duarte Province",
+      1649.48
+    ],
+    [
+      "El Seibo Province",
+      1788.41
+    ],
+    [
+      "Elías Piña Province",
+      1395.47
+    ],
+    [
+      "Espaillat Province",
+      842.96
+    ],
+    [
+      "Hato Mayor Province",
+      1319.3
+    ],
+    [
+      "Hermanas Mirabal Province",
+      427.38
+    ],
+    [
+      "Independencia",
+      2007.4
+    ],
+    [
+      "La Altagracia Province",
+      2998.43
+    ],
+    [
+      "La Romana",
+      652.12
+    ],
+    [
+      "La Vega Province",
+      2292.45
+    ],
+    [
+      "María Trinidad Sánchez Province",
+      1206.5
+    ],
+    [
+      "Monseñor Nouel Province",
+      992.03
+    ],
+    [
+      "Monte Cristi Province",
+      1885.8
+    ],
+    [
+      "Monte Plata Province",
+      2601.61
+    ],
+    [
+      "Pedernales Province",
+      2080.5
+    ],
+    [
+      "Peravia Province",
+      785.21
+    ],
+    [
+      "Puerto Plata Province",
+      1805.63
+    ],
+    [
+      "Samaná Province",
+      862.82
+    ],
+    [
+      "San Cristóbal Province",
+      1240.63
+    ],
+    [
+      "San José de Ocoa Province",
+      853.43
+    ],
+    [
+      "San Juan Province",
+      3363.83
+    ],
+    [
+      "San Pedro de Macorís",
+      1254.33
+    ],
+    [
+      "Santiago Province",
+      2806.29
+    ],
+    [
+      "Santiago Rodríguez Province",
+      1147.54
+    ],
+    [
+      "Santo Domingo Province",
+      1301.61
+    ],
+    [
+      "Sánchez Ramírez Province",
+      1185.8
+    ],
+    [
+      "Valverde Province",
+      822.95
+    ]
+  ],
+  "Sudan": [
+    [
+      "Al Qadarif",
+      75263.0
+    ],
+    [
+      "Blue Nile State",
+      45844.0
+    ],
+    [
+      "Gezira",
+      27549.0
+    ],
+    [
+      "Kassala",
+      36710.0
+    ],
+    [
+      "Khartoum",
+      22142.0
+    ],
+    [
+      "North Darfur",
+      296420.0
+    ],
+    [
+      "North Kordofan",
+      185302.0
+    ],
+    [
+      "Northern State",
+      348765.0
+    ],
+    [
+      "Red Sea",
+      218887.0
+    ],
+    [
+      "River Nile",
+      122123.0
+    ],
+    [
+      "Sennar",
+      37844.0
+    ],
+    [
+      "South Darfur",
+      127300.0
+    ],
+    [
+      "South Kordofan",
+      79470.0
+    ],
+    [
+      "West Darfur",
+      79460.0
+    ],
+    [
+      "White Nile",
+      39701.0
+    ]
+  ],
+  "Liechtenstein": [
+    [
+      "Balzers",
+      19.6
+    ],
+    [
+      "Eschen",
+      10.33
+    ],
+    [
+      "Gamprin",
+      6.1
+    ],
+    [
+      "Mauren",
+      7.5
+    ],
+    [
+      "Planken",
+      5.3
+    ],
+    [
+      "Ruggell",
+      7.4
+    ],
+    [
+      "Schaan",
+      26.8
+    ],
+    [
+      "Schellenberg",
+      3.5
+    ],
+    [
+      "Triesen",
+      26.4
+    ],
+    [
+      "Triesenberg",
+      29.8
+    ],
+    [
+      "Vaduz",
+      17.3
+    ]
+  ],
+  "Liberia": [
+    [
+      "Bomi County",
+      1942.0
+    ],
+    [
+      "Bong County",
+      8754.0
+    ],
+    [
+      "Gbarpolu County",
+      9689.0
+    ],
+    [
+      "Grand Bassa County",
+      7936.0
+    ],
+    [
+      "Grand Cape Mount County",
+      5162.0
+    ],
+    [
+      "Grand Gedeh County",
+      10484.0
+    ],
+    [
+      "Grand Kru County",
+      3895.0
+    ],
+    [
+      "Lofa County",
+      9978.0
+    ],
+    [
+      "Margibi County",
+      2616.0
+    ],
+    [
+      "Maryland County",
+      2297.0
+    ],
+    [
+      "Montserrado County",
+      1908.0
+    ],
+    [
+      "Nimba",
+      11551.0
+    ],
+    [
+      "River Cess County",
+      5594.0
+    ],
+    [
+      "River Gee County",
+      5113.0
+    ],
+    [
+      "Sinoe County",
+      10137.0
+    ]
+  ],
+  "Laos": [
+    [
+      "Attapeu Province",
+      10320.0
+    ],
+    [
+      "Bokeo Province",
+      6196.0
+    ],
+    [
+      "Bolikhamsai Province",
+      14863.0
+    ],
+    [
+      "Champasak Province",
+      15415.0
+    ],
+    [
+      "Hūaphan",
+      16500.0
+    ],
+    [
+      "Khammouane Province",
+      16315.0
+    ],
+    [
+      "Luang Prabang Province",
+      16875.0
+    ],
+    [
+      "Lūang Namthā",
+      9325.0
+    ],
+    [
+      "Phongsaly Province",
+      16925.0
+    ],
+    [
+      "Sainyabūlī",
+      16389.0
+    ],
+    [
+      "Salavan Province",
+      10691.0
+    ],
+    [
+      "Savannakhet Province",
+      21774.0
+    ],
+    [
+      "Sekong province",
+      7665.0
+    ],
+    [
+      "Udomsai",
+      15370.0
+    ],
+    [
+      "Vientiane Province",
+      15927.0
+    ],
+    [
+      "Xiangkhouang Province",
+      16358.0
+    ]
+  ],
+  "Eritrea": [
+    [
+      "Anseba Region",
+      23200.0
+    ],
+    [
+      "Debub Region",
+      8000.0
+    ],
+    [
+      "Gash-Barka Region",
+      33200.0
+    ],
+    [
+      "Maekel Region",
+      1300.0
+    ],
+    [
+      "Northern Red Sea Region",
+      27800.0
+    ],
+    [
+      "Southern Red Sea Region",
+      27600.0
+    ]
+  ],
+  "Tanzania": [
+    [
+      "Arusha Region",
+      34526.0
+    ],
+    [
+      "Dar es Salaam Region",
+      1393.0
+    ],
+    [
+      "Dodoma Region",
+      41311.0
+    ],
+    [
+      "Iringa Region",
+      35503.0
+    ],
+    [
+      "Kagera Region",
+      25265.0
+    ],
+    [
+      "Kigoma Region",
+      37040.0
+    ],
+    [
+      "Kilimanjaro Region",
+      13250.0
+    ],
+    [
+      "Lindi Region",
+      66040.0
+    ],
+    [
+      "Manyara Region",
+      44522.0
+    ],
+    [
+      "Mara Region",
+      21760.0
+    ],
+    [
+      "Mbeya Region",
+      62420.0
+    ],
+    [
+      "Mjini Magharibi Region",
+      230.0
+    ],
+    [
+      "Morogoro Region",
+      70624.0
+    ],
+    [
+      "Mtwara Region",
+      16710.0
+    ],
+    [
+      "Mwanza Region",
+      9467.0
+    ],
+    [
+      "North Pemba Region",
+      574.0
+    ],
+    [
+      "Pwani Region",
+      32547.0
+    ],
+    [
+      "Rukwa Region",
+      22792.0
+    ],
+    [
+      "Ruvuma Region",
+      63669.0
+    ],
+    [
+      "Shinyanga Region",
+      18901.0
+    ],
+    [
+      "Singida Region",
+      49340.0
+    ],
+    [
+      "South Pemba Region",
+      332.0
+    ],
+    [
+      "Tabora Region",
+      76150.0
+    ],
+    [
+      "Tanga Region",
+      26677.0
+    ],
+    [
+      "Unguja North Region",
+      470.0
+    ],
+    [
+      "Unguja South Region",
+      854.0
+    ]
+  ],
+  "Rwanda": [
+    [
+      "Eastern Province",
+      9813.0
+    ],
+    [
+      "Kigali Province",
+      730.0
+    ],
+    [
+      "Northern Province",
+      3276.0
+    ],
+    [
+      "Southern Province",
+      6118.0
+    ],
+    [
+      "Western Province",
+      5882.0
+    ]
+  ],
+  "Latvia": [
+    [
+      "Aglona Municipality",
+      357.74
+    ],
+    [
+      "Aizkraukle Municipality",
+      93.83
+    ],
+    [
+      "Aizpute Municipality",
+      614.5
+    ],
+    [
+      "Aknīste Municipality",
+      280.63
+    ],
+    [
+      "Aloja Municipality",
+      618.89
+    ],
+    [
+      "Alsunga Municipality",
+      186.31
+    ],
+    [
+      "Alūksne Municipality",
+      1647.8
+    ],
+    [
+      "Amata Municipality",
+      731.07
+    ],
+    [
+      "Ape Municipality",
+      534.19
+    ],
+    [
+      "Auce Municipality",
+      503.25
+    ],
+    [
+      "Babīte Municipality",
+      204.77
+    ],
+    [
+      "Baldone Municipality",
+      175.77
+    ],
+    [
+      "Baltinava Municipality",
+      183.13
+    ],
+    [
+      "Balvi Municipality",
+      1022.08
+    ],
+    [
+      "Bauska Municipality",
+      770.61
+    ],
+    [
+      "Beverīna Municipality",
+      293.55
+    ],
+    [
+      "Brocēni Municipality",
+      481.36
+    ],
+    [
+      "Burtnieki Municipality",
+      652.19
+    ],
+    [
+      "Carnikava Municipality",
+      75.99
+    ],
+    [
+      "Cesvaine Municipality",
+      186.22
+    ],
+    [
+      "Cibla Municipality",
+      485.41
+    ],
+    [
+      "Cēsis Municipality",
+      169.9
+    ],
+    [
+      "Dagda Municipality",
+      907.02
+    ],
+    [
+      "Daugavpils",
+      63.37
+    ],
+    [
+      "Daugavpils Municipality",
+      1793.9
+    ],
+    [
+      "Dobele Municipality",
+      864.55
+    ],
+    [
+      "Dundaga Municipality",
+      667.74
+    ],
+    [
+      "Durbe Municipality",
+      303.98
+    ],
+    [
+      "Engure Municipality",
+      365.55
+    ],
+    [
+      "Garkalne Municipality",
+      142.81
+    ],
+    [
+      "Grobiņa Municipality",
+      474.47
+    ],
+    [
+      "Gulbene Municipality",
+      1827.33
+    ],
+    [
+      "Iecava Municipality",
+      306.0
+    ],
+    [
+      "Ikšķile Municipality",
+      123.09
+    ],
+    [
+      "Ilūkste Municipality",
+      632.22
+    ],
+    [
+      "Inčukalns Municipality",
+      109.27
+    ],
+    [
+      "Jaunjelgava Municipality",
+      660.12
+    ],
+    [
+      "Jaunpiebalga Municipality",
+      245.83
+    ],
+    [
+      "Jaunpils Municipality",
+      203.97
+    ],
+    [
+      "Jelgava",
+      57.66
+    ],
+    [
+      "Jelgava Municipality",
+      1283.26
+    ],
+    [
+      "Jēkabpils",
+      21.9
+    ],
+    [
+      "Jēkabpils Municipality",
+      881.7
+    ],
+    [
+      "Jūrmala",
+      88.93
+    ],
+    [
+      "Kandava Municipality",
+      636.45
+    ],
+    [
+      "Kocēni Municipality",
+      487.58
+    ],
+    [
+      "Koknese Municipality",
+      347.33
+    ],
+    [
+      "Krimulda Municipality",
+      330.99
+    ],
+    [
+      "Krustpils Municipality",
+      789.49
+    ],
+    [
+      "Krāslava Municipality",
+      999.28
+    ],
+    [
+      "Kuldīga Municipality",
+      1707.92
+    ],
+    [
+      "Kārsava Municipality",
+      617.63
+    ],
+    [
+      "Lielvārde Municipality",
+      213.84
+    ],
+    [
+      "Liepāja",
+      51.33
+    ],
+    [
+      "Limbaži Municipality",
+      1136.83
+    ],
+    [
+      "Lubāna Municipality",
+      336.04
+    ],
+    [
+      "Ludza Municipality",
+      904.36
+    ],
+    [
+      "Līgatne Municipality",
+      164.3
+    ],
+    [
+      "Līvāni Municipality",
+      606.52
+    ],
+    [
+      "Madona Municipality",
+      2069.0
+    ],
+    [
+      "Mazsalaca Municipality",
+      407.88
+    ],
+    [
+      "Mālpils Municipality",
+      214.89
+    ],
+    [
+      "Mārupe Municipality",
+      100.4
+    ],
+    [
+      "Mērsrags Municipality",
+      88.69
+    ],
+    [
+      "Naukšēni Municipality",
+      275.63
+    ],
+    [
+      "Nereta Municipality",
+      632.9
+    ],
+    [
+      "Nīca Municipality",
+      324.42
+    ],
+    [
+      "Ogre Municipality",
+      962.28
+    ],
+    [
+      "Olaine Municipality",
+      297.14
+    ],
+    [
+      "Ozolnieki Municipality",
+      273.54
+    ],
+    [
+      "Preiļi Municipality",
+      355.69
+    ],
+    [
+      "Priekule Municipality",
+      507.26
+    ],
+    [
+      "Priekuļi Municipality",
+      295.38
+    ],
+    [
+      "Pārgauja Municipality",
+      467.86
+    ],
+    [
+      "Pāvilosta Municipality",
+      504.84
+    ],
+    [
+      "Pļaviņas Municipality",
+      359.81
+    ],
+    [
+      "Rauna Municipality",
+      301.11
+    ],
+    [
+      "Riebiņi Municipality",
+      589.99
+    ],
+    [
+      "Riga",
+      253.05
+    ],
+    [
+      "Roja Municipality",
+      196.95
+    ],
+    [
+      "Ropaži Municipality",
+      318.57
+    ],
+    [
+      "Rucava Municipality",
+      434.43
+    ],
+    [
+      "Rugāji Municipality",
+      504.56
+    ],
+    [
+      "Rundāle Municipality",
+      227.12
+    ],
+    [
+      "Rēzekne",
+      17.12
+    ],
+    [
+      "Rēzekne Municipality",
+      2307.39
+    ],
+    [
+      "Rūjiena Municipality",
+      340.96
+    ],
+    [
+      "Sala Municipality",
+      303.96
+    ],
+    [
+      "Salacgrīva Municipality",
+      626.91
+    ],
+    [
+      "Salaspils Municipality",
+      100.01
+    ],
+    [
+      "Saldus Municipality",
+      1641.11
+    ],
+    [
+      "Saulkrasti Municipality",
+      46.92
+    ],
+    [
+      "Sigulda Municipality",
+      353.27
+    ],
+    [
+      "Skrunda Municipality",
+      537.93
+    ],
+    [
+      "Skrīveri Municipality",
+      102.74
+    ],
+    [
+      "Smiltene Municipality",
+      929.26
+    ],
+    [
+      "Stopiņi Municipality",
+      51.48
+    ],
+    [
+      "Strenči Municipality",
+      356.64
+    ],
+    [
+      "Sēja Municipality",
+      225.56
+    ],
+    [
+      "Talsi Municipality",
+      1720.87
+    ],
+    [
+      "Tukums Municipality",
+      1167.21
+    ],
+    [
+      "Tērvete Municipality",
+      219.46
+    ],
+    [
+      "Vaiņode Municipality",
+      299.54
+    ],
+    [
+      "Valka Municipality",
+      888.53
+    ],
+    [
+      "Valmiera",
+      18.68
+    ],
+    [
+      "Varakļāni Municipality",
+      272.09
+    ],
+    [
+      "Vecpiebalga Municipality",
+      515.01
+    ],
+    [
+      "Vecumnieki Municipality",
+      827.53
+    ],
+    [
+      "Ventspils",
+      51.08
+    ],
+    [
+      "Ventspils Municipality",
+      2365.24
+    ],
+    [
+      "Viesīte Municipality",
+      626.62
+    ],
+    [
+      "Viļaka Municipality",
+      627.92
+    ],
+    [
+      "Viļāni Municipality",
+      281.13
+    ],
+    [
+      "Vārkava Municipality",
+      280.48
+    ],
+    [
+      "Zilupe Municipality",
+      302.84
+    ],
+    [
+      "Ādaži Municipality",
+      148.98
+    ],
+    [
+      "Ērgļi Municipality",
+      368.86
+    ],
+    [
+      "Ķegums Municipality",
+      467.65
+    ],
+    [
+      "Ķekava Municipality",
+      258.71
+    ]
+  ],
+  "Andorra": [
+    [
+      "Andorra la Vella",
+      12.0
+    ],
+    [
+      "Canillo",
+      121.0
+    ],
+    [
+      "Encamp",
+      74.0
+    ],
+    [
+      "Escaldes-Engordany",
+      30.0
+    ],
+    [
+      "La Massana",
+      65.0
+    ],
+    [
+      "Ordino",
+      90.0
+    ],
+    [
+      "Sant Julià de Lòria",
+      61.0
+    ]
+  ],
+  "Tunisia": [
+    [
+      "Ariana Governorate",
+      482.0
+    ],
+    [
+      "Ben Arous Governorate",
+      761.0
+    ],
+    [
+      "Bizerte Governorate",
+      3750.0
+    ],
+    [
+      "Béja Governorate",
+      3558.0
+    ],
+    [
+      "Gabès Governorate",
+      7175.0
+    ],
+    [
+      "Gafsa Governorate",
+      7807.0
+    ],
+    [
+      "Jendouba Governorate",
+      3102.0
+    ],
+    [
+      "Kairouan Governorate",
+      6712.0
+    ],
+    [
+      "Kasserine Governorate",
+      8260.0
+    ],
+    [
+      "Kebili Governorate",
+      22454.0
+    ],
+    [
+      "Kef Governorate",
+      4965.0
+    ],
+    [
+      "Mahdia Governorate",
+      2966.0
+    ],
+    [
+      "Manouba Governorate",
+      1137.0
+    ],
+    [
+      "Medenine Governorate",
+      9167.0
+    ],
+    [
+      "Monastir Governorate",
+      1019.0
+    ],
+    [
+      "Nabeul Governorate",
+      2788.0
+    ],
+    [
+      "Sfax Governorate",
+      7545.0
+    ],
+    [
+      "Sidi Bouzid Governorate",
+      7405.0
+    ],
+    [
+      "Siliana Governorate",
+      4642.0
+    ],
+    [
+      "Sousse Governorate",
+      2669.0
+    ],
+    [
+      "Tataouine Governorate",
+      38889.0
+    ],
+    [
+      "Tozeur Governorate",
+      4719.0
+    ],
+    [
+      "Tunis Governorate",
+      346.0
+    ],
+    [
+      "Zaghouan Governorate",
+      2768.0
+    ]
+  ],
+  "Chile": [
+    [
+      "Antofagasta Region",
+      126049.1
+    ],
+    [
+      "Araucanía Region",
+      31842.3
+    ],
+    [
+      "Arica y Parinacota Region",
+      16873.3
+    ],
+    [
+      "Atacama Region",
+      75176.2
+    ],
+    [
+      "Aysén Region",
+      108494.4
+    ],
+    [
+      "Biobío Region",
+      23890.2
+    ],
+    [
+      "Coquimbo Region",
+      40579.9
+    ],
+    [
+      "Los Lagos Region",
+      48583.6
+    ],
+    [
+      "Los Ríos Region",
+      18429.5
+    ],
+    [
+      "Magellan and the Chilean Antarctic Region",
+      132291.1
+    ],
+    [
+      "Maule Región",
+      30296.1
+    ],
+    [
+      "O'Higgins Region",
+      16387.0
+    ],
+    [
+      "Santiago Metropolitan Region",
+      15403.2
+    ],
+    [
+      "Tarapacá Region",
+      42225.8
+    ],
+    [
+      "Valparaíso Region",
+      16396.1
+    ],
+    [
+      "Ñuble Region",
+      13178.5
+    ]
+  ],
+  "Namibia": [
+    [
+      "Erongo Region",
+      63719.0
+    ],
+    [
+      "Hardap Region",
+      68249.0
+    ],
+    [
+      "Karas Region",
+      161395.0
+    ],
+    [
+      "Kavango East Region",
+      23988.0
+    ],
+    [
+      "Kavango West Region",
+      24591.0
+    ],
+    [
+      "Khomas Region",
+      37007.0
+    ],
+    [
+      "Kunene Region",
+      115293.0
+    ],
+    [
+      "Ohangwena Region",
+      10703.0
+    ],
+    [
+      "Omaheke Region",
+      84612.0
+    ],
+    [
+      "Omusati Region",
+      26573.0
+    ],
+    [
+      "Oshana Region",
+      8653.0
+    ],
+    [
+      "Oshikoto Region",
+      38653.0
+    ],
+    [
+      "Otjozondjupa Region",
+      105185.0
+    ],
+    [
+      "Zambezi Region",
+      14528.0
+    ]
+  ],
+  "Mauritania": [
+    [
+      "Adrar Region",
+      222107.0
+    ],
+    [
+      "Assaba Region",
+      35984.0
+    ],
+    [
+      "Brakna Region",
+      33329.0
+    ],
+    [
+      "Dakhlet Nouadhibou",
+      37793.0
+    ],
+    [
+      "Gorgol Region",
+      13600.0
+    ],
+    [
+      "Guidimaka Region",
+      10300.0
+    ],
+    [
+      "Hodh Ech Chargui Region",
+      182267.0
+    ],
+    [
+      "Hodh El Gharbi Region",
+      50248.0
+    ],
+    [
+      "Inchiri Region",
+      31582.0
+    ],
+    [
+      "Tagant Region",
+      98186.0
+    ],
+    [
+      "Tiris Zemmour Region",
+      252900.0
+    ],
+    [
+      "Trarza Region",
+      65764.0
+    ]
+  ],
+  "Costa Rica": [
+    [
+      "Alajuela Province",
+      9772.27
+    ],
+    [
+      "Cartago Province",
+      3093.23
+    ],
+    [
+      "Guanacaste Province",
+      10196.32
+    ],
+    [
+      "Heredia Province",
+      2663.46
+    ],
+    [
+      "Limón Province",
+      9176.96
+    ],
+    [
+      "Puntarenas Province",
+      11298.51
+    ],
+    [
+      "San José Province",
+      4969.73
+    ]
+  ],
+  "Ecuador": [
+    [
+      "Azuay Province",
+      8172.71
+    ],
+    [
+      "Bolívar Province",
+      3956.93
+    ],
+    [
+      "Carchi Province",
+      3783.19
+    ],
+    [
+      "Cañar Province",
+      3647.22
+    ],
+    [
+      "Chimborazo Province",
+      6115.56
+    ],
+    [
+      "Cotopaxi Province",
+      6187.71
+    ],
+    [
+      "El Oro Province",
+      5870.02
+    ],
+    [
+      "Esmeraldas Province",
+      15835.84
+    ],
+    [
+      "Galápagos Province",
+      8233.11
+    ],
+    [
+      "Guayas Province",
+      15899.59
+    ],
+    [
+      "Imbabura Province",
+      4791.32
+    ],
+    [
+      "Loja Province",
+      11063.88
+    ],
+    [
+      "Los Ríos Province",
+      7238.25
+    ],
+    [
+      "Manabí Province",
+      19516.6
+    ],
+    [
+      "Morona-Santiago Province",
+      24004.41
+    ],
+    [
+      "Napo Province",
+      12542.22
+    ],
+    [
+      "Orellana Province",
+      21728.78
+    ],
+    [
+      "Pastaza Province",
+      29647.01
+    ],
+    [
+      "Pichincha Province",
+      9453.32
+    ],
+    [
+      "Santa Elena Province",
+      3688.46
+    ],
+    [
+      "Santo Domingo de los Tsáchilas Province",
+      3779.62
+    ],
+    [
+      "Sucumbíos Province",
+      18097.72
+    ],
+    [
+      "Tungurahua Province",
+      3385.8
+    ],
+    [
+      "Zamora Chinchipe",
+      10565.0
+    ]
+  ],
+  "Senegal": [
+    [
+      "Dakar",
+      550.0
+    ],
+    [
+      "Diourbel Region",
+      4789.0
+    ],
+    [
+      "Fatick",
+      6685.0
+    ],
+    [
+      "Kaffrine",
+      11181.0
+    ],
+    [
+      "Kaolack",
+      5357.0
+    ],
+    [
+      "Kedougou Region",
+      16896.0
+    ],
+    [
+      "Kolda",
+      13721.0
+    ],
+    [
+      "Louga",
+      24847.0
+    ],
+    [
+      "Matam",
+      29616.0
+    ],
+    [
+      "Saint-Louis",
+      19034.0
+    ],
+    [
+      "Sédhiou",
+      7350.0
+    ],
+    [
+      "Tambacounda Region",
+      42706.0
+    ],
+    [
+      "Thiès Region",
+      6601.0
+    ],
+    [
+      "Ziguinchor",
+      7339.0
+    ]
+  ],
+  "Lesotho": [
+    [
+      "Berea District",
+      2222.0
+    ],
+    [
+      "Butha-Buthe District",
+      1767.0
+    ],
+    [
+      "Leribe District",
+      2828.0
+    ],
+    [
+      "Mafeteng District",
+      2119.0
+    ],
+    [
+      "Maseru District",
+      4279.0
+    ],
+    [
+      "Mohale's Hoek District",
+      3530.0
+    ],
+    [
+      "Mokhotlong District",
+      4075.0
+    ],
+    [
+      "Qacha's Nek District",
+      2349.0
+    ],
+    [
+      "Quthing District",
+      2916.0
+    ],
+    [
+      "Thaba-Tseka District",
+      4270.0
+    ]
+  ],
+  "Colombia": [
+    [
+      "Amazonas Department",
+      109665.0
+    ],
+    [
+      "Antioquia",
+      63612.0
+    ],
+    [
+      "Arauca Department",
+      23818.0
+    ],
+    [
+      "Archipelago of San Andrés, Providencia and Santa Catalina",
+      52.5
+    ],
+    [
+      "Atlántico Department",
+      3388.0
+    ],
+    [
+      "Bogotá",
+      1578.0
+    ],
+    [
+      "Bolívar Department",
+      25978.0
+    ],
+    [
+      "Boyacá Department",
+      23189.0
+    ],
+    [
+      "Caldas Department",
+      7888.0
+    ],
+    [
+      "Caquetá Department",
+      88965.0
+    ],
+    [
+      "Casanare Department",
+      44995.0
+    ],
+    [
+      "Cauca Department",
+      29308.0
+    ],
+    [
+      "Cesar Department",
+      22905.0
+    ],
+    [
+      "Chocó Department",
+      46530.0
+    ],
+    [
+      "Cundinamarca Department",
+      22623.0
+    ],
+    [
+      "Córdoba Department",
+      25020.0
+    ],
+    [
+      "Guainía Department",
+      72238.0
+    ],
+    [
+      "Guaviare Department",
+      53460.0
+    ],
+    [
+      "Huila Department",
+      19890.0
+    ],
+    [
+      "La Guajira Department",
+      20848.0
+    ],
+    [
+      "Magdalena Department",
+      23188.0
+    ],
+    [
+      "Meta Department",
+      85635.0
+    ],
+    [
+      "Nariño Department",
+      33268.0
+    ],
+    [
+      "Norte de Santander Department",
+      21658.0
+    ],
+    [
+      "Putumayo Department",
+      24885.0
+    ],
+    [
+      "Quindío Department",
+      1845.0
+    ],
+    [
+      "Risaralda Department",
+      3600.0
+    ],
+    [
+      "Santander Department",
+      30537.0
+    ],
+    [
+      "Sucre Department",
+      10917.0
+    ],
+    [
+      "Tolima Department",
+      23562.0
+    ],
+    [
+      "Valle del Cauca Department",
+      22140.0
+    ],
+    [
+      "Vaupés Department",
+      54135.0
+    ],
+    [
+      "Vichada Department",
+      100242.0
+    ]
+  ],
+  "Angola": [
+    [
+      "Bengo Province",
+      31371.0
+    ],
+    [
+      "Benguela Province",
+      39826.0
+    ],
+    [
+      "Bié Province",
+      70314.0
+    ],
+    [
+      "Cabinda Province",
+      7270.0
+    ],
+    [
+      "Cuando Cubango Province",
+      199049.0
+    ],
+    [
+      "Cuanza Norte Province",
+      24110.0
+    ],
+    [
+      "Cuanza Sul Province",
+      55600.0
+    ],
+    [
+      "Cunene Province",
+      87342.0
+    ],
+    [
+      "Huambo Province",
+      34274.0
+    ],
+    [
+      "Huíla Province",
+      79022.0
+    ],
+    [
+      "Luanda Province",
+      18826.0
+    ],
+    [
+      "Lunda Norte Province",
+      103760.0
+    ],
+    [
+      "Lunda Sul Province",
+      77637.0
+    ],
+    [
+      "Malanje Province",
+      97602.0
+    ],
+    [
+      "Moxico Province",
+      223023.0
+    ],
+    [
+      "Namibe Province",
+      57091.0
+    ],
+    [
+      "Uíge Province",
+      58698.0
+    ],
+    [
+      "Zaire Province",
+      40130.0
+    ]
+  ],
+  "Bolivia": [
+    [
+      "Beni Department",
+      213564.0
+    ],
+    [
+      "Chuquisaca Department",
+      51524.0
+    ],
+    [
+      "Cochabamba Department",
+      55631.0
+    ],
+    [
+      "La Paz Department",
+      133985.0
+    ],
+    [
+      "Oruro Department",
+      53588.0
+    ],
+    [
+      "Pando Department",
+      63827.0
+    ],
+    [
+      "Potosí Department",
+      118218.0
+    ],
+    [
+      "Santa Cruz Department",
+      370621.0
+    ],
+    [
+      "Tarija Department",
+      37623.0
+    ]
+  ],
+  "Tajikistan": [
+    [
+      "Districts under Central Government Jurisdiction",
+      28600.0
+    ],
+    [
+      "Gorno-Badakhshan Autonomous Region",
+      64100.0
+    ],
+    [
+      "Khatlon Province",
+      24600.0
+    ],
+    [
+      "Sughd Province",
+      25400.0
+    ]
+  ],
+  "Mali": [
+    [
+      "Bamako",
+      245.0
+    ],
+    [
+      "Gao Region",
+      170572.0
+    ],
+    [
+      "Kayes Region",
+      119743.0
+    ],
+    [
+      "Kidal Region",
+      151450.0
+    ],
+    [
+      "Koulikoro Region",
+      90120.0
+    ],
+    [
+      "Mopti Region",
+      79017.0
+    ],
+    [
+      "Sikasso",
+      70280.0
+    ],
+    [
+      "Ségou Region",
+      64821.0
+    ],
+    [
+      "Timbuktu Region",
+      56.435
+    ]
+  ],
+  "Guatemala": [
+    [
+      "Alta Verapaz Department",
+      8686.0
+    ],
+    [
+      "Baja Verapaz Department",
+      3124.0
+    ],
+    [
+      "Chimaltenango Department",
+      1979.0
+    ],
+    [
+      "Chiquimula Department",
+      2376.0
+    ],
+    [
+      "El Progreso Department",
+      1922.0
+    ],
+    [
+      "Escuintla Department",
+      4384.0
+    ],
+    [
+      "Guatemala Department",
+      2253.0
+    ],
+    [
+      "Huehuetenango Department",
+      7403.0
+    ],
+    [
+      "Izabal Department",
+      9038.0
+    ],
+    [
+      "Jalapa Department",
+      2063.0
+    ],
+    [
+      "Jutiapa Department",
+      3216.0
+    ],
+    [
+      "Petén Department",
+      35854.0
+    ],
+    [
+      "Quetzaltenango Department",
+      1953.0
+    ],
+    [
+      "Quiché Department",
+      8378.0
+    ],
+    [
+      "Retalhuleu Department",
+      1856.0
+    ],
+    [
+      "Sacatepéquez Department",
+      465.0
+    ],
+    [
+      "San Marcos Department",
+      3791.0
+    ],
+    [
+      "Santa Rosa Department",
+      2295.0
+    ],
+    [
+      "Sololá Department",
+      1061.0
+    ],
+    [
+      "Suchitepéquez Department",
+      2510.0
+    ],
+    [
+      "Totonicapán Department",
+      1061.0
+    ],
+    [
+      "Zacapa Department",
+      2690.0
+    ]
+  ],
+  "Grenada": [
+    [
+      "Saint Andrew Parish",
+      35.0
+    ],
+    [
+      "Saint David Parish",
+      47.0
+    ],
+    [
+      "Saint George Parish",
+      67.33969
+    ],
+    [
+      "Saint John Parish",
+      15.0
+    ],
+    [
+      "Saint Mark Parish",
+      9.0
+    ],
+    [
+      "Saint Patrick Parish",
+      44.029797
+    ]
+  ],
+  "Palau": [
+    [
+      "Aimeliik",
+      52.0
+    ],
+    [
+      "Airai",
+      44.0
+    ],
+    [
+      "Angaur",
+      8.0
+    ],
+    [
+      "Hatohobei",
+      0.9
+    ],
+    [
+      "Kayangel",
+      1.4
+    ],
+    [
+      "Ngaraard",
+      36.0
+    ],
+    [
+      "Ngarchelong",
+      10.0
+    ],
+    [
+      "Ngardmau",
+      53.0
+    ],
+    [
+      "Ngatpang",
+      47.0
+    ],
+    [
+      "Ngchesar",
+      40.0
+    ],
+    [
+      "Ngeremlengui",
+      65.0
+    ],
+    [
+      "Ngiwal",
+      26.0
+    ],
+    [
+      "Peleliu",
+      13.0
+    ],
+    [
+      "Sonsorol",
+      3.12
+    ]
+  ],
+  "Vanuatu": [
+    [
+      "Malampa",
+      2779.0
+    ],
+    [
+      "Penama",
+      1198.0
+    ],
+    [
+      "Sanma",
+      4248.0
+    ],
+    [
+      "Shefa",
+      1455.0
+    ],
+    [
+      "Tafea",
+      1628.0
+    ],
+    [
+      "Torba",
+      882.0
+    ]
+  ],
+  "Djibouti": [
+    [
+      "Ali Sabieh Region",
+      2400.0
+    ],
+    [
+      "Arta Region",
+      1800.0
+    ],
+    [
+      "Dikhil Region",
+      7200.0
+    ],
+    [
+      "Djibouti Region",
+      200.0
+    ],
+    [
+      "Obock Region",
+      4700.0
+    ],
+    [
+      "Tadjourah Region",
+      7100.0
+    ]
+  ],
+  "Cameroon": [
+    [
+      "Adamawa",
+      63701.0
+    ],
+    [
+      "Centre",
+      68953.0
+    ],
+    [
+      "East",
+      109002.0
+    ],
+    [
+      "Far North",
+      34263.0
+    ],
+    [
+      "Littoral",
+      20248.0
+    ],
+    [
+      "North",
+      66090.0
+    ],
+    [
+      "Northwest",
+      17300.0
+    ],
+    [
+      "South",
+      47191.0
+    ],
+    [
+      "Southwest",
+      25410.0
+    ],
+    [
+      "West",
+      13892.0
+    ]
+  ],
+  "Zambia": [
+    [
+      "Central Province",
+      94394.0
+    ],
+    [
+      "Copperbelt Province",
+      31328.0
+    ],
+    [
+      "Eastern Province",
+      51476.0
+    ],
+    [
+      "Luapula Province",
+      50567.0
+    ],
+    [
+      "Lusaka Province",
+      21896.0
+    ],
+    [
+      "Muchinga Province",
+      87806.0
+    ],
+    [
+      "Northern Province",
+      77650.0
+    ],
+    [
+      "Northwestern Province",
+      125826.0
+    ],
+    [
+      "Southern Province",
+      85823.0
+    ],
+    [
+      "Western Province",
+      126386.0
+    ]
+  ],
+  "Dominica": [
+    [
+      "Saint Andrew Parish",
+      178.1
+    ],
+    [
+      "Saint David Parish",
+      131.5
+    ],
+    [
+      "Saint George Parish",
+      56.2
+    ],
+    [
+      "Saint John Parish",
+      59.0
+    ],
+    [
+      "Saint Joseph Parish",
+      121.2
+    ],
+    [
+      "Saint Luke Parish",
+      7.8
+    ],
+    [
+      "Saint Mark Parish",
+      10.4
+    ],
+    [
+      "Saint Patrick Parish",
+      87.5
+    ],
+    [
+      "Saint Paul Parish",
+      65.2
+    ],
+    [
+      "Saint Peter Parish",
+      32.6
+    ]
+  ],
+  "Niger": [
+    [
+      "Agadez Region",
+      667799.0
+    ],
+    [
+      "Diffa Region",
+      156906.0
+    ],
+    [
+      "Dosso Region",
+      31002.0
+    ],
+    [
+      "Maradi Region",
+      35100.0
+    ],
+    [
+      "Niamey",
+      239300000.0
+    ],
+    [
+      "Tahoua Region",
+      106677.0
+    ],
+    [
+      "Tillabéri Region",
+      89623.0
+    ],
+    [
+      "Zinder Region",
+      145430.0
+    ]
+  ],
+  "Honduras": [
+    [
+      "Atlántida Department",
+      4372.0
+    ],
+    [
+      "Bay Islands Department",
+      236.0
+    ],
+    [
+      "Choluteca Department",
+      4360.0
+    ],
+    [
+      "Colón Department",
+      8249.0
+    ],
+    [
+      "Comayagua Department",
+      5124.0
+    ],
+    [
+      "Copán Department",
+      3242.0
+    ],
+    [
+      "Cortés Department",
+      3923.0
+    ],
+    [
+      "El Paraíso Department",
+      7489.0
+    ],
+    [
+      "Francisco Morazán Department",
+      8619.0
+    ],
+    [
+      "Gracias a Dios Department",
+      16997.0
+    ],
+    [
+      "Intibucá Department",
+      3123.0
+    ],
+    [
+      "La Paz Department",
+      2525.0
+    ],
+    [
+      "Lempira Department",
+      4228.0
+    ],
+    [
+      "Ocotepeque Department",
+      1630.0
+    ],
+    [
+      "Olancho Department",
+      23905.0
+    ],
+    [
+      "Santa Bárbara Department",
+      5024.0
+    ],
+    [
+      "Valle Department",
+      1665.0
+    ],
+    [
+      "Yoro Department",
+      7781.0
+    ]
+  ],
+  "Burundi": [
+    [
+      "Bubanza Province",
+      1089.04
+    ],
+    [
+      "Bujumbura Mairie",
+      86.52
+    ],
+    [
+      "Bujumbura Rural Province",
+      1319.12
+    ],
+    [
+      "Bururi Province",
+      2456.12
+    ],
+    [
+      "Cankuzo Province",
+      1964.54
+    ],
+    [
+      "Cibitoke Province",
+      1635.52
+    ],
+    [
+      "Gitega Province",
+      4546.3
+    ],
+    [
+      "Karuzi Province",
+      1457.4
+    ],
+    [
+      "Kayanza Province",
+      1233.24
+    ],
+    [
+      "Kirundo Province",
+      1703.34
+    ],
+    [
+      "Makamba Province",
+      1959.6
+    ],
+    [
+      "Muramvya Province",
+      695.52
+    ],
+    [
+      "Muyinga Province",
+      1836.26
+    ],
+    [
+      "Mwaro Province",
+      839.6
+    ],
+    [
+      "Ngozi Province",
+      1473.86
+    ],
+    [
+      "Rutana Province",
+      1959.45
+    ],
+    [
+      "Ruyigi Province",
+      2338.88
+    ]
+  ],
+  "Paraguay": [
+    [
+      "Alto Paraguay Department",
+      82349.0
+    ],
+    [
+      "Alto Paraná Department",
+      14895.0
+    ],
+    [
+      "Amambay Department",
+      12933.0
+    ],
+    [
+      "Boquerón Department",
+      91669.0
+    ],
+    [
+      "Caaguazú Department",
+      11474.0
+    ],
+    [
+      "Caazapá Department",
+      9496.0
+    ],
+    [
+      "Canindeyú Department",
+      14667.0
+    ],
+    [
+      "Central Department",
+      2465.0
+    ],
+    [
+      "Concepción Department",
+      18051.0
+    ],
+    [
+      "Cordillera Department",
+      4948.0
+    ],
+    [
+      "Guairá Department",
+      3846.0
+    ],
+    [
+      "Itapúa Department",
+      16525.0
+    ],
+    [
+      "Misiones Department",
+      9556.0
+    ],
+    [
+      "Paraguarí Department",
+      8705.0
+    ],
+    [
+      "Presidente Hayes Department",
+      72907.0
+    ],
+    [
+      "San Pedro Department",
+      20002.0
+    ],
+    [
+      "Ñeembucú Department",
+      12147.0
+    ]
+  ],
+  "Saint Kitts and Nevis": [
+    [
+      "Christ Church Nichola Town Parish",
+      17.97
+    ],
+    [
+      "Saint Anne Sandy Point Parish",
+      12.74
+    ],
+    [
+      "Saint George Basseterre Parish",
+      28.6
+    ],
+    [
+      "Saint George Gingerland Parish",
+      18.7
+    ],
+    [
+      "Saint James Windward Parish",
+      31.5
+    ],
+    [
+      "Saint John Capisterre Parish",
+      24.25
+    ],
+    [
+      "Saint John Figtree Parish",
+      21.7
+    ],
+    [
+      "Saint Mary Cayon Parish",
+      14.72
+    ],
+    [
+      "Saint Paul Capisterre Parish",
+      12.66
+    ],
+    [
+      "Saint Paul Charlestown Parish",
+      3.6
+    ],
+    [
+      "Saint Peter Basseterre Parish",
+      19.74
+    ],
+    [
+      "Saint Thomas Lowland Parish",
+      18.2
+    ],
+    [
+      "Saint Thomas Middle Island Parish",
+      23.55
+    ],
+    [
+      "Trinity Palmetto Point Parish",
+      14.7
+    ]
+  ],
+  "Central African Republic": [
+    [
+      "Bamingui-Bangoran Prefecture",
+      58200.0
+    ],
+    [
+      "Bangui",
+      67339690.0
+    ],
+    [
+      "Basse-Kotto Prefecture",
+      17604.0
+    ],
+    [
+      "Haut-Mbomou Prefecture",
+      55530.0
+    ],
+    [
+      "Haute-Kotto Prefecture",
+      86650.0
+    ],
+    [
+      "Kémo Prefecture",
+      17204.0
+    ],
+    [
+      "Lobaye Prefecture",
+      19235.0
+    ],
+    [
+      "Mambéré-Kadéï",
+      30203.0
+    ],
+    [
+      "Nana-Grébizi Economic Prefecture",
+      19996.0
+    ],
+    [
+      "Nana-Mambéré Prefecture",
+      26600.0
+    ],
+    [
+      "Ombella-M'Poko Prefecture",
+      31835.0
+    ],
+    [
+      "Ouaka Prefecture",
+      49900.0
+    ],
+    [
+      "Ouham-Pendé Prefecture",
+      32100.0
+    ],
+    [
+      "Sangha-Mbaéré",
+      19412.0
+    ],
+    [
+      "Vakaga Prefecture",
+      46500.0
+    ]
+  ],
+  "Gabon": [
+    [
+      "Estuaire Province",
+      20740.0
+    ],
+    [
+      "Haut-Ogooué Province",
+      36547.0
+    ],
+    [
+      "Moyen-Ogooué Province",
+      18535.0
+    ],
+    [
+      "Ngounié Province",
+      37750.0
+    ],
+    [
+      "Nyanga Province",
+      21285.0
+    ],
+    [
+      "Ogooué-Ivindo Province",
+      46075.0
+    ],
+    [
+      "Ogooué-Lolo Province",
+      25380.0
+    ],
+    [
+      "Ogooué-Maritime Province",
+      22890.0
+    ],
+    [
+      "Woleu-Ntem Province",
+      38465.0
+    ]
+  ],
+  "Guinea": [
+    [
+      "Boké Region",
+      31186.0
+    ],
+    [
+      "Faranah Region",
+      35581.0
+    ],
+    [
+      "Kankan Region",
+      72145.0
+    ],
+    [
+      "Kindia Region",
+      28873.0
+    ],
+    [
+      "Labé Region",
+      22869.0
+    ],
+    [
+      "Mamou Region",
+      17074.0
+    ],
+    [
+      "Nzérékoré Region",
+      37658.0
+    ]
+  ],
+  "Malawi": [
+    [
+      "Central Region",
+      35592.0
+    ],
+    [
+      "Northern Region",
+      26931.0
+    ],
+    [
+      "Southern Region",
+      31753.0
+    ]
+  ],
+  "Solomon Islands": [
+    [
+      "Central Province",
+      615.0
+    ],
+    [
+      "Choiseul Province",
+      3837.0
+    ],
+    [
+      "Guadalcanal Province",
+      5336.0
+    ],
+    [
+      "Isabel Province",
+      4136.0
+    ],
+    [
+      "Makira-Ulawa Province",
+      3188.0
+    ],
+    [
+      "Malaita Province",
+      4225.0
+    ],
+    [
+      "Rennell and Bellona Province",
+      671.0
+    ],
+    [
+      "Temotu Province",
+      895.0
+    ],
+    [
+      "Western Province",
+      5475.0
+    ]
+  ],
+  "Comoros": [
+    [
+      "Anjouan",
+      424.0
+    ],
+    [
+      "Grande Comore",
+      1017.0
+    ],
+    [
+      "Mohéli",
+      290.0
+    ]
+  ],
+  "Antigua and Barbuda": [
+    [
+      "Barbuda",
+      161.0
+    ],
+    [
+      "Redonda",
+      1.5
+    ],
+    [
+      "Saint George",
+      24.41
+    ],
+    [
+      "Saint John",
+      66.96
+    ],
+    [
+      "Saint Mary",
+      63.55
+    ],
+    [
+      "Saint Paul",
+      45.27
+    ],
+    [
+      "Saint Peter",
+      32.37
+    ],
+    [
+      "Saint Philip",
+      40.67
+    ]
+  ],
+  "Turkmenistan": [
+    [
+      "Ahal Region",
+      97160.0
+    ],
+    [
+      "Ashgabat",
+      765.0
+    ],
+    [
+      "Balkan Region",
+      139270.0
+    ],
+    [
+      "Daşoguz Region",
+      73430.0
+    ],
+    [
+      "Lebap Region",
+      93730.0
+    ],
+    [
+      "Mary Region",
+      87150.0
+    ]
+  ],
+  "Togo": [
+    [
+      "Centrale Region",
+      13317.0
+    ],
+    [
+      "Kara Region",
+      11629.0
+    ],
+    [
+      "Maritime",
+      6395.0
+    ],
+    [
+      "Plateaux Region",
+      16975.0
+    ],
+    [
+      "Savanes Region",
+      8470.0
+    ]
+  ],
+  "Federated States of Micronesia": [
+    [
+      "Chuuk",
+      116.2
+    ],
+    [
+      "Kosrae State",
+      110.0
+    ],
+    [
+      "Pohnpei State",
+      371.6
+    ],
+    [
+      "Yap State",
+      119.54
+    ]
+  ],
+  "Saint Vincent and the Grenadines": [
+    [
+      "Charlotte Parish",
+      149.0
+    ],
+    [
+      "Grenadines Parish",
+      44.029797
+    ],
+    [
+      "Saint Andrew Parish",
+      29.0
+    ],
+    [
+      "Saint David Parish",
+      80.289631
+    ],
+    [
+      "Saint George Parish",
+      52.0
+    ],
+    [
+      "Saint Patrick Parish",
+      37.0
+    ]
+  ],
+  "Bulgaria": [
+    [
+      "Blagoevgrad",
+      6449.47
+    ],
+    [
+      "Burgas",
+      7748.1
+    ],
+    [
+      "Dobrich",
+      4719.7
+    ],
+    [
+      "Gabrovo",
+      2023.0
+    ],
+    [
+      "Haskovo",
+      5543.0
+    ],
+    [
+      "Kardzhali",
+      3216.0
+    ],
+    [
+      "Kyustendil",
+      3084.3
+    ],
+    [
+      "Lovech",
+      4132.0
+    ],
+    [
+      "Montana Oblast",
+      3635.0
+    ],
+    [
+      "Pazardzhik",
+      4459.0
+    ],
+    [
+      "Pernik",
+      2392.0
+    ],
+    [
+      "Pleven",
+      4337.0
+    ],
+    [
+      "Plovdiv",
+      5972.89
+    ],
+    [
+      "Razgrad",
+      2637.0
+    ],
+    [
+      "Ruse",
+      2791.0
+    ],
+    [
+      "Shumen",
+      3389.7
+    ],
+    [
+      "Silistra",
+      2846.0
+    ],
+    [
+      "Sliven",
+      3544.066
+    ],
+    [
+      "Smolyan",
+      3193.0
+    ],
+    [
+      "Sofia",
+      7059.0
+    ],
+    [
+      "Sofia City",
+      1348.902
+    ],
+    [
+      "Stara Zagora",
+      5152.0
+    ],
+    [
+      "Targovishte",
+      2558.5
+    ],
+    [
+      "Varna",
+      3818.0
+    ],
+    [
+      "Veliko Tarnovo",
+      4662.0
+    ],
+    [
+      "Vidin Oblast",
+      3033.0
+    ],
+    [
+      "Vratsa",
+      3619.7
+    ],
+    [
+      "Yambol",
+      3335.5
+    ]
+  ],
+  "Venezuela": [
+    [
+      "Amazonas",
+      177617.0
+    ],
+    [
+      "Anzoátegui",
+      43300.0
+    ],
+    [
+      "Apure",
+      76500.0
+    ],
+    [
+      "Aragua",
+      7014.0
+    ],
+    [
+      "Barinas",
+      35200.0
+    ],
+    [
+      "Bolívar",
+      240528.0
+    ],
+    [
+      "Carabobo",
+      4650.0
+    ],
+    [
+      "Cojedes",
+      1480.0
+    ],
+    [
+      "Delta Amacuro",
+      40200.0
+    ],
+    [
+      "Falcón",
+      24800.0
+    ],
+    [
+      "Federal Dependencies",
+      342.25
+    ],
+    [
+      "Guárico",
+      64986.0
+    ],
+    [
+      "Lara",
+      19800.0
+    ],
+    [
+      "Miranda",
+      7950.0
+    ],
+    [
+      "Monagas",
+      28900.0
+    ],
+    [
+      "Mérida",
+      11300.0
+    ],
+    [
+      "Nueva Esparta",
+      1150.0
+    ],
+    [
+      "Portuguesa",
+      15200.0
+    ],
+    [
+      "Sucre",
+      11800.0
+    ],
+    [
+      "Trujillo",
+      7400.0
+    ],
+    [
+      "Táchira",
+      11100.0
+    ],
+    [
+      "Vargas state",
+      1496.0
+    ],
+    [
+      "Yaracuy",
+      7100.0
+    ],
+    [
+      "Zulia",
+      50230.0
+    ]
+  ],
+  "Benin": [
+    [
+      "Alibori Department",
+      26242.0
+    ],
+    [
+      "Atakora Department",
+      20499.0
+    ],
+    [
+      "Atlantique Department",
+      3233.0
+    ],
+    [
+      "Borgou Department",
+      25856.0
+    ],
+    [
+      "Collines department",
+      13931.0
+    ],
+    [
+      "Donga Department",
+      11126.0
+    ],
+    [
+      "Kouffo Department",
+      2404.0
+    ],
+    [
+      "Littoral",
+      79.0
+    ],
+    [
+      "Mono Department",
+      1605.0
+    ],
+    [
+      "Ouémé Department",
+      1281.0
+    ],
+    [
+      "Plateau Department",
+      3264.0
+    ],
+    [
+      "Zou Department",
+      5243.0
+    ]
+  ],
+  "Timor-Leste": [
+    [
+      "Aileu municipality",
+      735.9
+    ],
+    [
+      "Ainaro Municipality",
+      802.6
+    ],
+    [
+      "Atauro",
+      140.1
+    ],
+    [
+      "Baucau Municipality",
+      1504.2
+    ],
+    [
+      "Bobonaro Municipality",
+      1378.1
+    ],
+    [
+      "Cova Lima Municipality",
+      1198.6
+    ],
+    [
+      "Dili Municipality",
+      224.0
+    ],
+    [
+      "Ermera Municipality",
+      756.5
+    ],
+    [
+      "Lautém Municipality",
+      1816.7
+    ],
+    [
+      "Liquiçá Municipality",
+      559.9
+    ],
+    [
+      "Manatuto Municipality",
+      1783.3
+    ],
+    [
+      "Manufahi Municipality",
+      1332.5
+    ],
+    [
+      "Oe-Cusse Ambeno",
+      813.6
+    ],
+    [
+      "Viqueque Municipality",
+      1872.7
+    ]
+  ],
+  "Uruguay": [
+    [
+      "Artigas Department",
+      11928.0
+    ],
+    [
+      "Canelones Department",
+      4536.0
+    ],
+    [
+      "Cerro Largo Department",
+      13648.0
+    ],
+    [
+      "Colonia Department",
+      6106.0
+    ],
+    [
+      "Durazno Department",
+      11643.0
+    ],
+    [
+      "Flores Department",
+      5144.0
+    ],
+    [
+      "Florida Department",
+      10457.0
+    ],
+    [
+      "Lavalleja Department",
+      10016.0
+    ],
+    [
+      "Maldonado Department",
+      4793.0
+    ],
+    [
+      "Montevideo Department",
+      530.0
+    ],
+    [
+      "Paysandú Department",
+      13922.0
+    ],
+    [
+      "Rivera Department",
+      9370.0
+    ],
+    [
+      "Rocha Department",
+      10551.0
+    ],
+    [
+      "Río Negro Department",
+      9282.0
+    ],
+    [
+      "Salto Department",
+      14163.0
+    ],
+    [
+      "San José Department",
+      4992.0
+    ],
+    [
+      "Soriano Department",
+      9008.0
+    ],
+    [
+      "Tacuarembó Department",
+      15438.0
+    ],
+    [
+      "Treinta y Tres Department",
+      9529.0
+    ]
+  ],
+  "Botswana": [
+    [
+      "Central District",
+      147730.0
+    ],
+    [
+      "Ghanzi District",
+      117910.0
+    ],
+    [
+      "Kgalagadi District",
+      106940.0
+    ],
+    [
+      "Kgatleng District",
+      7960.0
+    ],
+    [
+      "Kweneng District",
+      35890.0
+    ],
+    [
+      "North-East District",
+      5120.0
+    ],
+    [
+      "North-West District",
+      129930.0
+    ],
+    [
+      "South-East District",
+      1780.0
+    ],
+    [
+      "Southern District",
+      28470.0
+    ]
+  ],
+  "Nauru": [
+    [
+      "Aiwo District",
+      1.1
+    ],
+    [
+      "Anabar District",
+      1.5
+    ],
+    [
+      "Anetan District",
+      1.0
+    ],
+    [
+      "Anibare District",
+      3.1
+    ],
+    [
+      "Baiti District",
+      1.2
+    ],
+    [
+      "Boe District",
+      0.5
+    ],
+    [
+      "Buada District",
+      2.6
+    ],
+    [
+      "Denigomodu District",
+      0.9
+    ],
+    [
+      "Ewa District",
+      1.2
+    ],
+    [
+      "Ijuw District",
+      1.1
+    ],
+    [
+      "Meneng District",
+      3.1
+    ],
+    [
+      "Nibok District",
+      1.6
+    ],
+    [
+      "Uaboe District",
+      0.8
+    ],
+    [
+      "Yaren District",
+      1.5
+    ]
+  ]
+}

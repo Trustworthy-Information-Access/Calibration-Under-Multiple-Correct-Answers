@@ -1,0 +1,125 @@
+{
+  "as_of": "2026-02",
+  "region": [
+    {
+      "qid": "Q30",
+      "label": "United States",
+      "title": "United_States",
+      "views_12m": 13906339
+    },
+    {
+      "qid": "Q16",
+      "label": "Canada",
+      "title": "Canada",
+      "views_12m": 5488539
+    },
+    {
+      "qid": "Q17",
+      "label": "Japan",
+      "title": "Japan",
+      "views_12m": 5035496
+    },
+    {
+      "qid": "Q43",
+      "label": "Turkey",
+      "title": "Turkey",
+      "views_12m": 4234526
+    },
+    {
+      "qid": "Q36",
+      "label": "Poland",
+      "title": "Poland",
+      "views_12m": 3125957
+    },
+    {
+      "qid": "Q29",
+      "label": "Spain",
+      "title": "Spain",
+      "views_12m": 3121052
+    },
+    {
+      "qid": "Q39",
+      "label": "Switzerland",
+      "title": "Switzerland",
+      "views_12m": 3091047
+    },
+    {
+      "qid": "Q38",
+      "label": "Italy",
+      "title": "Italy",
+      "views_12m": 2999064
+    },
+    {
+      "qid": "Q35",
+      "label": "Denmark",
+      "title": "Denmark",
+      "views_12m": 2433336
+    },
+    {
+      "qid": "Q34",
+      "label": "Sweden",
+      "title": "Sweden",
+      "views_12m": 2395352
+    },
+    {
+      "qid": "Q33",
+      "label": "Finland",
+      "title": "Finland",
+      "views_12m": 2265738
+    },
+    {
+      "qid": "Q20",
+      "label": "Norway",
+      "title": "Norway",
+      "views_12m": 2254402
+    },
+    {
+      "qid": "Q45",
+      "label": "Portugal",
+      "title": "Portugal",
+      "views_12m": 2198753
+    },
+    {
+      "qid": "Q31",
+      "label": "Belgium",
+      "title": "Belgium",
+      "views_12m": 2195753
+    },
+    {
+      "qid": "Q40",
+      "label": "Austria",
+      "title": "Austria",
+      "views_12m": 2172344
+    },
+    {
+      "qid": "Q41",
+      "label": "Greece",
+      "title": "Greece",
+      "views_12m": 2129908
+    },
+    {
+      "qid": "Q37",
+      "label": "Lithuania",
+      "title": "Lithuania",
+      "views_12m": 2056215
+    },
+    {
+      "qid": "Q32",
+      "label": "Luxembourg",
+      "title": "Luxembourg",
+      "views_12m": 2002964
+    },
+    {
+      "qid": "Q27",
+      "label": "Ireland",
+      "title": "Republic_of_Ireland",
+      "views_12m": 1948845
+    },
+    {
+      "qid": "Q28",
+      "label": "Hungary",
+      "title": "Hungary",
+      "views_12m": 1924290
+    }
+  ]
+}

@@ -1,0 +1,6345 @@
+{
+  "Pakistan": {
+    "Azad Kashmir": [
+      13000,
+      14000
+    ],
+    "Balochistan": [
+      340000,
+      350000
+    ],
+    "Gilgit-Baltistan": [
+      72000,
+      73000
+    ],
+    "Islamabad Capital Territory": [
+      900,
+      910
+    ],
+    "Khyber Pakhtunkhwa": [
+      100000,
+      110000
+    ],
+    "Punjab": [
+      200000,
+      210000
+    ],
+    "Sindh": [
+      140000,
+      150000
+    ]
+  },
+  "United Kingdom": {
+    "England": [
+      130000,
+      140000
+    ],
+    "Northern Ireland": [
+      13000,
+      14000
+    ],
+    "Scotland": [
+      77000,
+      78000
+    ],
+    "Wales": [
+      20000,
+      21000
+    ]
+  },
+  "Bangladesh": {
+    "Barisal Division": [
+      13000,
+      14000
+    ],
+    "Chattogram Division": [
+      33000,
+      34000
+    ],
+    "Dhaka Division": [
+      20000,
+      21000
+    ],
+    "Khulna Division": [
+      22000,
+      23000
+    ],
+    "Mymensingh Division": [
+      10000,
+      11000
+    ],
+    "Rajshahi Division": [
+      18000,
+      19000
+    ],
+    "Rangpur Division": [
+      16000,
+      17000
+    ],
+    "Sylhet Division": [
+      12000,
+      13000
+    ]
+  },
+  "Canada": {
+    "Alberta": [
+      660000,
+      670000
+    ],
+    "British Columbia": [
+      940000,
+      950000
+    ],
+    "Manitoba": [
+      640000,
+      650000
+    ],
+    "New Brunswick": [
+      72000,
+      73000
+    ],
+    "Newfoundland and Labrador": [
+      400000,
+      410000
+    ],
+    "Northwest Territories": [
+      1300000,
+      1400000
+    ],
+    "Nova Scotia": [
+      55000,
+      56000
+    ],
+    "Nunavut": [
+      2000000,
+      2100000
+    ],
+    "Ontario": [
+      1000000,
+      1100000
+    ],
+    "Prince Edward Island": [
+      5600,
+      5700
+    ],
+    "Quebec": [
+      1500000,
+      1600000
+    ],
+    "Saskatchewan": [
+      650000,
+      660000
+    ],
+    "Yukon": [
+      480000,
+      490000
+    ]
+  },
+  "Iran": {
+    "Alborz Province": [
+      5800,
+      5900
+    ],
+    "Ardabil Province": [
+      17000,
+      18000
+    ],
+    "Bushehr Province": [
+      22000,
+      23000
+    ],
+    "Chaharmahal and Bakhtiari Province": [
+      16000,
+      17000
+    ],
+    "East Azarbaijan Province": [
+      45000,
+      46000
+    ],
+    "Pars Province": [
+      120000,
+      130000
+    ],
+    "Gilan Province": [
+      14000,
+      15000
+    ],
+    "Golestan Province": [
+      20000,
+      21000
+    ],
+    "Hamadan Province": [
+      19000,
+      20000
+    ],
+    "Hormozgan Province": [
+      70000,
+      71000
+    ],
+    "Ilam Province": [
+      20000,
+      21000
+    ],
+    "Isfahan Province": [
+      100000,
+      110000
+    ],
+    "Kerman Province": [
+      180000,
+      190000
+    ],
+    "Kermanshah Province": [
+      24000,
+      25000
+    ],
+    "Khuzestan Province": [
+      64000,
+      65000
+    ],
+    "Kohgiluyeh and Boyer-Ahmad Province": [
+      15000,
+      16000
+    ],
+    "Kurdistan Province": [
+      29000,
+      30000
+    ],
+    "Lorestan Province": [
+      28000,
+      29000
+    ],
+    "Markazi Province": [
+      29000,
+      30000
+    ],
+    "Mazandaran Province": [
+      23000,
+      24000
+    ],
+    "North Khorasan Province": [
+      28000,
+      29000
+    ],
+    "Qazvin Province": [
+      15000,
+      16000
+    ],
+    "Qom Province": [
+      11000,
+      12000
+    ],
+    "Razavi Khorasan Province": [
+      110000,
+      120000
+    ],
+    "Semnan Province": [
+      97000,
+      98000
+    ],
+    "Sistan and Baluchestan Province": [
+      180000,
+      190000
+    ],
+    "South Khorasan Province": [
+      150000,
+      160000
+    ],
+    "Tehran Province": [
+      18000,
+      19000
+    ],
+    "West Azarbaijan Province": [
+      37000,
+      38000
+    ],
+    "Yazd Province": [
+      76000,
+      77000
+    ],
+    "Zanjan Province": [
+      21000,
+      22000
+    ]
+  },
+  "India": {
+    "Andaman and Nicobar Islands": [
+      8200,
+      8300
+    ],
+    "Andhra Pradesh": [
+      160000,
+      170000
+    ],
+    "Arunachal Pradesh": [
+      83000,
+      84000
+    ],
+    "Assam": [
+      78000,
+      79000
+    ],
+    "Bihar": [
+      98000,
+      99000
+    ],
+    "Chhattisgarh": [
+      130000,
+      140000
+    ],
+    "Dadra and Nagar Haveli and Daman and Diu": [
+      600,
+      610
+    ],
+    "Goa": [
+      3700,
+      3800
+    ],
+    "Gujarat": [
+      190000,
+      200000
+    ],
+    "Haryana": [
+      44000,
+      45000
+    ],
+    "Himachal Pradesh": [
+      55000,
+      56000
+    ],
+    "Jammu and Kashmir": [
+      42000,
+      43000
+    ],
+    "Jharkhand": [
+      79000,
+      80000
+    ],
+    "Karnataka": [
+      190000,
+      200000
+    ],
+    "Kerala": [
+      38000,
+      39000
+    ],
+    "Ladakh": [
+      59000,
+      60000
+    ],
+    "Lakshadweep": [
+      30,
+      40
+    ],
+    "Madhya Pradesh": [
+      300000,
+      310000
+    ],
+    "Maharashtra": [
+      300000,
+      310000
+    ],
+    "Manipur": [
+      22000,
+      23000
+    ],
+    "Meghalaya": [
+      22000,
+      23000
+    ],
+    "Mizoram": [
+      21000,
+      22000
+    ],
+    "Nagaland": [
+      16000,
+      17000
+    ],
+    "Odisha": [
+      150000,
+      160000
+    ],
+    "Puducherry": [
+      480,
+      490
+    ],
+    "Punjab": [
+      50000,
+      51000
+    ],
+    "Rajasthan": [
+      340000,
+      350000
+    ],
+    "Sikkim": [
+      7000,
+      7100
+    ],
+    "Tamil Nadu": [
+      130000,
+      140000
+    ],
+    "Telangana": [
+      110000,
+      120000
+    ],
+    "Tripura": [
+      10000,
+      11000
+    ],
+    "Uttar Pradesh": [
+      240000,
+      250000
+    ],
+    "Uttarakhand": [
+      53000,
+      54000
+    ],
+    "West Bengal": [
+      88000,
+      89000
+    ],
+    "Chandigarh":[
+      110,
+      120
+    ],
+    "National Capital Territory of Delhi":[
+      1400,
+      1500
+    ]
+  },
+  "Mexico": {
+    "Aguascalientes": [
+      5600,
+      5700
+    ],
+    "Baja California": [
+      71000,
+      72000
+    ],
+    "Baja California Sur": [
+      73000,
+      74000
+    ],
+    "Campeche": [
+      57000,
+      58000
+    ],
+    "Chiapas": [
+      73000,
+      74000
+    ],
+    "Chihuahua": [
+      240000,
+      250000
+    ],
+    "Coahuila": [
+      150000,
+      160000
+    ],
+    "Colima": [
+      5600,
+      5700
+    ],
+    "Durango": [
+      120000,
+      130000
+    ],
+    "Guanajuato": [
+      30000,
+      31000
+    ],
+    "Guerrero": [
+      63000,
+      64000
+    ],
+    "Hidalgo": [
+      20000,
+      21000
+    ],
+    "Jalisco": [
+      78000,
+      79000
+    ],
+    "Mexico City": [
+      1400,
+      1500
+    ],
+    "Michoacán": [
+      58000,
+      59000
+    ],
+    "Morelos": [
+      4800,
+      4900
+    ],
+    "Nayarit": [
+      27000,
+      28000
+    ],
+    "Nuevo León": [
+      64000,
+      65000
+    ],
+    "Oaxaca": [
+      93000,
+      94000
+    ],
+    "Puebla": [
+      34000,
+      35000
+    ],
+    "Querétaro": [
+      11000,
+      12000
+    ],
+    "Quintana Roo": [
+      44000,
+      45000
+    ],
+    "San Luis Potosí": [
+      61000,
+      62000
+    ],
+    "Sinaloa": [
+      58000,
+      59000
+    ],
+    "Sonora": [
+      170000,
+      180000
+    ],
+    "State of Mexico": [
+      22000,
+      23000
+    ],
+    "Tabasco": [
+      24000,
+      25000
+    ],
+    "Tamaulipas": [
+      80000,
+      81000
+    ],
+    "Tlaxcala": [
+      4000,
+      4100
+    ],
+    "Veracruz": [
+      71000,
+      72000
+    ],
+    "Yucatán": [
+      39000,
+      40000
+    ],
+    "Zacatecas": [
+      75000,
+      76000
+    ]
+  },
+  "Lebanon": {
+    "Beirut Governorate": [
+      10,
+      20
+    ],
+    "Beqaa Governorate": [
+      1400,
+      1500
+    ],
+    "Mount Lebanon Governorate": [
+      1200,
+      1300
+    ],
+    "Nabatieh Governorate": [
+      1000,
+      1100
+    ],
+    "North Governorate": [
+      1200,
+      1300
+    ],
+    "South Governorate": [
+      920,
+      930
+    ],
+    "Akkar Governorate":[
+      780,
+      790
+    ],
+    "Baalbek-Hermel Governorate":[
+      3000,
+      3100
+    ],
+    "Keserwan-Jbeil Governorate":[
+      720,
+      730
+    ]
+  },
+  "Saudi Arabia": {
+    "Al-Baha Province": [
+      9900,
+      10000
+    ],
+    "Al-Jowf Province": [
+      100000,
+      110000
+    ],
+    "Al-Qassim": [
+      58000,
+      59000
+    ],
+    "Asir Province": [
+      76000,
+      77000
+    ],
+    "Eastern Province": [
+      670000,
+      680000
+    ],
+    "Jazan Province": [
+      11000,
+      12000
+    ],
+    "Mecca Province": [
+      150000,
+      160000
+    ],
+    "Medina Province": [
+      150000,
+      160000
+    ],
+    "Najran Province": [
+      140000,
+      150000
+    ],
+    "Northern Borders Province": [
+      110000,
+      120000
+    ],
+    "Riyadh Province": [
+      400000,
+      410000
+    ],
+    "Tabuk Province": [
+      140000,
+      150000
+    ],
+    "Ḥaʼil Province": [
+      100000,
+      110000
+    ]
+  },
+  "South Africa": {
+    "Eastern Cape": [
+      160000,
+      170000
+    ],
+    "Free State": [
+      120000,
+      130000
+    ],
+    "Gauteng": [
+      18000,
+      19000
+    ],
+    "KwaZulu-Natal": [
+      94000,
+      95000
+    ],
+    "Limpopo": [
+      120000,
+      130000
+    ],
+    "Mpumalanga": [
+      76000,
+      77000
+    ],
+    "North West": [
+      100000,
+      110000
+    ],
+    "Northern Cape": [
+      370000,
+      380000
+    ],
+    "Western Cape": [
+      120000,
+      130000
+    ]
+  },
+  "Afghanistan": {
+    "Badakhshan Province": [
+      44000,
+      45000
+    ],
+    "Badghis Province": [
+      20000,
+      21000
+    ],
+    "Baghlan Province": [
+      21000,
+      22000
+    ],
+    "Balkh Province": [
+      16000,
+      17000
+    ],
+    "Bamyan Province": [
+      18000,
+      19000
+    ],
+    "Daykundi Province": [
+      18000,
+      19000
+    ],
+    "Farah Province": [
+      48000,
+      49000
+    ],
+    "Faryab Province": [
+      20000,
+      21000
+    ],
+    "Ghazni Province": [
+      22000,
+      23000
+    ],
+    "Ghor Province": [
+      36000,
+      37000
+    ],
+    "Helmand Province": [
+      58000,
+      59000
+    ],
+    "Herat Province": [
+      55000,
+      56000
+    ],
+    "Jowzjan Province": [
+      11000,
+      12000
+    ],
+    "Kabul Province": [
+      4400,
+      4500
+    ],
+    "Kandahar Province": [
+      54000,
+      55000
+    ],
+    "Kapisa Province": [
+      1800,
+      1900
+    ],
+    "Khost Province": [
+      4200,
+      4300
+    ],
+    "Kunar Province": [
+      4300,
+      4400
+    ],
+    "Kunduz Province": [
+      8000,
+      8100
+    ],
+    "Laghman Province": [
+      3800,
+      3900
+    ],
+    "Logar Province": [
+      4500,
+      4600
+    ],
+    "Maidan Wardak Province": [
+      10000,
+      11000
+    ],
+    "Nangarhar Province": [
+      7700,
+      7800
+    ],
+    "Nimruz Province": [
+      42000,
+      43000
+    ],
+    "Nuristan Province": [
+      9200,
+      9300
+    ],
+    "Paktia Province": [
+      5500,
+      5600
+    ],
+    "Paktika Province": [
+      19000,
+      20000
+    ],
+    "Panjshir Province": [
+      3700,
+      3800
+    ],
+    "Parwan Province": [
+      5700,
+      5800
+    ],
+    "Samangan Province": [
+      13000,
+      14000
+    ],
+    "Sar-e Pol Province": [
+      16000,
+      17000
+    ],
+    "Takhar Province": [
+      12000,
+      13000
+    ],
+    "Uruzgan Province": [
+      12000,
+      13000
+    ],
+    "Zabul Province": [
+      17000,
+      18000
+    ]
+  },
+  "Italy": {
+    "Abruzzo": [
+      10000,
+      11000
+    ],
+    "Aosta Valley": [
+      3200,
+      3300
+    ],
+    "Apulia": [
+      19000,
+      20000
+    ],
+    "Basilicata": [
+      9900,
+      10000
+    ],
+    "Calabria": [
+      15000,
+      16000
+    ],
+    "Campania": [
+      13000,
+      14000
+    ],
+    "Emilia-Romagna": [
+      22000,
+      23000
+    ],
+    "Friuli Venezia Giulia": [
+      7800,
+      7900
+    ],
+    "Lazio": [
+      17000,
+      18000
+    ],
+    "Liguria": [
+      5400,
+      5500
+    ],
+    "Lombardy": [
+      23000,
+      24000
+    ],
+    "Marche": [
+      9600,
+      9700
+    ],
+    "Molise": [
+      4400,
+      4500
+    ],
+    "Piedmont": [
+      25000,
+      26000
+    ],
+    "Sardinia": [
+      23000,
+      24000
+    ],
+    "Sicily": [
+      25000,
+      26000
+    ],
+    "Trentino-South Tyrol": [
+      13000,
+      14000
+    ],
+    "Tuscany": [
+      22000,
+      23000
+    ],
+    "Umbria": [
+      8400,
+      8500
+    ],
+    "Veneto": [
+      18000,
+      19000
+    ]
+  },
+  "Thailand": {
+    "Amnat Charoen": [
+      3100,
+      3200
+    ],
+    "Ang Thong": [
+      960,
+      970
+    ],
+    "Bangkok": [
+      1500,
+      1600
+    ],
+    "Bueng Kan": [
+      4300,
+      4400
+    ],
+    "Buri Ram": [
+      10000,
+      11000
+    ],
+    "Chachoengsao": [
+      5300,
+      5400
+    ],
+    "Chai Nat": [
+      2400,
+      2500
+    ],
+    "Chaiyaphum": [
+      12000,
+      13000
+    ],
+    "Chanthaburi": [
+      6300,
+      6400
+    ],
+    "Chiang Mai": [
+      22000,
+      23000
+    ],
+    "Chiang Rai": [
+      11000,
+      12000
+    ],
+    "Chon Buri": [
+      4300,
+      4400
+    ],
+    "Chumphon": [
+      6000,
+      6100
+    ],
+    "Kalasin": [
+      6900,
+      7000
+    ],
+    "Kamphaeng Phet": [
+      8600,
+      8700
+    ],
+    "Kanchanaburi": [
+      19000,
+      20000
+    ],
+    "Khon Kaen": [
+      10000,
+      11000
+    ],
+    "Krabi": [
+      4700,
+      4800
+    ],
+    "Lampang": [
+      12000,
+      13000
+    ],
+    "Lamphun": [
+      4500,
+      4600
+    ],
+    "Loei province": [
+      11000,
+      12000
+    ],
+    "Lopburi": [
+      6100,
+      6200
+    ],
+    "Mae Hong Son": [
+      12000,
+      13000
+    ],
+    "Maha Sarakham": [
+      5200,
+      5300
+    ],
+    "Mukdahan": [
+      4300,
+      4400
+    ],
+    "Nakhon Nayok": [
+      2100,
+      2200
+    ],
+    "Nakhon Pathom": [
+      2100,
+      2200
+    ],
+    "Nakhon Phanom": [
+      5500,
+      5600
+    ],
+    "Nakhon Ratchasima": [
+      20000,
+      21000
+    ],
+    "Nakhon Sawan": [
+      9500,
+      9600
+    ],
+    "Nakhon Si Thammarat": [
+      9900,
+      10000
+    ],
+    "Nan": [
+      11000,
+      12000
+    ],
+    "Narathiwat": [
+      4400,
+      4500
+    ],
+    "Nong Bua Lamphu": [
+      3800,
+      3900
+    ],
+    "Nong Khai": [
+      3000,
+      3100
+    ],
+    "Nonthaburi": [
+      620,
+      630
+    ],
+    "Pathum Thani": [
+      1500,
+      1600
+    ],
+    "Pattani": [
+      1900,
+      2000
+    ],
+    "Phang Nga": [
+      4100,
+      4200
+    ],
+    "Phatthalung": [
+      3400,
+      3500
+    ],
+    "Phayao": [
+      6300,
+      6400
+    ],
+    "Phetchabun": [
+      12000,
+      13000
+    ],
+    "Phetchaburi": [
+      6200,
+      6300
+    ],
+    "Phichit": [
+      4500,
+      4600
+    ],
+    "Phitsanulok": [
+      10000,
+      11000
+    ],
+    "Phra Nakhon Si Ayutthaya": [
+      2500,
+      2600
+    ],
+    "Phrae": [
+      6500,
+      6600
+    ],
+    "Phuket": [
+      540,
+      550
+    ],
+    "Prachin Buri": [
+      4700,
+      4800
+    ],
+    "Prachuap Khiri Khan": [
+      6300,
+      6400
+    ],
+    "Ranong province": [
+      3200,
+      3300
+    ],
+    "Ratchaburi": [
+      5100,
+      5200
+    ],
+    "Rayong": [
+      3500,
+      3600
+    ],
+    "Roi Et": [
+      8200,
+      8300
+    ],
+    "Sa Kaeo": [
+      7100,
+      7200
+    ],
+    "Sakon Nakhon": [
+      9600,
+      9700
+    ],
+    "Samut Prakan": [
+      1000,
+      1100
+    ],
+    "Samut Sakhon": [
+      870,
+      880
+    ],
+    "Samut Songkhram": [
+      410,
+      420
+    ],
+    "Saraburi": [
+      3500,
+      3600
+    ],
+    "Satun": [
+      2400,
+      2500
+    ],
+    "Si Sa Ket": [
+      8800,
+      8900
+    ],
+    "Sing Buri": [
+      820,
+      830
+    ],
+    "Songkhla": [
+      7300,
+      7400
+    ],
+    "Sukhothai": [
+      6500,
+      6600
+    ],
+    "Suphan Buri": [
+      5300,
+      5400
+    ],
+    "Surat Thani": [
+      12000,
+      13000
+    ],
+    "Surin": [
+      8100,
+      8200
+    ],
+    "Tak": [
+      16000,
+      17000
+    ],
+    "Trang": [
+      4900,
+      5000
+    ],
+    "Trat": [
+      2800,
+      2900
+    ],
+    "Ubon Ratchathani": [
+      15000,
+      16000
+    ],
+    "Udon Thani": [
+      11000,
+      12000
+    ],
+    "Uthai Thani": [
+      6700,
+      6800
+    ],
+    "Uttaradit": [
+      7800,
+      7900
+    ],
+    "Yala": [
+      4500,
+      4600
+    ],
+    "Yasothon": [
+      4100,
+      4200
+    ]
+  },
+  "United Arab Emirates": {
+    "Emirate of Abu Dhabi": [
+      73000,
+      74000
+    ],
+    "Emirate of Ajman": [
+      250,
+      260
+    ],
+    "Emirate of Dubai": [
+      4100,
+      4200
+    ],
+    "Emirate of Fujairah": [
+      1100,
+      1200
+    ],
+    "Emirate of Ras Al Khaimah": [
+      2400,
+      2500
+    ],
+    "Emirate of Sharjah": [
+      2500,
+      2600
+    ],
+    "Emirate of Umm Al Quwain": [
+      770,
+      780
+    ]
+  },
+  "Poland": {
+    "Greater Poland Voivodeship": [
+      29000,
+      30000
+    ],
+    "Kuyavian-Pomeranian Voivodeship": [
+      17000,
+      18000
+    ],
+    "Lesser Poland Voivodeship": [
+      15000,
+      16000
+    ],
+    "Lower Silesian Voivodeship": [
+      19000,
+      20000
+    ],
+    "Lublin Voivodeship": [
+      25000,
+      26000
+    ],
+    "Lubusz Voivodeship": [
+      13000,
+      14000
+    ],
+    "Masovian Voivodeship": [
+      35000,
+      36000
+    ],
+    "Opole Voivodeship": [
+      9400,
+      9500
+    ],
+    "Podlaskie Voivodeship": [
+      20000,
+      21000
+    ],
+    "Pomeranian Voivodeship": [
+      18000,
+      19000
+    ],
+    "Silesian Voivodeship": [
+      12000,
+      13000
+    ],
+    "Subcarpathian Voivodeship": [
+      17000,
+      18000
+    ],
+    "Warmian-Masurian Voivodeship": [
+      24000,
+      25000
+    ],
+    "West Pomeranian Voivodeship": [
+      22000,
+      23000
+    ],
+    "Łódź Voivodeship": [
+      18000,
+      19000
+    ],
+    "Świętokrzyskie Voivodeship": [
+      11000,
+      12000
+    ]
+  },
+  "Japan": {
+    "Aichi Prefecture": [
+      5100,
+      5200
+    ],
+    "Akita Prefecture": [
+      11000,
+      12000
+    ],
+    "Aomori Prefecture": [
+      9600,
+      9700
+    ],
+    "Chiba Prefecture": [
+      5100,
+      5200
+    ],
+    "Ehime Prefecture": [
+      5600,
+      5700
+    ],
+    "Fukui Prefecture": [
+      4100,
+      4200
+    ],
+    "Fukuoka Prefecture": [
+      4900,
+      5000
+    ],
+    "Fukushima Prefecture": [
+      13000,
+      14000
+    ],
+    "Gifu Prefecture": [
+      10000,
+      11000
+    ],
+    "Gunma Prefecture": [
+      6300,
+      6400
+    ],
+    "Hiroshima Prefecture": [
+      8400,
+      8500
+    ],
+    "Hokkaido": [
+      83000,
+      84000
+    ],
+    "Hyōgo Prefecture": [
+      8400,
+      8500
+    ],
+    "Ibaraki Prefecture": [
+      6000,
+      6100
+    ],
+    "Ishikawa Prefecture": [
+      4100,
+      4200
+    ],
+    "Iwate Prefecture": [
+      15000,
+      16000
+    ],
+    "Kagawa Prefecture": [
+      1800,
+      1900
+    ],
+    "Kagoshima Prefecture": [
+      9100,
+      9200
+    ],
+    "Kanagawa Prefecture": [
+      2400,
+      2500
+    ],
+    "Kumamoto Prefecture": [
+      7400,
+      7500
+    ],
+    "Kyoto Prefecture": [
+      4600,
+      4700
+    ],
+    "Kōchi Prefecture": [
+      7100,
+      7200
+    ],
+    "Mie Prefecture": [
+      5700,
+      5800
+    ],
+    "Miyagi Prefecture": [
+      7200,
+      7300
+    ],
+    "Miyazaki Prefecture": [
+      7700,
+      7800
+    ],
+    "Nagano Prefecture": [
+      13000,
+      14000
+    ],
+    "Nagasaki Prefecture": [
+      4100,
+      4200
+    ],
+    "Nara Prefecture": [
+      3600,
+      3700
+    ],
+    "Niigata Prefecture": [
+      12000,
+      13000
+    ],
+    "Oita Prefecture": [
+      6300,
+      6400
+    ],
+    "Okayama Prefecture": [
+      7100,
+      7200
+    ],
+    "Okinawa Prefecture": [
+      2200,
+      2300
+    ],
+    "Osaka Prefecture": [
+      1900,
+      2000
+    ],
+    "Saga Prefecture": [
+      2400,
+      2500
+    ],
+    "Saitama Prefecture": [
+      3700,
+      3800
+    ],
+    "Shiga Prefecture": [
+      4000,
+      4100
+    ],
+    "Shimane Prefecture": [
+      6700,
+      6800
+    ],
+    "Shizuoka Prefecture": [
+      7700,
+      7800
+    ],
+    "Tochigi Prefecture": [
+      6400,
+      6500
+    ],
+    "Tokushima Prefecture": [
+      4100,
+      4200
+    ],
+    "Tokyo": [
+      2100,
+      2200
+    ],
+    "Tottori Prefecture": [
+      3500,
+      3600
+    ],
+    "Toyama Prefecture": [
+      4200,
+      4300
+    ],
+    "Wakayama Prefecture": [
+      4700,
+      4800
+    ],
+    "Yamagata Prefecture": [
+      9300,
+      9400
+    ],
+    "Yamaguchi Prefecture": [
+      6100,
+      6200
+    ],
+    "Yamanashi Prefecture": [
+      4400,
+      4500
+    ]
+  },
+  "Sri Lanka": {
+    "Central Province": [
+      5600,
+      5700
+    ],
+    "Eastern Province": [
+      9900,
+      10000
+    ],
+    "North Central Province": [
+      10000,
+      11000
+    ],
+    "North Western Province": [
+      7800,
+      7900
+    ],
+    "Northern Province": [
+      8800,
+      8900
+    ],
+    "Sabaragamuwa Province": [
+      4900,
+      5000
+    ],
+    "Southern Province": [
+      5400,
+      5500
+    ],
+    "Uva Province": [
+      8400,
+      8500
+    ],
+    "Western Province": [
+      3600,
+      3700
+    ]
+  },
+  "Malaysia": {
+    "Johor": [
+      19000,
+      20000
+    ],
+    "Kedah": [
+      9400,
+      9500
+    ],
+    "Kelantan": [
+      15000,
+      16000
+    ],
+    "Malacca": [
+      1700,
+      1800
+    ],
+    "Negeri Sembilan": [
+      6600,
+      6700
+    ],
+    "Pahang": [
+      35000,
+      36000
+    ],
+    "Penang": [
+      1000,
+      1100
+    ],
+    "Perak": [
+      21000,
+      22000
+    ],
+    "Perlis": [
+      820,
+      830
+    ],
+    "Sabah": [
+      76000,
+      77000
+    ],
+    "Sarawak": [
+      120000,
+      130000
+    ],
+    "Selangor": [
+      8100,
+      8200
+    ],
+    "Terengganu": [
+      12000,
+      13000
+    ],
+    "Kuala Lumpur":[
+      240,
+      250
+    ],
+    "Labuan":[
+      90,
+      100
+    ],
+    "Putrajaya":[
+      40,
+      50
+    ]
+  },
+  "Germany": {
+    "Baden-Württemberg": [
+      35000,
+      36000
+    ],
+    "Bavaria": [
+      70000,
+      71000
+    ],
+    "Berlin": [
+      890,
+      900
+    ],
+    "Brandenburg": [
+      29000,
+      30000
+    ],
+    "Bremen": [
+      410,
+      420
+    ],
+    "Hamburg": [
+      750,
+      760
+    ],
+    "Hesse": [
+      21000,
+      22000
+    ],
+    "Lower Saxony": [
+      47000,
+      48000
+    ],
+    "Mecklenburg-Vorpommern": [
+      23000,
+      24000
+    ],
+    "North Rhine-Westphalia": [
+      34000,
+      35000
+    ],
+    "Rhineland-Palatinate": [
+      19000,
+      20000
+    ],
+    "Saarland": [
+      2500,
+      2600
+    ],
+    "Saxony": [
+      18000,
+      19000
+    ],
+    "Saxony-Anhalt": [
+      20000,
+      21000
+    ],
+    "Schleswig-Holstein": [
+      15000,
+      16000
+    ],
+    "Thuringia": [
+      16000,
+      17000
+    ]
+  },
+  "Czech Republic": {
+    "Central Bohemian Region": [
+      10000,
+      11000
+    ],
+    "Hradec Králové Region": [
+      4700,
+      4800
+    ],
+    "Karlovy Vary Region": [
+      3300,
+      3400
+    ],
+    "Liberec Region": [
+      3100,
+      3200
+    ],
+    "Moravian-Silesian Region": [
+      5400,
+      5500
+    ],
+    "Olomouc Region": [
+      5200,
+      5300
+    ],
+    "Pardubice Region": [
+      4500,
+      4600
+    ],
+    "Plzeň Region": [
+      7600,
+      7700
+    ],
+    "Prague": [
+      490,
+      500
+    ],
+    "South Bohemian Region": [
+      10000,
+      11000
+    ],
+    "South Moravian Region": [
+      7100,
+      7200
+    ],
+    "Vysočina Region": [
+      6700,
+      6800
+    ],
+    "Zlín Region": [
+      3900,
+      4000
+    ],
+    "Ústí nad Labem Region": [
+      5300,
+      5400
+    ]
+  },
+  "Argentina": {
+    "Autonomous City of Buenos Aires":[
+      200,
+      210
+    ],
+    "Buenos Aires Province": [
+      300000,
+      310000
+    ],
+    "Catamarca Province": [
+      100000,
+      110000
+    ],
+    "Chaco Province": [
+      99000,
+      100000
+    ],
+    "Chubut Province": [
+      220000,
+      230000
+    ],
+    "Corrientes Province": [
+      88000,
+      89000
+    ],
+    "Córdoba Province": [
+      160000,
+      170000
+    ],
+    "Entre Ríos Province": [
+      78000,
+      79000
+    ],
+    "Formosa Province": [
+      72000,
+      73000
+    ],
+    "Jujuy Province": [
+      53000,
+      54000
+    ],
+    "La Pampa": [
+      140000,
+      150000
+    ],
+    "La Rioja Province": [
+      89000,
+      90000
+    ],
+    "Mendoza Province": [
+      140000,
+      150000
+    ],
+    "Misiones Province": [
+      29000,
+      30000
+    ],
+    "Neuquén Province": [
+      94000,
+      95000
+    ],
+    "Río Negro Province": [
+      200000,
+      210000
+    ],
+    "Salta Province": [
+      150000,
+      160000
+    ],
+    "San Juan Province": [
+      89000,
+      90000
+    ],
+    "San Luis Province": [
+      76000,
+      77000
+    ],
+    "Santa Cruz Province": [
+      240000,
+      250000
+    ],
+    "Santa Fe Province": [
+      130000,
+      140000
+    ],
+    "Santiago del Estero Province": [
+      130000,
+      140000
+    ],
+    "Tierra del Fuego, Antarctica and South Atlantic Islands Province": [
+      980000,
+      990000
+    ],
+    "Tucumán Province": [
+      22000,
+      23000
+    ]
+  },
+  "Albania": {
+    "Berat County": [
+      1700,
+      1800
+    ],
+    "Dibër County": [
+      2500,
+      2600
+    ],
+    "Durrës County": [
+      760,
+      770
+    ],
+    "Elbasan County": [
+      3100,
+      3200
+    ],
+    "Fier County": [
+      1800,
+      1900
+    ],
+    "Gjirokastër County": [
+      2800,
+      2900
+    ],
+    "Korçë County": [
+      3700,
+      3800
+    ],
+    "Kukës County": [
+      2300,
+      2400
+    ],
+    "Lezhë County": [
+      1600,
+      1700
+    ],
+    "Shkodër County": [
+      3500,
+      3600
+    ],
+    "Tirana County": [
+      1600,
+      1700
+    ],
+    "Vlorë County": [
+      2700,
+      2800
+    ]
+  },
+  "Nigeria": {
+    "Abia State": [
+      6300,
+      6400
+    ],
+    "Adamawa State": [
+      36000,
+      37000
+    ],
+    "Akwa Ibom State": [
+      7000,
+      7100
+    ],
+    "Anambra State": [
+      4800,
+      4900
+    ],
+    "Bauchi State": [
+      45000,
+      46000
+    ],
+    "Bayelsa State": [
+      21000,
+      22000
+    ],
+    "Benue State": [
+      34000,
+      35000
+    ],
+    "Borno State": [
+      70000,
+      71000
+    ],
+    "Cross River State": [
+      20000,
+      21000
+    ],
+    "Delta State": [
+      17000,
+      18000
+    ],
+    "Ebonyi State": [
+      5500,
+      5600
+    ],
+    "Edo State": [
+      17000,
+      18000
+    ],
+    "Ekiti State": [
+      6300,
+      6400
+    ],
+    "Enugu State": [
+      7100,
+      7200
+    ],
+    "Federal Capital Territory": [
+      7300,
+      7400
+    ],
+    "Gombe State": [
+      18000,
+      19000
+    ],
+    "Imo State": [
+      5500,
+      5600
+    ],
+    "Jigawa State": [
+      23000,
+      24000
+    ],
+    "Kaduna State": [
+      46000,
+      47000
+    ],
+    "Kano State": [
+      20000,
+      21000
+    ],
+    "Katsina State": [
+      24000,
+      25000
+    ],
+    "Kebbi State": [
+      36000,
+      37000
+    ],
+    "Kogi State": [
+      29000,
+      30000
+    ],
+    "Kwara State": [
+      36000,
+      37000
+    ],
+    "Lagos State": [
+      3500,
+      3600
+    ],
+    "Nasarawa State": [
+      27000,
+      28000
+    ],
+    "Niger State": [
+      76000,
+      77000
+    ],
+    "Ogun State": [
+      16000,
+      17000
+    ],
+    "Ondo State": [
+      15000,
+      16000
+    ],
+    "Osun State": [
+      9200,
+      9300
+    ],
+    "Oyo State": [
+      28000,
+      29000
+    ],
+    "Plateau State": [
+      30000,
+      31000
+    ],
+    "Rivers State": [
+      11000,
+      12000
+    ],
+    "Sokoto State": [
+      25000,
+      26000
+    ],
+    "Taraba State": [
+      54000,
+      55000
+    ],
+    "Yobe State": [
+      45000,
+      46000
+    ],
+    "Zamfara State": [
+      39000,
+      40000
+    ]
+  },
+  "Armenia": {
+    "Aragatsotn Province": [
+      2700,
+      2800
+    ],
+    "Ararat Province": [
+      2000,
+      2100
+    ],
+    "Armavir Province": [
+      1200,
+      1300
+    ],
+    "Gegharkunik Province": [
+      5300,
+      5400
+    ],
+    "Kotayk Province": [
+      2000,
+      2100
+    ],
+    "Lori Province": [
+      3700,
+      3800
+    ],
+    "Shirak Province": [
+      2600,
+      2700
+    ],
+    "Syunik Province": [
+      4500,
+      4600
+    ],
+    "Tavush Province": [
+      2700,
+      2800
+    ],
+    "Vayots Dzor Province": [
+      2300,
+      2400
+    ],
+    "Yerevan": [
+      220,
+      230
+    ]
+  },
+  "Romania": {
+    "Alba County": [
+      6200,
+      6300
+    ],
+    "Arad County": [
+      7700,
+      7800
+    ],
+    "Argeș County": [
+      6800,
+      6900
+    ],
+    "Bacău County": [
+      6600,
+      6700
+    ],
+    "Bihor County": [
+      7500,
+      7600
+    ],
+    "Bistrița-Năsăud County": [
+      5300,
+      5400
+    ],
+    "Botoșani County": [
+      4900,
+      5000
+    ],
+    "Brașov County": [
+      5300,
+      5400
+    ],
+    "Brăila County": [
+      4700,
+      4800
+    ],
+    "Bucharest": [
+      220,
+      230
+    ],
+    "Buzău County": [
+      6100,
+      6200
+    ],
+    "Caraș-Severin County": [
+      8500,
+      8600
+    ],
+    "Cluj County": [
+      6600,
+      6700
+    ],
+    "Constanța County": [
+      7000,
+      7100
+    ],
+    "Covasna County": [
+      3700,
+      3800
+    ],
+    "Călărași County": [
+      5000,
+      5100
+    ],
+    "Dolj County": [
+      5500,
+      5600
+    ],
+    "Dâmbovița County": [
+      4000,
+      4100
+    ],
+    "Galați County": [
+      4400,
+      4500
+    ],
+    "Giurgiu County": [
+      3500,
+      3600
+    ],
+    "Gorj County": [
+      5600,
+      5700
+    ],
+    "Harghita County": [
+      6600,
+      6700
+    ],
+    "Hunedoara County": [
+      7000,
+      7100
+    ],
+    "Ialomița County": [
+      4400,
+      4500
+    ],
+    "Iași County": [
+      5400,
+      5500
+    ],
+    "Ilfov County": [
+      1500,
+      1600
+    ],
+    "Maramureș County": [
+      6300,
+      6400
+    ],
+    "Mehedinți County": [
+      4900,
+      5000
+    ],
+    "Mureș County": [
+      6700,
+      6800
+    ],
+    "Neamț County": [
+      5800,
+      5900
+    ],
+    "Olt County": [
+      5400,
+      5500
+    ],
+    "Prahova County": [
+      4700,
+      4800
+    ],
+    "Satu Mare County": [
+      4400,
+      4500
+    ],
+    "Sibiu County": [
+      5400,
+      5500
+    ],
+    "Suceava County": [
+      8500,
+      8600
+    ],
+    "Sălaj County": [
+      3800,
+      3900
+    ],
+    "Teleorman County": [
+      5700,
+      5800
+    ],
+    "Timiș County": [
+      8600,
+      8700
+    ],
+    "Tulcea County": [
+      8400,
+      8500
+    ],
+    "Vaslui County": [
+      5300,
+      5400
+    ],
+    "Vrancea County": [
+      4800,
+      4900
+    ],
+    "Vâlcea County": [
+      5700,
+      5800
+    ]
+  },
+  "Sweden": {
+    "Blekinge County": [
+      2900,
+      3000
+    ],
+    "Dalarna County": [
+      28000,
+      29000
+    ],
+    "Gotland County": [
+      3100,
+      3200
+    ],
+    "Gävleborg County": [
+      6800,
+      6900
+    ],
+    "Halland County": [
+      3200,
+      3300
+    ],
+    "Jämtland County": [
+      4800,
+      4900
+    ],
+    "Jönköping County": [
+      1200,
+      1300
+    ],
+    "Kalmar County": [
+      9300,
+      9400
+    ],
+    "Kronoberg County": [
+      960,
+      970
+    ],
+    "Norrbotten County": [
+      6900,
+      7000
+    ],
+    "Skåne County": [
+      6000,
+      6100
+    ],
+    "Stockholm County": [
+      16000,
+      17000
+    ],
+    "Södermanland County": [
+      2600,
+      2700
+    ],
+    "Uppsala County": [
+      11000,
+      12000
+    ],
+    "Värmland County": [
+      4200,
+      4300
+    ],
+    "Västerbotten County": [
+      12000,
+      13000
+    ],
+    "Västernorrland County": [
+      6400,
+      6500
+    ],
+    "Västmanland County": [
+      540,
+      550
+    ],
+    "Västra Götaland County": [
+      10000,
+      11000
+    ],
+    "Örebro County": [
+      1100,
+      1200
+    ],
+    "Östergötland County": [
+      4000,
+      4100
+    ]
+  },
+  "Croatia": {
+    "Bjelovar-Bilogora County": [
+      2600,
+      2700
+    ],
+    "Brod-Posavina County": [
+      2000,
+      2100
+    ],
+    "Dubrovnik-Neretva County": [
+      1700,
+      1800
+    ],
+    "Istria County": [
+      2800,
+      2900
+    ],
+    "Karlovac County": [
+      3600,
+      3700
+    ],
+    "Koprivnica-Križevci County": [
+      1700,
+      1800
+    ],
+    "Krapina-Zagorje County": [
+      1200,
+      1300
+    ],
+    "Lika-Senj County": [
+      5300,
+      5400
+    ],
+    "Međimurje County": [
+      730,
+      740
+    ],
+    "Osijek-Baranja County": [
+      4100,
+      4200
+    ],
+    "Požega-Slavonia County": [
+      1800,
+      1900
+    ],
+    "Primorje-Gorski Kotar County": [
+      3500,
+      3600
+    ],
+    "Sisak-Moslavina County": [
+      4400,
+      4500
+    ],
+    "Split-Dalmatia County": [
+      4500,
+      4600
+    ],
+    "Varaždin County": [
+      1200,
+      1300
+    ],
+    "Virovitica-Podravina County": [
+      2000,
+      2100
+    ],
+    "Vukovar-Srijem County": [
+      2400,
+      2500
+    ],
+    "Zadar County": [
+      3600,
+      3700
+    ],
+    "Zagreb County": [
+      3000,
+      3100
+    ],
+    "Šibenik-Knin County": [
+      2900,
+      3000
+    ],
+    "Grad Zagreb":[
+      640,
+      650
+    ]
+  },
+  "Qatar": {
+    "Ad-Dawhah": [
+      230,
+      240
+    ],
+    "Al Khor": [
+      1600,
+      1700
+    ],
+    "Al Rayyan Municipality": [
+      2400,
+      2500
+    ],
+    "Al Shamal": [
+      850,
+      860
+    ],
+    "Umm Salal Municipality": [
+      310,
+      320
+    ],
+    "Al-Shahaniya":[
+      3300,
+      3400
+    ],
+    "Al Daayen":[
+      300,
+      310
+    ],
+    "Al Wakrah":[
+      2500,
+      2600
+    ]
+  },
+  "Belarus": {
+    "Brest Region": [
+      32000,
+      33000
+    ],
+    "Gomel Region": [
+      40000,
+      41000
+    ],
+    "Grodno Region": [
+      25000,
+      26000
+    ],
+    "Minsk": [
+      400,
+      410
+    ],
+    "Minsk Region": [
+      39000,
+      40000
+    ],
+    "Mogilev region": [
+      29000,
+      30000
+    ],
+    "Vitebsk Region": [
+      40000,
+      41000
+    ]
+  },
+  "Morocco": {
+    "Béni Mellal-Khénifra": [
+      41000,
+      42000
+    ],
+    "Casablanca-Settat": [
+      19000,
+      20000
+    ],
+    "Dakhla-Oued Ed-Dahab": [
+      130000,
+      140000
+    ],
+    "Drâa-Tafilalet": [
+      130000,
+      140000
+    ],
+    "Fès-Meknès": [
+      40000,
+      41000
+    ],
+    "Guelmim-Oued Noun": [
+      46000,
+      47000
+    ],
+    "Laâyoune-Sakia El Hamra": [
+      140000,
+      150000
+    ],
+    "Marrakesh-Safi": [
+      39000,
+      40000
+    ],
+    "Oriental": [
+      36000,
+      37000
+    ],
+    "Rabat-Salé-Kénitra": [
+      18000,
+      19000
+    ],
+    "Souss-Massa": [
+      53000,
+      54000
+    ],
+    "Tangier-Tetouan-Al Hoceima": [
+      13000,
+      14000
+    ]
+  },
+  "Austria": {
+    "Burgenland": [
+      3900,
+      4000
+    ],
+    "Carinthia": [
+      9500,
+      9600
+    ],
+    "Lower Austria": [
+      19000,
+      20000
+    ],
+    "Salzburg": [
+      7100,
+      7200
+    ],
+    "Styria": [
+      16000,
+      17000
+    ],
+    "Tyrol": [
+      12000,
+      13000
+    ],
+    "Upper Austria": [
+      11000,
+      12000
+    ],
+    "Vienna": [
+      410,
+      420
+    ],
+    "Vorarlberg": [
+      2600,
+      2700
+    ]
+  },
+  "Switzerland": {
+    "Canton of Aargau": [
+      1400,
+      1500
+    ],
+    "Canton of Appenzell Ausserrhoden": [
+      240,
+      250
+    ],
+    "Canton of Appenzell Innerrhoden": [
+      170,
+      180
+    ],
+    "Canton of Basel-Landschaft": [
+      510,
+      520
+    ],
+    "Canton of Basel-Stadt": [
+      30,
+      40
+    ],
+    "Canton of Berne": [
+      5900,
+      6000
+    ],
+    "Canton of Fribourg": [
+      1600,
+      1700
+    ],
+    "Canton of Geneva": [
+      280,
+      290
+    ],
+    "Canton of Glarus": [
+      680,
+      690
+    ],
+    "canton of Jura": [
+      830,
+      840
+    ],
+    "canton of Lucerne": [
+      1400,
+      1500
+    ],
+    "canton of Neuchâtel": [
+      800,
+      810
+    ],
+    "Canton of Nidwalden": [
+      270,
+      280
+    ],
+    "Canton of Obwalden": [
+      490,
+      500
+    ],
+    "Canton of Schaffhausen": [
+      290,
+      300
+    ],
+    "Canton of Schwyz": [
+      900,
+      910
+    ],
+    "Canton of Solothurn": [
+      790,
+      800
+    ],
+    "Canton of St. Gallen": [
+      2000,
+      2100
+    ],
+    "Canton of the Grisons": [
+      7100,
+      7200
+    ],
+    "Canton of Thurgau": [
+      990,
+      1000
+    ],
+    "canton of Ticino": [
+      2800,
+      2900
+    ],
+    "Canton of Uri": [
+      1000,
+      1100
+    ],
+    "canton of Valais": [
+      5200,
+      5300
+    ],
+    "canton of Vaud": [
+      3200,
+      3300
+    ],
+    "Canton of Zug": [
+      230,
+      240
+    ],
+    "canton of Zürich": [
+      1700,
+      1800
+    ]
+  },
+  "Denmark": {
+    "Capital Region of Denmark": [
+      2500,
+      2600
+    ],
+    "Central Denmark": [
+      13000,
+      14000
+    ],
+    "North Denmark Region": [
+      7800,
+      7900
+    ],
+    "Region Zealand": [
+      7200,
+      7300
+    ],
+    "Southern Denmark": [
+      12000,
+      13000
+    ]
+  },
+  "Finland": {
+    "Central Finland": [
+      19000,
+      20000
+    ],
+    "Central Ostrobothnia": [
+      5200,
+      5300
+    ],
+    "Kainuu": [
+      22000,
+      23000
+    ],
+    "Kanta-Häme": [
+      5700,
+      5800
+    ],
+    "Kymenlaakso": [
+      4900,
+      5000
+    ],
+    "Lapland": [
+      92000,
+      93000
+    ],
+    "North Karelia": [
+      22000,
+      23000
+    ],
+    "North Ostrobothnia": [
+      39000,
+      40000
+    ],
+    "North Savo": [
+      21000,
+      22000
+    ],
+    "Ostrobothnia": [
+      7900,
+      8000
+    ],
+    "Pirkanmaa": [
+      15000,
+      16000
+    ],
+    "Päijät-Häme": [
+      6900,
+      7000
+    ],
+    "Satakunta": [
+      8200,
+      8300
+    ],
+    "South Karelia": [
+      6800,
+      6900
+    ],
+    "South Ostrobothnia": [
+      13000,
+      14000
+    ],
+    "South Savo": [
+      17000,
+      18000
+    ],
+    "Southwest Finland": [
+      10000,
+      11000
+    ],
+    "Uusimaa": [
+      9500,
+      9600
+    ],
+    "Åland": [
+      1500,
+      1600
+    ]
+  },
+  "State of Palestine": {
+    "Bethlehem Governorate": [
+      660,
+      670
+    ],
+    "Deir al-Balah Governorate": [
+      50,
+      60
+    ],
+    "Gaza Governorate": [
+      70,
+      80
+    ],
+    "Hebron Governorate": [
+      990,
+      1000
+    ],
+    "Jenin Governorate": [
+      580,
+      590
+    ],
+    "Jericho Governorate": [
+      590,
+      600
+    ],
+    "Khan Yunis Governorate": [
+      100,
+      110
+    ],
+    "Nablus Governorate": [
+      600,
+      610
+    ],
+    "North Gaza Governorate": [
+      60,
+      70
+    ],
+    "Qalqilya Governorate": [
+      160,
+      170
+    ],
+    "Quds Governorate": [
+      330,
+      340
+    ],
+    "Rafah Governorate": [
+      60,
+      70
+    ],
+    "Ramallah and al-Bireh Governorate": [
+      840,
+      850
+    ],
+    "Salfit Governorate": [
+      200,
+      210
+    ],
+    "Tubas Governorate": [
+      400,
+      410
+    ],
+    "Tulkarm Governorate": [
+      260,
+      270
+    ]
+  },
+  "Brazil": {
+    "Acre": [
+      160000,
+      170000
+    ],
+    "Alagoas": [
+      27000,
+      28000
+    ],
+    "Amapá": [
+      140000,
+      150000
+    ],
+    "Amazonas": [
+      1500000,
+      1600000
+    ],
+    "Bahia": [
+      560000,
+      570000
+    ],
+    "Ceará": [
+      140000,
+      150000
+    ],
+    "Espírito Santo": [
+      46000,
+      47000
+    ],
+    "Federal District": [
+      5700,
+      5800
+    ],
+    "Goiás": [
+      340000,
+      350000
+    ],
+    "Maranhão": [
+      330000,
+      340000
+    ],
+    "Mato Grosso": [
+      900000,
+      910000
+    ],
+    "Mato Grosso do Sul": [
+      350000,
+      360000
+    ],
+    "Minas Gerais": [
+      580000,
+      590000
+    ],
+    "Paraná": [
+      190000,
+      200000
+    ],
+    "Paraíba": [
+      56000,
+      57000
+    ],
+    "Pará": [
+      1200000,
+      1300000
+    ],
+    "Pernambuco": [
+      98000,
+      99000
+    ],
+    "Piauí": [
+      250000,
+      260000
+    ],
+    "Rio de Janeiro": [
+      43000,
+      44000
+    ],
+    "Rio Grande do Norte": [
+      52000,
+      53000
+    ],
+    "Rio Grande do Sul": [
+      280000,
+      290000
+    ],
+    "Rondônia": [
+      230000,
+      240000
+    ],
+    "Roraima": [
+      220000,
+      230000
+    ],
+    "Santa Catarina": [
+      95000,
+      96000
+    ],
+    "Sergipe": [
+      21000,
+      22000
+    ],
+    "São Paulo": [
+      240000,
+      250000
+    ],
+    "Tocantins": [
+      270000,
+      280000
+    ]
+  },
+  "Spain": {
+    "Andalusia": [
+      87000,
+      88000
+    ],
+    "Aragon": [
+      47000,
+      48000
+    ],
+    "Asturias": [
+      10000,
+      11000
+    ],
+    "Balearic Islands": [
+      5000,
+      5100
+    ],
+    "Basque Autonomous Community": [
+      7200,
+      7300
+    ],
+    "Canary Islands": [
+      7400,
+      7500
+    ],
+    "Cantabria": [
+      5300,
+      5400
+    ],
+    "Castile and León": [
+      94000,
+      95000
+    ],
+    "Castilla–La Mancha": [
+      79000,
+      80000
+    ],
+    "Catalonia": [
+      32000,
+      33000
+    ],
+    "Ceuta": [
+      10,
+      20
+    ],
+    "Community of Madrid": [
+      8000,
+      8100
+    ],
+    "Extremadura": [
+      41000,
+      42000
+    ],
+    "Galicia": [
+      29000,
+      30000
+    ],
+    "La Rioja": [
+      5000,
+      5100
+    ],
+    "Melilla": [
+      10,
+      20
+    ],
+    "Navarre": [
+      10000,
+      11000
+    ],
+    "Region of Murcia": [
+      11000,
+      12000
+    ],
+    "Valencian Community": [
+      23000,
+      24000
+    ]
+  },
+  "Nepal": {
+    "Bagmati Province": [
+      20000,
+      21000
+    ],
+    "Gandaki Province": [
+      21000,
+      22000
+    ],
+    "Karnali Province": [
+      24000,
+      25000
+    ],
+    "Koshi Province": [
+      25000,
+      26000
+    ],
+    "Lumbini Province": [
+      22000,
+      23000
+    ],
+    "Madhesh Province": [
+      9600,
+      9700
+    ],
+    "Sudurpashchim Province": [
+      19000,
+      20000
+    ]
+  },
+  "Democratic Republic of the Congo": {
+    "Bas-Uele": [
+      140000,
+      150000
+    ],
+    "Haut-Katanga Province": [
+      130000,
+      140000
+    ],
+    "Haut-Lomami Province": [
+      100000,
+      110000
+    ],
+    "Haut-Uele": [
+      89000,
+      90000
+    ],
+    "Ituri Province": [
+      65000,
+      66000
+    ],
+    "Kasai Province": [
+      95000,
+      96000
+    ],
+    "Kasai-Oriental": [
+      9400,
+      9500
+    ],
+    "Kasaï-Central": [
+      61000,
+      62000
+    ],
+    "Kinshasa": [
+      9900,
+      10000
+    ],
+    "Kongo Central": [
+      53000,
+      54000
+    ],
+    "Kwango Province": [
+      89000,
+      90000
+    ],
+    "Kwilu": [
+      78000,
+      79000
+    ],
+    "Lomami Province": [
+      56000,
+      57000
+    ],
+    "Lualaba Province": [
+      120000,
+      130000
+    ],
+    "Mai-Ndombe Province": [
+      120000,
+      130000
+    ],
+    "Maniema": [
+      130000,
+      140000
+    ],
+    "Mongala": [
+      58000,
+      59000
+    ],
+    "Nord-Ubangi": [
+      56000,
+      57000
+    ],
+    "North Kivu": [
+      59000,
+      60000
+    ],
+    "Sankuru": [
+      100000,
+      110000
+    ],
+    "South Kivu": [
+      64000,
+      65000
+    ],
+    "Sud-Ubangi": [
+      51000,
+      52000
+    ],
+    "Tanganyika Province": [
+      130000,
+      140000
+    ],
+    "Tshopo": [
+      190000,
+      200000
+    ],
+    "Tshuapa": [
+      130000,
+      140000
+    ],
+    "Équateur": [
+      100000,
+      110000
+    ]
+  },
+
+  "Burkina Faso": {
+    "Bankui": [
+      34000,
+      35000
+    ],
+    "Djôrô": [
+      16000,
+      17000
+    ],
+    "Goulmou": [
+      36000,
+      37000
+    ],
+    "Guiriko": [
+      25000,
+      26000
+    ],
+    "Kadiogo": [
+      2800,
+      2900
+    ],
+    "Kuilsé": [
+      19000,
+      20000
+    ],
+    "Liptako": [
+      35000,
+      36000
+    ],
+    "Nakambé (région)": [
+      11000,
+      12000
+    ],
+    "Nando": [
+      21000,
+      22000
+    ],
+    "Nazinon": [
+      11000,
+      12000
+    ],
+    "Oubri": [
+      8500,
+      8600
+    ],
+    "Tannounyan": [
+      18000,
+      19000
+    ],
+    "Yaadga": [
+      16000,
+      17000
+    ]
+  },
+  "Cambodia": {
+    "Banteay Meanchey Province": [
+      6600,
+      6700
+    ],
+    "Battambang Province": [
+      11000,
+      12000
+    ],
+    "Kampong Cham Province": [
+      4500,
+      4600
+    ],
+    "Kampong Chhnang Province": [
+      5500,
+      5600
+    ],
+    "Kampong Speu Province": [
+      7000,
+      7100
+    ],
+    "Kampong Thom Province": [
+      13000,
+      14000
+    ],
+    "Kampot Province": [
+      4800,
+      4900
+    ],
+    "Kandal Province": [
+      3500,
+      3600
+    ],
+    "Kep Province": [
+      330,
+      340
+    ],
+    "Koh Kong Province": [
+      11000,
+      12000
+    ],
+    "Kratié Province": [
+      11000,
+      12000
+    ],
+    "Mondulkiri Province": [
+      14000,
+      15000
+    ],
+    "Oddar Meanchey Province": [
+      6100,
+      6200
+    ],
+    "Pailin Province": [
+      800,
+      810
+    ],
+    "Phnom Penh": [
+      670,
+      680
+    ],
+    "Preah Vihear Province": [
+      13000,
+      14000
+    ],
+    "Prey Veng Province": [
+      4800,
+      4900
+    ],
+    "Pursat Province": [
+      12000,
+      13000
+    ],
+    "Ratanakiri Province": [
+      10000,
+      11000
+    ],
+    "Siem Reap Province": [
+      10000,
+      11000
+    ],
+    "Sihanoukville Province": [
+      2500,
+      2600
+    ],
+    "Stung Treng Province": [
+      11000,
+      12000
+    ],
+    "Svay Rieng Province": [
+      2900,
+      3000
+    ],
+    "Takéo Province": [
+      3500,
+      3600
+    ],
+    "Preah Sihanouk":[
+      1900,
+      2000
+    ]
+  },
+  "Jordan": {
+    "Ajloun Governorate": [
+      410,
+      420
+    ],
+    "Amman Governorate": [
+      7500,
+      7600
+    ],
+    "Aqaba Governorate": [
+      6900,
+      7000
+    ],
+    "Balqa Governorate": [
+      1100,
+      1200
+    ],
+    "Irbid Governorate": [
+      1500,
+      1600
+    ],
+    "Jerash Governorate": [
+      400,
+      410
+    ],
+    "Karak Governorate": [
+      3200,
+      3300
+    ],
+    "Ma'an Governorate": [
+      33000,
+      34000
+    ],
+    "Madaba Governorate": [
+      930,
+      940
+    ],
+    "Mafraq Governorate": [
+      26000,
+      27000
+    ],
+    "Tafilah Governorate": [
+      2100,
+      2200
+    ],
+    "Zarqa Governorate": [
+      4700,
+      4800
+    ]
+  },
+  "Guyana": {
+    "Barima-Waini": [
+      20000,
+      21000
+    ],
+    "Cuyuni-Mazaruni": [
+      47000,
+      48000
+    ],
+    "Demerara-Mahaica": [
+      2200,
+      2300
+    ],
+    "East Berbice-Corentyne": [
+      36000,
+      37000
+    ],
+    "Essequibo Islands-West Demerara": [
+      3700,
+      3800
+    ],
+    "Mahaica-Berbice": [
+      4100,
+      4200
+    ],
+    "Pomeroon-Supenaam": [
+      6100,
+      6200
+    ],
+    "Potaro-Siparuni": [
+      20000,
+      21000
+    ],
+    "Upper Demerara-Berbice": [
+      17000,
+      18000
+    ],
+    "Upper Takutu-Upper Essequibo": [
+      57000,
+      58000
+    ]
+  },
+  "Cuba": {
+    "Artemisa Province": [
+      4000,
+      4100
+    ],
+    "Camagüey Province": [
+      15000,
+      16000
+    ],
+    "Ciego de Ávila Province": [
+      6900,
+      7000
+    ],
+    "Cienfuegos Province": [
+      4100,
+      4200
+    ],
+    "Granma Province": [
+      8300,
+      8400
+    ],
+    "Guantánamo Province": [
+      6100,
+      6200
+    ],
+    "Havana Province": [
+      7700,
+      7800
+    ],
+    "Holguín Province": [
+      9200,
+      9300
+    ],
+    "Isla de la Juventud": [
+      2400,
+      2500
+    ],
+    "Las Tunas Province": [
+      6500,
+      6600
+    ],
+    "Matanzas Province": [
+      11000,
+      12000
+    ],
+    "Mayabeque Province": [
+      3700,
+      3800
+    ],
+    "Pinar del Río Province": [
+      8800,
+      8900
+    ],
+    "Sancti Spíritus Province": [
+      6700,
+      6800
+    ],
+    "Santiago de Cuba Province": [
+      6200,
+      6300
+    ],
+    "Villa Clara Province": [
+      8400,
+      8500
+    ]
+  },
+  "Luxembourg": {
+    "Canton of Capellen": [
+      190,
+      200
+    ],
+    "Canton of Clervaux": [
+      340,
+      350
+    ],
+    "Canton of Diekirch": [
+      200,
+      210
+    ],
+    "Canton of Echternach": [
+      180,
+      190
+    ],
+    "Canton of Esch-sur-Alzette": [
+      240,
+      250
+    ],
+    "Canton of Grevenmacher": [
+      210,
+      220
+    ],
+    "Canton of Luxembourg": [
+      230,
+      240
+    ],
+    "Canton of Mersch": [
+      220,
+      230
+    ],
+    "Canton of Redange": [
+      260,
+      270
+    ],
+    "Canton of Remich": [
+      120,
+      130
+    ],
+    "Canton of Vianden": [
+      70,
+      80
+    ],
+    "Canton of Wiltz": [
+      260,
+      270
+    ]
+  },
+  "Hungary": {
+    "Baranya County": [
+      4400,
+      4500
+    ],
+    "Borsod-Abaúj-Zemplén County": [
+      7200,
+      7300
+    ],
+    "Bács-Kiskun County": [
+      8400,
+      8500
+    ],
+    "Békés County": [
+      5600,
+      5700
+    ],
+    "Csongrád-Csanád County": [
+      4200,
+      4300
+    ],
+    "Fejér County": [
+      4300,
+      4400
+    ],
+    "Győr-Moson-Sopron County": [
+      4200,
+      4300
+    ],
+    "Hajdú-Bihar County": [
+      6200,
+      6300
+    ],
+    "Heves County": [
+      3600,
+      3700
+    ],
+    "Jász-Nagykun-Szolnok County": [
+      5500,
+      5600
+    ],
+    "Komárom-Esztergom County": [
+      2200,
+      2300
+    ],
+    "Nógrád County": [
+      2500,
+      2600
+    ],
+    "Pest County": [
+      6300,
+      6400
+    ],
+    "Somogy County": [
+      6000,
+      6100
+    ],
+    "Szabolcs-Szatmár-Bereg County": [
+      5900,
+      6000
+    ],
+    "Tolna County": [
+      3700,
+      3800
+    ],
+    "Vas County": [
+      3300,
+      3400
+    ],
+    "Veszprém County": [
+      4400,
+      4500
+    ],
+    "Zala County": [
+      3700,
+      3800
+    ],
+    "Budapest":[
+      520,
+      530
+    ]
+  },
+  "Bahrain": {
+    "Capital Governorate": [
+      70,
+      80
+    ],
+    "Muharraq Governorate": [
+      60,
+      70
+    ],
+    "Northern Governorate": [
+      140,
+      150
+    ],
+    "Southern Governorate": [
+      480,
+      490
+    ]
+  },
+  "El Salvador": {
+    "Ahuachapán Department": [
+      1200,
+      1300
+    ],
+    "Cabañas Department": [
+      1100,
+      1200
+    ],
+    "Chalatenango Department": [
+      2000,
+      2100
+    ],
+    "Cuscatlán Department": [
+      750,
+      760
+    ],
+    "La Libertad Department": [
+      1600,
+      1700
+    ],
+    "La Paz Department": [
+      1200,
+      1300
+    ],
+    "La Unión Department": [
+      2000,
+      2100
+    ],
+    "Morazán Department": [
+      1400,
+      1500
+    ],
+    "San Miguel Department": [
+      2000,
+      2100
+    ],
+    "San Salvador Department": [
+      880,
+      890
+    ],
+    "San Vicente Department": [
+      1100,
+      1200
+    ],
+    "Santa Ana Department": [
+      2000,
+      2100
+    ],
+    "Sonsonate Department": [
+      1200,
+      1300
+    ],
+    "Usulután Department": [
+      2100,
+      2200
+    ]
+  },
+  "Oman": {
+    "Ad Dakhiliyah Governorate": [
+      31000,
+      32000
+    ],
+    "Ad Dhahirah Governorate": [
+      37000,
+      38000
+    ],
+    "Al Batinah North Governorate": [
+      7900,
+      8000
+    ],
+    "Al Batinah South Governorate": [
+      5300,
+      5400
+    ],
+    "Al Buraimi Governorate": [
+      7400,
+      7500
+    ],
+    "Al Wusta Governorate": [
+      79000,
+      80000
+    ],
+    "Ash Sharqiyah North Governorate": [
+      21000,
+      22000
+    ],
+    "Ash Sharqiyah South Governorate": [
+      12000,
+      13000
+    ],
+    "Dhofar Governorate": [
+      99000,
+      100000
+    ],
+    "Musandam Governorate": [
+      1800,
+      1900
+    ],
+    "Muscat Governorate": [
+      3500,
+      3600
+    ]
+  },
+  "Uzbekistan": {
+    "Andijan Region": [
+      4200,
+      4300
+    ],
+    "Bukhara Region": [
+      39000,
+      40000
+    ],
+    "Fergana Region": [
+      6700,
+      6800
+    ],
+    "Jizzakh Region": [
+      20000,
+      21000
+    ],
+    "Karakalpakstan": [
+      160000,
+      170000
+    ],
+    "Namangan Region": [
+      7900,
+      8000
+    ],
+    "Navoiy Region": [
+      110000,
+      120000
+    ],
+    "Qashqadaryo Region": [
+      28000,
+      29000
+    ],
+    "Samarqand Region": [
+      16000,
+      17000
+    ],
+    "Sirdaryo Region": [
+      4300,
+      4400
+    ],
+    "Surxondaryo Region": [
+      20000,
+      21000
+    ],
+    "Tashkent": [
+      330,
+      340
+    ],
+    "Tashkent Region": [
+      15000,
+      16000
+    ],
+    "Xorazm Region": [
+      6300,
+      6400
+    ]
+  },
+  "Estonia": {
+    "Harju County": [
+      4300,
+      4400
+    ],
+    "Hiiu County": [
+      1000,
+      1100
+    ],
+    "Ida-Viru County": [
+      2900,
+      3000
+    ],
+    "Järva County": [
+      2600,
+      2700
+    ],
+    "Jõgeva County": [
+      2500,
+      2600
+    ],
+    "Lääne County": [
+      1800,
+      1900
+    ],
+    "Lääne-Viru County": [
+      3600,
+      3700
+    ],
+    "Pärnu County": [
+      5400,
+      5500
+    ],
+    "Põlva County": [
+      1800,
+      1900
+    ],
+    "Rapla County": [
+      2700,
+      2800
+    ],
+    "Saare County": [
+      2900,
+      3000
+    ],
+    "Tartu County": [
+      3300,
+      3400
+    ],
+    "Valga County": [
+      1900,
+      2000
+    ],
+    "Viljandi County": [
+      3400,
+      3500
+    ],
+    "Võru County": [
+      2700,
+      2800
+    ]
+  },
+  "Mongolia": {
+    "Arkhangai Province": [
+      55000,
+      56000
+    ],
+    "Bayan-Ölgii Province": [
+      45000,
+      46000
+    ],
+    "Bayankhongor Province": [
+      110000,
+      120000
+    ],
+    "Bulgan Province": [
+      48000,
+      49000
+    ],
+    "Darkhan-Uul Province": [
+      3200,
+      3300
+    ],
+    "Dornod Province": [
+      120000,
+      130000
+    ],
+    "Dornogovi Province": [
+      100000,
+      110000
+    ],
+    "Dundgovi Province": [
+      74000,
+      75000
+    ],
+    "Govi-Altai Province": [
+      140000,
+      150000
+    ],
+    "Govisümber Province": [
+      5500,
+      5600
+    ],
+    "Khentii Province": [
+      80000,
+      81000
+    ],
+    "Khovd Province": [
+      76000,
+      77000
+    ],
+    "Khövsgöl Province": [
+      100000,
+      110000
+    ],
+    "Orkhon Province": [
+      840,
+      850
+    ],
+    "Selenge Province": [
+      41000,
+      42000
+    ],
+    "Sükhbaatar Province": [
+      82000,
+      83000
+    ],
+    "Töv Province": [
+      74000,
+      75000
+    ],
+    "Ulaanbaatar": [
+      4700,
+      4800
+    ],
+    "Uvs Province": [
+      69000,
+      70000
+    ],
+    "Zavkhan Province": [
+      82000,
+      83000
+    ],
+    "Ömnögovi Province": [
+      160000,
+      170000
+    ],
+    "Övörkhangai Province": [
+      62000,
+      63000
+    ]
+  },
+  "Brunei": {
+    "Belait District": [
+      2700,
+      2800
+    ],
+    "Brunei-Muara District": [
+      570,
+      580
+    ],
+    "Temburong District": [
+      1300,
+      1400
+    ],
+    "Tutong District": [
+      1100,
+      1200
+    ]
+  },
+  "Kyrgyzstan": {
+    "Batken Region": [
+      16000,
+      17000
+    ],
+    "Bishkek": [
+      120,
+      130
+    ],
+    "Chuy Region": [
+      20000,
+      21000
+    ],
+    "Issyk-Kul Region": [
+      43000,
+      44000
+    ],
+    "Jalal-Abad Region": [
+      33000,
+      34000
+    ],
+    "Naryn Region": [
+      45000,
+      46000
+    ],
+    "Osh": [
+      180,
+      190
+    ],
+    "Osh Region": [
+      29000,
+      30000
+    ],
+    "Talas Region": [
+      11000,
+      12000
+    ]
+  },
+  "Slovakia": {
+    "Banská Bystrica Region": [
+      9400,
+      9500
+    ],
+    "Bratislava Region": [
+      2000,
+      2100
+    ],
+    "Košice Region": [
+      6700,
+      6800
+    ],
+    "Nitra Region": [
+      6300,
+      6400
+    ],
+    "Prešov Region": [
+      8900,
+      9000
+    ],
+    "Trenčín Region": [
+      4500,
+      4600
+    ],
+    "Trnava Region": [
+      4100,
+      4200
+    ],
+    "Žilina region": [
+      6800,
+      6900
+    ]
+  },
+  "Dominican Republic": {
+    "Azua Province": [
+      2500,
+      2600
+    ],
+    "Baoruco Province": [
+      1200,
+      1300
+    ],
+    "Barahona Province": [
+      1600,
+      1700
+    ],
+    "Dajabón Province": [
+      1000,
+      1100
+    ],
+    "Distrito Nacional": [
+      90,
+      100
+    ],
+    "Duarte Province": [
+      1600,
+      1700
+    ],
+    "El Seibo Province": [
+      1700,
+      1800
+    ],
+    "Elías Piña Province": [
+      1300,
+      1400
+    ],
+    "Espaillat Province": [
+      840,
+      850
+    ],
+    "Hato Mayor Province": [
+      1300,
+      1400
+    ],
+    "Hermanas Mirabal Province": [
+      420,
+      430
+    ],
+    "Independencia": [
+      2000,
+      2100
+    ],
+    "La Altagracia Province": [
+      2900,
+      3000
+    ],
+    "La Romana": [
+      650,
+      660
+    ],
+    "La Vega Province": [
+      2200,
+      2300
+    ],
+    "María Trinidad Sánchez Province": [
+      1200,
+      1300
+    ],
+    "Monseñor Nouel Province": [
+      990,
+      1000
+    ],
+    "Monte Cristi Province": [
+      1800,
+      1900
+    ],
+    "Monte Plata Province": [
+      2600,
+      2700
+    ],
+    "Pedernales Province": [
+      2000,
+      2100
+    ],
+    "Peravia Province": [
+      780,
+      790
+    ],
+    "Puerto Plata Province": [
+      1800,
+      1900
+    ],
+    "Samaná Province": [
+      860,
+      870
+    ],
+    "San Cristóbal Province": [
+      1200,
+      1300
+    ],
+    "San José de Ocoa Province": [
+      850,
+      860
+    ],
+    "San Juan Province": [
+      3300,
+      3400
+    ],
+    "San Pedro de Macorís": [
+      1200,
+      1300
+    ],
+    "Santiago Province": [
+      2800,
+      2900
+    ],
+    "Santiago Rodríguez Province": [
+      1100,
+      1200
+    ],
+    "Santo Domingo Province": [
+      1300,
+      1400
+    ],
+    "Sánchez Ramírez Province": [
+      1100,
+      1200
+    ],
+    "Valverde Province": [
+      820,
+      830
+    ]
+  },
+  "Sudan": {
+    "Al Qadarif": [
+      75000,
+      76000
+    ],
+    "Blue Nile State": [
+      45000,
+      46000
+    ],
+    "Gezira": [
+      27000,
+      28000
+    ],
+    "Kassala": [
+      36000,
+      37000
+    ],
+    "Khartoum": [
+      22000,
+      23000
+    ],
+    "North Darfur": [
+      290000,
+      300000
+    ],
+    "North Kordofan": [
+      180000,
+      190000
+    ],
+    "Northern State": [
+      340000,
+      350000
+    ],
+    "Red Sea": [
+      210000,
+      220000
+    ],
+    "River Nile": [
+      120000,
+      130000
+    ],
+    "Sennar": [
+      37000,
+      38000
+    ],
+    "South Darfur": [
+      120000,
+      130000
+    ],
+    "South Kordofan": [
+      79000,
+      80000
+    ],
+    "West Darfur": [
+      79000,
+      80000
+    ],
+    "White Nile": [
+      39000,
+      40000
+    ],
+    "Central Darfur":[
+      37000,
+      38000
+    ],
+    "East Darfur":[
+      52000,
+      53000
+    ],
+    "West Kordofan":[
+      110000,
+      120000
+    ]
+  },
+  "Liechtenstein": {
+    "Balzers": [
+      10,
+      20
+    ],
+    "Eschen": [
+      10,
+      20
+    ],
+    "Gamprin": [
+      6,
+      7
+    ],
+    "Mauren": [
+      7,
+      8
+    ],
+    "Planken": [
+      5,
+      6
+    ],
+    "Ruggell": [
+      7,
+      8
+    ],
+    "Schaan": [
+      20,
+      30
+    ],
+    "Schellenberg": [
+      3,
+      4
+    ],
+    "Triesen": [
+      20,
+      30
+    ],
+    "Triesenberg": [
+      20,
+      30
+    ],
+    "Vaduz": [
+      10,
+      20
+    ]
+  },
+  "Liberia": {
+    "Bomi County": [
+      1900,
+      2000
+    ],
+    "Bong County": [
+      8700,
+      8800
+    ],
+    "Gbarpolu County": [
+      9600,
+      9700
+    ],
+    "Grand Bassa County": [
+      7900,
+      8000
+    ],
+    "Grand Cape Mount County": [
+      5100,
+      5200
+    ],
+    "Grand Gedeh County": [
+      10000,
+      11000
+    ],
+    "Grand Kru County": [
+      3800,
+      3900
+    ],
+    "Lofa County": [
+      9900,
+      10000
+    ],
+    "Margibi County": [
+      2600,
+      2700
+    ],
+    "Maryland County": [
+      2200,
+      2300
+    ],
+    "Montserrado County": [
+      1900,
+      2000
+    ],
+    "Nimba": [
+      11000,
+      12000
+    ],
+    "River Cess County": [
+      5500,
+      5600
+    ],
+    "River Gee County": [
+      5100,
+      5200
+    ],
+    "Sinoe County": [
+      10000,
+      11000
+    ]
+  },
+  "Laos": {
+    "Attapeu Province": [
+      10000,
+      11000
+    ],
+    "Bokeo Province": [
+      6100,
+      6200
+    ],
+    "Bolikhamsai Province": [
+      14000,
+      15000
+    ],
+    "Champasak Province": [
+      15000,
+      16000
+    ],
+    "Hūaphan": [
+      16000,
+      17000
+    ],
+    "Khammouane Province": [
+      16000,
+      17000
+    ],
+    "Luang Prabang Province": [
+      16000,
+      17000
+    ],
+    "Lūang Namthā": [
+      9300,
+      9400
+    ],
+    "Phongsaly Province": [
+      16000,
+      17000
+    ],
+    "Sainyabūlī": [
+      16000,
+      17000
+    ],
+    "Salavan Province": [
+      10000,
+      11000
+    ],
+    "Savannakhet Province": [
+      21000,
+      22000
+    ],
+    "Sekong province": [
+      7600,
+      7700
+    ],
+    "Vientiane Province": [
+      15000,
+      16000
+    ],
+    "Xiangkhouang Province": [
+      15000,
+      16000
+    ],
+    "Oudomxay":[
+      15000,
+      16000
+    ],
+    "Vientiane Prefecture":[
+      3900,
+      4000
+    ],
+    "Xaisomboun Province":[
+      8300,
+      8400
+    ]
+  },
+  "Eritrea": {
+    "Anseba Region": [
+      23000,
+      24000
+    ],
+    "Debub Region": [
+      8000,
+      8100
+    ],
+    "Gash-Barka Region": [
+      33000,
+      34000
+    ],
+    "Maekel Region": [
+      1300,
+      1400
+    ],
+    "Northern Red Sea Region": [
+      27000,
+      28000
+    ],
+    "Southern Red Sea Region": [
+      27000,
+      28000
+    ]
+  },
+  "Rwanda": {
+    "Eastern Province": [
+      9800,
+      9900
+    ],
+    "Kigali Province": [
+      730,
+      740
+    ],
+    "Northern Province": [
+      3200,
+      3300
+    ],
+    "Southern Province": [
+      6100,
+      6200
+    ],
+    "Western Province": [
+      5800,
+      5900
+    ]
+  },
+  "Andorra": {
+    "Andorra la Vella": [
+      10,
+      20
+    ],
+    "Canillo": [
+      120,
+      130
+    ],
+    "Encamp": [
+      70,
+      80
+    ],
+    "Escaldes-Engordany": [
+      30,
+      40
+    ],
+    "La Massana": [
+      60,
+      70
+    ],
+    "Ordino": [
+      90,
+      100
+    ],
+    "Sant Julià de Lòria": [
+      60,
+      70
+    ]
+  },
+  "Tunisia": {
+    "Ariana Governorate": [
+      480,
+      490
+    ],
+    "Ben Arous Governorate": [
+      760,
+      770
+    ],
+    "Bizerte Governorate": [
+      3700,
+      3800
+    ],
+    "Béja Governorate": [
+      3500,
+      3600
+    ],
+    "Gabès Governorate": [
+      7100,
+      7200
+    ],
+    "Gafsa Governorate": [
+      7800,
+      7900
+    ],
+    "Jendouba Governorate": [
+      3100,
+      3200
+    ],
+    "Kairouan Governorate": [
+      6700,
+      6800
+    ],
+    "Kasserine Governorate": [
+      8200,
+      8300
+    ],
+    "Kebili Governorate": [
+      22000,
+      23000
+    ],
+    "Kef Governorate": [
+      4900,
+      5000
+    ],
+    "Mahdia Governorate": [
+      2900,
+      3000
+    ],
+    "Manouba Governorate": [
+      1100,
+      1200
+    ],
+    "Medenine Governorate": [
+      9100,
+      9200
+    ],
+    "Monastir Governorate": [
+      1000,
+      1100
+    ],
+    "Nabeul Governorate": [
+      2700,
+      2800
+    ],
+    "Sfax Governorate": [
+      7500,
+      7600
+    ],
+    "Sidi Bouzid Governorate": [
+      7400,
+      7500
+    ],
+    "Siliana Governorate": [
+      4600,
+      4700
+    ],
+    "Sousse Governorate": [
+      2600,
+      2700
+    ],
+    "Tataouine Governorate": [
+      38000,
+      39000
+    ],
+    "Tozeur Governorate": [
+      4700,
+      4800
+    ],
+    "Tunis Governorate": [
+      340,
+      350
+    ],
+    "Zaghouan Governorate": [
+      2700,
+      2800
+    ]
+  },
+  "Chile": {
+    "Antofagasta Region": [
+      120000,
+      130000
+    ],
+    "Araucanía Region": [
+      31000,
+      32000
+    ],
+    "Arica y Parinacota Region": [
+      16000,
+      17000
+    ],
+    "Atacama Region": [
+      75000,
+      76000
+    ],
+    "Aysén Region": [
+      100000,
+      110000
+    ],
+    "Biobío Region": [
+      23000,
+      24000
+    ],
+    "Coquimbo Region": [
+      40000,
+      41000
+    ],
+    "Los Lagos Region": [
+      48000,
+      49000
+    ],
+    "Los Ríos Region": [
+      18000,
+      19000
+    ],
+    "Magellan and the Chilean Antarctic Region": [
+      130000,
+      140000
+    ],
+    "Maule Región": [
+      30000,
+      31000
+    ],
+    "O'Higgins Region": [
+      16000,
+      17000
+    ],
+    "Santiago Metropolitan Region": [
+      15000,
+      16000
+    ],
+    "Tarapacá Region": [
+      42000,
+      43000
+    ],
+    "Valparaíso Region": [
+      16000,
+      17000
+    ],
+    "Ñuble Region": [
+      13000,
+      14000
+    ]
+  },
+  "Namibia": {
+    "Erongo Region": [
+      63000,
+      64000
+    ],
+    "Hardap Region": [
+      100000,
+      110000
+    ],
+    "Karas Region": [
+      160000,
+      170000
+    ],
+    "Kavango East Region": [
+      23000,
+      24000
+    ],
+    "Kavango West Region": [
+      24000,
+      25000
+    ],
+    "Khomas Region": [
+      37000,
+      38000
+    ],
+    "Kunene Region": [
+      110000,
+      120000
+    ],
+    "Ohangwena Region": [
+      10000,
+      11000
+    ],
+    "Omaheke Region": [
+      84000,
+      85000
+    ],
+    "Omusati Region": [
+      26000,
+      27000
+    ],
+    "Oshana Region": [
+      8600,
+      8700
+    ],
+    "Oshikoto Region": [
+      38000,
+      39000
+    ],
+    "Otjozondjupa Region": [
+      100000,
+      110000
+    ],
+    "Zambezi Region": [
+      14000,
+      15000
+    ]
+  },
+  "Mauritania": {
+    "Adrar Region": [
+      220000,
+      230000
+    ],
+    "Assaba Region": [
+      36000,
+      37000
+    ],
+    "Brakna Region": [
+      33000,
+      34000
+    ],
+    "Dakhlet Nouadhibou": [
+      22000,
+      23000
+    ],
+    "Gorgol Region": [
+      13000,
+      14000
+    ],
+    "Guidimaka Region": [
+      10000,
+      11000
+    ],
+    "Hodh Ech Chargui Region": [
+      180000,
+      190000
+    ],
+    "Hodh El Gharbi Region": [
+      53000,
+      54000
+    ],
+    "Inchiri Region": [
+      47000,
+      48000
+    ],
+    "Tagant Region": [
+      95000,
+      96000
+    ],
+    "Tiris Zemmour Region": [
+      250000,
+      260000
+    ],
+    "Trarza Region": [
+      67000,
+      68000
+    ],
+    "Nouakchott-Nord":[
+      300,
+      310
+    ],
+    "Nouakchott-Ouest":[
+      140,
+      150
+    ],
+    "Nouakchott-Sud":[
+      250,
+      260
+    ]
+  },
+  "Costa Rica": {
+    "Alajuela Province": [
+      9700,
+      9800
+    ],
+    "Cartago Province": [
+      3000,
+      3100
+    ],
+    "Guanacaste Province": [
+      10000,
+      11000
+    ],
+    "Heredia Province": [
+      2600,
+      2700
+    ],
+    "Limón Province": [
+      9100,
+      9200
+    ],
+    "Puntarenas Province": [
+      11000,
+      12000
+    ],
+    "San José Province": [
+      4900,
+      5000
+    ]
+  },
+  "Ecuador": {
+    "Azuay Province": [
+      8100,
+      8200
+    ],
+    "Bolívar Province": [
+      3900,
+      4000
+    ],
+    "Carchi Province": [
+      3700,
+      3800
+    ],
+    "Cañar Province": [
+      3600,
+      3700
+    ],
+    "Chimborazo Province": [
+      6100,
+      6200
+    ],
+    "Cotopaxi Province": [
+      6100,
+      6200
+    ],
+    "El Oro Province": [
+      5800,
+      5900
+    ],
+    "Esmeraldas Province": [
+      15000,
+      16000
+    ],
+    "Galápagos Province": [
+      8200,
+      8300
+    ],
+    "Guayas Province": [
+      15000,
+      16000
+    ],
+    "Imbabura Province": [
+      4700,
+      4800
+    ],
+    "Loja Province": [
+      11000,
+      12000
+    ],
+    "Los Ríos Province": [
+      7200,
+      7300
+    ],
+    "Manabí Province": [
+      19000,
+      20000
+    ],
+    "Morona-Santiago Province": [
+      24000,
+      25000
+    ],
+    "Napo Province": [
+      12000,
+      13000
+    ],
+    "Orellana Province": [
+      21000,
+      22000
+    ],
+    "Pastaza Province": [
+      29000,
+      30000
+    ],
+    "Pichincha Province": [
+      9400,
+      9500
+    ],
+    "Santa Elena Province": [
+      3600,
+      3700
+    ],
+    "Santo Domingo de los Tsáchilas Province": [
+      3700,
+      3800
+    ],
+    "Sucumbíos Province": [
+      18000,
+      19000
+    ],
+    "Tungurahua Province": [
+      3300,
+      3400
+    ],
+    "Zamora Chinchipe": [
+      10000,
+      11000
+    ]
+  },
+  "Senegal": {
+    "Dakar": [
+      550,
+      560
+    ],
+    "Diourbel Region": [
+      4700,
+      4800
+    ],
+    "Fatick": [
+      6600,
+      6700
+    ],
+    "Kaffrine": [
+      11000,
+      12000
+    ],
+    "Kaolack": [
+      5300,
+      5400
+    ],
+    "Kedougou Region": [
+      16000,
+      17000
+    ],
+    "Kolda": [
+      13000,
+      14000
+    ],
+    "Louga": [
+      24000,
+      25000
+    ],
+    "Matam": [
+      29000,
+      30000
+    ],
+    "Saint-Louis": [
+      19000,
+      20000
+    ],
+    "Sédhiou": [
+      7300,
+      7400
+    ],
+    "Tambacounda Region": [
+      42000,
+      43000
+    ],
+    "Thiès Region": [
+      6600,
+      6700
+    ],
+    "Ziguinchor": [
+      7300,
+      7400
+    ]
+  },
+  "Lesotho": {
+    "Berea District": [
+      2200,
+      2300
+    ],
+    "Butha-Buthe District": [
+      1700,
+      1800
+    ],
+    "Leribe District": [
+      2800,
+      2900
+    ],
+    "Mafeteng District": [
+      2100,
+      2200
+    ],
+    "Maseru District": [
+      4200,
+      4300
+    ],
+    "Mohale's Hoek District": [
+      3500,
+      3600
+    ],
+    "Mokhotlong District": [
+      4000,
+      4100
+    ],
+    "Qacha's Nek District": [
+      2300,
+      2400
+    ],
+    "Quthing District": [
+      2900,
+      3000
+    ],
+    "Thaba-Tseka District": [
+      4200,
+      4300
+    ]
+  },
+  "Colombia": {
+    "Amazonas Department": [
+      100000,
+      110000
+    ],
+    "Antioquia": [
+      63000,
+      64000
+    ],
+    "Arauca Department": [
+      23000,
+      24000
+    ],
+    "Archipelago of San Andrés, Providencia and Santa Catalina": [
+      50,
+      60
+    ],
+    "Atlántico Department": [
+      3300,
+      3400
+    ],
+    "Bogotá": [
+      1500,
+      1600
+    ],
+    "Bolívar Department": [
+      25000,
+      26000
+    ],
+    "Boyacá Department": [
+      23000,
+      24000
+    ],
+    "Caldas Department": [
+      7800,
+      7900
+    ],
+    "Caquetá Department": [
+      88000,
+      89000
+    ],
+    "Casanare Department": [
+      44000,
+      45000
+    ],
+    "Cauca Department": [
+      29000,
+      30000
+    ],
+    "Cesar Department": [
+      22000,
+      23000
+    ],
+    "Chocó Department": [
+      46000,
+      47000
+    ],
+    "Cundinamarca Department": [
+      22000,
+      23000
+    ],
+    "Córdoba Department": [
+      25000,
+      26000
+    ],
+    "Guainía Department": [
+      72000,
+      73000
+    ],
+    "Guaviare Department": [
+      53000,
+      54000
+    ],
+    "Huila Department": [
+      19000,
+      20000
+    ],
+    "La Guajira Department": [
+      20000,
+      21000
+    ],
+    "Magdalena Department": [
+      23000,
+      24000
+    ],
+    "Meta Department": [
+      85000,
+      86000
+    ],
+    "Nariño Department": [
+      33000,
+      34000
+    ],
+    "Norte de Santander Department": [
+      21000,
+      22000
+    ],
+    "Putumayo Department": [
+      24000,
+      25000
+    ],
+    "Quindío Department": [
+      1800,
+      1900
+    ],
+    "Risaralda Department": [
+      3600,
+      3700
+    ],
+    "Santander Department": [
+      30000,
+      31000
+    ],
+    "Sucre Department": [
+      10000,
+      11000
+    ],
+    "Tolima Department": [
+      23000,
+      24000
+    ],
+    "Valle del Cauca Department": [
+      22000,
+      23000
+    ],
+    "Vaupés Department": [
+      54000,
+      55000
+    ],
+    "Vichada Department": [
+      100000,
+      110000
+    ]
+  },
+  "Bolivia": {
+    "Beni Department": [
+      210000,
+      220000
+    ],
+    "Chuquisaca Department": [
+      51000,
+      52000
+    ],
+    "Cochabamba Department": [
+      55000,
+      56000
+    ],
+    "La Paz Department": [
+      130000,
+      140000
+    ],
+    "Oruro Department": [
+      53000,
+      54000
+    ],
+    "Pando Department": [
+      63000,
+      64000
+    ],
+    "Potosí Department": [
+      110000,
+      120000
+    ],
+    "Santa Cruz Department": [
+      370000,
+      380000
+    ],
+    "Tarija Department": [
+      37000,
+      38000
+    ]
+  },
+  "Tajikistan": {
+    "Districts under Central Government Jurisdiction": [
+      28000,
+      29000
+    ],
+    "Gorno-Badakhshan Autonomous Region": [
+      64000,
+      65000
+    ],
+    "Khatlon Province": [
+      24000,
+      25000
+    ],
+    "Sughd Province": [
+      25000,
+      26000
+    ],
+    "Dushanbe":[
+      200,
+      210
+    ]
+  },
+  "Mali": {
+    "Bamako Capital District":[
+      240,
+      250
+    ],
+    "Kayes":[
+      110000,
+      120000
+    ],
+    "Koulikoro":[
+      90000,
+      91000
+    ],
+    "Sikasso":[
+      70000,
+      71000
+    ],
+    "Ségou":[
+      64000,
+      65000
+    ],
+    "Mopti":[
+      79000,
+      80000
+    ],
+    "Tombouctou":[
+      56000,
+      57000
+    ],
+    "Gao":[
+      89000,
+      90000
+    ],
+    "Kidal":[
+      150000,
+      160000
+    ],
+    "Taoudénit":[
+      440000,
+      450000
+    ],
+    "Ménaka":[
+      81000,
+      82000
+    ],
+    "Bougouni":[
+      41000,
+      42000
+    ],
+    "Dioila":[
+      12000,
+      13000
+    ],
+    "Nioro":[
+      24000,
+      25000
+    ],
+    "Koutiala":[
+      14000,
+      15000
+    ],
+    "Kita":[
+      44000,
+      45000
+    ],
+    "Nara":[
+      26000,
+      27000
+    ],
+    "Bandiagara":[
+      25000,
+      26000
+    ],
+    "San":[
+      15000,
+      16000
+    ],
+    "Douentza":[
+      63000,
+      64000
+    ]
+  },
+  "Guatemala": {
+    "Alta Verapaz Department": [
+      8600,
+      8700
+    ],
+    "Baja Verapaz Department": [
+      3100,
+      3200
+    ],
+    "Chimaltenango Department": [
+      1900,
+      2000
+    ],
+    "Chiquimula Department": [
+      2300,
+      2400
+    ],
+    "El Progreso Department": [
+      1900,
+      2000
+    ],
+    "Escuintla Department": [
+      4300,
+      4400
+    ],
+    "Guatemala Department": [
+      2200,
+      2300
+    ],
+    "Huehuetenango Department": [
+      7400,
+      7500
+    ],
+    "Izabal Department": [
+      9000,
+      9100
+    ],
+    "Jalapa Department": [
+      2000,
+      2100
+    ],
+    "Jutiapa Department": [
+      3200,
+      3300
+    ],
+    "Petén Department": [
+      35000,
+      36000
+    ],
+    "Quetzaltenango Department": [
+      1900,
+      2000
+    ],
+    "Quiché Department": [
+      8300,
+      8400
+    ],
+    "Retalhuleu Department": [
+      1800,
+      1900
+    ],
+    "Sacatepéquez Department": [
+      460,
+      470
+    ],
+    "San Marcos Department": [
+      3700,
+      3800
+    ],
+    "Santa Rosa Department": [
+      2200,
+      2300
+    ],
+    "Sololá Department": [
+      1000,
+      1100
+    ],
+    "Suchitepéquez Department": [
+      2500,
+      2600
+    ],
+    "Totonicapán Department": [
+      1000,
+      1100
+    ],
+    "Zacapa Department": [
+      2600,
+      2700
+    ]
+  },
+  "Vanuatu": {
+    "Malampa": [
+      2700,
+      2800
+    ],
+    "Penama": [
+      1100,
+      1200
+    ],
+    "Sanma": [
+      4200,
+      4300
+    ],
+    "Shefa": [
+      1400,
+      1500
+    ],
+    "Tafea": [
+      1600,
+      1700
+    ],
+    "Torba": [
+      880,
+      890
+    ]
+  },
+  "Djibouti": {
+    "Ali Sabieh Region": [
+      2400,
+      2500
+    ],
+    "Arta Region": [
+      1800,
+      1900
+    ],
+    "Dikhil Region": [
+      7200,
+      7300
+    ],
+    "Djibouti Region": [
+      200,
+      210
+    ],
+    "Obock Region": [
+      4700,
+      4800
+    ],
+    "Tadjourah Region": [
+      7100,
+      7200
+    ]
+  },
+  "Cameroon": {
+    "Adamawa": [
+      63000,
+      64000
+    ],
+    "Centre": [
+      68000,
+      69000
+    ],
+    "East": [
+      100000,
+      110000
+    ],
+    "Far North": [
+      34000,
+      35000
+    ],
+    "Littoral": [
+      20000,
+      21000
+    ],
+    "North": [
+      66000,
+      67000
+    ],
+    "Northwest": [
+      17000,
+      18000
+    ],
+    "South": [
+      47000,
+      48000
+    ],
+    "Southwest": [
+      25000,
+      26000
+    ],
+    "West": [
+      13000,
+      14000
+    ]
+  },
+  "Zambia": {
+    "Central Province": [
+      94000,
+      95000
+    ],
+    "Copperbelt Province": [
+      31000,
+      32000
+    ],
+    "Eastern Province": [
+      51000,
+      52000
+    ],
+    "Luapula Province": [
+      50000,
+      51000
+    ],
+    "Lusaka Province": [
+      21000,
+      22000
+    ],
+    "Muchinga Province": [
+      87000,
+      88000
+    ],
+    "Northern Province": [
+      77000,
+      78000
+    ],
+    "Northwestern Province": [
+      120000,
+      130000
+    ],
+    "Southern Province": [
+      85000,
+      86000
+    ],
+    "Western Province": [
+      120000,
+      130000
+    ]
+  },
+  "Dominica": {
+    "Saint Andrew Parish": [
+      170,
+      180
+    ],
+    "Saint David Parish": [
+      130,
+      140
+    ],
+    "Saint George Parish": [
+      50,
+      60
+    ],
+    "Saint John Parish": [
+      50,
+      60
+    ],
+    "Saint Joseph Parish": [
+      120,
+      130
+    ],
+    "Saint Luke Parish": [
+      7,
+      8
+    ],
+    "Saint Mark Parish": [
+      10,
+      20
+    ],
+    "Saint Patrick Parish": [
+      80,
+      90
+    ],
+    "Saint Paul Parish": [
+      60,
+      70
+    ],
+    "Saint Peter Parish": [
+      30,
+      40
+    ]
+  },
+  "Niger": {
+    "Agadez Region": [
+      660000,
+      670000
+    ],
+    "Diffa Region": [
+      150000,
+      160000
+    ],
+    "Dosso Region": [
+      31000,
+      32000
+    ],
+    "Maradi Region": [
+      35000,
+      36000
+    ],
+    "Niamey": [
+      400,
+      410
+    ],
+    "Tahoua Region": [
+      100000,
+      110000
+    ],
+    "Tillabéri Region": [
+      89000,
+      90000
+    ],
+    "Zinder Region": [
+      140000,
+      150000
+    ]
+  },
+  "Honduras": {
+    "Atlántida Department": [
+      4300,
+      4400
+    ],
+    "Bay Islands Department": [
+      230,
+      240
+    ],
+    "Choluteca Department": [
+      4300,
+      4400
+    ],
+    "Colón Department": [
+      8200,
+      8300
+    ],
+    "Comayagua Department": [
+      5100,
+      5200
+    ],
+    "Copán Department": [
+      3200,
+      3300
+    ],
+    "Cortés Department": [
+      3900,
+      4000
+    ],
+    "El Paraíso Department": [
+      7400,
+      7500
+    ],
+    "Francisco Morazán Department": [
+      8600,
+      8700
+    ],
+    "Gracias a Dios Department": [
+      16000,
+      17000
+    ],
+    "Intibucá Department": [
+      3100,
+      3200
+    ],
+    "La Paz Department": [
+      2500,
+      2600
+    ],
+    "Lempira Department": [
+      4200,
+      4300
+    ],
+    "Ocotepeque Department": [
+      1600,
+      1700
+    ],
+    "Olancho Department": [
+      23000,
+      24000
+    ],
+    "Santa Bárbara Department": [
+      5000,
+      5100
+    ],
+    "Valle Department": [
+      1600,
+      1700
+    ],
+    "Yoro Department": [
+      7700,
+      7800
+    ]
+  },
+  "Paraguay": {
+    "Alto Paraguay Department": [
+      82000,
+      83000
+    ],
+    "Alto Paraná Department": [
+      14000,
+      15000
+    ],
+    "Amambay Department": [
+      12000,
+      13000
+    ],
+    "Boquerón Department": [
+      91000,
+      92000
+    ],
+    "Caaguazú Department": [
+      11000,
+      12000
+    ],
+    "Caazapá Department": [
+      9400,
+      9500
+    ],
+    "Canindeyú Department": [
+      14000,
+      15000
+    ],
+    "Central Department": [
+      2400,
+      2500
+    ],
+    "Concepción Department": [
+      18000,
+      19000
+    ],
+    "Cordillera Department": [
+      4900,
+      5000
+    ],
+    "Guairá Department": [
+      3800,
+      3900
+    ],
+    "Itapúa Department": [
+      16000,
+      17000
+    ],
+    "Misiones Department": [
+      9500,
+      9600
+    ],
+    "Paraguarí Department": [
+      8700,
+      8800
+    ],
+    "Presidente Hayes Department": [
+      72000,
+      73000
+    ],
+    "San Pedro Department": [
+      20000,
+      21000
+    ],
+    "Ñeembucú Department": [
+      12000,
+      13000
+    ],
+    "Distrito Capital":[
+      110,
+      120
+    ]
+  },
+  "Saint Kitts and Nevis": {
+    "Christ Church Nichola Town Parish": [
+      10,
+      20
+    ],
+    "Saint Anne Sandy Point Parish": [
+      10,
+      20
+    ],
+    "Saint George Basseterre Parish": [
+      20,
+      30
+    ],
+    "Saint George Gingerland Parish": [
+      10,
+      20
+    ],
+    "Saint James Windward Parish": [
+      30,
+      40
+    ],
+    "Saint John Capisterre Parish": [
+      20,
+      30
+    ],
+    "Saint John Figtree Parish": [
+      20,
+      30
+    ],
+    "Saint Mary Cayon Parish": [
+      10,
+      20
+    ],
+    "Saint Paul Capisterre Parish": [
+      10,
+      20
+    ],
+    "Saint Paul Charlestown Parish": [
+      3,
+      4
+    ],
+    "Saint Peter Basseterre Parish": [
+      10,
+      20
+    ],
+    "Saint Thomas Lowland Parish": [
+      10,
+      20
+    ],
+    "Saint Thomas Middle Island Parish": [
+      20,
+      30
+    ],
+    "Trinity Palmetto Point Parish": [
+      10,
+      20
+    ]
+  },
+  "Gabon": {
+    "Estuaire Province": [
+      20000,
+      21000
+    ],
+    "Haut-Ogooué Province": [
+      36000,
+      37000
+    ],
+    "Moyen-Ogooué Province": [
+      18000,
+      19000
+    ],
+    "Ngounié Province": [
+      37000,
+      38000
+    ],
+    "Nyanga Province": [
+      21000,
+      22000
+    ],
+    "Ogooué-Ivindo Province": [
+      46000,
+      47000
+    ],
+    "Ogooué-Lolo Province": [
+      25000,
+      26000
+    ],
+    "Ogooué-Maritime Province": [
+      22000,
+      23000
+    ],
+    "Woleu-Ntem Province": [
+      38000,
+      39000
+    ]
+  },
+  "Guinea": {
+    "Boké Region": [
+      31000,
+      32000
+    ],
+    "Faranah Region": [
+      35000,
+      36000
+    ],
+    "Kankan Region": [
+      72000,
+      73000
+    ],
+    "Kindia Region": [
+      28000,
+      29000
+    ],
+    "Labé Region": [
+      22000,
+      23000
+    ],
+    "Mamou Region": [
+      17000,
+      18000
+    ],
+    "Nzérékoré Region": [
+      37000,
+      38000
+    ],
+    "Conakry Region":[
+      450,
+      460
+    ]
+  },
+  "Malawi": {
+    "Central Region": [
+      35000,
+      36000
+    ],
+    "Northern Region": [
+      26000,
+      27000
+    ],
+    "Southern Region": [
+      31000,
+      32000
+    ]
+  },
+  "Solomon Islands": {
+    "Central Province": [
+      610,
+      620
+    ],
+    "Choiseul Province": [
+      3800,
+      3900
+    ],
+    "Guadalcanal Province": [
+      5300,
+      5400
+    ],
+    "Isabel Province": [
+      4100,
+      4200
+    ],
+    "Makira-Ulawa Province": [
+      3100,
+      3200
+    ],
+    "Malaita Province": [
+      4200,
+      4300
+    ],
+    "Rennell and Bellona Province": [
+      670,
+      680
+    ],
+    "Temotu Province": [
+      890,
+      900
+    ],
+    "Western Province": [
+      5400,
+      5500
+    ],
+    "Capital Territory":[
+      20,
+      30
+    ]
+  },
+  "Comoros": {
+    "Anjouan": [
+      420,
+      430
+    ],
+    "Grande Comore": [
+      1000,
+      1100
+    ],
+    "Mohéli": [
+      290,
+      300
+    ]
+  },
+  "Antigua and Barbuda": {
+    "Barbuda": [
+      160,
+      170
+    ],
+    "Redonda": [
+      1,
+      2
+    ],
+    "Saint George": [
+      20,
+      30
+    ],
+    "Saint John": [
+      60,
+      70
+    ],
+    "Saint Mary": [
+      60,
+      70
+    ],
+    "Saint Paul": [
+      40,
+      50
+    ],
+    "Saint Peter": [
+      30,
+      40
+    ],
+    "Saint Philip": [
+      40,
+      50
+    ]
+  },
+  "Turkmenistan": {
+    "Ahal Region": [
+      97000,
+      98000
+    ],
+    "Ashgabat": [
+      760,
+      770
+    ],
+    "Balkan Region": [
+      130000,
+      140000
+    ],
+    "Daşoguz Region": [
+      73000,
+      74000
+    ],
+    "Lebap Region": [
+      93000,
+      94000
+    ],
+    "Mary Region": [
+      87000,
+      88000
+    ]
+  },
+  "Togo": {
+    "Centrale Region": [
+      13000,
+      14000
+    ],
+    "Kara Region": [
+      11000,
+      12000
+    ],
+    "Maritime": [
+      6300,
+      6400
+    ],
+    "Plateaux Region": [
+      16000,
+      17000
+    ],
+    "Savanes Region": [
+      8400,
+      8500
+    ]
+  },
+  "Federated States of Micronesia": {
+    "Chuuk": [
+      110,
+      120
+    ],
+    "Kosrae State": [
+      110,
+      120
+    ],
+    "Pohnpei State": [
+      370,
+      380
+    ],
+    "Yap State": [
+      110,
+      120
+    ]
+  },
+  "Saint Vincent and the Grenadines": {
+    "Charlotte Parish": [
+      140,
+      150
+    ],
+    "Grenadines Parish": [
+      40,
+      50
+    ],
+    "Saint Andrew Parish": [
+      20,
+      30
+    ],
+    "Saint David Parish": [
+      80,
+      90
+    ],
+    "Saint George Parish": [
+      50,
+      60
+    ],
+    "Saint Patrick Parish": [
+      30,
+      40
+    ]
+  },
+  "Bulgaria": {
+    "Blagoevgrad": [
+      6400,
+      6500
+    ],
+    "Burgas": [
+      7700,
+      7800
+    ],
+    "Dobrich": [
+      4700,
+      4800
+    ],
+    "Gabrovo": [
+      2000,
+      2100
+    ],
+    "Haskovo": [
+      5500,
+      5600
+    ],
+    "Kardzhali": [
+      3200,
+      3300
+    ],
+    "Kyustendil": [
+      3000,
+      3100
+    ],
+    "Lovech": [
+      4100,
+      4200
+    ],
+    "Montana Oblast": [
+      3600,
+      3700
+    ],
+    "Pazardzhik": [
+      4400,
+      4500
+    ],
+    "Pernik": [
+      2300,
+      2400
+    ],
+    "Pleven": [
+      4300,
+      4400
+    ],
+    "Plovdiv": [
+      5900,
+      6000
+    ],
+    "Razgrad": [
+      2600,
+      2700
+    ],
+    "Ruse": [
+      2700,
+      2800
+    ],
+    "Shumen": [
+      3300,
+      3400
+    ],
+    "Silistra": [
+      2800,
+      2900
+    ],
+    "Sliven": [
+      3500,
+      3600
+    ],
+    "Smolyan": [
+      3100,
+      3200
+    ],
+    "Sofia": [
+      7000,
+      7100
+    ],
+    "Sofia City": [
+      1300,
+      1400
+    ],
+    "Stara Zagora": [
+      5100,
+      5200
+    ],
+    "Targovishte": [
+      2500,
+      2600
+    ],
+    "Varna": [
+      3800,
+      3900
+    ],
+    "Veliko Tarnovo": [
+      4600,
+      4700
+    ],
+    "Vidin Oblast": [
+      3000,
+      3100
+    ],
+    "Vratsa": [
+      3600,
+      3700
+    ],
+    "Yambol": [
+      3300,
+      3400
+    ]
+  },
+  "Benin": {
+    "Alibori Department": [
+      26000,
+      27000
+    ],
+    "Atakora Department": [
+      20000,
+      21000
+    ],
+    "Atlantique Department": [
+      3200,
+      3300
+    ],
+    "Borgou Department": [
+      25000,
+      26000
+    ],
+    "Collines department": [
+      13000,
+      14000
+    ],
+    "Donga Department": [
+      11000,
+      12000
+    ],
+    "Kouffo Department": [
+      2400,
+      2500
+    ],
+    "Littoral": [
+      70,
+      80
+    ],
+    "Mono Department": [
+      1600,
+      1700
+    ],
+    "Ouémé Department": [
+      1200,
+      1300
+    ],
+    "Plateau Department": [
+      3200,
+      3300
+    ],
+    "Zou Department": [
+      5200,
+      5300
+    ]
+  },
+  "Timor-Leste": {
+    "Aileu municipality": [
+      730,
+      740
+    ],
+    "Ainaro Municipality": [
+      800,
+      810
+    ],
+    "Atauro": [
+      140,
+      150
+    ],
+    "Baucau Municipality": [
+      1500,
+      1600
+    ],
+    "Bobonaro Municipality": [
+      1300,
+      1400
+    ],
+    "Cova Lima Municipality": [
+      1100,
+      1200
+    ],
+    "Dili Municipality": [
+      220,
+      230
+    ],
+    "Ermera Municipality": [
+      750,
+      760
+    ],
+    "Lautém Municipality": [
+      1800,
+      1900
+    ],
+    "Liquiçá Municipality": [
+      550,
+      560
+    ],
+    "Manatuto Municipality": [
+      1700,
+      1800
+    ],
+    "Manufahi Municipality": [
+      1300,
+      1400
+    ],
+    "Oe-Cusse Ambeno": [
+      810,
+      820
+    ],
+    "Viqueque Municipality": [
+      1800,
+      1900
+    ]
+  },
+  "Uruguay": {
+    "Artigas Department": [
+      11000,
+      12000
+    ],
+    "Canelones Department": [
+      4500,
+      4600
+    ],
+    "Cerro Largo Department": [
+      13000,
+      14000
+    ],
+    "Colonia Department": [
+      6100,
+      6200
+    ],
+    "Durazno Department": [
+      11000,
+      12000
+    ],
+    "Flores Department": [
+      5100,
+      5200
+    ],
+    "Florida Department": [
+      10000,
+      11000
+    ],
+    "Lavalleja Department": [
+      10000,
+      11000
+    ],
+    "Maldonado Department": [
+      4700,
+      4800
+    ],
+    "Montevideo Department": [
+      530,
+      540
+    ],
+    "Paysandú Department": [
+      13000,
+      14000
+    ],
+    "Rivera Department": [
+      9300,
+      9400
+    ],
+    "Rocha Department": [
+      10000,
+      11000
+    ],
+    "Río Negro Department": [
+      9200,
+      9300
+    ],
+    "Salto Department": [
+      14000,
+      15000
+    ],
+    "San José Department": [
+      4900,
+      5000
+    ],
+    "Soriano Department": [
+      9000,
+      9100
+    ],
+    "Tacuarembó Department": [
+      15000,
+      16000
+    ],
+    "Treinta y Tres Department": [
+      9500,
+      9600
+    ]
+  }
+}

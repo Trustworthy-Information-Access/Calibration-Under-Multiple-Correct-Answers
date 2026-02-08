@@ -1,0 +1,125 @@
+{
+  "as_of": "2026-02",
+  "river": [
+    {
+      "qid": "Q1653",
+      "label": "Danube",
+      "title": "Danube",
+      "views_12m": 1023490
+    },
+    {
+      "qid": "Q1497",
+      "label": "Mississippi River",
+      "title": "Mississippi_River",
+      "views_12m": 851393
+    },
+    {
+      "qid": "Q584",
+      "label": "Rhine",
+      "title": "Rhine",
+      "views_12m": 588956
+    },
+    {
+      "qid": "Q626",
+      "label": "Volga",
+      "title": "Volga",
+      "views_12m": 383021
+    },
+    {
+      "qid": "Q1265",
+      "label": "Colorado River",
+      "title": "Colorado_River",
+      "views_12m": 367761
+    },
+    {
+      "qid": "Q1471",
+      "label": "Seine",
+      "title": "Seine",
+      "views_12m": 262733
+    },
+    {
+      "qid": "Q1644",
+      "label": "Elbe",
+      "title": "Elbe",
+      "views_12m": 206963
+    },
+    {
+      "qid": "Q602",
+      "label": "Rhône",
+      "title": "Rhône",
+      "views_12m": 201216
+    },
+    {
+      "qid": "Q548",
+      "label": "Vistula",
+      "title": "Vistula",
+      "views_12m": 168322
+    },
+    {
+      "qid": "Q643",
+      "label": "Po",
+      "title": "Po_(river)",
+      "views_12m": 129328
+    },
+    {
+      "qid": "Q1469",
+      "label": "Loire",
+      "title": "Loire",
+      "views_12m": 105621
+    },
+    {
+      "qid": "Q552",
+      "label": "Oder",
+      "title": "Oder",
+      "views_12m": 95132
+    },
+    {
+      "qid": "Q1229",
+      "label": "Don",
+      "title": "Don_(river)",
+      "views_12m": 71126
+    },
+    {
+      "qid": "Q645",
+      "label": "Neva",
+      "title": "Neva",
+      "views_12m": 68246
+    },
+    {
+      "qid": "Q1650",
+      "label": "Weser",
+      "title": "Weser",
+      "views_12m": 48120
+    },
+    {
+      "qid": "Q973",
+      "label": "Ob",
+      "title": "Ob",
+      "views_12m": 40650
+    },
+    {
+      "qid": "Q1187",
+      "label": "River Wandle",
+      "title": "River_Wandle",
+      "views_12m": 18137
+    },
+    {
+      "qid": "Q1648",
+      "label": "Ems",
+      "title": "Ems_(river)",
+      "views_12m": 13420
+    },
+    {
+      "qid": "Q1219",
+      "label": "Alster",
+      "title": "Alster",
+      "views_12m": 12464
+    },
+    {
+      "qid": "Q425",
+      "label": "Betsiboka River",
+      "title": "Betsiboka_River",
+      "views_12m": 2677
+    }
+  ]
+}

@@ -1,0 +1,3566 @@
+{
+  "Indonesian": [
+    "Australia",
+    "Indonesia",
+    "Malaysia"
+  ],
+  "Samaritan Hebrew": [
+    "State of Palestine",
+    "Israel"
+  ],
+  "Punjabi": [
+    "Australia",
+    "India",
+    "Pakistan",
+    "Finland"
+  ],
+  "Bedawi Arabic": [
+    "State of Palestine",
+    "Egypt",
+    "Jordan"
+  ],
+  "Iraqi Arabic": [
+    "Iraq",
+    "Syria"
+  ],
+  "Thai": [
+    "Cambodia",
+    "Australia",
+    "Thailand",
+    "Finland"
+  ],
+  "Lithuanian": [
+    "Lithuania",
+    "Poland",
+    "Finland"
+  ],
+  "Khmer": [
+    "Cambodia",
+    "Vietnam"
+  ],
+  "Bulgarian": [
+    "Finland",
+    "Bulgaria",
+    "Serbia",
+    "Turkey",
+    "Greece"
+  ],
+  "Catalan": [
+    "Spain",
+    "Andorra",
+    "France",
+    "Finland"
+  ],
+  "Borana": [
+    "Kenya",
+    "Somalia",
+    "Ethiopia"
+  ],
+  "Kurmanji": [
+    "Syria",
+    "Armenia",
+    "Iraq",
+    "Azerbaijan",
+    "Turkey"
+  ],
+  "Kurdish": [
+    "Iraq",
+    "Finland"
+  ],
+  "Odia": [
+    "India",
+    "Finland"
+  ],
+  "Belarusian": [
+    "Belarus",
+    "Finland"
+  ],
+  "Latvian": [
+    "Latvia",
+    "Finland"
+  ],
+  "Galician": [
+    "Spain",
+    "Portugal"
+  ],
+  "Macedonian": [
+    "North Macedonia",
+    "Finland",
+    "Australia",
+    "Slovenia",
+    "Greece"
+  ],
+  "Zulu": [
+    "Mozambique",
+    "Lesotho",
+    "South Africa",
+    "Finland"
+  ],
+  "Tigrinya": [
+    "Eritrea",
+    "Ethiopia",
+    "Finland"
+  ],
+  "Norwegian": [
+    "Norway",
+    "Finland"
+  ],
+  "Luxembourgish": [
+    "Luxembourg",
+    "Germany",
+    "Belgium"
+  ],
+  "Igbo": [
+    "Nigeria",
+    "Finland"
+  ],
+  "Serbian": [
+    "North Macedonia",
+    "Croatia",
+    "Montenegro",
+    "Australia",
+    "Bosnia and Herzegovina",
+    "Slovenia",
+    "Serbia",
+    "Finland"
+  ],
+  "Javanese": [
+    "Indonesia",
+    "Malaysia"
+  ],
+  "Guarani": [
+    "Paraguay",
+    "Bolivia"
+  ],
+  "Slovak": [
+    "Serbia",
+    "Hungary",
+    "Slovakia",
+    "Finland"
+  ],
+  "Modern Greek": [
+    "Albania",
+    "Cyprus",
+    "Greece"
+  ],
+  "South Levantine Arabic": [
+    "State of Palestine",
+    "Israel",
+    "Jordan"
+  ],
+  "North Levantine Arabic": [
+    "Syria",
+    "Turkey"
+  ],
+  "Hungarian": [
+    "Austria",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Slovenia",
+    "Serbia",
+    "Ukraine",
+    "Finland"
+  ],
+  "Tajik": [
+    "Tajikistan",
+    "Uzbekistan",
+    "Finland"
+  ],
+  "Tat": [
+    "Russia",
+    "Azerbaijan"
+  ],
+  "Persian": [
+    "Australia",
+    "Iran",
+    "Finland"
+  ],
+  "Swedish": [
+    "Sweden",
+    "Finland"
+  ],
+  "Dzongkha": [
+    "India",
+    "Bhutan"
+  ],
+  "Shelta": [
+    "United Kingdom",
+    "Ireland"
+  ],
+  "Aromanian": [
+    "Albania",
+    "North Macedonia",
+    "Greece"
+  ],
+  "Alemannic": [
+    "Austria",
+    "Germany",
+    "Switzerland",
+    "Liechtenstein"
+  ],
+  "Awadhi": [
+    "Nepal",
+    "India"
+  ],
+  "Yiddish": [
+    "Israel",
+    "Belgium",
+    "Sweden"
+  ],
+  "Lao": [
+    "Cambodia",
+    "Laos",
+    "Finland"
+  ],
+  "Yucatec Maya": [
+    "Mexico",
+    "Belize"
+  ],
+  "Karelian Proper": [
+    "Russia",
+    "Finland"
+  ],
+  "Karelian": [
+    "Russia",
+    "Finland"
+  ],
+  "Akan": [
+    "Ghana",
+    "Finland"
+  ],
+  "Bono": [
+    "Ghana",
+    "Ivory Coast"
+  ],
+  "Swazi": [
+    "Eswatini",
+    "Mozambique",
+    "South Africa"
+  ],
+  "Pontic Greek": [
+    "Turkey",
+    "Greece"
+  ],
+  "Tswana": [
+    "Namibia",
+    "Botswana",
+    "South Africa",
+    "Zimbabwe"
+  ],
+  "Sundanese": [
+    "Indonesia",
+    "Malaysia",
+    "Finland"
+  ],
+  "Hassaniya Arabic": [
+    "Mauritania",
+    "Mali",
+    "Algeria",
+    "Morocco"
+  ],
+  "Tsonga": [
+    "Mozambique",
+    "South Africa",
+    "Zimbabwe"
+  ],
+  "Meitei": [
+    "India",
+    "Bangladesh"
+  ],
+  "Taa": [
+    "Botswana",
+    "Namibia"
+  ],
+  "Mon": [
+    "Myanmar",
+    "Thailand"
+  ],
+  "Gheg": [
+    "Montenegro",
+    "Albania",
+    "Serbia",
+    "North Macedonia"
+  ],
+  "Garifuna": [
+    "Honduras",
+    "Guatemala",
+    "Belize"
+  ],
+  "Mizo": [
+    "Myanmar",
+    "India",
+    "Bangladesh"
+  ],
+  "S'gaw Karen": [
+    "Myanmar",
+    "Thailand"
+  ],
+  "Pa'O": [
+    "Myanmar",
+    "Thailand"
+  ],
+  "Meänkieli": [
+    "Sweden",
+    "Finland"
+  ],
+  "Northern Sami": [
+    "Sweden",
+    "Norway",
+    "Finland"
+  ],
+  "Sango": [
+    "Central African Republic",
+    "Democratic Republic of the Congo",
+    "Chad"
+  ],
+  "Pulaar": [
+    "The Gambia",
+    "Mali",
+    "Mauritania",
+    "Guinea",
+    "Guinea-Bissau",
+    "Senegal"
+  ],
+  "Kurukh": [
+    "India",
+    "Bangladesh"
+  ],
+  "Western Cham": [
+    "Cambodia",
+    "Vietnam"
+  ],
+  "Mehri": [
+    "Yemen",
+    "Oman"
+  ],
+  "Fon": [
+    "Benin",
+    "Togo"
+  ],
+  "Tamasheq": [
+    "Burkina Faso",
+    "Mali"
+  ],
+  "Western Armenian": [
+    "Armenia",
+    "Georgia",
+    "Turkey"
+  ],
+  "Dioula": [
+    "Burkina Faso",
+    "Mali",
+    "Ivory Coast"
+  ],
+  "Rohingya": [
+    "Myanmar",
+    "Bangladesh"
+  ],
+  "Maasai": [
+    "Tanzania",
+    "Kenya"
+  ],
+  "Turoyo": [
+    "Syria",
+    "Turkey"
+  ],
+  "Northern Ndebele": [
+    "Botswana",
+    "Zimbabwe"
+  ],
+  "Bemba": [
+    "Democratic Republic of the Congo",
+    "Zambia"
+  ],
+  "Beja": [
+    "Eritrea",
+    "Egypt",
+    "Sudan"
+  ],
+  "Miskito": [
+    "Nicaragua",
+    "Honduras"
+  ],
+  "Mooré": [
+    "Burkina Faso",
+    "Togo",
+    "Mali"
+  ],
+  "Najdi Arabic": [
+    "Iraq",
+    "Syria",
+    "Jordan"
+  ],
+  "Mam": [
+    "Mexico",
+    "Guatemala"
+  ],
+  "Minangkabau": [
+    "Indonesia",
+    "Malaysia"
+  ],
+  "Alur": [
+    "Democratic Republic of the Congo",
+    "Uganda"
+  ],
+  "Q’eqchi’": [
+    "Guatemala",
+    "Belize"
+  ],
+  "Luba-Kasai": [
+    "Angola",
+    "Democratic Republic of the Congo"
+  ],
+  "Saint Lucian Creole": [
+    "Dominica",
+    "Grenada",
+    "Saint Lucia"
+  ],
+  "Hakha–Chin": [
+    "Myanmar",
+    "India"
+  ],
+  "Libyan Arabic": [
+    "Niger",
+    "Egypt",
+    "Libya"
+  ],
+  "Nuer": [
+    "Ethiopia",
+    "South Sudan"
+  ],
+  "Iban": [
+    "Indonesia",
+    "Malaysia",
+    "Brunei"
+  ],
+  "Lozi": [
+    "Botswana",
+    "Zambia",
+    "Namibia",
+    "Zimbabwe"
+  ],
+  "Rakhine": [
+    "Myanmar",
+    "Bangladesh"
+  ],
+  "Tajiki Arabic": [
+    "Afghanistan",
+    "Tajikistan"
+  ],
+  "Phu Thai": [
+    "Laos",
+    "Thailand",
+    "Vietnam"
+  ],
+  "Nheengatu": [
+    "Colombia",
+    "Venezuela",
+    "Brazil"
+  ],
+  "Warao": [
+    "Venezuela",
+    "Guyana"
+  ],
+  "Fur": [
+    "Chad",
+    "Sudan"
+  ],
+  "North Mesopotamian Arabic": [
+    "Iraq",
+    "Syria",
+    "Turkey"
+  ],
+  "Guinea-Bissau Creole": [
+    "Guinea-Bissau",
+    "Senegal"
+  ],
+  "Khalkha Mongolian": [
+    "Russia",
+    "Mongolia"
+  ],
+  "Guaymí": [
+    "Costa Rica",
+    "Panama"
+  ],
+  "Dholuo": [
+    "Tanzania",
+    "Kenya"
+  ],
+  "Susu": [
+    "Sierra Leone",
+    "Guinea"
+  ],
+  "Jamsai Dogon": [
+    "Burkina Faso",
+    "Mali"
+  ],
+  "Dangaura Tharu": [
+    "Nepal",
+    "India"
+  ],
+  "Kathariya Tharu": [
+    "Nepal",
+    "India"
+  ],
+  "Chitwania Tharu": [
+    "Nepal",
+    "India"
+  ],
+  "Rana Tharu": [
+    "Nepal",
+    "India"
+  ],
+  "Zaghawa": [
+    "Chad",
+    "Sudan"
+  ],
+  "Kedah-Perak-Perlis-Penang Malay": [
+    "Thailand",
+    "Malaysia"
+  ],
+  "Bishnupriya Manipuri": [
+    "India",
+    "Bangladesh"
+  ],
+  "Kalanga": [
+    "Botswana",
+    "Zimbabwe"
+  ],
+  "Siwa": [
+    "Egypt",
+    "Libya"
+  ],
+  "Saho": [
+    "Eritrea",
+    "Ethiopia"
+  ],
+  "Bissa": [
+    "Burkina Faso",
+    "Togo",
+    "Ghana"
+  ],
+  "Bantawa": [
+    "Nepal",
+    "India"
+  ],
+  "Congo Swahili": [
+    "Democratic Republic of the Congo",
+    "Zambia"
+  ],
+  "Masalit": [
+    "Chad",
+    "Sudan"
+  ],
+  "Gen": [
+    "Benin",
+    "Togo"
+  ],
+  "Bari": [
+    "Uganda",
+    "South Sudan"
+  ],
+  "saamia": [
+    "Uganda",
+    "Kenya"
+  ],
+  "Jarai": [
+    "Cambodia",
+    "Vietnam"
+  ],
+  "Dazaga-kara": [
+    "Niger",
+    "Chad"
+  ],
+  "Konyak": [
+    "Myanmar",
+    "India"
+  ],
+  "Chuj": [
+    "Mexico",
+    "Guatemala"
+  ],
+  "Eastern Kayah": [
+    "Myanmar",
+    "Thailand"
+  ],
+  "Thadou": [
+    "Myanmar",
+    "India"
+  ],
+  "Chokwe": [
+    "Angola",
+    "Democratic Republic of the Congo"
+  ],
+  "Ticuna": [
+    "Colombia",
+    "Peru",
+    "Brazil"
+  ],
+  "Pökoot": [
+    "Uganda",
+    "Kenya"
+  ],
+  "Pnar": [
+    "India",
+    "Bangladesh"
+  ],
+  "Barwe": [
+    "Mozambique",
+    "Zimbabwe"
+  ],
+  "Lugbarati": [
+    "Democratic Republic of the Congo",
+    "Uganda"
+  ],
+  "Teda": [
+    "Niger",
+    "Chad",
+    "Libya"
+  ],
+  "Kensiu": [
+    "Thailand",
+    "Malaysia"
+  ],
+  "Shihhi Arabic": [
+    "United Arab Emirates",
+    "Oman"
+  ],
+  "Toba Qom": [
+    "Paraguay",
+    "Argentina"
+  ],
+  "Yeyi": [
+    "Botswana",
+    "Namibia"
+  ],
+  "Kabiye": [
+    "Benin",
+    "Togo"
+  ],
+  "Yao": [
+    "Mozambique",
+    "Malawi"
+  ],
+  "Bariba": [
+    "Benin",
+    "Nigeria"
+  ],
+  "Dan": [
+    "Ivory Coast",
+    "Liberia",
+    "Guinea"
+  ],
+  "Gusii": [
+    "Tanzania",
+    "Kenya"
+  ],
+  "Ndau": [
+    "Mozambique",
+    "Zimbabwe"
+  ],
+  "Kuy": [
+    "Cambodia",
+    "Laos",
+    "Thailand"
+  ],
+  "Mru": [
+    "Myanmar",
+    "Bangladesh"
+  ],
+  "Swahili": [
+    "Tanzania",
+    "Uganda",
+    "Somalia",
+    "Burundi",
+    "Kenya",
+    "Mozambique"
+  ],
+  "Bukar Sadong": [
+    "Indonesia",
+    "Malaysia"
+  ],
+  "Biatah": [
+    "Indonesia",
+    "Malaysia"
+  ],
+  "Sukte": [
+    "Myanmar",
+    "India"
+  ],
+  "Zo": [
+    "Myanmar",
+    "India"
+  ],
+  "Teso": [
+    "Uganda",
+    "Kenya"
+  ],
+  "Akateko": [
+    "Mexico",
+    "Guatemala"
+  ],
+  "Tuyuca": [
+    "Colombia",
+    "Brazil"
+  ],
+  "Brunei Bisaya": [
+    "Malaysia",
+    "Brunei"
+  ],
+  "Akawaio": [
+    "Venezuela",
+    "Brazil",
+    "Guyana"
+  ],
+  "Tangsa": [
+    "Myanmar",
+    "India"
+  ],
+  "Bangi": [
+    "Republic of the Congo",
+    "Democratic Republic of the Congo"
+  ],
+  "Kwangali": [
+    "Angola",
+    "Namibia"
+  ],
+  "Kelantan-Pattani Malay": [
+    "Thailand",
+    "Malaysia"
+  ],
+  "Mara": [
+    "Myanmar",
+    "India"
+  ],
+  "Macushi": [
+    "Venezuela",
+    "Brazil",
+    "Guyana"
+  ],
+  "Khwe": [
+    "Angola",
+    "Botswana",
+    "Namibia"
+  ],
+  "Ch’orti’": [
+    "Honduras",
+    "Guatemala"
+  ],
+  "Moken": [
+    "Myanmar",
+    "Thailand"
+  ],
+  "Makonde": [
+    "Tanzania",
+    "Mozambique"
+  ],
+  "Lendu": [
+    "Democratic Republic of the Congo",
+    "Uganda"
+  ],
+  "Nzema": [
+    "Ghana",
+    "Ivory Coast"
+  ],
+  "Pemon": [
+    "Venezuela",
+    "Brazil",
+    "Guyana"
+  ],
+  "Kerinci": [
+    "Indonesia",
+    "Malaysia"
+  ],
+  "Koch": [
+    "India",
+    "Bangladesh"
+  ],
+  "Tswa": [
+    "Mozambique",
+    "Zimbabwe"
+  ],
+  "Catio": [
+    "Panama",
+    "Colombia"
+  ],
+  "Northern Embera": [
+    "Panama",
+    "Colombia"
+  ],
+  "Tem": [
+    "Benin",
+    "Togo"
+  ],
+  "Dendi": [
+    "Benin",
+    "Nigeria"
+  ],
+  "Ronga": [
+    "Mozambique",
+    "South Africa"
+  ],
+  "Anuak": [
+    "Ethiopia",
+    "South Sudan"
+  ],
+  "Northwest Gbaya": [
+    "Central African Republic",
+    "Cameroon"
+  ],
+  "Ngbaka Gbaya": [
+    "Republic of the Congo",
+    "Democratic Republic of the Congo"
+  ],
+  "Berta": [
+    "Ethiopia",
+    "Sudan"
+  ],
+  "Ngambay": [
+    "Chad",
+    "Cameroon"
+  ],
+  "Mbukushu": [
+    "Angola",
+    "Botswana",
+    "Zambia",
+    "Namibia"
+  ],
+  "Southern Kissi": [
+    "Sierra Leone",
+    "Liberia"
+  ],
+  "Northern Kissi": [
+    "Sierra Leone",
+    "Guinea"
+  ],
+  "Chiquitano": [
+    "Bolivia",
+    "Brazil"
+  ],
+  "Molbog": [
+    "Malaysia",
+    "Philippines"
+  ],
+  "Western Bru": [
+    "Laos",
+    "Thailand"
+  ],
+  "Eastern Bru": [
+    "Laos",
+    "Vietnam"
+  ],
+  "Central Mnong": [
+    "Cambodia",
+    "Vietnam"
+  ],
+  "Lunda": [
+    "Angola",
+    "Democratic Republic of the Congo",
+    "Zambia"
+  ],
+  "Gurene": [
+    "Burkina Faso",
+    "Ghana"
+  ],
+  "Arem": [
+    "Laos",
+    "Vietnam"
+  ],
+  "Kusaal": [
+    "Burkina Faso",
+    "Togo",
+    "Ghana"
+  ],
+  "Bayot": [
+    "Guinea-Bissau",
+    "Senegal"
+  ],
+  "Tiriyó": [
+    "Suriname",
+    "Brazil"
+  ],
+  "Adamaua-Fulfulde": [
+    "Chad",
+    "Nigeria",
+    "Cameroon"
+  ],
+  "Border Kuna": [
+    "Panama",
+    "Colombia"
+  ],
+  "Jakaltek": [
+    "Mexico",
+    "Guatemala"
+  ],
+  "Jola-Fonyi": [
+    "The Gambia",
+    "Gabon",
+    "Senegal"
+  ],
+  "Lun Bawang": [
+    "Indonesia",
+    "Malaysia",
+    "Brunei"
+  ],
+  "Kelabit": [
+    "Indonesia",
+    "Malaysia"
+  ],
+  "Chut": [
+    "Laos",
+    "Vietnam"
+  ],
+  "Kaonde": [
+    "Democratic Republic of the Congo",
+    "Zambia"
+  ],
+  "Mbunda": [
+    "Angola",
+    "Zambia"
+  ],
+  "Naro": [
+    "Botswana",
+    "Namibia"
+  ],
+  "Tucano": [
+    "Colombia",
+    "Brazil"
+  ],
+  "Mandjak": [
+    "The Gambia",
+    "Guinea-Bissau",
+    "Senegal"
+  ],
+  "Yanomamö": [
+    "Venezuela",
+    "Brazil"
+  ],
+  "Waiwai": [
+    "Brazil",
+    "Guyana"
+  ],
+  "Mopan Maya": [
+    "Guatemala",
+    "Belize"
+  ],
+  "Sak": [
+    "Myanmar",
+    "Bangladesh"
+  ],
+  "Awa Pit": [
+    "Colombia",
+    "Ecuador"
+  ],
+  "Konjo": [
+    "Democratic Republic of the Congo",
+    "Uganda"
+  ],
+  "A'Tong": [
+    "India",
+    "Bangladesh"
+  ],
+  "Matsés": [
+    "Peru",
+    "Brazil"
+  ],
+  "Saek": [
+    "Laos",
+    "Thailand"
+  ],
+  "Vili": [
+    "Republic of the Congo",
+    "Gabon"
+  ],
+  "South Bolivian Quechua": [
+    "Bolivia",
+    "Argentina"
+  ],
+  "Lyngngam": [
+    "India",
+    "Bangladesh"
+  ],
+  "Nambya": [
+    "Botswana",
+    "Zimbabwe"
+  ],
+  "Gumuz": [
+    "Ethiopia",
+    "Sudan"
+  ],
+  "Rawang": [
+    "Myanmar",
+    "India"
+  ],
+  "Aka": [
+    "Republic of the Congo",
+    "Central African Republic"
+  ],
+  "East Limba": [
+    "Sierra Leone",
+    "Guinea"
+  ],
+  "Ayoreo": [
+    "Paraguay",
+    "Bolivia"
+  ],
+  "Psikyɛ": [
+    "Nigeria",
+    "Cameroon"
+  ],
+  "Bora": [
+    "Peru",
+    "Colombia"
+  ],
+  "Anyin": [
+    "Ghana",
+    "Ivory Coast"
+  ],
+  "Mlabri": [
+    "Laos",
+    "Thailand"
+  ],
+  "Bunak": [
+    "Indonesia",
+    "Timor-Leste"
+  ],
+  "Ten'edn": [
+    "Thailand",
+    "Malaysia"
+  ],
+  "Gourmanchéma": [
+    "Burkina Faso",
+    "Benin",
+    "Togo",
+    "Niger"
+  ],
+  "Anii": [
+    "Benin",
+    "Togo"
+  ],
+  "Wayana": [
+    "Suriname",
+    "Brazil"
+  ],
+  "Piapoco": [
+    "Venezuela",
+    "Colombia"
+  ],
+  "Wapishana": [
+    "Brazil",
+    "Guyana"
+  ],
+  "Ese Ejja": [
+    "Bolivia",
+    "Peru"
+  ],
+  "Daasanach": [
+    "Kenya",
+    "Ethiopia"
+  ],
+  "Bata": [
+    "Nigeria",
+    "Cameroon"
+  ],
+  "Yakkha": [
+    "Nepal",
+    "India"
+  ],
+  "Bembe": [
+    "Tanzania",
+    "Democratic Republic of the Congo"
+  ],
+  "Massa": [
+    "Chad",
+    "Cameroon"
+  ],
+  "Cubeo": [
+    "Colombia",
+    "Brazil"
+  ],
+  "Phuan": [
+    "Laos",
+    "Thailand"
+  ],
+  "Mafa": [
+    "Nigeria",
+    "Cameroon"
+  ],
+  "Bawm": [
+    "Myanmar",
+    "India",
+    "Bangladesh"
+  ],
+  "Ifè": [
+    "Benin",
+    "Togo"
+  ],
+  "Mankanya": [
+    "Guinea-Bissau",
+    "Senegal"
+  ],
+  "Lamba": [
+    "Democratic Republic of the Congo",
+    "Zambia"
+  ],
+  "Luvale": [
+    "Angola",
+    "Zambia"
+  ],
+  "Nsenga": [
+    "Mozambique",
+    "Zambia",
+    "Zimbabwe"
+  ],
+  "Maleng": [
+    "Laos",
+    "Vietnam"
+  ],
+  "Wadiyara": [
+    "India",
+    "Pakistan"
+  ],
+  "Nalu": [
+    "Guinea-Bissau",
+    "Guinea"
+  ],
+  "Nyakyusa": [
+    "Tanzania",
+    "Malawi"
+  ],
+  "Khumi": [
+    "Myanmar",
+    "India",
+    "Bangladesh"
+  ],
+  "Kanayatn": [
+    "Indonesia",
+    "Malaysia"
+  ],
+  "Murui Huitoto": [
+    "Peru",
+    "Colombia"
+  ],
+  "Yaminawa": [
+    "Bolivia",
+    "Peru",
+    "Brazil"
+  ],
+  "Puinave": [
+    "Venezuela",
+    "Colombia"
+  ],
+  "Mwanga": [
+    "Tanzania",
+    "Zambia"
+  ],
+  "Barí": [
+    "Venezuela",
+    "Colombia"
+  ],
+  "Brao": [
+    "Cambodia",
+    "Laos",
+    "Vietnam"
+  ],
+  "Wandala": [
+    "Nigeria",
+    "Cameroon"
+  ],
+  "Tama": [
+    "Chad",
+    "Sudan"
+  ],
+  "Guahibo": [
+    "Venezuela",
+    "Colombia"
+  ],
+  "Eastern Pwo": [
+    "Myanmar",
+    "Thailand"
+  ],
+  "Piaroa": [
+    "Venezuela",
+    "Colombia"
+  ],
+  "Cashinahua": [
+    "Peru",
+    "Brazil"
+  ],
+  "Adele": [
+    "Togo",
+    "Ghana"
+  ],
+  "Bukusu": [
+    "Uganda",
+    "Kenya"
+  ],
+  "Ocaina": [
+    "Peru",
+    "Colombia"
+  ],
+  "Yalunka": [
+    "Guinea",
+    "Mali",
+    "Sierra Leone",
+    "Senegal"
+  ],
+  "Yulu": [
+    "Central African Republic",
+    "Sudan"
+  ],
+  "Boko": [
+    "Benin",
+    "Nigeria"
+  ],
+  "Mano": [
+    "Liberia",
+    "Guinea"
+  ],
+  "Kasem": [
+    "Burkina Faso",
+    "Ghana"
+  ],
+  "Mbyá Guaraní": [
+    "Paraguay",
+    "Argentina",
+    "Brazil"
+  ],
+  "Ava Guarani": [
+    "Paraguay",
+    "Brazil"
+  ],
+  "Matu Chin": [
+    "Myanmar",
+    "India"
+  ],
+  "Tai Daeng": [
+    "Laos",
+    "Vietnam"
+  ],
+  "Lama": [
+    "Benin",
+    "Togo"
+  ],
+  "Marma": [
+    "India",
+    "Bangladesh"
+  ],
+  "Bassari": [
+    "Guinea",
+    "Senegal"
+  ],
+  "Wanano": [
+    "Colombia",
+    "Brazil"
+  ],
+  "Makwe": [
+    "Tanzania",
+    "Mozambique"
+  ],
+  "Kakwa": [
+    "Democratic Republic of the Congo",
+    "Uganda",
+    "South Sudan"
+  ],
+  "Khiamniungan": [
+    "Myanmar",
+    "India"
+  ],
+  "Manyika": [
+    "Mozambique",
+    "Zimbabwe"
+  ],
+  "Achuar": [
+    "Peru",
+    "Ecuador"
+  ],
+  "Konkomba": [
+    "Togo",
+    "Ghana"
+  ],
+  "Mal": [
+    "Laos",
+    "Thailand"
+  ],
+  "Punu": [
+    "Republic of the Congo",
+    "Gabon"
+  ],
+  "Ninam": [
+    "Venezuela",
+    "Brazil"
+  ],
+  "Siona": [
+    "Colombia",
+    "Ecuador"
+  ],
+  "Kuhane": [
+    "Botswana",
+    "Zambia",
+    "Namibia"
+  ],
+  "Kulung": [
+    "Nepal",
+    "India"
+  ],
+  "Zyphe": [
+    "Myanmar",
+    "India"
+  ],
+  "Hup": [
+    "Colombia",
+    "Brazil"
+  ],
+  "Culina": [
+    "Peru",
+    "Brazil"
+  ],
+  "Arutani": [
+    "Venezuela",
+    "Brazil"
+  ],
+  "Yukpa": [
+    "Venezuela",
+    "Colombia"
+  ],
+  "Pacoh": [
+    "Laos",
+    "Vietnam"
+  ],
+  "Ntcham": [
+    "Togo",
+    "Ghana"
+  ],
+  "Bulo Stieng": [
+    "Cambodia",
+    "Vietnam"
+  ],
+  "Uduk": [
+    "South Sudan",
+    "Sudan"
+  ],
+  "Jukun Takum": [
+    "Nigeria",
+    "Cameroon"
+  ],
+  "Byangsi": [
+    "Nepal",
+    "India"
+  ],
+  "Sikiana": [
+    "Suriname",
+    "Brazil"
+  ],
+  "Kuria": [
+    "Tanzania",
+    "Kenya"
+  ],
+  "Kisamo-Matya": [
+    "Burkina Faso",
+    "Mali"
+  ],
+  "Marka": [
+    "Burkina Faso",
+    "Mali"
+  ],
+  "Tammari": [
+    "Benin",
+    "Togo"
+  ],
+  "Ekoi": [
+    "Nigeria",
+    "Cameroon"
+  ],
+  "Yoy": [
+    "Laos",
+    "Thailand"
+  ],
+  "Kako": [
+    "Central African Republic",
+    "Cameroon"
+  ],
+  "Kemak": [
+    "Indonesia",
+    "Timor-Leste"
+  ],
+  "Lala-Bisa": [
+    "Democratic Republic of the Congo",
+    "Zambia"
+  ],
+  "Galoli": [
+    "Indonesia",
+    "Timor-Leste"
+  ],
+  "Tektitek": [
+    "Mexico",
+    "Guatemala"
+  ],
+  "Cuiba": [
+    "Venezuela",
+    "Colombia"
+  ],
+  "Secoya": [
+    "Peru",
+    "Ecuador"
+  ],
+  "Bondoukou Kulango": [
+    "Ghana",
+    "Ivory Coast"
+  ],
+  "Koromfe": [
+    "Burkina Faso",
+    "Mali"
+  ],
+  "Yaka": [
+    "Angola",
+    "Democratic Republic of the Congo"
+  ],
+  "Tai Pao": [
+    "Laos",
+    "Vietnam"
+  ],
+  "Waimahã": [
+    "Colombia",
+    "Brazil"
+  ],
+  "Lambya": [
+    "Tanzania",
+    "Zambia",
+    "Malawi"
+  ],
+  "Mashi": [
+    "Angola",
+    "Zambia"
+  ],
+  "Kuteb": [
+    "Nigeria",
+    "Cameroon"
+  ],
+  "Jeh": [
+    "Laos",
+    "Vietnam"
+  ],
+  "Benga": [
+    "Equatorial Guinea",
+    "Gabon"
+  ],
+  "Zemba": [
+    "Angola",
+    "Namibia"
+  ],
+  "Runga": [
+    "Central African Republic",
+    "Chad"
+  ],
+  "Wamey": [
+    "Guinea",
+    "Senegal"
+  ],
+  "Tabwa": [
+    "Democratic Republic of the Congo",
+    "Zambia"
+  ],
+  "Mambwe-Lungu": [
+    "Tanzania",
+    "Zambia"
+  ],
+  "Lukpa": [
+    "Benin",
+    "Togo"
+  ],
+  "Desano": [
+    "Colombia",
+    "Brazil"
+  ],
+  "Tupuri": [
+    "Chad",
+    "Cameroon"
+  ],
+  "Afade": [
+    "Nigeria",
+    "Cameroon"
+  ],
+  "Mbaka": [
+    "Central African Republic",
+    "Democratic Republic of the Congo"
+  ],
+  "Máku": [
+    "Venezuela",
+    "Brazil"
+  ],
+  "Avokaya": [
+    "Democratic Republic of the Congo",
+    "South Sudan"
+  ],
+  "Yedina": [
+    "Chad",
+    "Nigeria",
+    "Cameroon"
+  ],
+  "Central Kanuri": [
+    "Niger",
+    "Chad",
+    "Nigeria",
+    "Cameroon"
+  ],
+  "Kunda": [
+    "Mozambique",
+    "Zambia",
+    "Zimbabwe"
+  ],
+  "Gude": [
+    "Nigeria",
+    "Cameroon"
+  ],
+  "Chamba Leko": [
+    "Nigeria",
+    "Cameroon"
+  ],
+  "Humburi Senni": [
+    "Burkina Faso",
+    "Mali"
+  ],
+  "Opuo": [
+    "Ethiopia",
+    "South Sudan"
+  ],
+  "Lobi": [
+    "Burkina Faso",
+    "Ivory Coast"
+  ],
+  "Warekena": [
+    "Venezuela",
+    "Brazil"
+  ],
+  "Njebi": [
+    "Republic of the Congo",
+    "Gabon"
+  ],
+  "Phai": [
+    "Laos",
+    "Thailand"
+  ],
+  "Pangkhu": [
+    "India",
+    "Bangladesh"
+  ],
+  "Bomu": [
+    "Burkina Faso",
+    "Mali"
+  ],
+  "Tar Gula": [
+    "Central African Republic",
+    "Sudan"
+  ],
+  "Musgu": [
+    "Chad",
+    "Cameroon"
+  ],
+  "East Penan": [
+    "Malaysia",
+    "Brunei"
+  ],
+  "Amahuaca": [
+    "Peru",
+    "Brazil"
+  ],
+  "Ngangam": [
+    "Benin",
+    "Togo"
+  ],
+  "Wichí Lhamtés Nocten": [
+    "Bolivia",
+    "Argentina"
+  ],
+  "Waci": [
+    "Benin",
+    "Togo"
+  ],
+  "Halang": [
+    "Laos",
+    "Vietnam"
+  ],
+  "Aguna": [
+    "Benin",
+    "Togo"
+  ],
+  "Akum": [
+    "Nigeria",
+    "Cameroon"
+  ],
+  "Baleesi": [
+    "Ethiopia",
+    "South Sudan"
+  ],
+  "Koma": [
+    "Nigeria",
+    "Cameroon"
+  ],
+  "Kyenga": [
+    "Benin",
+    "Nigeria"
+  ],
+  "Mpade": [
+    "Chad",
+    "Cameroon"
+  ],
+  "Nzakara": [
+    "Central African Republic",
+    "Democratic Republic of the Congo"
+  ],
+  "Carapana": [
+    "Colombia",
+    "Brazil"
+  ],
+  "Aushi": [
+    "Democratic Republic of the Congo",
+    "Zambia"
+  ],
+  "Mangbai": [
+    "Chad",
+    "Cameroon"
+  ],
+  "Kresh": [
+    "South Sudan",
+    "Sudan"
+  ],
+  "Phla": [
+    "Benin",
+    "Togo"
+  ],
+  "Western Krahn": [
+    "Ivory Coast",
+    "Liberia"
+  ],
+  "Joseph Mfonyam": [
+    "Paraguay",
+    "Argentina"
+  ],
+  "Yasa": [
+    "Equatorial Guinea",
+    "Cameroon"
+  ],
+  "Daba": [
+    "Nigeria",
+    "Cameroon"
+  ],
+  "Kuranko": [
+    "Sierra Leone",
+    "Guinea"
+  ],
+  "Musey": [
+    "Chad",
+    "Cameroon"
+  ],
+  "Gidar": [
+    "Chad",
+    "Cameroon"
+  ],
+  "Vere": [
+    "Nigeria",
+    "Cameroon"
+  ],
+  "Hdi": [
+    "Nigeria",
+    "Cameroon"
+  ],
+  "Peve": [
+    "Chad",
+    "Cameroon"
+  ],
+  "Makuri": [
+    "Myanmar",
+    "India"
+  ],
+  "Yamba": [
+    "Nigeria",
+    "Cameroon"
+  ],
+  "Boki": [
+    "Nigeria",
+    "Cameroon"
+  ],
+  "Mbere": [
+    "Republic of the Congo",
+    "Gabon"
+  ],
+  "Tagol": [
+    "Indonesia",
+    "Malaysia"
+  ],
+  "Western Niger Fulfulde": [
+    "Burkina Faso",
+    "Benin",
+    "Niger"
+  ],
+  "Kposo": [
+    "Togo",
+    "Ghana"
+  ],
+  "Glavda": [
+    "Nigeria",
+    "Cameroon"
+  ],
+  "Bainouk-Gunyuño": [
+    "Guinea-Bissau",
+    "Guinea"
+  ],
+  "Ndali": [
+    "Tanzania",
+    "Malawi"
+  ],
+  "Mbay": [
+    "Central African Republic",
+    "Chad"
+  ],
+  "Seki": [
+    "Equatorial Guinea",
+    "Gabon"
+  ],
+  "Manga Kanuri": [
+    "Niger",
+    "Nigeria"
+  ],
+  "Ye'kuana": [
+    "Venezuela",
+    "Brazil"
+  ],
+  "Ngom": [
+    "Republic of the Congo",
+    "Gabon"
+  ],
+  "Talinga": [
+    "Democratic Republic of the Congo",
+    "Uganda"
+  ],
+  "Tai Loi": [
+    "Myanmar",
+    "Laos"
+  ],
+  "Keliko": [
+    "Democratic Republic of the Congo",
+    "South Sudan"
+  ],
+  "Karang": [
+    "Chad",
+    "Cameroon"
+  ],
+  "Kabba": [
+    "Central African Republic",
+    "Chad"
+  ],
+  "Berba": [
+    "Burkina Faso",
+    "Benin",
+    "Togo"
+  ],
+  "Sila": [
+    "Chad",
+    "Sudan"
+  ],
+  "Ndo": [
+    "Democratic Republic of the Congo",
+    "Uganda"
+  ],
+  "Lenje": [
+    "Zambia"
+  ],
+  "Nahari": [
+    "India"
+  ],
+  "Eastern Cham": [
+    "Vietnam"
+  ],
+  "Dupaningan Agta": [
+    "Philippines"
+  ],
+  "Yatee Zapotec": [
+    "Mexico"
+  ],
+  "Masadiit Itneg": [
+    "Philippines"
+  ],
+  "Solos": [
+    "Papua New Guinea"
+  ],
+  "Hanga": [
+    "Ghana"
+  ],
+  "Purum": [
+    "India"
+  ],
+  "Shiriana": [
+    "Brazil"
+  ],
+  "Nivaclé": [
+    "Paraguay"
+  ],
+  "Kwama": [
+    "Ethiopia"
+  ],
+  "Panara": [
+    "Brazil"
+  ],
+  "Aghem": [
+    "Cameroon"
+  ],
+  "Yawuru": [
+    "Australia"
+  ],
+  "Koireng": [
+    "India"
+  ],
+  "Uspantek": [
+    "Guatemala"
+  ],
+  "Sabaot": [
+    "Kenya"
+  ],
+  "Ngiti": [
+    "Democratic Republic of the Congo"
+  ],
+  "Nyamwezi": [
+    "Tanzania"
+  ],
+  "Guinea Kpelle": [
+    "Guinea"
+  ],
+  "Suri": [
+    "Ethiopia"
+  ],
+  "Dehwari": [
+    "Pakistan"
+  ],
+  "Sowa": [
+    "Vanuatu"
+  ],
+  "Arta": [
+    "Philippines"
+  ],
+  "Southwestern Dinka": [
+    "South Sudan"
+  ],
+  "Finnish Sign Language": [
+    "Finland"
+  ],
+  "Korwa": [
+    "India"
+  ],
+  "Tikurmi": [
+    "Nigeria"
+  ],
+  "To’abaita": [
+    "Solomon Islands"
+  ],
+  "Sorani": [
+    "Iraq"
+  ],
+  "Kalto": [
+    "India"
+  ],
+  "Bulu": [
+    "Cameroon"
+  ],
+  "Tunisian Arabic": [
+    "Tunisia"
+  ],
+  "Dhangu": [
+    "Australia"
+  ],
+  "Petjo": [
+    "Indonesia"
+  ],
+  "Ikpeng": [
+    "Brazil"
+  ],
+  "Kayeli": [
+    "Indonesia"
+  ],
+  "San Francisco Matlatzinca": [
+    "Mexico"
+  ],
+  "Lamja-Dengsa-Tola": [
+    "Nigeria"
+  ],
+  "Apinayé": [
+    "Brazil"
+  ],
+  "Kukuya": [
+    "Republic of the Congo"
+  ],
+  "Baybay": [
+    "Philippines"
+  ],
+  "Terêna": [
+    "Brazil"
+  ],
+  "Animere": [
+    "Ghana"
+  ],
+  "Tindi": [
+    "Russia"
+  ],
+  "Chamacoco": [
+    "Paraguay"
+  ],
+  "Santa Ana de Tusi Pasco Quechua": [
+    "Peru"
+  ],
+  "Enga": [
+    "Papua New Guinea"
+  ],
+  "Waray": [
+    "Philippines"
+  ],
+  "Darumbal": [
+    "Australia"
+  ],
+  "West Makian": [
+    "Indonesia"
+  ],
+  "Birjia": [
+    "India"
+  ],
+  "Nanti": [
+    "Peru"
+  ],
+  "Yimas": [
+    "Papua New Guinea"
+  ],
+  "Kgalagadi": [
+    "Botswana"
+  ],
+  "Campalagian": [
+    "Indonesia"
+  ],
+  "Canichana": [
+    "Bolivia"
+  ],
+  "Burmbar": [
+    "Vanuatu"
+  ],
+  "Tehit": [
+    "Indonesia"
+  ],
+  "Shawsha Wanka": [
+    "Peru"
+  ],
+  "Bororo": [
+    "Brazil"
+  ],
+  "Minyanka": [
+    "Mali"
+  ],
+  "Kaike": [
+    "Nepal"
+  ],
+  "Tunni": [
+    "Somalia"
+  ],
+  "Anfillo": [
+    "Ethiopia"
+  ],
+  "Shua": [
+    "Botswana"
+  ],
+  "Teutila Cuicatec": [
+    "Mexico"
+  ],
+  "Southwestern Tarahumara": [
+    "Mexico"
+  ],
+  "Kumbainggar": [
+    "Australia"
+  ],
+  "Godié": [
+    "Ivory Coast"
+  ],
+  "Gunwinggu": [
+    "Australia"
+  ],
+  "Gungu": [
+    "Uganda"
+  ],
+  "Hanunó'o": [
+    "Philippines"
+  ],
+  "Aneityum": [
+    "Vanuatu"
+  ],
+  "Kamba": [
+    "Kenya"
+  ],
+  "Southern Thai": [
+    "Thailand"
+  ],
+  "Jru'": [
+    "Laos"
+  ],
+  "Unua": [
+    "Vanuatu"
+  ],
+  "Lubuagan Kalinga": [
+    "Philippines"
+  ],
+  "Wan": [
+    "Ivory Coast"
+  ],
+  "Paresí": [
+    "Brazil"
+  ],
+  "Toksiki": [
+    "Vanuatu"
+  ],
+  "Sabanês": [
+    "Brazil"
+  ],
+  "Wayampi": [
+    "Brazil"
+  ],
+  "Chru": [
+    "Vietnam"
+  ],
+  "Ipalapa Amuzgo": [
+    "Mexico"
+  ],
+  "Tapirapé": [
+    "Brazil"
+  ],
+  "Tboli": [
+    "Philippines"
+  ],
+  "Standard Algerian Berber": [
+    "Algeria"
+  ],
+  "Yabem": [
+    "Papua New Guinea"
+  ],
+  "Ghomara": [
+    "Morocco"
+  ],
+  "Tol": [
+    "Honduras"
+  ],
+  "Huambisa": [
+    "Peru"
+  ],
+  "Mombo Dogon": [
+    "Mali"
+  ],
+  "Luhya": [
+    "Kenya"
+  ],
+  "Valpei": [
+    "Vanuatu"
+  ],
+  "Suba-Simbiti": [
+    "Tanzania"
+  ],
+  "Thangmi": [
+    "Nepal"
+  ],
+  "Oro Win": [
+    "Brazil"
+  ],
+  "Ngaanyatjarra": [
+    "Australia"
+  ],
+  "Lepki": [
+    "Indonesia"
+  ],
+  "Piedmontese": [
+    "Italy"
+  ],
+  "Nar Phu": [
+    "Nepal"
+  ],
+  "Pima Bajo": [
+    "Mexico"
+  ],
+  "Cebaara": [
+    "Ivory Coast"
+  ],
+  "Ibu": [
+    "Indonesia"
+  ],
+  "Pingelapese": [
+    "Federated States of Micronesia"
+  ],
+  "Ekari": [
+    "Indonesia"
+  ],
+  "Tima": [
+    "Sudan"
+  ],
+  "Dogul Dogon": [
+    "Mali"
+  ],
+  "Kuvale": [
+    "Angola"
+  ],
+  "Ga'dang": [
+    "Philippines"
+  ],
+  "Tutong": [
+    "Brunei"
+  ],
+  "Mankon": [
+    "Cameroon"
+  ],
+  "Afitti": [
+    "Sudan"
+  ],
+  "Anuta": [
+    "Solomon Islands"
+  ],
+  "Pekal": [
+    "Indonesia"
+  ],
+  "Mubi": [
+    "Chad"
+  ],
+  "Southern Bontok": [
+    "Philippines"
+  ],
+  "Gbayi": [
+    "Central African Republic"
+  ],
+  "Michoacán Nahuatl": [
+    "Mexico"
+  ],
+  "Dura": [
+    "Nepal"
+  ],
+  "Mintil": [
+    "Malaysia"
+  ],
+  "Angami": [
+    "India"
+  ],
+  "Dhao": [
+    "Indonesia"
+  ],
+  "Enxet": [
+    "Paraguay"
+  ],
+  "Acehnese": [
+    "Indonesia"
+  ],
+  "Subtiaba": [
+    "Nicaragua"
+  ],
+  "Temuan": [
+    "Malaysia"
+  ],
+  "Bonggi": [
+    "Malaysia"
+  ],
+  "Tasmate": [
+    "Vanuatu"
+  ],
+  "Wuvulu-Aua": [
+    "Papua New Guinea"
+  ],
+  "Maasina Fulfulde": [
+    "Mali"
+  ],
+  "Murle": [
+    "South Sudan"
+  ],
+  "Hadza": [
+    "Tanzania"
+  ],
+  "Yaqui": [
+    "Mexico"
+  ],
+  "Tayap": [
+    "Papua New Guinea"
+  ],
+  "Mlomp": [
+    "Senegal"
+  ],
+  "Berom": [
+    "Nigeria"
+  ],
+  "Nasal": [
+    "Indonesia"
+  ],
+  "Sawai": [
+    "Indonesia"
+  ],
+  "Awa": [
+    "Papua New Guinea"
+  ],
+  "Modang": [
+    "Indonesia"
+  ],
+  "Laro": [
+    "Sudan"
+  ],
+  "Kujargé": [
+    "Chad"
+  ],
+  "Jamaican English": [
+    "Jamaica"
+  ],
+  "Baudo": [
+    "Colombia"
+  ],
+  "Bongo": [
+    "South Sudan"
+  ],
+  "Sarasira": [
+    "Papua New Guinea"
+  ],
+  "Iranian Persian": [
+    "Iran"
+  ],
+  "Eastern Bolivian Guaraní": [
+    "Bolivia"
+  ],
+  "Sahu": [
+    "Indonesia"
+  ],
+  "Hote": [
+    "Papua New Guinea"
+  ],
+  "Chimane": [
+    "Bolivia"
+  ],
+  "Dzala": [
+    "Bhutan"
+  ],
+  "Borgu Fulfulde": [
+    "Benin"
+  ],
+  "Chayahuita": [
+    "Peru"
+  ],
+  "Mixtepec Zapotec": [
+    "Mexico"
+  ],
+  "Karanga": [
+    "Chad"
+  ],
+  "Kowiai": [
+    "Indonesia"
+  ],
+  "Kwambi": [
+    "Namibia"
+  ],
+  "Epie": [
+    "Nigeria"
+  ],
+  "Ecuadorian Sign Language": [
+    "Ecuador"
+  ],
+  "Bozom": [
+    "Central African Republic"
+  ],
+  "Galela": [
+    "Indonesia"
+  ],
+  "Buryat": [
+    "Russia"
+  ],
+  "Beng": [
+    "Ivory Coast"
+  ],
+  "Santa Maria Del Mar Huave": [
+    "Mexico"
+  ],
+  "Achawa": [
+    "Colombia"
+  ],
+  "Yenish": [
+    "Germany"
+  ],
+  "Kristang": [
+    "Malaysia"
+  ],
+  "Lunana": [
+    "Bhutan"
+  ],
+  "Tugen": [
+    "Kenya"
+  ],
+  "Blin": [
+    "Eritrea"
+  ],
+  "Sokoro": [
+    "Chad"
+  ],
+  "Yucuna": [
+    "Colombia"
+  ],
+  "Ebrié": [
+    "Ivory Coast"
+  ],
+  "Lucumí": [
+    "Cuba"
+  ],
+  "Ngarigo": [
+    "Australia"
+  ],
+  "Agatu": [
+    "Nigeria"
+  ],
+  "Mah Meri": [
+    "Malaysia"
+  ],
+  "Okpe": [
+    "Nigeria"
+  ],
+  "Ruund": [
+    "Democratic Republic of the Congo"
+  ],
+  "Kanu": [
+    "Democratic Republic of the Congo"
+  ],
+  "Yaygir": [
+    "Australia"
+  ],
+  "Upper Grand Valley Dani": [
+    "Indonesia"
+  ],
+  "Aja": [
+    "South Sudan"
+  ],
+  "Gallurese": [
+    "Italy"
+  ],
+  "Yanahuanca Pasco Quechua": [
+    "Peru"
+  ],
+  "Basap": [
+    "Indonesia"
+  ],
+  "Hiri Motu": [
+    "Papua New Guinea"
+  ],
+  "Lowa": [
+    "Nepal"
+  ],
+  "Goaria": [
+    "Pakistan"
+  ],
+  "Rerep": [
+    "Vanuatu"
+  ],
+  "Gwak": [
+    "Nigeria"
+  ],
+  "Yakan": [
+    "Philippines"
+  ],
+  "Anguthimri": [
+    "Australia"
+  ],
+  "Awetï": [
+    "Brazil"
+  ],
+  "Tariana": [
+    "Brazil"
+  ],
+  "Ben Tey Dogon": [
+    "Mali"
+  ],
+  "Tobati": [
+    "Indonesia"
+  ],
+  "Kwinti": [
+    "Suriname"
+  ],
+  "Manna-Dora": [
+    "India"
+  ],
+  "Dem": [
+    "Indonesia"
+  ],
+  "Bannoni": [
+    "Papua New Guinea"
+  ],
+  "Cabécar": [
+    "Costa Rica"
+  ],
+  "Kambaata": [
+    "Ethiopia"
+  ],
+  "Dahalik": [
+    "Eritrea"
+  ],
+  "Nung": [
+    "Myanmar"
+  ],
+  "Budza": [
+    "Democratic Republic of the Congo"
+  ],
+  "Marriammu": [
+    "Australia"
+  ],
+  "Central Bikol": [
+    "Philippines"
+  ],
+  "Somray": [
+    "Cambodia"
+  ],
+  "Zuruahá": [
+    "Brazil"
+  ],
+  "Arabela": [
+    "Peru"
+  ],
+  "Southern Nicobarese": [
+    "India"
+  ],
+  "Gorontalo": [
+    "Indonesia"
+  ],
+  "Bodo Parja": [
+    "India"
+  ],
+  "Reli": [
+    "India"
+  ],
+  "Maká": [
+    "Paraguay"
+  ],
+  "Makassar Malay": [
+    "Indonesia"
+  ],
+  "Palor": [
+    "Senegal"
+  ],
+  "Central Nahuatl": [
+    "Mexico"
+  ],
+  "Havu": [
+    "Democratic Republic of the Congo"
+  ],
+  "Olo": [
+    "Papua New Guinea"
+  ],
+  "Coatepec Nahuatl": [
+    "Mexico"
+  ],
+  "Bribri": [
+    "Costa Rica"
+  ],
+  "Yala": [
+    "Nigeria"
+  ],
+  "Ingessana": [
+    "Sudan"
+  ],
+  "Larevat": [
+    "Vanuatu"
+  ],
+  "British English": [
+    "Brunei"
+  ],
+  "Mbat": [
+    "Nigeria"
+  ],
+  "Trumai": [
+    "Brazil"
+  ],
+  "Malaccan Creole Malay": [
+    "Malaysia"
+  ],
+  "Mazaltepec Zapotec": [
+    "Mexico"
+  ],
+  "Judeo-Iraqi Arabic": [
+    "Israel"
+  ],
+  "Northern Roglai": [
+    "Vietnam"
+  ],
+  "Yinggarda": [
+    "Australia"
+  ],
+  "Gabri": [
+    "Chad"
+  ],
+  "Canela": [
+    "Brazil"
+  ],
+  "Medny Aleut": [
+    "Russia"
+  ],
+  "Guerrero Amuzgo": [
+    "Mexico"
+  ],
+  "Awabakal": [
+    "Australia"
+  ],
+  "Central Berawan": [
+    "Malaysia"
+  ],
+  "Gallong": [
+    "India"
+  ],
+  "Dhungaloo": [
+    "Australia"
+  ],
+  "Jogi": [
+    "Pakistan"
+  ],
+  "Bikol": [
+    "Philippines"
+  ],
+  "Aghu": [
+    "Indonesia"
+  ],
+  "Yidiny": [
+    "Australia"
+  ],
+  "Ngadha": [
+    "Indonesia"
+  ],
+  "Baga Sitemu": [
+    "Guinea"
+  ],
+  "Cocos Malay": [
+    "Australia"
+  ],
+  "Lakha": [
+    "Bhutan"
+  ],
+  "Tipai": [
+    "Mexico"
+  ],
+  "Humla": [
+    "Nepal"
+  ],
+  "Kunza": [
+    "Chile"
+  ],
+  "Maring": [
+    "Papua New Guinea"
+  ],
+  "Iau": [
+    "Indonesia"
+  ],
+  "Mvuba": [
+    "Democratic Republic of the Congo"
+  ],
+  "Latin": [
+    "Vatican City"
+  ],
+  "Ulukwumi": [
+    "Nigeria"
+  ],
+  "Nonuya": [
+    "Colombia"
+  ],
+  "Ralte": [
+    "India"
+  ],
+  "Nguồn": [
+    "Vietnam"
+  ],
+  "Khinalug": [
+    "Azerbaijan"
+  ],
+  "Humono": [
+    "Nigeria"
+  ],
+  "Gade": [
+    "Nigeria"
+  ],
+  "Pyu": [
+    "Papua New Guinea"
+  ],
+  "Boghom": [
+    "Nigeria"
+  ],
+  "Grass Koiari": [
+    "Papua New Guinea"
+  ],
+  "Gayle": [
+    "South Africa"
+  ],
+  "Ixcatec": [
+    "Mexico"
+  ],
+  "Parkari Koli": [
+    "Pakistan"
+  ],
+  "Vunjo": [
+    "Tanzania"
+  ],
+  "Gongduk": [
+    "Bhutan"
+  ],
+  "Boon": [
+    "Somalia"
+  ],
+  "Western Sisaala": [
+    "Ghana"
+  ],
+  "Duri": [
+    "Indonesia"
+  ],
+  "Toromono": [
+    "Bolivia"
+  ],
+  "Veluws": [
+    "Kingdom of the Netherlands"
+  ],
+  "Ponosakan": [
+    "Indonesia"
+  ],
+  "Majang": [
+    "Ethiopia"
+  ],
+  "Ghanaian Sign Language": [
+    "Ghana"
+  ],
+  "Mbodomo": [
+    "Cameroon"
+  ],
+  "Akhvakh": [
+    "Russia"
+  ],
+  "Alas": [
+    "Indonesia"
+  ],
+  "Yogad": [
+    "Philippines"
+  ],
+  "Daakaka": [
+    "Vanuatu"
+  ],
+  "Tundra Enets": [
+    "Russia"
+  ],
+  "Holiya": [
+    "India"
+  ],
+  "Nimadi": [
+    "India"
+  ],
+  "Aimol": [
+    "India"
+  ],
+  "Angosturas Tunebo": [
+    "Colombia"
+  ],
+  "Mag-indi": [
+    "Philippines"
+  ],
+  "Keiyo": [
+    "Kenya"
+  ],
+  "Jirel": [
+    "Nepal"
+  ],
+  "Lencan": [
+    "Honduras"
+  ],
+  "Sierra Negra Nahuatl": [
+    "Mexico"
+  ],
+  "Nganasan": [
+    "Russia"
+  ],
+  "Northern Tukang Besi": [
+    "Indonesia"
+  ],
+  "Mofu-Gudur": [
+    "Cameroon"
+  ],
+  "Vurës": [
+    "Vanuatu"
+  ],
+  "Maeng Itneg": [
+    "Philippines"
+  ],
+  "Mari": [
+    "Russia"
+  ],
+  "Nii": [
+    "Papua New Guinea"
+  ],
+  "Tanema": [
+    "Solomon Islands"
+  ],
+  "Ghari": [
+    "Solomon Islands"
+  ],
+  "Wali": [
+    "Ghana"
+  ],
+  "Hangaza": [
+    "Tanzania"
+  ],
+  "Northeastern Dinka": [
+    "South Sudan"
+  ],
+  "Yapese": [
+    "Federated States of Micronesia"
+  ],
+  "Kochila Tharu": [
+    "Nepal"
+  ],
+  "En": [
+    "Vietnam"
+  ],
+  "Rayón Zoque": [
+    "Mexico"
+  ],
+  "Gule": [
+    "Sudan"
+  ],
+  "Ngombe": [
+    "Democratic Republic of the Congo"
+  ],
+  "Polonombauk": [
+    "Vanuatu"
+  ],
+  "Tondi Songway Kiini": [
+    "Mali"
+  ],
+  "Paniya": [
+    "India"
+  ],
+  "Gimi": [
+    "Papua New Guinea"
+  ],
+  "Southern Kurdish": [
+    "Iraq"
+  ],
+  "Sonjo": [
+    "Tanzania"
+  ],
+  "Mountain Koiali": [
+    "Papua New Guinea"
+  ],
+  "Lewo": [
+    "Vanuatu"
+  ],
+  "Aguano": [
+    "Peru"
+  ],
+  "Ura": [
+    "Vanuatu"
+  ],
+  "Kodhi": [
+    "Indonesia"
+  ],
+  "Emae": [
+    "Vanuatu"
+  ],
+  "Wahgi": [
+    "Papua New Guinea"
+  ],
+  "Wewaw": [
+    "Myanmar"
+  ],
+  "Kakanda": [
+    "Nigeria"
+  ],
+  "Ngaju": [
+    "Indonesia"
+  ],
+  "Grebo-Gboloo": [
+    "Liberia"
+  ],
+  "Liberian Kreyol": [
+    "Liberia"
+  ],
+  "Helong": [
+    "Indonesia"
+  ],
+  "Eastern Oromo": [
+    "Ethiopia"
+  ],
+  "Southern Altai": [
+    "Russia"
+  ],
+  "Monsang": [
+    "India"
+  ],
+  "Belait": [
+    "Brunei"
+  ],
+  "Gudang": [
+    "Australia"
+  ],
+  "Mamvu": [
+    "Democratic Republic of the Congo"
+  ],
+  "Itza’": [
+    "Guatemala"
+  ],
+  "Omagua": [
+    "Peru"
+  ],
+  "Libon Bikol": [
+    "Philippines"
+  ],
+  "Chami": [
+    "Colombia"
+  ],
+  "Mozabite": [
+    "Algeria"
+  ],
+  "Birgit": [
+    "Chad"
+  ],
+  "Migani": [
+    "Indonesia"
+  ],
+  "Ili'uun": [
+    "Indonesia"
+  ],
+  "Samburu": [
+    "Kenya"
+  ],
+  "Tày Tac": [
+    "Vietnam"
+  ],
+  "Mid Grand Valley Dani": [
+    "Indonesia"
+  ],
+  "Ofayé": [
+    "Brazil"
+  ],
+  "Darkinjung": [
+    "Australia"
+  ],
+  "Berti": [
+    "Sudan"
+  ],
+  "Hamer": [
+    "Ethiopia"
+  ],
+  "Bagirmi Fulfulde": [
+    "Chad"
+  ],
+  "Abau": [
+    "Papua New Guinea"
+  ],
+  "Hill Mari": [
+    "Russia"
+  ],
+  "Azoyú Me'phaa": [
+    "Mexico"
+  ],
+  "Manggarai": [
+    "Indonesia"
+  ],
+  "Suruí do Pará": [
+    "Brazil"
+  ],
+  "Emberá-Tadó": [
+    "Colombia"
+  ],
+  "Moldovan Sign Language": [
+    "Moldova"
+  ],
+  "Mobwa Karen": [
+    "Myanmar"
+  ],
+  "Hoava": [
+    "Solomon Islands"
+  ],
+  "Athpare": [
+    "Nepal"
+  ],
+  "Hozo": [
+    "Ethiopia"
+  ],
+  "Tadyawan": [
+    "Philippines"
+  ],
+  "Esan": [
+    "Nigeria"
+  ],
+  "Melo": [
+    "Ethiopia"
+  ],
+  "Arhuaco": [
+    "Colombia"
+  ],
+  "Rathwi Bareli": [
+    "India"
+  ],
+  "Naasioi": [
+    "Papua New Guinea"
+  ],
+  "Kavalan": [
+    "Taiwan"
+  ],
+  "Kachama-Ganjule": [
+    "Ethiopia"
+  ],
+  "Kerek": [
+    "Russia"
+  ],
+  "Lewotobi": [
+    "Indonesia"
+  ],
+  "Oirata": [
+    "Indonesia"
+  ],
+  "Umbugarla": [
+    "Australia"
+  ],
+  "Tonsawang": [
+    "Indonesia"
+  ],
+  "Pilagá": [
+    "Argentina"
+  ],
+  "Zialo": [
+    "Guinea"
+  ],
+  "Yirrk-Thangalkl": [
+    "Australia"
+  ],
+  "Kabwa": [
+    "Tanzania"
+  ],
+  "Loki": [
+    "Democratic Republic of the Congo"
+  ],
+  "Pare": [
+    "Tanzania"
+  ],
+  "Tepecano": [
+    "Mexico"
+  ],
+  "Ghotuo": [
+    "Nigeria"
+  ],
+  "Foma": [
+    "Democratic Republic of the Congo"
+  ],
+  "Seba": [
+    "Democratic Republic of the Congo"
+  ],
+  "Ngas": [
+    "Nigeria"
+  ],
+  "Manda": [
+    "India"
+  ],
+  "Panare": [
+    "Venezuela"
+  ],
+  "Bekwarra": [
+    "Nigeria"
+  ],
+  "Shenwa": [
+    "Algeria"
+  ],
+  "Piamatsina": [
+    "Vanuatu"
+  ],
+  "Romano-Greek": [
+    "Greece"
+  ],
+  "Pelende": [
+    "Democratic Republic of the Congo"
+  ],
+  "Nokuku": [
+    "Vanuatu"
+  ],
+  "Amonap": [
+    "Brazil"
+  ],
+  "Northern Alta": [
+    "Philippines"
+  ],
+  "Mawé": [
+    "Brazil"
+  ],
+  "Simalungun Batak": [
+    "Indonesia"
+  ],
+  "Marúbo": [
+    "Brazil"
+  ],
+  "Biyanda-Buli": [
+    "Central African Republic"
+  ],
+  "Nivkh": [
+    "Russia"
+  ],
+  "Lingarak": [
+    "Vanuatu"
+  ],
+  "Pende": [
+    "Democratic Republic of the Congo"
+  ],
+  "Mal Paharia": [
+    "India"
+  ],
+  "Biri": [
+    "Australia"
+  ],
+  "Xavante": [
+    "Brazil"
+  ],
+  "Eipo": [
+    "Indonesia"
+  ],
+  "Oluta Popoluca": [
+    "Mexico"
+  ],
+  "Bantayanon": [
+    "Philippines"
+  ],
+  "Arabana": [
+    "Australia"
+  ],
+  "Eastern Parbate Kham": [
+    "Nepal"
+  ],
+  "Odual": [
+    "Nigeria"
+  ],
+  "Biak": [
+    "Indonesia"
+  ],
+  "Páez": [
+    "Colombia"
+  ],
+  "Yamdena": [
+    "Indonesia"
+  ],
+  "Waorani": [
+    "Ecuador"
+  ],
+  "Kucong": [
+    "Vietnam"
+  ],
+  "Faroese": [
+    "Finland"
+  ],
+  "Karata-Tukita": [
+    "Russia"
+  ],
+  "Bankon": [
+    "Cameroon"
+  ],
+  "Itelmen": [
+    "Russia"
+  ],
+  "Big Nambas": [
+    "Vanuatu"
+  ],
+  "Shubi": [
+    "Tanzania"
+  ],
+  "Buwal": [
+    "Cameroon"
+  ],
+  "Paipai": [
+    "Mexico"
+  ],
+  "Buyu": [
+    "Democratic Republic of the Congo"
+  ],
+  "Western Lawa": [
+    "Thailand"
+  ],
+  "Leti": [
+    "Indonesia"
+  ],
+  "Ahanta": [
+    "Ghana"
+  ],
+  "Vayu": [
+    "Nepal"
+  ],
+  "Bokmål": [
+    "Norway"
+  ],
+  "Zazaki": [
+    "Turkey"
+  ],
+  "Ikwerre": [
+    "Nigeria"
+  ],
+  "Saʽidi Arabic": [
+    "Egypt"
+  ],
+  "Jandai": [
+    "Australia"
+  ],
+  "Maba": [
+    "Chad"
+  ],
+  "Korowai": [
+    "Indonesia"
+  ],
+  "Kupang Malay": [
+    "Indonesia"
+  ],
+  "Ambel": [
+    "Indonesia"
+  ],
+  "Malaysian Sign Language": [
+    "Malaysia"
+  ],
+  "Ngiyambaa": [
+    "Australia"
+  ],
+  "Toposa": [
+    "South Sudan"
+  ],
+  "Copainalá Zoque": [
+    "Mexico"
+  ],
+  "Keley-I Kallahan": [
+    "Philippines"
+  ],
+  "Kayaw": [
+    "Myanmar"
+  ],
+  "Sukurum": [
+    "Papua New Guinea"
+  ],
+  "Degema": [
+    "Nigeria"
+  ],
+  "Bambam": [
+    "Indonesia"
+  ],
+  "Karbi": [
+    "India"
+  ],
+  "Stellingwarfs": [
+    "Kingdom of the Netherlands"
+  ],
+  "Urali": [
+    "India"
+  ],
+  "Movima": [
+    "Bolivia"
+  ],
+  "Boiken": [
+    "Papua New Guinea"
+  ],
+  "Seimat": [
+    "Papua New Guinea"
+  ],
+  "Tooro": [
+    "Uganda"
+  ],
+  "Baluan-Pam": [
+    "Papua New Guinea"
+  ],
+  "Lower Grand Valley Dani": [
+    "Indonesia"
+  ],
+  "Algerian Sign Language": [
+    "Algeria"
+  ],
+  "Isthmus Zapotec": [
+    "Mexico"
+  ],
+  "Citak": [
+    "Indonesia"
+  ],
+  "Yamphu": [
+    "Nepal"
+  ],
+  "Maybrat": [
+    "Indonesia"
+  ],
+  "Angguruk Yali": [
+    "Indonesia"
+  ],
+  "Bakairi": [
+    "Brazil"
+  ],
+  "Lamang": [
+    "Nigeria"
+  ],
+  "Cochimí": [
+    "Mexico"
+  ],
+  "Dhauwurd Wurrung": [
+    "Australia"
+  ],
+  "Vincentian Creole": [
+    "Saint Vincent and the Grenadines"
+  ],
+  "Lamalera": [
+    "Indonesia"
+  ],
+  "Car": [
+    "India"
+  ],
+  "Japreria": [
+    "Venezuela"
+  ],
+  "Standard French": [
+    "France"
+  ],
+  "Tutuba": [
+    "Vanuatu"
+  ],
+  "Guató": [
+    "Brazil"
+  ],
+  "Musasa": [
+    "Nepal"
+  ],
+  "Kota Bangun Kutai Malay": [
+    "Indonesia"
+  ],
+  "Uneapa": [
+    "Papua New Guinea"
+  ],
+  "Narungga": [
+    "Australia"
+  ],
+  "Votic": [
+    "Russia"
+  ],
+  "Sukuma": [
+    "Tanzania"
+  ],
+  "Didinga": [
+    "South Sudan"
+  ],
+  "Nyala": [
+    "Sudan"
+  ],
+  "Pear": [
+    "Cambodia"
+  ],
+  "Walloon": [
+    "Belgium"
+  ],
+  "Austrian German": [
+    "Austria"
+  ],
+  "Wiradjuri": [
+    "Australia"
+  ],
+  "Balinese Malay": [
+    "Indonesia"
+  ],
+  "Labu": [
+    "Papua New Guinea"
+  ],
+  "Noon": [
+    "Senegal"
+  ],
+  "Daai": [
+    "Myanmar"
+  ],
+  "Pankararú": [
+    "Brazil"
+  ],
+  "Baali": [
+    "Democratic Republic of the Congo"
+  ],
+  "Burun": [
+    "Sudan"
+  ],
+  "Shuar": [
+    "Ecuador"
+  ],
+  "Berau": [
+    "Indonesia"
+  ],
+  "Sha": [
+    "Nigeria"
+  ],
+  "Dâw": [
+    "Brazil"
+  ],
+  "Nyangia": [
+    "Uganda"
+  ],
+  "Aiton": [
+    "India"
+  ],
+  "Waama": [
+    "Benin"
+  ],
+  "Tabasaran": [
+    "Russia"
+  ],
+  "Lucazi": [
+    "Angola"
+  ],
+  "Karo": [
+    "Ethiopia"
+  ],
+  "Kalenjin": [
+    "Kenya"
+  ],
+  "Tocodede": [
+    "Timor-Leste"
+  ],
+  "Quiegolani Zapotec": [
+    "Mexico"
+  ],
+  "Meax": [
+    "Indonesia"
+  ],
+  "Ch’ol": [
+    "Mexico"
+  ],
+  "Akuntsu": [
+    "Brazil"
+  ],
+  "Unserdeutsch": [
+    "Papua New Guinea"
+  ],
+  "Hukumina": [
+    "Indonesia"
+  ],
+  "Oorlams": [
+    "South Africa"
+  ],
+  "Irantxe": [
+    "Brazil"
+  ],
+  "Dakpa": [
+    "Bhutan"
+  ],
+  "Bughotu": [
+    "Solomon Islands"
+  ],
+  "Gahri": [
+    "India"
+  ],
+  "Negeri Sembilan Malay": [
+    "Malaysia"
+  ],
+  "Cotabato Manobo": [
+    "Philippines"
+  ],
+  "Northern Conchucos Ancash Quechua": [
+    "Peru"
+  ],
+  "Central Grebo": [
+    "Liberia"
+  ],
+  "Makuv'a": [
+    "Timor-Leste"
+  ],
+  "Loko": [
+    "Sierra Leone"
+  ],
+  "Rongpo": [
+    "India"
+  ],
+  "Yolŋu Sign Language": [
+    "Australia"
+  ],
+  "Huautla Mazatec": [
+    "Mexico"
+  ],
+  "Wanyi": [
+    "Australia"
+  ],
+  "Gagauz": [
+    "Moldova"
+  ],
+  "Lomaiviti": [
+    "Fiji"
+  ],
+  "Mawayana": [
+    "Guyana"
+  ],
+  "Temne": [
+    "Sierra Leone"
+  ],
+  "Wixarika": [
+    "Mexico"
+  ],
+  "Igala": [
+    "Nigeria"
+  ],
+  "Air Tamajeq": [
+    "Niger"
+  ],
+  "Itene": [
+    "Bolivia"
+  ],
+  "Mokole": [
+    "Benin"
+  ],
+  "Xokleng": [
+    "Brazil"
+  ],
+  "Tewa": [
+    "Indonesia"
+  ],
+  "Bungandidj": [
+    "Australia"
+  ],
+  "Terik": [
+    "Kenya"
+  ],
+  "Sarnámi Hindustáni": [
+    "Suriname"
+  ],
+  "Asunción Mixtepec Zapotec": [
+    "Mexico"
+  ],
+  "Luo": [
+    "Cameroon"
+  ],
+  "Kaiwá": [
+    "Brazil"
+  ],
+  "Gaa": [
+    "Nigeria"
+  ],
+  "Ogbia": [
+    "Nigeria"
+  ],
+  "Orang Seletar": [
+    "Malaysia"
+  ],
+  "Chuukese": [
+    "Federated States of Micronesia"
+  ],
+  "Harari": [
+    "Ethiopia"
+  ],
+  "Defaka": [
+    "Nigeria"
+  ],
+  "Palatinate German": [
+    "Germany"
+  ],
+  "Jaqaru": [
+    "Peru"
+  ],
+  "Tommo So Dogon": [
+    "Mali"
+  ],
+  "Krymchak": [
+    "Ukraine"
+  ],
+  "Kui": [
+    "Indonesia"
+  ],
+  "Lishán Didán": [
+    "Israel"
+  ],
+  "Mango": [
+    "Chad"
+  ],
+  "Maring Naga": [
+    "India"
+  ],
+  "Baki": [
+    "Vanuatu"
+  ],
+  "Tunisian Sign Language": [
+    "Tunisia"
+  ],
+  "Attié": [
+    "Ivory Coast"
+  ],
+  "Banda": [
+    "Indonesia"
+  ],
+  "Agariya": [
+    "India"
+  ],
+  "Katkari": [
+    "India"
+  ],
+  "Garawa": [
+    "Australia"
+  ],
+  "Miriwoong Sign Language": [
+    "Australia"
+  ],
+  "Sabiny": [
+    "Uganda"
+  ],
+  "Nguluwan": [
+    "Federated States of Micronesia"
+  ],
+  "Pamona": [
+    "Indonesia"
+  ],
+  "Pardhi": [
+    "India"
+  ],
+  "Northwestern Dinka": [
+    "South Sudan"
+  ],
+  "Ngarluma": [
+    "Australia"
+  ],
+  "Kirikiri": [
+    "Indonesia"
+  ],
+  "Koho": [
+    "Vietnam"
+  ],
+  "Khana": [
+    "Nigeria"
+  ],
+  "Hmar": [
+    "India"
+  ],
+  "Yakoma": [
+    "Central African Republic"
+  ],
+  "Megam": [
+    "Bangladesh"
+  ],
+  "Santa Catarina Albarradas Zapotec": [
+    "Mexico"
+  ],
+  "Dusun Malang": [
+    "Indonesia"
+  ],
+  "Fataluku": [
+    "Timor-Leste"
+  ],
+  "Embaloh": [
+    "Indonesia"
+  ],
+  "Sangil": [
+    "Philippines"
+  ],
+  "Matis": [
+    "Brazil"
+  ],
+  "Adithinngithigh": [
+    "Australia"
+  ],
+  "Lela": [
+    "Nigeria"
+  ],
+  "Karay-a": [
+    "Philippines"
+  ],
+  "Pijao": [
+    "Colombia"
+  ],
+  "Banggainese": [
+    "Indonesia"
+  ],
+  "Gonja": [
+    "Ghana"
+  ],
+  "Kalabari": [
+    "Nigeria"
+  ],
+  "Cocama": [
+    "Peru"
+  ],
+  "Kulere": [
+    "Nigeria"
+  ]
+}

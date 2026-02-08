@@ -1,0 +1,3816 @@
+{
+  "Euphrates": [
+    "Iraq",
+    "Syria",
+    "Turkey",
+    "Iran"
+  ],
+  "Tigris": [
+    "Iraq",
+    "Syria",
+    "Turkey",
+    "Iran"
+  ],
+  "Chenab River": [
+    "India",
+    "Pakistan"
+  ],
+  "Jhelum River": [
+    "India",
+    "Pakistan"
+  ],
+  "Orinoco River": [
+    "Venezuela",
+    "Colombia"
+  ],
+  "Ravi River": [
+    "India",
+    "Pakistan"
+  ],
+  "Blue Nile": [
+    "Uganda",
+    "South Sudan",
+    "Sudan",
+    "Burundi",
+    "Egypt",
+    "Ethiopia",
+    "Rwanda"
+  ],
+  "Teesta River": [
+    "Nepal",
+    "India",
+    "People's Republic of China",
+    "Bangladesh"
+  ],
+  "Moselle": [
+    "Austria",
+    "Luxembourg",
+    "France",
+    "Liechtenstein",
+    "Switzerland",
+    "Germany",
+    "Netherlands"
+  ],
+  "Sava": [
+    "Austria",
+    "Moldova",
+    "Croatia",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Bosnia and Herzegovina",
+    "Slovenia",
+    "Bulgaria",
+    "Serbia",
+    "Germany"
+  ],
+  "Kosi River": [
+    "Nepal",
+    "India"
+  ],
+  "Paraná River": [
+    "Paraguay",
+    "Uruguay",
+    "Argentina",
+    "Brazil"
+  ],
+  "Gandaki River": [
+    "Nepal",
+    "India"
+  ],
+  "Tisza": [
+    "Austria",
+    "Moldova",
+    "Croatia",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Bulgaria",
+    "Serbia",
+    "Germany",
+    "Ukraine"
+  ],
+  "Isar": [
+    "Austria",
+    "Moldova",
+    "Croatia",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Bulgaria",
+    "Serbia",
+    "Germany"
+  ],
+  "Padma River": [
+    "India",
+    "Bangladesh"
+  ],
+  "Aras River": [
+    "Armenia",
+    "Turkey",
+    "Azerbaijan",
+    "Georgia",
+    "Iran"
+  ],
+  "Drava": [
+    "Austria",
+    "Moldova",
+    "Croatia",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Italy",
+    "Slovenia",
+    "Bulgaria",
+    "Serbia",
+    "Germany"
+  ],
+  "Western Bug": [
+    "Poland",
+    "Ukraine",
+    "Belarus"
+  ],
+  "Inn": [
+    "Austria",
+    "Moldova",
+    "Croatia",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Switzerland",
+    "Bulgaria",
+    "Serbia",
+    "Germany"
+  ],
+  "Sharda River": [
+    "Nepal",
+    "India",
+    "People's Republic of China"
+  ],
+  "Kabul River": [
+    "Afghanistan",
+    "People's Republic of China",
+    "India",
+    "Pakistan"
+  ],
+  "Neretva": [
+    "Croatia",
+    "Bosnia and Herzegovina"
+  ],
+  "Drina": [
+    "Croatia",
+    "Serbia",
+    "Bosnia and Herzegovina",
+    "Slovenia"
+  ],
+  "Paraguay River": [
+    "Paraguay",
+    "Argentina",
+    "Brazil"
+  ],
+  "Shyok River": [
+    "People's Republic of China",
+    "India",
+    "Pakistan"
+  ],
+  "Mahananda River": [
+    "India",
+    "Bangladesh"
+  ],
+  "Tawi River": [
+    "India",
+    "Pakistan"
+  ],
+  "Kootenay River": [
+    "Canada",
+    "United States"
+  ],
+  "Pripyat River": [
+    "Russia",
+    "Ukraine",
+    "Belarus"
+  ],
+  "West Rapti River": [
+    "Nepal",
+    "India",
+    "People's Republic of China"
+  ],
+  "Donets": [
+    "Russia",
+    "Ukraine"
+  ],
+  "Madeira River": [
+    "Bolivia",
+    "Colombia",
+    "Peru",
+    "Brazil"
+  ],
+  "Uruguay River": [
+    "Uruguay",
+    "Argentina",
+    "Brazil"
+  ],
+  "Milk River": [
+    "Canada",
+    "United States"
+  ],
+  "Benue River": [
+    "Niger",
+    "Mali",
+    "Guinea",
+    "Nigeria",
+    "Benin",
+    "Cameroon"
+  ],
+  "Morava": [
+    "Austria",
+    "Moldova",
+    "Croatia",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Bulgaria",
+    "Serbia",
+    "Germany",
+    "Czech Republic"
+  ],
+  "Prut": [
+    "Austria",
+    "Moldova",
+    "Croatia",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Bulgaria",
+    "Serbia",
+    "Germany",
+    "Ukraine"
+  ],
+  "Great Zab": [
+    "Iraq",
+    "Syria",
+    "Turkey"
+  ],
+  "Ubangi River": [
+    "Central African Republic",
+    "Republic of the Congo",
+    "Angola",
+    "Democratic Republic of the Congo",
+    "Zambia"
+  ],
+  "Salzach": [
+    "Austria",
+    "Germany",
+    "Switzerland"
+  ],
+  "Shebelle River": [
+    "Eritrea",
+    "Somalia",
+    "Ethiopia"
+  ],
+  "Leitha": [
+    "Austria",
+    "Moldova",
+    "Croatia",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Bulgaria",
+    "Serbia",
+    "Germany"
+  ],
+  "Ticino": [
+    "Italy",
+    "Switzerland"
+  ],
+  "Kok River": [
+    "People's Republic of China",
+    "Myanmar",
+    "Cambodia",
+    "Laos",
+    "Thailand",
+    "Vietnam"
+  ],
+  "San Pedro River": [
+    "Mexico",
+    "United States"
+  ],
+  "Saar": [
+    "Luxembourg",
+    "Germany",
+    "France"
+  ],
+  "Richelieu River": [
+    "Canada",
+    "United States"
+  ],
+  "Sambre": [
+    "Netherlands",
+    "Belgium",
+    "France"
+  ],
+  "Mur": [
+    "Austria",
+    "Croatia",
+    "Hungary",
+    "Italy",
+    "Slovenia"
+  ],
+  "Yarmouk River": [
+    "State of Palestine",
+    "Syria",
+    "Jordan",
+    "Israel",
+    "Lebanon"
+  ],
+  "Wadi Qelt": [
+    "State of Palestine",
+    "Palestine",
+    "Syria",
+    "Jordan",
+    "Israel",
+    "Lebanon"
+  ],
+  "Lusatian Nysa": [
+    "Poland",
+    "Germany",
+    "Czech Republic"
+  ],
+  "Tobol": [
+    "People's Republic of China",
+    "Kazakhstan",
+    "Russia"
+  ],
+  "Iguazu River": [
+    "Paraguay",
+    "Argentina",
+    "Brazil"
+  ],
+  "Imjin River": [
+    "South Korea",
+    "North Korea"
+  ],
+  "Narew": [
+    "Poland",
+    "Belarus"
+  ],
+  "Una": [
+    "Croatia",
+    "Serbia",
+    "Bosnia and Herzegovina",
+    "Slovenia"
+  ],
+  "Mureș River": [
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Serbia",
+    "Ukraine"
+  ],
+  "Oskil": [
+    "Russia",
+    "Ukraine"
+  ],
+  "Oise": [
+    "Belgium",
+    "France"
+  ],
+  "Ishim": [
+    "People's Republic of China",
+    "Kazakhstan",
+    "Russia"
+  ],
+  "Neris": [
+    "Russia",
+    "Lithuania",
+    "Belarus"
+  ],
+  "Bóbr": [
+    "Poland",
+    "Germany",
+    "Czech Republic"
+  ],
+  "Desna": [
+    "Russia",
+    "Ukraine",
+    "Belarus"
+  ],
+  "Onon River": [
+    "Russia",
+    "Mongolia"
+  ],
+  "Kupa": [
+    "Croatia",
+    "Serbia",
+    "Bosnia and Herzegovina",
+    "Slovenia"
+  ],
+  "Panj River": [
+    "Afghanistan",
+    "Tajikistan",
+    "Uzbekistan",
+    "Turkmenistan"
+  ],
+  "Napo River": [
+    "Colombia",
+    "Peru",
+    "Brazil",
+    "Ecuador"
+  ],
+  "Pend Oreille River": [
+    "Canada",
+    "United States"
+  ],
+  "Hari River": [
+    "Afghanistan",
+    "Iran",
+    "Turkmenistan"
+  ],
+  "Tara": [
+    "Montenegro",
+    "Serbia",
+    "Bosnia and Herzegovina"
+  ],
+  "Diyala River": [
+    "Iraq",
+    "Syria",
+    "Turkey",
+    "Iran"
+  ],
+  "Kasai River": [
+    "Republic of the Congo",
+    "Angola",
+    "Democratic Republic of the Congo",
+    "Zambia"
+  ],
+  "Rur": [
+    "Netherlands",
+    "Germany",
+    "Belgium",
+    "France"
+  ],
+  "Ewaso Ng'iro": [
+    "Kenya",
+    "Somalia",
+    "Ethiopia"
+  ],
+  "Sankosh River": [
+    "People's Republic of China",
+    "Bhutan",
+    "India",
+    "Bangladesh",
+    "Nepal"
+  ],
+  "Ibar": [
+    "Montenegro",
+    "Kosovo",
+    "Serbia"
+  ],
+  "Tekezé River": [
+    "Eritrea",
+    "Ethiopia",
+    "Sudan"
+  ],
+  "San": [
+    "Poland",
+    "Ukraine"
+  ],
+  "Putumayo River": [
+    "Colombia",
+    "Peru",
+    "Brazil",
+    "Ecuador"
+  ],
+  "Surma River": [
+    "India",
+    "Bangladesh"
+  ],
+  "River Finn": [
+    "United Kingdom",
+    "Ireland"
+  ],
+  "Lys": [
+    "Netherlands",
+    "Belgium",
+    "France"
+  ],
+  "Madre de Dios River": [
+    "Bolivia",
+    "Peru"
+  ],
+  "Dunajec": [
+    "Poland",
+    "Slovakia"
+  ],
+  "Gomal River": [
+    "Afghanistan",
+    "People's Republic of China",
+    "India",
+    "Pakistan"
+  ],
+  "Little Zab": [
+    "Iraq",
+    "Syria",
+    "Turkey",
+    "Iran"
+  ],
+  "Black Volta": [
+    "Burkina Faso",
+    "Ghana",
+    "Ivory Coast"
+  ],
+  "Seym": [
+    "Russia",
+    "Ukraine"
+  ],
+  "Souris River": [
+    "Canada",
+    "United States"
+  ],
+  "Lim": [
+    "Montenegro",
+    "Albania",
+    "Serbia",
+    "Bosnia and Herzegovina"
+  ],
+  "Sauer": [
+    "Luxembourg",
+    "Germany",
+    "Belgium",
+    "France"
+  ],
+  "Alazani": [
+    "Turkey",
+    "Azerbaijan",
+    "Georgia"
+  ],
+  "Doubs": [
+    "Switzerland",
+    "France"
+  ],
+  "Pilcomayo River": [
+    "Paraguay",
+    "Brazil",
+    "Argentina",
+    "Bolivia"
+  ],
+  "Ohře": [
+    "Germany",
+    "Czech Republic"
+  ],
+  "Caledon River": [
+    "Namibia",
+    "Lesotho",
+    "South Africa"
+  ],
+  "Weisse Elster": [
+    "Germany",
+    "Czech Republic"
+  ],
+  "Zeravshan": [
+    "Tajikistan",
+    "Uzbekistan",
+    "Afghanistan",
+    "Turkmenistan"
+  ],
+  "Baro River": [
+    "Ethiopia",
+    "South Sudan"
+  ],
+  "Kunar River": [
+    "Afghanistan",
+    "Pakistan"
+  ],
+  "Japurá River": [
+    "Colombia",
+    "Peru",
+    "Brazil"
+  ],
+  "Bosut": [
+    "Croatia",
+    "Serbia",
+    "Bosnia and Herzegovina",
+    "Slovenia"
+  ],
+  "Uvac": [
+    "Montenegro",
+    "Albania",
+    "Serbia",
+    "Bosnia and Herzegovina"
+  ],
+  "Arve": [
+    "Switzerland",
+    "France"
+  ],
+  "Someș River": [
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Serbia",
+    "Ukraine"
+  ],
+  "Mechi River": [
+    "Nepal",
+    "India",
+    "Bangladesh"
+  ],
+  "Thaya": [
+    "Austria",
+    "Czech Republic",
+    "Slovakia"
+  ],
+  "South Morava": [
+    "Serbia",
+    "North Macedonia"
+  ],
+  "Atrai River": [
+    "India",
+    "Bangladesh"
+  ],
+  "Semois": [
+    "Netherlands",
+    "Belgium",
+    "France"
+  ],
+  "Vovcha": [
+    "Russia",
+    "Ukraine"
+  ],
+  "Porcupine River": [
+    "Canada",
+    "United States"
+  ],
+  "Vakhsh River": [
+    "Uzbekistan",
+    "Kyrgyzstan",
+    "Afghanistan",
+    "Tajikistan",
+    "Turkmenistan"
+  ],
+  "Rába": [
+    "Austria",
+    "Moldova",
+    "Croatia",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Bulgaria",
+    "Serbia",
+    "Germany"
+  ],
+  "Molopo River": [
+    "Namibia",
+    "Lesotho",
+    "Botswana",
+    "South Africa"
+  ],
+  "Alzette": [
+    "Germany",
+    "Luxembourg",
+    "Belgium",
+    "France"
+  ],
+  "Okanogan River": [
+    "Canada",
+    "United States"
+  ],
+  "Juruá River": [
+    "Colombia",
+    "Peru",
+    "Brazil"
+  ],
+  "Logone River": [
+    "Central African Republic",
+    "Chad",
+    "Cameroon"
+  ],
+  "Kwango River": [
+    "Angola",
+    "Democratic Republic of the Congo"
+  ],
+  "Pamir River": [
+    "Afghanistan",
+    "Tajikistan"
+  ],
+  "White Volta": [
+    "Burkina Faso",
+    "Ghana"
+  ],
+  "Moei River": [
+    "People's Republic of China",
+    "Myanmar",
+    "Thailand"
+  ],
+  "Pongola River": [
+    "Eswatini",
+    "Mozambique",
+    "South Africa"
+  ],
+  "Bermejo": [
+    "Bolivia",
+    "Brazil",
+    "Argentina",
+    "Paraguay"
+  ],
+  "Our": [
+    "Luxembourg",
+    "Germany",
+    "Belgium"
+  ],
+  "Khabur": [
+    "Iraq",
+    "Syria",
+    "Turkey"
+  ],
+  "Similkameen River": [
+    "Canada",
+    "United States"
+  ],
+  "Banyas": [
+    "State of Palestine",
+    "Syria",
+    "Jordan",
+    "Israel",
+    "Lebanon"
+  ],
+  "Arda": [
+    "Turkey",
+    "Bulgaria",
+    "Greece"
+  ],
+  "Timiș River": [
+    "Austria",
+    "Moldova",
+    "Croatia",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Bulgaria",
+    "Serbia",
+    "Germany"
+  ],
+  "Tundzha": [
+    "Turkey",
+    "Bulgaria",
+    "Greece"
+  ],
+  "Shashe River": [
+    "Mozambique",
+    "Botswana",
+    "South Africa",
+    "Zimbabwe"
+  ],
+  "Dawa River": [
+    "Kenya",
+    "Somalia",
+    "Ethiopia"
+  ],
+  "Inde": [
+    "Netherlands",
+    "Germany",
+    "Belgium"
+  ],
+  "Mamoré River": [
+    "Bolivia",
+    "Brazil"
+  ],
+  "Psel": [
+    "Russia",
+    "Ukraine",
+    "Belarus"
+  ],
+  "Hantan River": [
+    "South Korea",
+    "North Korea"
+  ],
+  "Yobe River": [
+    "Niger",
+    "Nigeria"
+  ],
+  "Guaporé River": [
+    "Bolivia",
+    "Brazil"
+  ],
+  "Nišava": [
+    "Serbia",
+    "North Macedonia",
+    "Bulgaria"
+  ],
+  "Segre": [
+    "Spain",
+    "France"
+  ],
+  "Vorskla": [
+    "Russia",
+    "Ukraine",
+    "Belarus"
+  ],
+  "Sajó": [
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Serbia",
+    "Ukraine"
+  ],
+  "Debed": [
+    "Armenia",
+    "Azerbaijan",
+    "Georgia"
+  ],
+  "Ruvyironza River": [
+    "Burundi",
+    "Tanzania"
+  ],
+  "Dommel": [
+    "Netherlands",
+    "Belgium"
+  ],
+  "Timok": [
+    "Austria",
+    "Moldova",
+    "Croatia",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Bulgaria",
+    "Serbia",
+    "Germany"
+  ],
+  "Kara Darya": [
+    "Tajikistan",
+    "Kazakhstan",
+    "Uzbekistan",
+    "Kyrgyzstan"
+  ],
+  "Korana": [
+    "Croatia",
+    "Bosnia and Herzegovina",
+    "Slovenia"
+  ],
+  "Jerma": [
+    "Serbia",
+    "Bulgaria"
+  ],
+  "Marico River": [
+    "Mozambique",
+    "Botswana",
+    "South Africa",
+    "Zimbabwe"
+  ],
+  "Bukhan River": [
+    "South Korea",
+    "North Korea"
+  ],
+  "Red Volta": [
+    "Burkina Faso",
+    "Ghana"
+  ],
+  "Río Negro": [
+    "Uruguay",
+    "Argentina",
+    "Brazil"
+  ],
+  "Vilnia": [
+    "Lithuania",
+    "Belarus"
+  ],
+  "Meta River": [
+    "Venezuela",
+    "Colombia"
+  ],
+  "Sangha": [
+    "Central African Republic",
+    "Republic of the Congo",
+    "Angola",
+    "Democratic Republic of the Congo",
+    "Cameroon",
+    "Zambia"
+  ],
+  "Kalchyk": [
+    "Russia",
+    "Ukraine"
+  ],
+  "Sajur River": [
+    "Syria",
+    "Turkey",
+    "Iraq"
+  ],
+  "Pembina River": [
+    "Canada",
+    "United States"
+  ],
+  "Ruak River": [
+    "People's Republic of China",
+    "Myanmar",
+    "Cambodia",
+    "Laos",
+    "Thailand",
+    "Vietnam"
+  ],
+  "Apa River": [
+    "Paraguay",
+    "Argentina",
+    "Brazil"
+  ],
+  "Vaupés River": [
+    "Colombia",
+    "Venezuela",
+    "Brazil"
+  ],
+  "Bartang River": [
+    "Afghanistan",
+    "Tajikistan"
+  ],
+  "Javary River": [
+    "Colombia",
+    "Peru",
+    "Brazil"
+  ],
+  "Akhurian River": [
+    "Armenia",
+    "Azerbaijan",
+    "Turkey",
+    "Iran"
+  ],
+  "Uzh River": [
+    "Ukraine",
+    "Slovakia"
+  ],
+  "Hornád": [
+    "Hungary",
+    "Slovakia"
+  ],
+  "Sokoto River": [
+    "Niger",
+    "Mali",
+    "Guinea",
+    "Nigeria",
+    "Benin"
+  ],
+  "Naryn River": [
+    "Tajikistan",
+    "Kazakhstan",
+    "Uzbekistan",
+    "Kyrgyzstan"
+  ],
+  "Cem River": [
+    "Montenegro",
+    "Albania"
+  ],
+  "Olza": [
+    "Poland",
+    "Germany",
+    "Czech Republic"
+  ],
+  "Šešupė": [
+    "Russia",
+    "Lithuania",
+    "Poland",
+    "Belarus"
+  ],
+  "Kwilu River": [
+    "Angola",
+    "Democratic Republic of the Congo"
+  ],
+  "Crișul Repede River": [
+    "Romania",
+    "Hungary"
+  ],
+  "Drino": [
+    "Albania",
+    "Greece"
+  ],
+  "Pastaza River": [
+    "Peru",
+    "Ecuador"
+  ],
+  "Ipoly": [
+    "Austria",
+    "Moldova",
+    "Croatia",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Bulgaria",
+    "Serbia",
+    "Germany"
+  ],
+  "Bodrog": [
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Serbia",
+    "Ukraine"
+  ],
+  "Pčinja": [
+    "Serbia",
+    "North Macedonia",
+    "Greece"
+  ],
+  "Bahr al-Arab": [
+    "South Sudan",
+    "Sudan"
+  ],
+  "Kettle River": [
+    "Canada",
+    "United States"
+  ],
+  "Łyna": [
+    "Russia",
+    "Poland"
+  ],
+  "Vechte": [
+    "Germany",
+    "Netherlands"
+  ],
+  "Shingo River": [
+    "People's Republic of China",
+    "India",
+    "Pakistan"
+  ],
+  "Tâmega River": [
+    "Spain",
+    "Portugal"
+  ],
+  "Piva": [
+    "Montenegro",
+    "Serbia",
+    "Bosnia and Herzegovina"
+  ],
+  "Rurubu River": [
+    "Burundi",
+    "Tanzania",
+    "Uganda",
+    "Rwanda"
+  ],
+  "Angrapa": [
+    "Russia",
+    "Poland"
+  ],
+  "Afrin River": [
+    "Lebanon",
+    "Syria",
+    "Turkey"
+  ],
+  "Yaak River": [
+    "Canada",
+    "United States"
+  ],
+  "Tigre River": [
+    "Peru",
+    "Ecuador"
+  ],
+  "Heath River": [
+    "Bolivia",
+    "Peru"
+  ],
+  "Arauca River": [
+    "Venezuela",
+    "Colombia"
+  ],
+  "Regen": [
+    "Austria",
+    "Moldova",
+    "Croatia",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Bulgaria",
+    "Serbia",
+    "Germany",
+    "Czech Republic"
+  ],
+  "Ok Tedi River": [
+    "Papua New Guinea",
+    "Indonesia"
+  ],
+  "Kong River": [
+    "Cambodia",
+    "Laos",
+    "Vietnam"
+  ],
+  "Runde River": [
+    "Mozambique",
+    "Botswana",
+    "South Africa",
+    "Zimbabwe"
+  ],
+  "Dora Riparia": [
+    "Italy",
+    "France"
+  ],
+  "Arpa River": [
+    "Armenia",
+    "Azerbaijan",
+    "Turkey",
+    "Iran"
+  ],
+  "Sozh": [
+    "Russia",
+    "Ukraine",
+    "Belarus"
+  ],
+  "Oude IJssel": [
+    "Germany",
+    "Netherlands"
+  ],
+  "Mbomou River": [
+    "Republic of the Congo",
+    "Central African Republic",
+    "Democratic Republic of the Congo",
+    "South Sudan"
+  ],
+  "Jeker": [
+    "Netherlands",
+    "Belgium",
+    "France"
+  ],
+  "Ia Drang River": [
+    "Cambodia",
+    "Vietnam"
+  ],
+  "Ilek": [
+    "Kazakhstan",
+    "Russia"
+  ],
+  "Mže": [
+    "Germany",
+    "Czech Republic"
+  ],
+  "Horyn": [
+    "Ukraine",
+    "Belarus"
+  ],
+  "Fortymile River": [
+    "Canada",
+    "United States"
+  ],
+  "Acre River": [
+    "Bolivia",
+    "Peru",
+    "Brazil"
+  ],
+  "Czarna Hańcza": [
+    "Poland",
+    "Lithuania",
+    "Belarus",
+    "Russia"
+  ],
+  "Falémé River": [
+    "Guinea",
+    "Mali",
+    "Mauritania",
+    "Senegal"
+  ],
+  "Loisach": [
+    "Austria",
+    "Germany"
+  ],
+  "Haine": [
+    "Netherlands",
+    "Belgium",
+    "France"
+  ],
+  "Vesdre": [
+    "Germany",
+    "Belgium"
+  ],
+  "Mazowe River": [
+    "Mozambique",
+    "Zimbabwe"
+  ],
+  "Iori River": [
+    "Turkey",
+    "Azerbaijan",
+    "Georgia"
+  ],
+  "Takutu River": [
+    "Brazil",
+    "Guyana"
+  ],
+  "Lauter": [
+    "Austria",
+    "France",
+    "Liechtenstein",
+    "Switzerland",
+    "Germany",
+    "Netherlands"
+  ],
+  "Opava": [
+    "Poland",
+    "Germany",
+    "Czech Republic"
+  ],
+  "Argun": [
+    "Russia",
+    "Georgia"
+  ],
+  "Dinder River": [
+    "Ethiopia",
+    "Sudan"
+  ],
+  "Sutla": [
+    "Croatia",
+    "Serbia",
+    "Bosnia and Herzegovina",
+    "Slovenia"
+  ],
+  "Vorotan River": [
+    "Armenia",
+    "Azerbaijan"
+  ],
+  "Sankarani River": [
+    "Niger",
+    "Mali",
+    "Guinea",
+    "Nigeria",
+    "Ivory Coast",
+    "Benin"
+  ],
+  "Geul": [
+    "Netherlands",
+    "Belgium",
+    "France"
+  ],
+  "Latorica": [
+    "Hungary",
+    "Ukraine",
+    "Slovakia"
+  ],
+  "Khrami River": [
+    "Turkey",
+    "Azerbaijan",
+    "Georgia"
+  ],
+  "Lab": [
+    "Kosovo",
+    "Serbia"
+  ],
+  "Saalach": [
+    "Austria",
+    "Germany"
+  ],
+  "Donga River": [
+    "Nigeria",
+    "Cameroon"
+  ],
+  "Rzav": [
+    "Serbia",
+    "Bosnia and Herzegovina"
+  ],
+  "Kyll": [
+    "Luxembourg",
+    "Germany",
+    "Belgium",
+    "France"
+  ],
+  "Alwand River": [
+    "Iraq",
+    "Iran"
+  ],
+  "Uy": [
+    "Kazakhstan",
+    "Russia"
+  ],
+  "Pai River": [
+    "People's Republic of China",
+    "Myanmar",
+    "Thailand"
+  ],
+  "Meža": [
+    "Austria",
+    "Croatia",
+    "Hungary",
+    "Italy",
+    "Slovenia"
+  ],
+  "Nera River": [
+    "Austria",
+    "Moldova",
+    "Croatia",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Bulgaria",
+    "Serbia",
+    "Germany"
+  ],
+  "Gambila River": [
+    "Afghanistan",
+    "Pakistan"
+  ],
+  "North Fork Flathead River": [
+    "Canada",
+    "United States"
+  ],
+  "Crișul Negru River": [
+    "Romania",
+    "Hungary"
+  ],
+  "Aa of Weerijs": [
+    "Netherlands",
+    "Belgium"
+  ],
+  "Chamb": [
+    "Germany",
+    "Czech Republic"
+  ],
+  "Akobo River": [
+    "Ethiopia",
+    "South Sudan"
+  ],
+  "Wiese": [
+    "Austria",
+    "France",
+    "Liechtenstein",
+    "Switzerland",
+    "Germany",
+    "Netherlands"
+  ],
+  "Mayo Kébi": [
+    "Chad",
+    "Cameroon",
+    "Nigeria"
+  ],
+  "Lužnice": [
+    "Austria",
+    "Czech Republic"
+  ],
+  "Sumbar River": [
+    "Iran",
+    "Turkmenistan"
+  ],
+  "Niers": [
+    "Germany",
+    "Netherlands",
+    "Belgium",
+    "France"
+  ],
+  "Poprad": [
+    "Poland",
+    "Slovakia"
+  ],
+  "Pinka": [
+    "Austria",
+    "Hungary"
+  ],
+  "Aguarico River": [
+    "Peru",
+    "Ecuador"
+  ],
+  "Ćehotina": [
+    "Montenegro",
+    "Serbia",
+    "Bosnia and Herzegovina"
+  ],
+  "Sviyaga": [
+    "Russia",
+    "Russian Empire",
+    "Soviet Union"
+  ],
+  "Crișul Alb River": [
+    "Romania",
+    "Hungary"
+  ],
+  "Tonlé San": [
+    "People's Republic of China",
+    "Myanmar",
+    "Cambodia",
+    "Laos",
+    "Thailand",
+    "Vietnam"
+  ],
+  "Strumica": [
+    "North Macedonia",
+    "Bulgaria",
+    "Greece"
+  ],
+  "Achwa": [
+    "Tanzania",
+    "Uganda",
+    "South Sudan",
+    "Sudan",
+    "Democratic Republic of the Congo",
+    "Rwanda"
+  ],
+  "Berkel": [
+    "Germany",
+    "Netherlands"
+  ],
+  "Blies": [
+    "Germany",
+    "France"
+  ],
+  "Río Cuareim": [
+    "Uruguay",
+    "Argentina",
+    "Brazil"
+  ],
+  "Dja River": [
+    "Republic of the Congo",
+    "Cameroon"
+  ],
+  "Nemunėlis": [
+    "Lithuania",
+    "Latvia"
+  ],
+  "Kofarnihon River": [
+    "Tajikistan",
+    "Uzbekistan",
+    "Afghanistan",
+    "Turkmenistan"
+  ],
+  "Pibor River": [
+    "Ethiopia",
+    "South Sudan"
+  ],
+  "Allaine": [
+    "Switzerland",
+    "France"
+  ],
+  "Kharkiv River": [
+    "Russia",
+    "Ukraine"
+  ],
+  "Malše": [
+    "Austria",
+    "Czech Republic"
+  ],
+  "Karaš": [
+    "Austria",
+    "Moldova",
+    "Croatia",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Bulgaria",
+    "Serbia",
+    "Germany"
+  ],
+  "Mūša": [
+    "Lithuania",
+    "Latvia"
+  ],
+  "Chinchipe River": [
+    "Peru",
+    "Ecuador"
+  ],
+  "Rahad River": [
+    "Eritrea",
+    "Ethiopia",
+    "Sudan"
+  ],
+  "Wutach": [
+    "Austria",
+    "France",
+    "Liechtenstein",
+    "Switzerland",
+    "Germany",
+    "Netherlands"
+  ],
+  "Mark": [
+    "Netherlands",
+    "Belgium"
+  ],
+  "Katsina Ala River": [
+    "Nigeria",
+    "Cameroon"
+  ],
+  "Makhaleng River": [
+    "Namibia",
+    "Lesotho",
+    "South Africa"
+  ],
+  "Chiers": [
+    "Netherlands",
+    "Luxembourg",
+    "Belgium",
+    "France"
+  ],
+  "Spöl": [
+    "Italy",
+    "Austria",
+    "Germany",
+    "Switzerland"
+  ],
+  "Corubal River": [
+    "Senegal",
+    "Guinea-Bissau",
+    "Guinea"
+  ],
+  "Udy River": [
+    "Russia",
+    "Ukraine"
+  ],
+  "Sal River": [
+    "Russia",
+    "Russian Empire",
+    "Soviet Union"
+  ],
+  "Litani": [
+    "Suriname",
+    "France"
+  ],
+  "Slizza": [
+    "Italy",
+    "Austria"
+  ],
+  "Merkys": [
+    "Russia",
+    "Lithuania",
+    "Belarus"
+  ],
+  "Barcău River": [
+    "Romania",
+    "Hungary"
+  ],
+  "Mandau": [
+    "Poland",
+    "Germany",
+    "Czech Republic"
+  ],
+  "Angereb River": [
+    "Ethiopia",
+    "Sudan"
+  ],
+  "Bafing River": [
+    "Senegal",
+    "Mali",
+    "Mauritania",
+    "Guinea"
+  ],
+  "Aghstev": [
+    "Armenia",
+    "Georgia",
+    "Azerbaijan",
+    "Turkey"
+  ],
+  "Orlice": [
+    "Poland",
+    "Germany",
+    "Czech Republic"
+  ],
+  "Kushk River": [
+    "Afghanistan",
+    "Turkmenistan"
+  ],
+  "Ūla": [
+    "Lithuania",
+    "Belarus"
+  ],
+  "Nied": [
+    "Germany",
+    "France"
+  ],
+  "Águeda River": [
+    "Spain",
+    "Portugal"
+  ],
+  "Birsig": [
+    "Austria",
+    "France",
+    "Liechtenstein",
+    "Switzerland",
+    "Germany",
+    "Netherlands"
+  ],
+  "Sudost": [
+    "Russia",
+    "Ukraine"
+  ],
+  "Delgermörön": [
+    "Russia",
+    "Mongolia"
+  ],
+  "Lawa River": [
+    "Suriname",
+    "France"
+  ],
+  "Assa River": [
+    "Russia",
+    "Georgia"
+  ],
+  "Aidar": [
+    "Russia",
+    "Ukraine"
+  ],
+  "Dzisna": [
+    "Russia",
+    "Lithuania",
+    "Belarus",
+    "Latvia"
+  ],
+  "Voer": [
+    "Netherlands",
+    "Belgium",
+    "France"
+  ],
+  "Glina": [
+    "Croatia",
+    "Bosnia and Herzegovina",
+    "Slovenia"
+  ],
+  "Tur River": [
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Serbia",
+    "Ukraine"
+  ],
+  "Kalte Moldau": [
+    "Germany",
+    "Czech Republic"
+  ],
+  "Kasplya": [
+    "Russia",
+    "Belarus",
+    "Latvia"
+  ],
+  "Snov": [
+    "Russia",
+    "Ukraine"
+  ],
+  "Ovens River": [
+    "Australia"
+  ],
+  "River Tone": [
+    "United Kingdom"
+  ],
+  "Aripuanã River": [
+    "Bolivia",
+    "Brazil"
+  ],
+  "Great Darling Anabranch": [
+    "Australia"
+  ],
+  "Bahr el Zeraf": [
+    "Tanzania",
+    "Uganda",
+    "South Sudan",
+    "Sudan",
+    "Democratic Republic of the Congo",
+    "Rwanda"
+  ],
+  "Techa River": [
+    "Russia"
+  ],
+  "Roosevelt River": [
+    "Brazil"
+  ],
+  "Svratka": [
+    "Austria",
+    "Czech Republic"
+  ],
+  "Wenatchee River": [
+    "Canada",
+    "United States"
+  ],
+  "Haltwhistle Burn": [
+    "United Kingdom"
+  ],
+  "Xingu River": [
+    "Colombia",
+    "Peru",
+    "Brazil"
+  ],
+  "Kentucky River": [
+    "United States"
+  ],
+  "Castlereagh River": [
+    "Australia"
+  ],
+  "Cuyuni River": [
+    "Venezuela",
+    "Guyana"
+  ],
+  "Assiniboine River": [
+    "Canada",
+    "United States"
+  ],
+  "Huallaga River": [
+    "Peru"
+  ],
+  "Charyn River": [
+    "People's Republic of China",
+    "Kazakhstan"
+  ],
+  "Vltava": [
+    "Germany",
+    "Czech Republic"
+  ],
+  "Stör": [
+    "Germany",
+    "Czech Republic"
+  ],
+  "Bangali River": [
+    "Bangladesh"
+  ],
+  "Qarqar River": [
+    "Georgia",
+    "Azerbaijan",
+    "Turkey"
+  ],
+  "McKenzie River": [
+    "United States"
+  ],
+  "Thouet": [
+    "France"
+  ],
+  "Tiffin River": [
+    "United States"
+  ],
+  "Gravina di Matera": [
+    "Italy"
+  ],
+  "Săsar River": [
+    "Romania"
+  ],
+  "Clinch River": [
+    "United States"
+  ],
+  "Sai": [
+    "India"
+  ],
+  "Flint River": [
+    "United States"
+  ],
+  "Calapooia River": [
+    "United States"
+  ],
+  "Clark Fork": [
+    "Canada",
+    "United States"
+  ],
+  "River Ericht": [
+    "United Kingdom"
+  ],
+  "West Road River": [
+    "Canada"
+  ],
+  "Culuene River": [
+    "Brazil"
+  ],
+  "Uele": [
+    "Republic of the Congo",
+    "Central African Republic",
+    "Democratic Republic of the Congo"
+  ],
+  "Enz": [
+    "Germany"
+  ],
+  "Sonoita Creek": [
+    "United States"
+  ],
+  "Sava Bohinjka": [
+    "Croatia",
+    "Serbia",
+    "Bosnia and Herzegovina",
+    "Slovenia"
+  ],
+  "Vézère": [
+    "France"
+  ],
+  "Warragamba River": [
+    "Australia"
+  ],
+  "Hiwassee River": [
+    "United States"
+  ],
+  "Tuolumne River": [
+    "United States"
+  ],
+  "River Eamont": [
+    "United Kingdom"
+  ],
+  "Jajrud River": [
+    "Iran"
+  ],
+  "Franklin River": [
+    "Australia"
+  ],
+  "Tura": [
+    "Kazakhstan",
+    "Russia"
+  ],
+  "Barron River": [
+    "Canada"
+  ],
+  "Aragón": [
+    "Spain"
+  ],
+  "Bolaq": [
+    "Russia"
+  ],
+  "Boven-Merwede": [
+    "Netherlands"
+  ],
+  "Keelung River": [
+    "Taiwan"
+  ],
+  "Coulonge River": [
+    "Canada"
+  ],
+  "Bow River": [
+    "Australia"
+  ],
+  "Chickahominy River": [
+    "United States"
+  ],
+  "Belubula River": [
+    "Australia"
+  ],
+  "Petawawa River": [
+    "Canada"
+  ],
+  "Big Sioux River": [
+    "United States"
+  ],
+  "Maribyrnong River": [
+    "Australia"
+  ],
+  "Lenne": [
+    "Germany"
+  ],
+  "Lozoya": [
+    "Spain"
+  ],
+  "Omolon": [
+    "Russia"
+  ],
+  "River Brent": [
+    "United Kingdom"
+  ],
+  "Nogat": [
+    "Poland"
+  ],
+  "Nidda": [
+    "Germany"
+  ],
+  "Sluch River": [
+    "Ukraine",
+    "Belarus"
+  ],
+  "Chi River": [
+    "Thailand"
+  ],
+  "Loir": [
+    "France"
+  ],
+  "Blanchard River": [
+    "United States"
+  ],
+  "Montreal River": [
+    "Canada"
+  ],
+  "Ping River": [
+    "Thailand"
+  ],
+  "Fischa": [
+    "Austria",
+    "Moldova",
+    "Croatia",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Bulgaria",
+    "Serbia",
+    "Germany"
+  ],
+  "River Rothay": [
+    "United Kingdom"
+  ],
+  "Mula River": [
+    "India"
+  ],
+  "Emory River": [
+    "United States"
+  ],
+  "Murr": [
+    "Germany"
+  ],
+  "Periyar River": [
+    "India"
+  ],
+  "Yazgulyam River": [
+    "Afghanistan",
+    "Tajikistan"
+  ],
+  "Dale River": [
+    "Australia"
+  ],
+  "Cuiabá River": [
+    "Paraguay",
+    "Argentina",
+    "Brazil"
+  ],
+  "Glan": [
+    "Austria"
+  ],
+  "Cremera": [
+    "Italy"
+  ],
+  "Hale River": [
+    "Australia"
+  ],
+  "Katherine River": [
+    "Australia"
+  ],
+  "Ottawa River": [
+    "United States"
+  ],
+  "Truyère": [
+    "France"
+  ],
+  "Shilka": [
+    "People's Republic of China",
+    "Russia"
+  ],
+  "Kwisa": [
+    "Poland",
+    "Czech Republic"
+  ],
+  "Aiguillon": [
+    "France"
+  ],
+  "Vuka": [
+    "Austria",
+    "Moldova",
+    "Croatia",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Bulgaria",
+    "Serbia",
+    "Germany"
+  ],
+  "Idice": [
+    "Italy"
+  ],
+  "Goulburn River": [
+    "Australia"
+  ],
+  "Bhima River": [
+    "India"
+  ],
+  "Pelotas River": [
+    "Uruguay",
+    "Argentina",
+    "Brazil"
+  ],
+  "Creuse": [
+    "France"
+  ],
+  "Xindian River": [
+    "Taiwan"
+  ],
+  "Vologne": [
+    "Luxembourg",
+    "Germany",
+    "France"
+  ],
+  "Tambo River": [
+    "Peru"
+  ],
+  "Ahr": [
+    "Austria",
+    "France",
+    "Liechtenstein",
+    "Switzerland",
+    "Germany",
+    "Netherlands"
+  ],
+  "Poltva River": [
+    "Poland",
+    "Ukraine",
+    "Belarus"
+  ],
+  "Yaghnob River": [
+    "Tajikistan"
+  ],
+  "Gallatin River": [
+    "United States"
+  ],
+  "Odra": [
+    "Croatia",
+    "Slovenia"
+  ],
+  "Hida River": [
+    "Japan"
+  ],
+  "Santerno": [
+    "Italy"
+  ],
+  "Alouette River": [
+    "Canada"
+  ],
+  "Huisne": [
+    "France"
+  ],
+  "Musselshell River": [
+    "United States"
+  ],
+  "Big Butte Creek": [
+    "United States"
+  ],
+  "Cedar River": [
+    "United States"
+  ],
+  "Broken River": [
+    "Australia"
+  ],
+  "Lumbardhi Pejës": [
+    "Kosovo",
+    "Albania",
+    "Serbia"
+  ],
+  "Spokane River": [
+    "Canada",
+    "United States"
+  ],
+  "Raft River": [
+    "United States"
+  ],
+  "Nechako River": [
+    "Canada"
+  ],
+  "Gulkana River": [
+    "United States"
+  ],
+  "Stryi River": [
+    "Transnistria",
+    "Moldova",
+    "Ukraine"
+  ],
+  "Šventoji": [
+    "Lithuania",
+    "Belarus"
+  ],
+  "Knife River": [
+    "United States"
+  ],
+  "Wishkah River": [
+    "United States"
+  ],
+  "Eridanos": [
+    "Greece"
+  ],
+  "Lewis River": [
+    "Canada",
+    "United States"
+  ],
+  "Macdonald River": [
+    "Australia"
+  ],
+  "Macalister River": [
+    "Australia"
+  ],
+  "Kinu-gawa River": [
+    "Japan"
+  ],
+  "Moyka River": [
+    "Russia"
+  ],
+  "Chavanon": [
+    "France"
+  ],
+  "Karkheh River": [
+    "Iraq",
+    "Syria",
+    "Turkey",
+    "Iran"
+  ],
+  "Dallol Bosso": [
+    "Niger",
+    "Mali",
+    "Guinea",
+    "Nigeria",
+    "Benin"
+  ],
+  "River Lugg": [
+    "United Kingdom"
+  ],
+  "Târnava River": [
+    "Romania",
+    "Hungary"
+  ],
+  "Tugaloo River": [
+    "United States"
+  ],
+  "Savinja": [
+    "Croatia",
+    "Serbia",
+    "Bosnia and Herzegovina",
+    "Slovenia"
+  ],
+  "Harricana River": [
+    "Canada"
+  ],
+  "Saksahan": [
+    "Ukraine"
+  ],
+  "Santa Lucía River": [
+    "Uruguay",
+    "Argentina"
+  ],
+  "Cerna (Danube)": [
+    "Austria",
+    "Moldova",
+    "Croatia",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Bulgaria",
+    "Serbia",
+    "Germany"
+  ],
+  "Eau Rouge": [
+    "Belgium"
+  ],
+  "Gatineau River": [
+    "Canada"
+  ],
+  "Matanuska River": [
+    "United States"
+  ],
+  "Altmühl": [
+    "Austria",
+    "Moldova",
+    "Croatia",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Bulgaria",
+    "Serbia",
+    "Germany"
+  ],
+  "Nepean River": [
+    "Australia"
+  ],
+  "Queich": [
+    "Austria",
+    "France",
+    "Liechtenstein",
+    "Switzerland",
+    "Germany",
+    "Netherlands"
+  ],
+  "Baïse": [
+    "Spain",
+    "France"
+  ],
+  "Ruhr": [
+    "Austria",
+    "France",
+    "Liechtenstein",
+    "Switzerland",
+    "Germany",
+    "Netherlands"
+  ],
+  "Pellice": [
+    "Italy"
+  ],
+  "Tuul River": [
+    "Mongolia"
+  ],
+  "Mulchatna River": [
+    "United States"
+  ],
+  "Jihlava": [
+    "Austria",
+    "Czech Republic"
+  ],
+  "Baksan": [
+    "Russia"
+  ],
+  "Prosna": [
+    "Poland"
+  ],
+  "Farmington River": [
+    "United States"
+  ],
+  "Radbuza": [
+    "Czech Republic"
+  ],
+  "Chona": [
+    "Russia"
+  ],
+  "Iskut River": [
+    "Canada",
+    "United States"
+  ],
+  "Chambal River": [
+    "India"
+  ],
+  "Emscher": [
+    "Austria",
+    "France",
+    "Liechtenstein",
+    "Switzerland",
+    "Germany",
+    "Netherlands"
+  ],
+  "Fishkill Creek": [
+    "United States"
+  ],
+  "Androscoggin River": [
+    "United States"
+  ],
+  "Catawba River": [
+    "United States"
+  ],
+  "Little Minnesota River": [
+    "United States"
+  ],
+  "Mayenne": [
+    "France"
+  ],
+  "Pader": [
+    "Germany"
+  ],
+  "Ji-Paraná River": [
+    "Bolivia",
+    "Brazil"
+  ],
+  "Kama": [
+    "Russia"
+  ],
+  "Millstone River": [
+    "United States"
+  ],
+  "Andi Koysu": [
+    "Russia"
+  ],
+  "Motława": [
+    "Poland"
+  ],
+  "Loue": [
+    "Switzerland",
+    "France"
+  ],
+  "Vendée": [
+    "France"
+  ],
+  "Raška": [
+    "Montenegro",
+    "Kosovo",
+    "Serbia"
+  ],
+  "Ventuari River": [
+    "Venezuela",
+    "Colombia"
+  ],
+  "Elz": [
+    "Austria",
+    "France",
+    "Liechtenstein",
+    "Switzerland",
+    "Germany",
+    "Netherlands"
+  ],
+  "Moder": [
+    "Austria",
+    "France",
+    "Liechtenstein",
+    "Switzerland",
+    "Germany",
+    "Netherlands"
+  ],
+  "Mooki River": [
+    "Australia"
+  ],
+  "Pamunkey River": [
+    "United States"
+  ],
+  "New River": [
+    "United States"
+  ],
+  "Payette River": [
+    "United States"
+  ],
+  "Bečva": [
+    "Austria",
+    "Czech Republic",
+    "Slovakia"
+  ],
+  "Macintyre River": [
+    "Australia"
+  ],
+  "Kashafrud River": [
+    "Afghanistan",
+    "Turkmenistan",
+    "Iran"
+  ],
+  "Aure": [
+    "North Macedonia",
+    "France"
+  ],
+  "Barnett River": [
+    "Australia"
+  ],
+  "Dyle / Dijle": [
+    "Belgium"
+  ],
+  "Black Elster": [
+    "Germany",
+    "Czech Republic"
+  ],
+  "Herbert River": [
+    "Australia"
+  ],
+  "Kelkit River": [
+    "Turkey"
+  ],
+  "Volga River": [
+    "United States"
+  ],
+  "Itkillik River": [
+    "United States"
+  ],
+  "Nizhnyaya Tunguska": [
+    "Russia"
+  ],
+  "Ślęza": [
+    "Germany",
+    "Poland",
+    "Czech Republic"
+  ],
+  "Rondout Creek": [
+    "United States"
+  ],
+  "Saint Croix River": [
+    "United States"
+  ],
+  "Cesar River": [
+    "Colombia"
+  ],
+  "River Isla": [
+    "United Kingdom"
+  ],
+  "Loddon River": [
+    "Australia"
+  ],
+  "Little Snake River": [
+    "United States"
+  ],
+  "Roe River": [
+    "United States"
+  ],
+  "Trombetas River": [
+    "Colombia",
+    "Peru",
+    "Brazil"
+  ],
+  "Ivindo River": [
+    "Republic of the Congo",
+    "Gabon"
+  ],
+  "Delta River": [
+    "United States"
+  ],
+  "Tefé River": [
+    "Brazil"
+  ],
+  "Zhob River": [
+    "Afghanistan",
+    "Pakistan"
+  ],
+  "Gradac": [
+    "Serbia"
+  ],
+  "Pinheiros River": [
+    "Brazil"
+  ],
+  "Vetluga": [
+    "Russia"
+  ],
+  "Green River": [
+    "Canada"
+  ],
+  "Jari River": [
+    "Colombia",
+    "Peru",
+    "Brazil"
+  ],
+  "Synyukha": [
+    "Ukraine"
+  ],
+  "Magro River": [
+    "Spain"
+  ],
+  "Cannonball River": [
+    "United States"
+  ],
+  "Gardon": [
+    "Switzerland",
+    "France"
+  ],
+  "Bormida": [
+    "Italy"
+  ],
+  "Wadi al-Far'a": [
+    "State of Palestine",
+    "Syria",
+    "Lebanon",
+    "Jordan",
+    "Israel",
+    "West Bank"
+  ],
+  "Bull Run River": [
+    "United States"
+  ],
+  "Muskwa River": [
+    "Canada"
+  ],
+  "Tuscarawas River": [
+    "United States"
+  ],
+  "Des Plaines River": [
+    "United States"
+  ],
+  "Colentina River": [
+    "Romania"
+  ],
+  "Vesle": [
+    "France"
+  ],
+  "Jur River": [
+    "South Sudan",
+    "Sudan"
+  ],
+  "Pemigewasset River": [
+    "United States"
+  ],
+  "Wainganga River": [
+    "India"
+  ],
+  "Dease River": [
+    "Canada"
+  ],
+  "Manzanares": [
+    "Spain"
+  ],
+  "Shipra River": [
+    "India"
+  ],
+  "Moctezuma River": [
+    "Mexico"
+  ],
+  "Sieg": [
+    "Austria",
+    "France",
+    "Liechtenstein",
+    "Switzerland",
+    "Germany",
+    "Netherlands"
+  ],
+  "Mehi River": [
+    "Australia"
+  ],
+  "Hinterrhein": [
+    "Austria",
+    "France",
+    "Liechtenstein",
+    "Switzerland",
+    "Germany",
+    "Netherlands"
+  ],
+  "Black Warrior River": [
+    "United States"
+  ],
+  "Irpin River": [
+    "Russia",
+    "Ukraine",
+    "Belarus"
+  ],
+  "River Rouge": [
+    "Canada",
+    "United States"
+  ],
+  "Judith River": [
+    "United States"
+  ],
+  "Neosho River": [
+    "United States"
+  ],
+  "Hollandse IJssel": [
+    "Netherlands"
+  ],
+  "Alagnak River": [
+    "United States"
+  ],
+  "Aar (Lahn)": [
+    "Germany"
+  ],
+  "Kolubara": [
+    "Croatia",
+    "Serbia",
+    "Bosnia and Herzegovina",
+    "Slovenia"
+  ],
+  "Ljubljanica": [
+    "Croatia",
+    "Serbia",
+    "Bosnia and Herzegovina",
+    "Slovenia"
+  ],
+  "Ebola River": [
+    "Democratic Republic of the Congo"
+  ],
+  "Carbon River": [
+    "United States"
+  ],
+  "Pompton River": [
+    "United States"
+  ],
+  "Banas River": [
+    "India"
+  ],
+  "Aldan": [
+    "Russia"
+  ],
+  "Macal River": [
+    "Guatemala",
+    "Belize"
+  ],
+  "Simme": [
+    "Switzerland"
+  ],
+  "Chickasawhay River": [
+    "United States"
+  ],
+  "Arly": [
+    "France"
+  ],
+  "Tamnava": [
+    "Serbia"
+  ],
+  "Wardha River": [
+    "India"
+  ],
+  "Abercrombie River": [
+    "Australia"
+  ],
+  "Ner": [
+    "Poland"
+  ],
+  "Lambro": [
+    "Italy"
+  ],
+  "Berezina River": [
+    "Ukraine",
+    "Belarus",
+    "Russia"
+  ],
+  "Smoky River": [
+    "Canada"
+  ],
+  "Bahlui": [
+    "Romania"
+  ],
+  "Sula River": [
+    "Russia",
+    "Ukraine",
+    "Belarus"
+  ],
+  "Chyornaya Rechka": [
+    "Russia"
+  ],
+  "Alatna River": [
+    "United States"
+  ],
+  "Ksani": [
+    "Turkey",
+    "Azerbaijan",
+    "Georgia"
+  ],
+  "Nysa Szalona": [
+    "Poland"
+  ],
+  "River Windrush": [
+    "United Kingdom"
+  ],
+  "Aiviekste River": [
+    "Russia",
+    "Belarus",
+    "Latvia"
+  ],
+  "Mullum Mullum Creek": [
+    "Australia"
+  ],
+  "Salt River": [
+    "United States"
+  ],
+  "South Creek": [
+    "Australia"
+  ],
+  "Gibbon River": [
+    "United States"
+  ],
+  "Sillaro": [
+    "Italy"
+  ],
+  "DuPage River": [
+    "United States"
+  ],
+  "Tamir River": [
+    "Mongolia"
+  ],
+  "Trebižat": [
+    "Croatia",
+    "Bosnia and Herzegovina"
+  ],
+  "Guadarrama River": [
+    "Spain",
+    "Portugal"
+  ],
+  "Lehigh River": [
+    "United States"
+  ],
+  "Upa": [
+    "Russia"
+  ],
+  "River Farset": [
+    "United Kingdom"
+  ],
+  "River Leven": [
+    "United Kingdom"
+  ],
+  "Lesse": [
+    "Netherlands",
+    "Belgium",
+    "France"
+  ],
+  "Big Walnut Creek": [
+    "United States"
+  ],
+  "Noteć": [
+    "Poland"
+  ],
+  "Heart River": [
+    "United States"
+  ],
+  "Sosva": [
+    "Russia"
+  ],
+  "Little Sioux River": [
+    "United States"
+  ],
+  "Ciron": [
+    "Spain",
+    "France"
+  ],
+  "Ghorband River": [
+    "Afghanistan"
+  ],
+  "Akkanburlyk": [
+    "Kazakhstan",
+    "Russia"
+  ],
+  "Rivière Batiscan": [
+    "Canada",
+    "United States"
+  ],
+  "Scrivia": [
+    "Italy"
+  ],
+  "Oka": [
+    "Russia"
+  ],
+  "Kankakee River": [
+    "United States"
+  ],
+  "Dobra": [
+    "Croatia",
+    "Slovenia"
+  ],
+  "Körös River": [
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Serbia",
+    "Ukraine"
+  ],
+  "Gave d'Oloron": [
+    "France"
+  ],
+  "Luluwa": [
+    "Angola",
+    "Democratic Republic of the Congo"
+  ],
+  "Ajay River": [
+    "India"
+  ],
+  "Olifants River": [
+    "Mozambique",
+    "Botswana",
+    "South Africa",
+    "Zimbabwe"
+  ],
+  "Santiam River": [
+    "United States"
+  ],
+  "Econlockhatchee River": [
+    "United States"
+  ],
+  "Brigach": [
+    "Austria",
+    "Moldova",
+    "Croatia",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Bulgaria",
+    "Serbia",
+    "Germany"
+  ],
+  "Moonie River": [
+    "Australia"
+  ],
+  "Alapaha River": [
+    "United States"
+  ],
+  "Panaro": [
+    "Italy"
+  ],
+  "Marne": [
+    "France"
+  ],
+  "Scott River": [
+    "United States"
+  ],
+  "Logar River": [
+    "Afghanistan",
+    "Pakistan"
+  ],
+  "Vorderrhein": [
+    "Austria",
+    "France",
+    "Liechtenstein",
+    "Switzerland",
+    "Germany",
+    "Netherlands"
+  ],
+  "Adaja river": [
+    "Spain",
+    "Portugal"
+  ],
+  "River Swale": [
+    "United Kingdom"
+  ],
+  "Koyukuk River": [
+    "Canada",
+    "United States"
+  ],
+  "Váh": [
+    "Austria",
+    "Moldova",
+    "Croatia",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Bulgaria",
+    "Serbia",
+    "Germany"
+  ],
+  "Paria River": [
+    "Mexico",
+    "United States"
+  ],
+  "Kunduz River": [
+    "Afghanistan",
+    "Uzbekistan",
+    "Tajikistan",
+    "Turkmenistan"
+  ],
+  "Pisuerga River": [
+    "Spain",
+    "Portugal"
+  ],
+  "Pachitea River": [
+    "Peru"
+  ],
+  "Kansas River": [
+    "United States"
+  ],
+  "Deua River": [
+    "Australia"
+  ],
+  "Muskingum River": [
+    "United States"
+  ],
+  "Cosna River": [
+    "United States"
+  ],
+  "Coquihalla River": [
+    "Canada"
+  ],
+  "Anglin": [
+    "France"
+  ],
+  "Sunzha": [
+    "Russia",
+    "Georgia"
+  ],
+  "Esla": [
+    "Spain",
+    "Portugal"
+  ],
+  "Mattawa River": [
+    "Canada"
+  ],
+  "Powell River": [
+    "United States"
+  ],
+  "Sankuru River": [
+    "Angola",
+    "Democratic Republic of the Congo"
+  ],
+  "Los Gatos Creek": [
+    "United States"
+  ],
+  "Juniata River": [
+    "United States"
+  ],
+  "Tamina": [
+    "Austria",
+    "France",
+    "Liechtenstein",
+    "Switzerland",
+    "Germany",
+    "Netherlands"
+  ],
+  "Macumba River": [
+    "Australia"
+  ],
+  "Brazeau River": [
+    "Canada"
+  ],
+  "Jamieson River": [
+    "Australia"
+  ],
+  "Swat River": [
+    "Afghanistan",
+    "Pakistan"
+  ],
+  "Fils": [
+    "Germany"
+  ],
+  "Main": [
+    "Austria",
+    "France",
+    "Liechtenstein",
+    "Switzerland",
+    "Germany",
+    "Netherlands"
+  ],
+  "Culgoa River": [
+    "Australia"
+  ],
+  "River Yeo": [
+    "United Kingdom"
+  ],
+  "White Lick Creek": [
+    "United States"
+  ],
+  "Noord": [
+    "Netherlands"
+  ],
+  "Ščara": [
+    "Russia",
+    "Lithuania",
+    "Belarus"
+  ],
+  "Chippewa River": [
+    "United States"
+  ],
+  "Michipicoten River": [
+    "Canada"
+  ],
+  "Landwasser": [
+    "Switzerland"
+  ],
+  "Rapido": [
+    "Italy"
+  ],
+  "Coosa River": [
+    "United States"
+  ],
+  "Varuna River": [
+    "India"
+  ],
+  "Parthe": [
+    "Germany",
+    "Czech Republic"
+  ],
+  "John Day River": [
+    "Canada",
+    "United States"
+  ],
+  "Walla Walla River": [
+    "Canada",
+    "United States"
+  ],
+  "Painganga River": [
+    "India"
+  ],
+  "Dyoma": [
+    "Russia"
+  ],
+  "Marais des Cygnes River": [
+    "United States"
+  ],
+  "Niobrara River": [
+    "United States"
+  ],
+  "Ibaizabal": [
+    "Spain"
+  ],
+  "Chena River": [
+    "United States"
+  ],
+  "Lewis and Clark River": [
+    "Canada",
+    "United States"
+  ],
+  "Chemnitz": [
+    "Germany"
+  ],
+  "Sacambaya River": [
+    "Bolivia"
+  ],
+  "Agan River": [
+    "Russia"
+  ],
+  "Itz": [
+    "Germany"
+  ],
+  "Delatite River": [
+    "Australia"
+  ],
+  "Flathead River": [
+    "United States"
+  ],
+  "Gila River": [
+    "Mexico",
+    "United States"
+  ],
+  "Tungnaá": [
+    "Iceland"
+  ],
+  "Scioto River": [
+    "United States"
+  ],
+  "Neuquén River": [
+    "Argentina"
+  ],
+  "Henares river": [
+    "Spain"
+  ],
+  "Gudgenby River": [
+    "Australia"
+  ],
+  "Ohio River": [
+    "United States"
+  ],
+  "Rideau River": [
+    "Canada"
+  ],
+  "Zangmar River": [
+    "Armenia",
+    "Azerbaijan",
+    "Turkey",
+    "Iran"
+  ],
+  "Helena River": [
+    "Australia"
+  ],
+  "Feather River": [
+    "United States"
+  ],
+  "Deschutes River": [
+    "Canada",
+    "United States"
+  ],
+  "River Dove": [
+    "United Kingdom"
+  ],
+  "Ken River": [
+    "India"
+  ],
+  "Purna": [
+    "India"
+  ],
+  "Nakdong River": [
+    "South Korea"
+  ],
+  "North Santiam River": [
+    "United States"
+  ],
+  "Pa Sak River": [
+    "Thailand"
+  ],
+  "Fave river": [
+    "France"
+  ],
+  "Enipeas": [
+    "Greece"
+  ],
+  "Guy Fawkes River": [
+    "Australia"
+  ],
+  "Moskva River": [
+    "Russia"
+  ],
+  "Shotover River": [
+    "New Zealand"
+  ],
+  "Wigger": [
+    "Switzerland"
+  ],
+  "Oja": [
+    "Spain"
+  ],
+  "Cowlitz River": [
+    "Canada",
+    "United States"
+  ],
+  "Madison River": [
+    "United States"
+  ],
+  "Gier": [
+    "Switzerland",
+    "France"
+  ],
+  "Eder": [
+    "Germany"
+  ],
+  "Ohoopee River": [
+    "United States"
+  ],
+  "Floyd River": [
+    "United States"
+  ],
+  "Pelly River": [
+    "Canada",
+    "United States"
+  ],
+  "Oude Maas": [
+    "Netherlands"
+  ],
+  "Düssel": [
+    "Austria",
+    "France",
+    "Liechtenstein",
+    "Switzerland",
+    "Germany",
+    "Netherlands"
+  ],
+  "Ouergha River": [
+    "Morocco"
+  ],
+  "Vaal River": [
+    "Namibia",
+    "Lesotho",
+    "South Africa"
+  ],
+  "Ocmulgee River": [
+    "United States"
+  ],
+  "Sog River": [
+    "Iceland"
+  ],
+  "Gunt River": [
+    "Afghanistan",
+    "Tajikistan"
+  ],
+  "Pakhra": [
+    "Russia"
+  ],
+  "River Darent": [
+    "United Kingdom"
+  ],
+  "River Coln": [
+    "United Kingdom"
+  ],
+  "River Beal": [
+    "United Kingdom"
+  ],
+  "Nitra": [
+    "Slovakia"
+  ],
+  "Dawson River": [
+    "Australia"
+  ],
+  "Marañón River": [
+    "Colombia",
+    "Peru",
+    "Brazil"
+  ],
+  "Tamsa River": [
+    "India"
+  ],
+  "Elgi": [
+    "Russia"
+  ],
+  "Przemsza": [
+    "Poland"
+  ],
+  "Sangamon River": [
+    "United States"
+  ],
+  "Malka": [
+    "Russia",
+    "Georgia"
+  ],
+  "Watonwan River": [
+    "United States"
+  ],
+  "Bitterroot River": [
+    "United States"
+  ],
+  "Wang River": [
+    "Thailand"
+  ],
+  "Jizera": [
+    "Germany",
+    "Czech Republic"
+  ],
+  "Albula": [
+    "Switzerland"
+  ],
+  "Hoosic River": [
+    "United States"
+  ],
+  "Westbourne": [
+    "United Kingdom"
+  ],
+  "Middle Fork Willamette River": [
+    "United States"
+  ],
+  "Perené River": [
+    "Peru"
+  ],
+  "Gauley River": [
+    "United States"
+  ],
+  "Middle Fork Flathead River": [
+    "United States"
+  ],
+  "Lez": [
+    "France"
+  ],
+  "Rakitnica, Neretva": [
+    "Croatia",
+    "Bosnia and Herzegovina"
+  ],
+  "Orljava": [
+    "Croatia",
+    "Serbia",
+    "Bosnia and Herzegovina",
+    "Slovenia"
+  ],
+  "River Wey": [
+    "United Kingdom"
+  ],
+  "Aller": [
+    "Germany"
+  ],
+  "Salado River": [
+    "Uruguay",
+    "Argentina"
+  ],
+  "Kan": [
+    "Russia"
+  ],
+  "Tartar": [
+    "Georgia",
+    "Azerbaijan",
+    "Turkey"
+  ],
+  "Zadorra": [
+    "Spain"
+  ],
+  "Steelpoort River": [
+    "South Africa"
+  ],
+  "White Main": [
+    "Germany"
+  ],
+  "Black River": [
+    "United States"
+  ],
+  "Resava": [
+    "Serbia"
+  ],
+  "Epte": [
+    "France"
+  ],
+  "Sakae Krang River": [
+    "Thailand"
+  ],
+  "Cudgegong River": [
+    "Australia"
+  ],
+  "Tshuapa River": [
+    "Republic of the Congo",
+    "Angola",
+    "Democratic Republic of the Congo",
+    "Zambia"
+  ],
+  "River Llugwy": [
+    "United Kingdom"
+  ],
+  "Brule River": [
+    "United States"
+  ],
+  "Olentangy River": [
+    "United States"
+  ],
+  "Bregava": [
+    "Croatia",
+    "Bosnia and Herzegovina"
+  ],
+  "Savena": [
+    "Italy"
+  ],
+  "Paint Creek": [
+    "United States"
+  ],
+  "Columbia Slough": [
+    "United States"
+  ],
+  "Leine": [
+    "Germany"
+  ],
+  "Dender": [
+    "Netherlands",
+    "Belgium",
+    "France"
+  ],
+  "Caney Fork": [
+    "United States"
+  ],
+  "Erenik": [
+    "Albania",
+    "Kosovo"
+  ],
+  "Aniene": [
+    "Italy"
+  ],
+  "Ubaye": [
+    "France"
+  ],
+  "Shavers Fork": [
+    "United States"
+  ],
+  "Cheremosh River": [
+    "Moldova",
+    "Romania",
+    "Ukraine"
+  ],
+  "Lufira River": [
+    "Democratic Republic of the Congo"
+  ],
+  "Eisack": [
+    "Italy"
+  ],
+  "Lulonga River": [
+    "Republic of the Congo",
+    "Angola",
+    "Democratic Republic of the Congo",
+    "Zambia"
+  ],
+  "Metolius River": [
+    "United States"
+  ],
+  "River Ver": [
+    "United Kingdom"
+  ],
+  "Tug Fork": [
+    "United States"
+  ],
+  "Kechika River": [
+    "Canada"
+  ],
+  "Haro River": [
+    "People's Republic of China",
+    "India",
+    "Pakistan"
+  ],
+  "Sheksna": [
+    "Russia"
+  ],
+  "Chir": [
+    "Russia"
+  ],
+  "Peace River": [
+    "Canada"
+  ],
+  "Birim River": [
+    "Ghana"
+  ],
+  "Osage River": [
+    "United States"
+  ],
+  "Thur": [
+    "Austria",
+    "France",
+    "Liechtenstein",
+    "Switzerland",
+    "Germany",
+    "Netherlands"
+  ],
+  "Bull Run": [
+    "United States"
+  ],
+  "Bode": [
+    "Germany"
+  ],
+  "River Foss": [
+    "United Kingdom"
+  ],
+  "Irati River": [
+    "Spain"
+  ],
+  "John River": [
+    "United States"
+  ],
+  "Left Hand Creek": [
+    "United States"
+  ],
+  "Dâmbovița River": [
+    "Romania"
+  ],
+  "Secchia": [
+    "Italy"
+  ],
+  "Nevėžis": [
+    "Russia",
+    "Lithuania",
+    "Belarus"
+  ],
+  "Gomti River": [
+    "India"
+  ],
+  "Guil": [
+    "France"
+  ],
+  "Smotrych River": [
+    "Transnistria",
+    "Moldova",
+    "Ukraine"
+  ],
+  "Buriganga River": [
+    "Nepal",
+    "India",
+    "People's Republic of China",
+    "Bangladesh"
+  ],
+  "Lašva": [
+    "Bosnia and Herzegovina"
+  ],
+  "Anacostia River": [
+    "United States"
+  ],
+  "Warta": [
+    "Germany",
+    "Poland",
+    "Czech Republic"
+  ],
+  "Pena": [
+    "North Macedonia",
+    "Greece"
+  ],
+  "Guadalupe River": [
+    "Spain",
+    "Portugal"
+  ],
+  "Bikin": [
+    "People's Republic of China",
+    "Russia"
+  ],
+  "Rivière de la Petite Nation": [
+    "Canada"
+  ],
+  "Big Muddy River": [
+    "United States"
+  ],
+  "Volme": [
+    "Germany"
+  ],
+  "Siret River": [
+    "Austria",
+    "Moldova",
+    "Croatia",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Bulgaria",
+    "Serbia",
+    "Germany"
+  ],
+  "Angara": [
+    "Russia"
+  ],
+  "Wien": [
+    "Austria"
+  ],
+  "Isle": [
+    "France"
+  ],
+  "Rivière Montmorency": [
+    "Canada",
+    "United States"
+  ],
+  "Badyarikha River": [
+    "Russia"
+  ],
+  "Teles Pires River": [
+    "Brazil"
+  ],
+  "River Cole": [
+    "United Kingdom"
+  ],
+  "Diemel": [
+    "Germany"
+  ],
+  "Mrežnica": [
+    "Croatia",
+    "Bosnia and Herzegovina"
+  ],
+  "Irkut": [
+    "Russia"
+  ],
+  "Broad River": [
+    "United States"
+  ],
+  "Arbia": [
+    "Italy"
+  ],
+  "Spree": [
+    "Germany"
+  ],
+  "Deshka River": [
+    "United States"
+  ],
+  "Pasión River": [
+    "Mexico",
+    "Guatemala"
+  ],
+  "Big Hole River": [
+    "United States"
+  ],
+  "Saint-Maurice river": [
+    "Canada",
+    "United States"
+  ],
+  "Chenango River": [
+    "United States"
+  ],
+  "Gombak River": [
+    "Malaysia"
+  ],
+  "Tel River": [
+    "India"
+  ],
+  "Thomson River": [
+    "Australia"
+  ],
+  "Coca River": [
+    "Peru",
+    "Ecuador"
+  ],
+  "Tapajós River": [
+    "Colombia",
+    "Peru",
+    "Brazil"
+  ],
+  "Oriskany Creek": [
+    "United States"
+  ],
+  "River Kelvin": [
+    "United Kingdom"
+  ],
+  "Vitim": [
+    "Russia"
+  ],
+  "Murrumbidgee River": [
+    "Australia"
+  ],
+  "Nogoa River": [
+    "Australia"
+  ],
+  "Ugra": [
+    "Russia"
+  ],
+  "Sarthe": [
+    "France"
+  ],
+  "Ogoki River": [
+    "Canada"
+  ],
+  "Shenandoah River": [
+    "United States"
+  ],
+  "Soan River": [
+    "People's Republic of China",
+    "India",
+    "Pakistan"
+  ],
+  "Yauza": [
+    "Russia"
+  ],
+  "Allia": [
+    "Italy"
+  ],
+  "Rednitz": [
+    "Germany"
+  ],
+  "Wind River": [
+    "Canada"
+  ],
+  "Tancheon": [
+    "South Korea",
+    "North Korea"
+  ],
+  "Nara": [
+    "Russia"
+  ],
+  "Anseba River": [
+    "Eritrea",
+    "Sudan"
+  ],
+  "Dirty Devil River": [
+    "Mexico",
+    "United States"
+  ],
+  "Bogachiel River": [
+    "United States"
+  ],
+  "Orara River": [
+    "Australia"
+  ],
+  "Yèvre": [
+    "France"
+  ],
+  "River Dearne": [
+    "United Kingdom"
+  ],
+  "Ulanga River": [
+    "Tanzania"
+  ],
+  "Sand River": [
+    "South Africa"
+  ],
+  "River Tame": [
+    "United Kingdom"
+  ],
+  "Miljacka": [
+    "Bosnia and Herzegovina"
+  ],
+  "Zeya": [
+    "People's Republic of China",
+    "Russia"
+  ],
+  "Snoqualmie River": [
+    "United States"
+  ],
+  "Wallkill River": [
+    "United States"
+  ],
+  "Mazaruni River": [
+    "Venezuela",
+    "Guyana"
+  ],
+  "Yangjaecheon": [
+    "South Korea"
+  ],
+  "Aisne": [
+    "Belgium",
+    "France"
+  ],
+  "River Deben": [
+    "United Kingdom"
+  ],
+  "Cataract River": [
+    "Australia"
+  ],
+  "Laborec": [
+    "Ukraine",
+    "Slovakia"
+  ],
+  "Kiskatinaw River": [
+    "Canada"
+  ],
+  "Grande Ronde River": [
+    "United States"
+  ],
+  "Little Muskingum River": [
+    "United States"
+  ],
+  "Jacksons Creek": [
+    "Australia"
+  ],
+  "Kaduna River": [
+    "Niger",
+    "Mali",
+    "Guinea",
+    "Nigeria",
+    "Benin"
+  ],
+  "Manych": [
+    "Russia"
+  ],
+  "Zbruch": [
+    "Transnistria",
+    "Moldova",
+    "Ukraine"
+  ],
+  "Vajont": [
+    "Italy"
+  ],
+  "Traisen": [
+    "Austria",
+    "Moldova",
+    "Croatia",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Bulgaria",
+    "Serbia",
+    "Germany"
+  ],
+  "Madidi River": [
+    "Bolivia"
+  ],
+  "Marshyangdi": [
+    "Nepal"
+  ],
+  "Hvítá": [
+    "Iceland"
+  ],
+  "Panjshir River": [
+    "Afghanistan",
+    "Pakistan"
+  ],
+  "River Avonmore": [
+    "Ireland"
+  ],
+  "Bani River": [
+    "Niger",
+    "Mali",
+    "Guinea",
+    "Nigeria",
+    "Benin"
+  ],
+  "Arkansas River": [
+    "United States"
+  ],
+  "Palouse River": [
+    "United States"
+  ],
+  "Sabie River": [
+    "Eswatini",
+    "Mozambique",
+    "South Africa"
+  ],
+  "Sakmara": [
+    "Kazakhstan",
+    "Russia"
+  ],
+  "Castor River": [
+    "Canada"
+  ],
+  "Someșul Mic": [
+    "Romania",
+    "Hungary"
+  ],
+  "Little Bighorn River": [
+    "United States"
+  ],
+  "Bourbeuse River": [
+    "United States"
+  ],
+  "Buckland River": [
+    "Australia"
+  ],
+  "Drin": [
+    "Montenegro",
+    "Albania"
+  ],
+  "Great Morava": [
+    "Austria",
+    "Moldova",
+    "Croatia",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Bulgaria",
+    "Serbia",
+    "Germany"
+  ],
+  "Santa Cruz River": [
+    "United States"
+  ],
+  "Potaro River": [
+    "Venezuela",
+    "Guyana"
+  ],
+  "Durance": [
+    "Switzerland",
+    "France"
+  ],
+  "Protva": [
+    "Russia"
+  ],
+  "Shiawassee River": [
+    "United States"
+  ],
+  "Senne": [
+    "Belgium"
+  ],
+  "Aragvi River": [
+    "Turkey",
+    "Azerbaijan",
+    "Georgia"
+  ],
+  "Lom": [
+    "Austria",
+    "Moldova",
+    "Croatia",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Bulgaria",
+    "Serbia",
+    "Germany"
+  ],
+  "Dubysa": [
+    "Russia",
+    "Lithuania",
+    "Belarus"
+  ],
+  "Montone": [
+    "Italy"
+  ],
+  "Range Creek": [
+    "Mexico",
+    "United States"
+  ],
+  "River Irthing": [
+    "United Kingdom"
+  ],
+  "Meander River": [
+    "Australia"
+  ],
+  "Shawangunk Kill": [
+    "United States"
+  ],
+  "Vorkuta River": [
+    "Russia"
+  ],
+  "Great Miami River": [
+    "United States"
+  ],
+  "River Yarrow": [
+    "United Kingdom"
+  ],
+  "Tietê River": [
+    "Paraguay",
+    "Argentina",
+    "Brazil"
+  ],
+  "Caura River": [
+    "Venezuela",
+    "Colombia"
+  ],
+  "Ergene": [
+    "Turkey",
+    "Bulgaria",
+    "Greece"
+  ],
+  "Otava": [
+    "Czech Republic"
+  ],
+  "Iller": [
+    "Austria",
+    "Moldova",
+    "Croatia",
+    "Romania",
+    "Hungary",
+    "Slovakia",
+    "Bulgaria",
+    "Serbia",
+    "Germany"
+  ],
+  "Nerl": [
+    "Russia"
+  ],
+  "Yakima River": [
+    "Canada",
+    "United States"
+  ],
+  "Peel River": [
+    "Australia"
+  ]
+}

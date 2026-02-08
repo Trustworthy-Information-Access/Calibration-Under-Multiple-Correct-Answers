@@ -1,0 +1,1103 @@
+{
+  "as_of": "2025-08",
+  "country": [
+    {
+      "qid": "Q30",
+      "label": "United States",
+      "title": "United_States",
+      "views_12m": 15865608
+    },
+    {
+      "qid": "Q668",
+      "label": "India",
+      "title": "India",
+      "views_12m": 9570152
+    },
+    {
+      "qid": "Q801",
+      "label": "Israel",
+      "title": "Israel",
+      "views_12m": 7651959
+    },
+    {
+      "qid": "Q145",
+      "label": "United Kingdom",
+      "title": "United_Kingdom",
+      "views_12m": 7589494
+    },
+    {
+      "qid": "Q858",
+      "label": "Syria",
+      "title": "Syria",
+      "views_12m": 7109395
+    },
+    {
+      "qid": "Q794",
+      "label": "Iran",
+      "title": "Iran",
+      "views_12m": 6674209
+    },
+    {
+      "qid": "Q16",
+      "label": "Canada",
+      "title": "Canada",
+      "views_12m": 6310067
+    },
+    {
+      "qid": "Q148",
+      "label": "People's Republic of China",
+      "title": "China",
+      "views_12m": 6086507
+    },
+    {
+      "qid": "Q159",
+      "label": "Russia",
+      "title": "Russia",
+      "views_12m": 5888887
+    },
+    {
+      "qid": "Q17",
+      "label": "Japan",
+      "title": "Japan",
+      "views_12m": 5409603
+    },
+    {
+      "qid": "Q408",
+      "label": "Australia",
+      "title": "Australia",
+      "views_12m": 5315633
+    },
+    {
+      "qid": "Q334",
+      "label": "Singapore",
+      "title": "Singapore",
+      "views_12m": 5259901
+    },
+    {
+      "qid": "Q843",
+      "label": "Pakistan",
+      "title": "Pakistan",
+      "views_12m": 5035874
+    },
+    {
+      "qid": "Q43",
+      "label": "Turkey",
+      "title": "Turkey",
+      "views_12m": 4903507
+    },
+    {
+      "qid": "Q183",
+      "label": "Germany",
+      "title": "Germany",
+      "views_12m": 4869368
+    },
+    {
+      "qid": "Q902",
+      "label": "Bangladesh",
+      "title": "Bangladesh",
+      "views_12m": 4494857
+    },
+    {
+      "qid": "Q928",
+      "label": "Philippines",
+      "title": "Philippines",
+      "views_12m": 4440359
+    },
+    {
+      "qid": "Q252",
+      "label": "Indonesia",
+      "title": "Indonesia",
+      "views_12m": 4396090
+    },
+    {
+      "qid": "Q865",
+      "label": "Taiwan",
+      "title": "Taiwan",
+      "views_12m": 4282088
+    },
+    {
+      "qid": "Q142",
+      "label": "France",
+      "title": "France",
+      "views_12m": 4035729
+    },
+    {
+      "qid": "Q878",
+      "label": "United Arab Emirates",
+      "title": "United_Arab_Emirates",
+      "views_12m": 4005404
+    },
+    {
+      "qid": "Q96",
+      "label": "Mexico",
+      "title": "Mexico",
+      "views_12m": 3929338
+    },
+    {
+      "qid": "Q664",
+      "label": "New Zealand",
+      "title": "New_Zealand",
+      "views_12m": 3865666
+    },
+    {
+      "qid": "Q851",
+      "label": "Saudi Arabia",
+      "title": "Saudi_Arabia",
+      "views_12m": 3839354
+    },
+    {
+      "qid": "Q822",
+      "label": "Lebanon",
+      "title": "Lebanon",
+      "views_12m": 3825142
+    },
+    {
+      "qid": "Q258",
+      "label": "South Africa",
+      "title": "South_Africa",
+      "views_12m": 3785960
+    },
+    {
+      "qid": "Q55",
+      "label": "Netherlands",
+      "title": "Netherlands",
+      "views_12m": 3712338
+    },
+    {
+      "qid": "Q229",
+      "label": "Cyprus",
+      "title": "Cyprus",
+      "views_12m": 3682825
+    },
+    {
+      "qid": "Q884",
+      "label": "South Korea",
+      "title": "South_Korea",
+      "views_12m": 3507709
+    },
+    {
+      "qid": "Q423",
+      "label": "North Korea",
+      "title": "North_Korea",
+      "views_12m": 3506874
+    },
+    {
+      "qid": "Q889",
+      "label": "Afghanistan",
+      "title": "Afghanistan",
+      "views_12m": 3503165
+    },
+    {
+      "qid": "Q869",
+      "label": "Thailand",
+      "title": "Thailand",
+      "views_12m": 3502755
+    },
+    {
+      "qid": "Q155",
+      "label": "Brazil",
+      "title": "Brazil",
+      "views_12m": 3425987
+    },
+    {
+      "qid": "Q836",
+      "label": "Myanmar",
+      "title": "Myanmar",
+      "views_12m": 3413868
+    },
+    {
+      "qid": "Q39",
+      "label": "Switzerland",
+      "title": "Switzerland",
+      "views_12m": 3367127
+    },
+    {
+      "qid": "Q38",
+      "label": "Italy",
+      "title": "Italy",
+      "views_12m": 3367004
+    },
+    {
+      "qid": "Q29",
+      "label": "Spain",
+      "title": "Spain",
+      "views_12m": 3365315
+    },
+    {
+      "qid": "Q881",
+      "label": "Vietnam",
+      "title": "Vietnam",
+      "views_12m": 3330585
+    },
+    {
+      "qid": "Q1027",
+      "label": "Mauritius",
+      "title": "Mauritius",
+      "views_12m": 3318769
+    },
+    {
+      "qid": "Q36",
+      "label": "Poland",
+      "title": "Poland",
+      "views_12m": 3314990
+    },
+    {
+      "qid": "Q854",
+      "label": "Sri Lanka",
+      "title": "Sri_Lanka",
+      "views_12m": 3209017
+    },
+    {
+      "qid": "Q833",
+      "label": "Malaysia",
+      "title": "Malaysia",
+      "views_12m": 3169427
+    },
+    {
+      "qid": "Q213",
+      "label": "Czech Republic",
+      "title": "Czech_Republic",
+      "views_12m": 3130445
+    },
+    {
+      "qid": "Q227",
+      "label": "Azerbaijan",
+      "title": "Azerbaijan",
+      "views_12m": 3101636
+    },
+    {
+      "qid": "Q232",
+      "label": "Kazakhstan",
+      "title": "Kazakhstan",
+      "views_12m": 2924188
+    },
+    {
+      "qid": "Q414",
+      "label": "Argentina",
+      "title": "Argentina",
+      "views_12m": 2815316
+    },
+    {
+      "qid": "Q237",
+      "label": "Vatican City",
+      "title": "Vatican_City",
+      "views_12m": 2761363
+    },
+    {
+      "qid": "Q1028",
+      "label": "Morocco",
+      "title": "Morocco",
+      "views_12m": 2748194
+    },
+    {
+      "qid": "Q826",
+      "label": "Maldives",
+      "title": "Maldives",
+      "views_12m": 2718839
+    },
+    {
+      "qid": "Q1033",
+      "label": "Nigeria",
+      "title": "Nigeria",
+      "views_12m": 2708324
+    },
+    {
+      "qid": "Q233",
+      "label": "Malta",
+      "title": "Malta",
+      "views_12m": 2697233
+    },
+    {
+      "qid": "Q222",
+      "label": "Albania",
+      "title": "Albania",
+      "views_12m": 2683351
+    },
+    {
+      "qid": "Q79",
+      "label": "Egypt",
+      "title": "Egypt",
+      "views_12m": 2651056
+    },
+    {
+      "qid": "Q399",
+      "label": "Armenia",
+      "title": "Armenia",
+      "views_12m": 2649610
+    },
+    {
+      "qid": "Q218",
+      "label": "Romania",
+      "title": "Romania",
+      "views_12m": 2647247
+    },
+    {
+      "qid": "Q974",
+      "label": "Democratic Republic of the Congo",
+      "title": "Democratic_Republic_of_the_Congo",
+      "views_12m": 2632929
+    },
+    {
+      "qid": "Q34",
+      "label": "Sweden",
+      "title": "Sweden",
+      "views_12m": 2608084
+    },
+    {
+      "qid": "Q224",
+      "label": "Croatia",
+      "title": "Croatia",
+      "views_12m": 2566271
+    },
+    {
+      "qid": "Q846",
+      "label": "Qatar",
+      "title": "Qatar",
+      "views_12m": 2540655
+    },
+    {
+      "qid": "Q184",
+      "label": "Belarus",
+      "title": "Belarus",
+      "views_12m": 2536235
+    },
+    {
+      "qid": "Q40",
+      "label": "Austria",
+      "title": "Austria",
+      "views_12m": 2482214
+    },
+    {
+      "qid": "Q35",
+      "label": "Denmark",
+      "title": "Denmark",
+      "views_12m": 2468398
+    },
+    {
+      "qid": "Q45",
+      "label": "Portugal",
+      "title": "Portugal",
+      "views_12m": 2464033
+    },
+    {
+      "qid": "Q219060",
+      "label": "State of Palestine",
+      "title": "Palestine",
+      "views_12m": 2446435
+    },
+    {
+      "qid": "Q189",
+      "label": "Iceland",
+      "title": "Iceland",
+      "views_12m": 2418083
+    },
+    {
+      "qid": "Q20",
+      "label": "Norway",
+      "title": "Norway",
+      "views_12m": 2416854
+    },
+    {
+      "qid": "Q41",
+      "label": "Greece",
+      "title": "Greece",
+      "views_12m": 2410935
+    },
+    {
+      "qid": "Q31",
+      "label": "Belgium",
+      "title": "Belgium",
+      "views_12m": 2390630
+    },
+    {
+      "qid": "Q796",
+      "label": "Iraq",
+      "title": "Iraq",
+      "views_12m": 2386473
+    },
+    {
+      "qid": "Q33",
+      "label": "Finland",
+      "title": "Finland",
+      "views_12m": 2378418
+    },
+    {
+      "qid": "Q837",
+      "label": "Nepal",
+      "title": "Nepal",
+      "views_12m": 2371696
+    },
+    {
+      "qid": "Q424",
+      "label": "Cambodia",
+      "title": "Cambodia",
+      "views_12m": 2364278
+    },
+    {
+      "qid": "Q965",
+      "label": "Burkina Faso",
+      "title": "Burkina_Faso",
+      "views_12m": 2316976
+    },
+    {
+      "qid": "Q1246",
+      "label": "Kosovo",
+      "title": "Kosovo",
+      "views_12m": 2261079
+    },
+    {
+      "qid": "Q734",
+      "label": "Guyana",
+      "title": "Guyana",
+      "views_12m": 2255452
+    },
+    {
+      "qid": "Q32",
+      "label": "Luxembourg",
+      "title": "Luxembourg",
+      "views_12m": 2252438
+    },
+    {
+      "qid": "Q810",
+      "label": "Jordan",
+      "title": "Jordan",
+      "views_12m": 2231580
+    },
+    {
+      "qid": "Q739",
+      "label": "Colombia",
+      "title": "Colombia",
+      "views_12m": 2224305
+    },
+    {
+      "qid": "Q262",
+      "label": "Algeria",
+      "title": "Algeria",
+      "views_12m": 2214494
+    },
+    {
+      "qid": "Q115",
+      "label": "Ethiopia",
+      "title": "Ethiopia",
+      "views_12m": 2205011
+    },
+    {
+      "qid": "Q805",
+      "label": "Yemen",
+      "title": "Yemen",
+      "views_12m": 2178994
+    },
+    {
+      "qid": "Q37",
+      "label": "Lithuania",
+      "title": "Lithuania",
+      "views_12m": 2168734
+    },
+    {
+      "qid": "Q398",
+      "label": "Bahrain",
+      "title": "Bahrain",
+      "views_12m": 2167923
+    },
+    {
+      "qid": "Q241",
+      "label": "Cuba",
+      "title": "Cuba",
+      "views_12m": 2157666
+    },
+    {
+      "qid": "Q28",
+      "label": "Hungary",
+      "title": "Hungary",
+      "views_12m": 2125581
+    },
+    {
+      "qid": "Q792",
+      "label": "El Salvador",
+      "title": "El_Salvador",
+      "views_12m": 2123518
+    },
+    {
+      "qid": "Q265",
+      "label": "Uzbekistan",
+      "title": "Uzbekistan",
+      "views_12m": 2113566
+    },
+    {
+      "qid": "Q225",
+      "label": "Bosnia and Herzegovina",
+      "title": "Bosnia_and_Herzegovina",
+      "views_12m": 2075704
+    },
+    {
+      "qid": "Q27",
+      "label": "Ireland",
+      "title": "Republic_of_Ireland",
+      "views_12m": 2065706
+    },
+    {
+      "qid": "Q711",
+      "label": "Mongolia",
+      "title": "Mongolia",
+      "views_12m": 2049682
+    },
+    {
+      "qid": "Q842",
+      "label": "Oman",
+      "title": "Oman",
+      "views_12m": 2011169
+    },
+    {
+      "qid": "Q917",
+      "label": "Bhutan",
+      "title": "Bhutan",
+      "views_12m": 1970971
+    },
+    {
+      "qid": "Q236",
+      "label": "Montenegro",
+      "title": "Montenegro",
+      "views_12m": 1966011
+    },
+    {
+      "qid": "Q221",
+      "label": "North Macedonia",
+      "title": "North_Macedonia",
+      "views_12m": 1956795
+    },
+    {
+      "qid": "Q786",
+      "label": "Dominican Republic",
+      "title": "Dominican_Republic",
+      "views_12m": 1956359
+    },
+    {
+      "qid": "Q191",
+      "label": "Estonia",
+      "title": "Estonia",
+      "views_12m": 1937869
+    },
+    {
+      "qid": "Q219",
+      "label": "Bulgaria",
+      "title": "Bulgaria",
+      "views_12m": 1937709
+    },
+    {
+      "qid": "Q813",
+      "label": "Kyrgyzstan",
+      "title": "Kyrgyzstan",
+      "views_12m": 1891357
+    },
+    {
+      "qid": "Q921",
+      "label": "Brunei",
+      "title": "Brunei",
+      "views_12m": 1883172
+    },
+    {
+      "qid": "Q347",
+      "label": "Liechtenstein",
+      "title": "Liechtenstein",
+      "views_12m": 1856781
+    },
+    {
+      "qid": "Q1049",
+      "label": "Sudan",
+      "title": "Sudan",
+      "views_12m": 1811372
+    },
+    {
+      "qid": "Q214",
+      "label": "Slovakia",
+      "title": "Slovakia",
+      "views_12m": 1787658
+    },
+    {
+      "qid": "Q717",
+      "label": "Venezuela",
+      "title": "Venezuela",
+      "views_12m": 1782014
+    },
+    {
+      "qid": "Q215",
+      "label": "Slovenia",
+      "title": "Slovenia",
+      "views_12m": 1770088
+    },
+    {
+      "qid": "Q1014",
+      "label": "Liberia",
+      "title": "Liberia",
+      "views_12m": 1766316
+    },
+    {
+      "qid": "Q117",
+      "label": "Ghana",
+      "title": "Ghana",
+      "views_12m": 1764350
+    },
+    {
+      "qid": "Q1011",
+      "label": "Cape Verde",
+      "title": "Cape_Verde",
+      "views_12m": 1762907
+    },
+    {
+      "qid": "Q954",
+      "label": "Zimbabwe",
+      "title": "Zimbabwe",
+      "views_12m": 1737457
+    },
+    {
+      "qid": "Q766",
+      "label": "Jamaica",
+      "title": "Jamaica",
+      "views_12m": 1735633
+    },
+    {
+      "qid": "Q924",
+      "label": "Tanzania",
+      "title": "Tanzania",
+      "views_12m": 1713351
+    },
+    {
+      "qid": "Q1016",
+      "label": "Libya",
+      "title": "Libya",
+      "views_12m": 1700235
+    },
+    {
+      "qid": "Q819",
+      "label": "Laos",
+      "title": "Laos",
+      "views_12m": 1694488
+    },
+    {
+      "qid": "Q211",
+      "label": "Latvia",
+      "title": "Latvia",
+      "views_12m": 1691902
+    },
+    {
+      "qid": "Q1045",
+      "label": "Somalia",
+      "title": "Somalia",
+      "views_12m": 1679506
+    },
+    {
+      "qid": "Q986",
+      "label": "Eritrea",
+      "title": "Eritrea",
+      "views_12m": 1674142
+    },
+    {
+      "qid": "Q874",
+      "label": "Turkmenistan",
+      "title": "Turkmenistan",
+      "views_12m": 1654868
+    },
+    {
+      "qid": "Q778",
+      "label": "The Bahamas",
+      "title": "The_Bahamas",
+      "views_12m": 1643460
+    },
+    {
+      "qid": "Q1037",
+      "label": "Rwanda",
+      "title": "Rwanda",
+      "views_12m": 1633908
+    },
+    {
+      "qid": "Q1042",
+      "label": "Seychelles",
+      "title": "Seychelles",
+      "views_12m": 1630849
+    },
+    {
+      "qid": "Q228",
+      "label": "Andorra",
+      "title": "Andorra",
+      "views_12m": 1618465
+    },
+    {
+      "qid": "Q948",
+      "label": "Tunisia",
+      "title": "Tunisia",
+      "views_12m": 1579469
+    },
+    {
+      "qid": "Q691",
+      "label": "Papua New Guinea",
+      "title": "Papua_New_Guinea",
+      "views_12m": 1577808
+    },
+    {
+      "qid": "Q298",
+      "label": "Chile",
+      "title": "Chile",
+      "views_12m": 1562759
+    },
+    {
+      "qid": "Q114",
+      "label": "Kenya",
+      "title": "Kenya",
+      "views_12m": 1541476
+    },
+    {
+      "qid": "Q21203",
+      "label": "Aruba",
+      "title": "Aruba",
+      "views_12m": 1532927
+    },
+    {
+      "qid": "Q712",
+      "label": "Fiji",
+      "title": "Fiji",
+      "views_12m": 1449472
+    },
+    {
+      "qid": "Q958",
+      "label": "South Sudan",
+      "title": "South_Sudan",
+      "views_12m": 1449423
+    },
+    {
+      "qid": "Q760",
+      "label": "Saint Lucia",
+      "title": "Saint_Lucia",
+      "views_12m": 1443392
+    },
+    {
+      "qid": "Q1030",
+      "label": "Namibia",
+      "title": "Namibia",
+      "views_12m": 1403476
+    },
+    {
+      "qid": "Q1036",
+      "label": "Uganda",
+      "title": "Uganda",
+      "views_12m": 1376113
+    },
+    {
+      "qid": "Q1025",
+      "label": "Mauritania",
+      "title": "Mauritania",
+      "views_12m": 1367920
+    },
+    {
+      "qid": "Q754",
+      "label": "Trinidad and Tobago",
+      "title": "Trinidad_and_Tobago",
+      "views_12m": 1331409
+    },
+    {
+      "qid": "Q863",
+      "label": "Tajikistan",
+      "title": "Tajikistan",
+      "views_12m": 1330105
+    },
+    {
+      "qid": "Q800",
+      "label": "Costa Rica",
+      "title": "Costa_Rica",
+      "views_12m": 1312420
+    },
+    {
+      "qid": "Q77",
+      "label": "Uruguay",
+      "title": "Uruguay",
+      "views_12m": 1301949
+    },
+    {
+      "qid": "Q963",
+      "label": "Botswana",
+      "title": "Botswana",
+      "views_12m": 1300138
+    },
+    {
+      "qid": "Q916",
+      "label": "Angola",
+      "title": "Angola",
+      "views_12m": 1263101
+    },
+    {
+      "qid": "Q1013",
+      "label": "Lesotho",
+      "title": "Lesotho",
+      "views_12m": 1236064
+    },
+    {
+      "qid": "Q736",
+      "label": "Ecuador",
+      "title": "Ecuador",
+      "views_12m": 1232564
+    },
+    {
+      "qid": "Q1041",
+      "label": "Senegal",
+      "title": "Senegal",
+      "views_12m": 1229348
+    },
+    {
+      "qid": "Q686",
+      "label": "Vanuatu",
+      "title": "Vanuatu",
+      "views_12m": 1228231
+    },
+    {
+      "qid": "Q774",
+      "label": "Guatemala",
+      "title": "Guatemala",
+      "views_12m": 1195775
+    },
+    {
+      "qid": "Q750",
+      "label": "Bolivia",
+      "title": "Bolivia",
+      "views_12m": 1165680
+    },
+    {
+      "qid": "Q1008",
+      "label": "Ivory Coast",
+      "title": "Ivory_Coast",
+      "views_12m": 1139073
+    },
+    {
+      "qid": "Q683",
+      "label": "Samoa",
+      "title": "Samoa",
+      "views_12m": 1119582
+    },
+    {
+      "qid": "Q912",
+      "label": "Mali",
+      "title": "Mali",
+      "views_12m": 1104000
+    },
+    {
+      "qid": "Q811",
+      "label": "Nicaragua",
+      "title": "Nicaragua",
+      "views_12m": 1099248
+    },
+    {
+      "qid": "Q769",
+      "label": "Grenada",
+      "title": "Grenada",
+      "views_12m": 1097938
+    },
+    {
+      "qid": "Q657",
+      "label": "Chad",
+      "title": "Chad",
+      "views_12m": 1089533
+    },
+    {
+      "qid": "Q1009",
+      "label": "Cameroon",
+      "title": "Cameroon",
+      "views_12m": 1073495
+    },
+    {
+      "qid": "Q1044",
+      "label": "Sierra Leone",
+      "title": "Sierra_Leone",
+      "views_12m": 1069250
+    },
+    {
+      "qid": "Q695",
+      "label": "Palau",
+      "title": "Palau",
+      "views_12m": 1067622
+    },
+    {
+      "qid": "Q697",
+      "label": "Nauru",
+      "title": "Nauru",
+      "views_12m": 1033092
+    },
+    {
+      "qid": "Q1032",
+      "label": "Niger",
+      "title": "Niger",
+      "views_12m": 1031039
+    },
+    {
+      "qid": "Q977",
+      "label": "Djibouti",
+      "title": "Djibouti",
+      "views_12m": 981169
+    },
+    {
+      "qid": "Q962",
+      "label": "Benin",
+      "title": "Benin",
+      "views_12m": 968659
+    },
+    {
+      "qid": "Q672",
+      "label": "Tuvalu",
+      "title": "Tuvalu",
+      "views_12m": 966636
+    },
+    {
+      "qid": "Q784",
+      "label": "Dominica",
+      "title": "Dominica",
+      "views_12m": 961526
+    },
+    {
+      "qid": "Q953",
+      "label": "Zambia",
+      "title": "Zambia",
+      "views_12m": 951986
+    },
+    {
+      "qid": "Q967",
+      "label": "Burundi",
+      "title": "Burundi",
+      "views_12m": 939626
+    },
+    {
+      "qid": "Q783",
+      "label": "Honduras",
+      "title": "Honduras",
+      "views_12m": 929307
+    },
+    {
+      "qid": "Q1005",
+      "label": "The Gambia",
+      "title": "The_Gambia",
+      "views_12m": 912584
+    },
+    {
+      "qid": "Q763",
+      "label": "Saint Kitts and Nevis",
+      "title": "Saint_Kitts_and_Nevis",
+      "views_12m": 873592
+    },
+    {
+      "qid": "Q733",
+      "label": "Paraguay",
+      "title": "Paraguay",
+      "views_12m": 864962
+    },
+    {
+      "qid": "Q929",
+      "label": "Central African Republic",
+      "title": "Central_African_Republic",
+      "views_12m": 864667
+    },
+    {
+      "qid": "Q1006",
+      "label": "Guinea",
+      "title": "Guinea",
+      "views_12m": 855825
+    },
+    {
+      "qid": "Q971",
+      "label": "Republic of the Congo",
+      "title": "Republic_of_the_Congo",
+      "views_12m": 843482
+    },
+    {
+      "qid": "Q1000",
+      "label": "Gabon",
+      "title": "Gabon",
+      "views_12m": 808484
+    },
+    {
+      "qid": "Q26988",
+      "label": "Cook Islands",
+      "title": "Cook_Islands",
+      "views_12m": 766484
+    },
+    {
+      "qid": "Q1020",
+      "label": "Malawi",
+      "title": "Malawi",
+      "views_12m": 762974
+    },
+    {
+      "qid": "Q970",
+      "label": "Comoros",
+      "title": "Comoros",
+      "views_12m": 709731
+    },
+    {
+      "qid": "Q685",
+      "label": "Solomon Islands",
+      "title": "Solomon_Islands",
+      "views_12m": 704973
+    },
+    {
+      "qid": "Q945",
+      "label": "Togo",
+      "title": "Togo",
+      "views_12m": 693628
+    },
+    {
+      "qid": "Q574",
+      "label": "Timor-Leste",
+      "title": "Timor-Leste",
+      "views_12m": 660626
+    },
+    {
+      "qid": "Q781",
+      "label": "Antigua and Barbuda",
+      "title": "Antigua_and_Barbuda",
+      "views_12m": 641227
+    },
+    {
+      "qid": "Q29999",
+      "label": "Kingdom of the Netherlands",
+      "title": "Kingdom_of_the_Netherlands",
+      "views_12m": 636268
+    },
+    {
+      "qid": "Q757",
+      "label": "Saint Vincent and the Grenadines",
+      "title": "Saint_Vincent_and_the_Grenadines",
+      "views_12m": 610704
+    },
+    {
+      "qid": "Q1039",
+      "label": "São Tomé and Príncipe",
+      "title": "São_Tomé_and_Príncipe",
+      "views_12m": 605047
+    },
+    {
+      "qid": "Q34020",
+      "label": "Niue",
+      "title": "Niue",
+      "views_12m": 583377
+    },
+    {
+      "qid": "Q702",
+      "label": "Federated States of Micronesia",
+      "title": "Federated_States_of_Micronesia",
+      "views_12m": 545685
+    },
+    {
+      "qid": "Q26273",
+      "label": "Sint Maarten",
+      "title": "Sint_Maarten",
+      "views_12m": 531403
+    },
+    {
+      "qid": "Q756617",
+      "label": "Kingdom of Denmark",
+      "title": "Danish_Realm",
+      "views_12m": 509170
+    },
+    {
+      "qid": "Q188736",
+      "label": "Bosnia",
+      "title": "Bosnia_(region)",
+      "views_12m": 65368
+    }
+  ]
+}
